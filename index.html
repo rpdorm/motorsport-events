@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Motorsport Events</title>
+		<meta name="author" content="Rui Pedro Moreira">
+		<meta name="description" content="Motorsports schedule list">
+		<meta name="keywords" content="Motorsports, Schedule, Calendar, Racing, Cars, Racing Cars, Sports, F1, F2, WEC, IndyCar, IndyCar Series, DTM, Formula 1, World Endurance Championship, FIA, Formula 2, FIM, MotoGP, Indy 500, Indianapolis 500, Monaco GP, Le Mans 24h">
+		<link rel="icon" type="image/png" href="assets/png/fav32.png" sizes="32x32">
+		<script src="vendor/js/jquery.min.js"></script>
+		<script src="vendor/js/sha256.min.js"></script>
+		<script src="vendor/js/jquery.tablesorter.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<script src="vendor/js/moment.js"></script>
+		<link rel="stylesheet" href="vendor/css/reset.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<link rel="stylesheet" href="assets/css/main.css">
+		<link rel="stylesheet" href="vendor/css/font-awesome.min.css">
+	</head>
+
+	<body>
+
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="">Motorsport Events</a>
+
+				<a href="#" type="button" class="btn btn-default filter navbar-btn pull-right" checked>
+					<i class="fa fa-filter" aria-hidden="true"></i> Filter
+				</a>
+			</div>
+  		</nav>
+
+
+		<div class="table-responsive event-table" id="event-table-max"></div>
+		<div class="event-table-filter" id="event-table-filter-min">
+
+			<strong>~ by Series</strong>
+			<div id="event-table-filter-by-series"></div>
+		
+		</div>
+		
+		
+		<footer>
+			<div>
+				<p id="note" class="text-left">
+					<small>All events might be subject to schedule changes and/or delays.</small>
+					<small><a href="https://www.reddit.com/user/rpdorm/" target="_blank">rpdorm</a> 2018</small>
+				</p>
+			</div>
+		</footer>	
+		
+		
+	</body>
+	<script type="application/x-javascript" src="data.js"></script>
+	<script type="application/x-javascript" src="parser.js"></script>
+	<script type="application/x-javascript" src="functions.js"></script>
+</html>

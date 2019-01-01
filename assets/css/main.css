@@ -1,0 +1,50 @@
+body { font-family:"Courier New", Courier, monospace; }
+.logo {
+	height:16px;
+}
+div#event-table-filter-min,div#event-table-filter-max,div#event-table-max,div#event-table-min {
+	position:absolute;
+	bottom:30px;
+	top:56px;
+}
+
+div#event-table-filter { overflow-y:auto; padding-left:10px; }
+div#event-table-filter-max { right:0; width:9%; min-width:120px;  }
+div#event-table-filter-min { display:none; }
+div#event-table-min { right:10%; width:90%; }
+div#event-table-max { right:0; }
+
+.navbar-header{
+	margin-left:5px;
+	width:100%;
+}
+
+thead {
+	display:table-block;
+	font-weight:bold;
+	overflow-y:none;
+}
+
+tbody {
+	position:relative;
+	overflow-y:auto;
+	cursor:default;
+}
+
+footer {
+	display:block;
+	position:absolute;
+	overflow:hidden;
+	height:29px;
+	width:100%;
+	bottom:0;
+	padding:5px;
+	border-top:1px solid #dee2e6;
+
+}
+
+#note {
+	width:50%;
+	float:left;
+}
+
