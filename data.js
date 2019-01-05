@@ -10,6 +10,7 @@ event = {
 		"session": "Race",
 		"time": 1544875200,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"1": {
@@ -22,6 +23,7 @@ event = {
 		"session": "Race",
 		"time": 1547305380,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"2": {
@@ -34,6 +36,7 @@ event = {
 		"session": "Race *",
 		"time": 1548504000,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"3": {
@@ -46,6 +49,7 @@ event = {
 		"session": "Race *",
 		"time": 1550318400,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"4": {
@@ -58,6 +62,7 @@ event = {
 		"session": "Race *",
 		"time": 1552219200,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"5": {
@@ -70,6 +75,7 @@ event = {
 		"session": "Race *",
 		"time": 1553342400,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"6": {
@@ -82,6 +88,7 @@ event = {
 		"session": "Race *",
 		"time": 1555156800,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"7": {
@@ -94,6 +101,7 @@ event = {
 		"session": "Race *",
 		"time": 1556366400,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"8": {
@@ -106,6 +114,7 @@ event = {
 		"session": "Race *",
 		"time": 1557576000,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"9": {
@@ -118,6 +127,7 @@ event = {
 		"session": "Race *",
 		"time": 1558785600,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"10": {
@@ -130,6 +140,7 @@ event = {
 		"session": "Race *",
 		"time": 1561204800,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"11": {
@@ -142,6 +153,7 @@ event = {
 		"session": "Race *",
 		"time": 1563019200,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	"12": {
@@ -154,6 +166,7 @@ event = {
 		"session": "Race *",
 		"time": 1563105600,
 		"laps": "45' + 1",
+		"distance": false,
 		"length": 2700
 	},
 	// FORMULA ONE 2019 SEASON OUTLINE
@@ -167,6 +180,7 @@ event = {
 		"session": "Race *",
 		"time": 1552824000,
 		"laps": 58,
+		"distance": false,
 		"length": 7200
 	},
 	"14": {
@@ -179,6 +193,7 @@ event = {
 		"session": "Race *",
 		"time": 1554033600,
 		"laps": 57,
+		"distance": false,
 		"length": 7200
 	},
 	"15": {
@@ -191,6 +206,7 @@ event = {
 		"session": "Race *",
 		"time": 1555243200,
 		"laps": 56,
+		"distance": false,
 		"length": 7200
 	},
 	"16": {
@@ -203,6 +219,7 @@ event = {
 		"session": "Race *",
 		"time": 1556452800,
 		"laps": 51,
+		"distance": false,
 		"length": 7200
 	},
 	"17": {
@@ -215,6 +232,7 @@ event = {
 		"session": "Race *",
 		"time": 1557662400,
 		"laps": 66,
+		"distance": false,
 		"length": 7200
 	},
 	"18": {
@@ -227,6 +245,7 @@ event = {
 		"session": "Race *",
 		"time": 1558872000,
 		"laps": 78,
+		"distance": false,
 		"length": 7200
 	},
 	"19": {
@@ -239,6 +258,7 @@ event = {
 		"session": "Race *",
 		"time": 1560081600,
 		"laps": 70,
+		"distance": false,
 		"length": 7200
 	},
 	"20": {
@@ -251,6 +271,7 @@ event = {
 		"session": "Race *",
 		"time": 1561291200,
 		"laps": 53,
+		"distance": false,
 		"length": 7200
 	},
 	"21": {
@@ -263,6 +284,7 @@ event = {
 		"session": "Race *",
 		"time": 1561896000,
 		"laps": 71,
+		"distance": false,
 		"length": 7200
 	},
 	"22": {
@@ -275,6 +297,7 @@ event = {
 		"session": "Race *",
 		"time": 1563105600,
 		"laps": 52,
+		"distance": false,
 		"length": 7200
 	},
 	"23": {
@@ -287,6 +310,7 @@ event = {
 		"session": "Race *",
 		"time": 1564315200,
 		"laps": 67,
+		"distance": false,
 		"length": 7200
 	},
 	"24": {
@@ -299,6 +323,7 @@ event = {
 		"session": "Race *",
 		"time": 1564920000,
 		"laps": 70,
+		"distance": false,
 		"length": 7200
 	},
 	"25": {
@@ -311,6 +336,7 @@ event = {
 		"session": "Race *",
 		"time": 1567339200,
 		"laps": 44,
+		"distance": false,
 		"length": 7200
 	},
 	"26": {
@@ -323,6 +349,7 @@ event = {
 		"session": "Race *",
 		"time": 1567944000,
 		"laps": 53,
+		"distance": false,
 		"length": 7200
 	},
 	"27": {
@@ -335,6 +362,7 @@ event = {
 		"session": "Race *",
 		"time": 1569153600,
 		"laps": 61,
+		"distance": false,
 		"length": 7200
 	},
 	"28": {
@@ -347,6 +375,7 @@ event = {
 		"session": "Race *",
 		"time": 1569758400,
 		"laps": 53,
+		"distance": false,
 		"length": 7200
 	},
 	"29": {
@@ -359,6 +388,7 @@ event = {
 		"session": "Race *",
 		"time": 1570968000,
 		"laps": 53,
+		"distance": false,
 		"length": 7200
 	},
 	"30": {
@@ -371,6 +401,7 @@ event = {
 		"session": "Race *",
 		"time": 1572177600,
 		"laps": 71,
+		"distance": false,
 		"length": 7200
 	},
 	"31": {
@@ -383,6 +414,7 @@ event = {
 		"session": "Race *",
 		"time": 1572782400,
 		"laps": 56,
+		"distance": false,
 		"length": 7200
 	},
 	"32": {
@@ -395,6 +427,7 @@ event = {
 		"session": "Race *",
 		"time": 1573992000,
 		"laps": 71,
+		"distance": false,
 		"length": 7200
 	},
 	"33": {
@@ -407,6 +440,7 @@ event = {
 		"session": "Race *",
 		"time": 1575201600,
 		"laps": 55,
+		"distance": false,
 		"length": 7200
 	},
 	// Asian LMS 2018/19 SEASON OUTLINE
@@ -420,6 +454,7 @@ event = {
 		"session": "Race *",
 		"time": 1543147200,
 		"laps": false,
+		"distance": false,
 		"length": 14400
 	},
 	"35": {
@@ -432,6 +467,7 @@ event = {
 		"session": "Race *",
 		"time": 1544356800,
 		"laps": false,
+		"distance": false,
 		"length": 14400
 	},
 	"36": {
@@ -444,6 +480,7 @@ event = {
 		"session": "Race",
 		"time": 1547268300,
 		"laps": false,
+		"distance": false,
 		"length": 14400
 	},
 	"37": {
@@ -456,6 +493,7 @@ event = {
 		"session": "Race *",
 		"time": 1551009600,
 		"laps": false,
+		"distance": false,
 		"length": 14400
 	},
 	//WEC 2018/19 SEASON OUTLINE
@@ -469,6 +507,7 @@ event = {
 		"session": "Race *",
 		"time": 1552651200,
 		"laps": "TBD",
+		"distance": false,
 		"length": 7200
 	},
 	"39": {
@@ -481,6 +520,7 @@ event = {
 		"session": "Race *",
 		"time": 1556967600,
 		"laps": false,
+		"distance": false,
 		"length": 21600
 	},
 	"40": {
@@ -493,6 +533,7 @@ event = {
 		"session": "Race *",
 		"time": 1560603600,
 		"laps": false,
+		"distance": false,
 		"length": 86400
 	},
 	// FORMULA E 2018/19 SEASON ROUND 01 DETAILS
@@ -506,6 +547,7 @@ event = {
 		"session": "Free Practice 1",
 		"time": 1544846400,
 		"laps": false,
+		"distance": false,
 		"length": 2700
 	},
 	"42": {
@@ -518,6 +560,7 @@ event = {
 		"session": "Free Practice 2",
 		"time": 1544853900,
 		"laps": false,
+		"distance": false,
 		"length": 1800
 	},
 	"43": {
@@ -530,6 +573,7 @@ event = {
 		"session": "Qualifying",
 		"time": 1544860200,
 		"laps": false,
+		"distance": false,
 		"length": 2700
 	},
 	"44": {
@@ -542,6 +586,7 @@ event = {
 		"session": "Super Pole",
 		"time": 1544862900,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	// FORMULA E 2018/19 SEASON ROUND 02 DETAILS
@@ -555,6 +600,7 @@ event = {
 		"session": "Free Practice 1",
 		"time": 1547276400,
 		"laps": false,
+		"distance": false,
 		"length": 2700
 	},
 	"46": {
@@ -567,6 +613,7 @@ event = {
 		"session": "Free Practice 2",
 		"time": 1547284500,
 		"laps": false,
+		"distance": false,
 		"length": 1800
 	},
 	"47": {
@@ -579,6 +626,7 @@ event = {
 		"session": "Qualifying",
 		"time": 1547290800,
 		"laps": false,
+		"distance": false,
 		"length": 2700
 	},
 	"48": {
@@ -591,6 +639,7 @@ event = {
 		"session": "Super Pole",
 		"time": 1547293500,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"49": {
@@ -603,6 +652,7 @@ event = {
 		"session": "Free Practice 1",
 		"time": 1547170800,
 		"laps": false,
+		"distance": false,
 		"length": 5400
 	},
 	"50": {
@@ -615,6 +665,7 @@ event = {
 		"session": "Free Practice 2",
 		"time": 1547185200,
 		"laps": false,
+		"distance": false,
 		"length": 4800
 	},
 	"51": {
@@ -627,6 +678,7 @@ event = {
 		"session": "GT Qualifying",
 		"time": 1547199300,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"52": {
@@ -639,6 +691,7 @@ event = {
 		"session": "LMP2 & LMP3 Qualifying",
 		"time": 1547200800,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"53": {
@@ -651,6 +704,7 @@ event = {
 		"session": "ROC Nations Cup",
 		"time": 1547924400,
 		"laps": false,
+		"distance": false,
 		"length": 10800
 	},
 	"54": {
@@ -663,6 +717,7 @@ event = {
 		"session": "Race of Champions",
 		"time": 1548010800,
 		"laps": false,
+		"distance": false,
 		"length": 10800
 	},
 	"55": {
@@ -675,6 +730,7 @@ event = {
 		"session": "Stadium Super Trucks ROC Final",
 		"time": 1547937000,
 		"laps": false,
+		"distance": false,
 		"length": 3600
 	},
 	"56": {
@@ -687,6 +743,7 @@ event = {
 		"session": "Stadium Super Trucks ROC Final",
 		"time": 1548023400,
 		"laps": false,
+		"distance": false,
 		"length": 3600
 	},
 	"57": {
@@ -699,6 +756,7 @@ event = {
 		"session": "Practice 1 (All Classes)",
 		"time": 1548343200,
 		"laps": false,
+		"distance": false,
 		"length": 2700
 	},
 	"58": {
@@ -711,6 +769,7 @@ event = {
 		"session": "Practice 1 (GTD S/B Only)",
 		"time": 1548345900,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"59": {
@@ -723,6 +782,7 @@ event = {
 		"session": "Practice 2",
 		"time": 1548354600,
 		"laps": false,
+		"distance": false,
 		"length": 3300
 	},
 	"60": {
@@ -735,6 +795,7 @@ event = {
 		"session": "Qualifying (GTD)",
 		"time": 1548362100,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"61": {
@@ -747,6 +808,7 @@ event = {
 		"session": "Qualifying (GTLM)",
 		"time": 1548363600,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"61": {
@@ -759,6 +821,7 @@ event = {
 		"session": "Qualifying (DPi/LMP2)",
 		"time": 1548365100,
 		"laps": false,
+		"distance": false,
 		"length": 900
 	},
 	"62": {
@@ -771,6 +834,7 @@ event = {
 		"session": "Practice 3",
 		"time": 1548374400,
 		"laps": false,
+		"distance": false,
 		"length": 5400
 	},
 	"63": {
@@ -783,6 +847,7 @@ event = {
 		"session": "Practice 4",
 		"time": 1548428400,
 		"laps": false,
+		"distance": false,
 		"length": 3600
 	},
 	"64": {
@@ -795,18 +860,59 @@ event = {
 		"session": "Race",
 		"time": 1548522000,
 		"laps": false,
+		"distance": false,
 		"length": 86400
 	},
 	"65": {
 		"series": "Dakar Rally",
-		"symbol": "IMSASC",
-		"round": "1",
-		"name": "24 Hours of Daytona",
-		"circuit": "Daytona combined road course",
-		"location": "Daytona Beach, FL, USA",
-		"session": "Race",
-		"time": 1548522000,
+		"symbol": "DAKAR",
+		"round": "",
+		"name": "Dakar Rally",
+		"circuit": "",
+		"location": "Peru",
+		"session": "Stage 1 - Lima > Prisco",
+		"time": 1546871400,
 		"laps": false,
-		"length": 86400
+		"distance": "331",
+		"length": 43200
+	},
+	"66": {
+		"series": "Dakar Rally",
+		"symbol": "DAKAR",
+		"round": "",
+		"name": "Dakar Rally",
+		"circuit": "",
+		"location": "Peru",
+		"session": "Stage 2 - Pisco > San Juan de Marcona",
+		"time": 1546954440,
+		"laps": false,
+		"distance": "563",
+		"length": 43200
+	},
+	"67": {
+		"series": "Dakar Rally",
+		"symbol": "DAKAR",
+		"round": "",
+		"name": "Dakar Rally",
+		"circuit": "",
+		"location": "Peru",
+		"session": "Stage 3 - San Juan de Marcona > Arequipa",
+		"time": 1547030400,
+		"laps": false,
+		"distance": "798",
+		"length": 43200
+	},
+	"68": {
+		"series": "Dakar Rally",
+		"symbol": "DAKAR",
+		"round": "",
+		"name": "Dakar Rally",
+		"circuit": "",
+		"location": "Peru",
+		"session": "Stage 4 - Arequipa > Moquegua",
+		"time": 1547119800,
+		"laps": false,
+		"distance": "511",
+		"length": 43200
 	},
 }

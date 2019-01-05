@@ -30,6 +30,7 @@ for (i=0; i<Object.keys(event).length; i++) {
 	series = event[i].series;
 	symbol = event[i].symbol;
 	name=event[i].name;
+	distance = event[i].distance;
 	unique_event=symbol+"-"+year+"-"+name.replace(/\s+/g, '-');
 	unique_tag=symbol+"-"+year+"-"+round+"-"+name.replace(/\s+/g, '-')+"-"+session.replace(/\s+/g, '-');
 	tag=sha256(unique_tag);
@@ -42,10 +43,9 @@ for (i=0; i<Object.keys(event).length; i++) {
 	
 	circuit = event[i].circuit;
 	
-	
 	length = event[i].length;
 	
-	if (laps == false) {
+	if (laps == false && distance == false) {
 		end_time = Math.abs(start_time+length*1000);
 		if (length <= 7200) { duration = moment.duration(length, "seconds").asMinutes()+"'"; }
 		else { duration = moment.duration(length, "seconds").asHours()+"h"; }
@@ -54,9 +54,10 @@ for (i=0; i<Object.keys(event).length; i++) {
 		end_time = Math.abs(start_time+length*1000);
 		if (laps == "TBD") { duration = laps; }
 		else if (laps == "45' + 1") { duration = laps+" Lap"; }
+		else if (distance != false) { duration = distance+" km"; }
 		else { duration = laps+" Laps"; }
 	}
-		total_time=total_time+length;
+
 	if (start_time < now && end_time > now) {
 		from="<b>NOW ON</b>";
 		diff="<b>NOW ON</b>";
