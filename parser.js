@@ -42,7 +42,7 @@ for (i=0; i<Object.keys(event).length; i++) {
 	laps = event[i].laps;
 	
 	circuit = event[i].circuit;
-	
+	total_time=total_time+length;
 	length = event[i].length;
 	
 	if (laps == false && distance == false) {
