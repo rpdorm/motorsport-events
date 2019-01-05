@@ -54,7 +54,7 @@ for (i=0; i<Object.keys(event).length; i++) {
 		end_time = Math.abs(start_time+length*1000);
 		if (laps == "TBD") { duration = laps; }
 		else if (laps == "45' + 1") { duration = laps+" Lap"; }
-		else if (distance != false) { duration = distance+" km"; }
+		else if (distance != false) { duration = distance; }
 		else { duration = laps+" Laps"; }
 	}
 

@@ -873,7 +873,7 @@ event = {
 		"session": "Lima > Prisco",
 		"time": 1546871400,
 		"laps": false,
-		"distance": "331",
+		"distance": "331 km",
 		"length": 43200
 	},
 	"66": {
@@ -886,7 +886,7 @@ event = {
 		"session": "Pisco > San Juan de Marcona",
 		"time": 1546954440,
 		"laps": false,
-		"distance": "563",
+		"distance": "563 km",
 		"length": 43200
 	},
 	"67": {
@@ -899,7 +899,7 @@ event = {
 		"session": "San Juan de Marcona > Arequipa",
 		"time": 1547030400,
 		"laps": false,
-		"distance": "798",
+		"distance": "798 km",
 		"length": 43200
 	},
 	"68": {
@@ -912,7 +912,7 @@ event = {
 		"session": "Arequipa > Moquegua",
 		"time": 1547119800,
 		"laps": false,
-		"distance": "511",
+		"distance": "511 km",
 		"length": 43200
 	},
 	"69": {
@@ -925,7 +925,7 @@ event = {
 		"session": "Moquegua > Arequipa",
 		"time": 1547205300,
 		"laps": false,
-		"distance": "776",
+		"distance": "776 km",
 		"length": 43200
 	},
 	"70": {
@@ -938,7 +938,7 @@ event = {
 		"session": "Arequipa > San Juan de Marcona",
 		"time": 1547386200,
 		"laps": false,
-		"distance": "838",
+		"distance": "838 km",
 		"length": 43200
 	},
 	"71": {
@@ -951,7 +951,7 @@ event = {
 		"session": "San Juan de Marcona > San Juan de Marcona",
 		"time": 1547463600,
 		"laps": false,
-		"distance": "383",
+		"distance": "383 km",
 		"length": 43200
 	},
 	"72": {
@@ -964,7 +964,7 @@ event = {
 		"session": "San Juan de Marcona > Pisco",
 		"time": 1547553600,
 		"laps": false,
-		"distance": "575",
+		"distance": "575 km",
 		"length": 43200
 	},
 	"73": {
@@ -977,7 +977,7 @@ event = {
 		"session": "Pisco > Pisco",
 		"time": 1547636400,
 		"laps": false,
-		"distance": "409",
+		"distance": "409 km",
 		"length": 43200
 	},
 	"73": {
@@ -990,7 +990,7 @@ event = {
 		"session": "Pisco > Lima",
 		"time": 1547732580,
 		"laps": false,
-		"distance": "359",
+		"distance": "359 km",
 		"length": 43200
 	},
 }
