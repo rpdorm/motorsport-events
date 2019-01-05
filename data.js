@@ -593,4 +593,52 @@ event = {
 		"laps": false,
 		"length": 900
 	},
+	"49": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 3,
+		"name": "4 Hours of Buriram",
+		"circuit": "Chang International",
+		"location": "Buriram, Thailand",
+		"session": "Free Practice 1",
+		"time": 1547170800,
+		"laps": false,
+		"length": 5400
+	},
+	"50": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 3,
+		"name": "4 Hours of Buriram",
+		"circuit": "Chang International",
+		"location": "Buriram, Thailand",
+		"session": "Free Practice 2",
+		"time": 1547185200,
+		"laps": false,
+		"length": 4800
+	},
+	"51": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 3,
+		"name": "4 Hours of Buriram",
+		"circuit": "Chang International",
+		"location": "Buriram, Thailand",
+		"session": "GT Qualifying",
+		"time": 1547199300,
+		"laps": false,
+		"length": 900
+	},
+	"52": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 3,
+		"name": "4 Hours of Buriram",
+		"circuit": "Chang International",
+		"location": "Buriram, Thailand",
+		"session": "LMP2 & LMP3 Qualifying",
+		"time": 1547200800,
+		"laps": false,
+		"length": 900
+	},
 }
