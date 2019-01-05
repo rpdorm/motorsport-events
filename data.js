@@ -641,4 +641,28 @@ event = {
 		"laps": false,
 		"length": 900
 	},
+	"53": {
+		"series": "Race of Champions",
+		"symbol": "ROC",
+		"round": "",
+		"name": "Race of Champions",
+		"circuit": "Hermanos Rodríguez",
+		"location": "Mexico City, Mexico",
+		"session": "ROC Nations Cup",
+		"time": 1547924400,
+		"laps": false,
+		"length": 10800
+	},
+	"54": {
+		"series": "Race of Champions",
+		"symbol": "ROC",
+		"round": "",
+		"name": "Race of Champions",
+		"circuit": "Hermanos Rodríguez",
+		"location": "Mexico City, Mexico",
+		"session": "Race of Champions",
+		"time": 1548010800,
+		"laps": false,
+		"length": 10800
+	},
 }
