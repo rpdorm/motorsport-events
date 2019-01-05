@@ -379,7 +379,7 @@ event = {
 		"round": 19,
 		"name": "United States Grand Prix",
 		"circuit": "Circuit of the Americas",
-		"location": "Austin, Texas",
+		"location": "Austin, TX, USA",
 		"session": "Race *",
 		"time": 1572782400,
 		"laps": 56,
@@ -787,6 +787,18 @@ event = {
 	},
 	"64": {
 		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": "1",
+		"name": "24 Hours of Daytona",
+		"circuit": "Daytona combined road course",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Race",
+		"time": 1548522000,
+		"laps": false,
+		"length": 86400
+	},
+	"65": {
+		"series": "Dakar Rally",
 		"symbol": "IMSASC",
 		"round": "1",
 		"name": "24 Hours of Daytona",
