@@ -981,7 +981,7 @@ event = {
 		"distance": "409 km",
 		"length": 43200
 	},
-	"73": {
+	"74": {
 		"series": "Dakar Rally",
 		"symbol": "Dakar",
 		"round": "10",
@@ -995,7 +995,7 @@ event = {
 		"length": 43200
 	},
 	// INDYCAR SERIES 2019 OUTLINE
-	"74": {
+	"75": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 1,
@@ -1008,7 +1008,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"75": {
+	"76": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 2,
@@ -1021,7 +1021,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"76": {
+	"77": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 3,
@@ -1034,7 +1034,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"77": {
+	"78": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 4,
@@ -1047,7 +1047,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"78": {
+	"79": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 5,
@@ -1060,7 +1060,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"79": {
+	"80": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 6,
@@ -1073,7 +1073,7 @@ event = {
 		"distance": false,
 		"length": 14400
 	},
-	"80": {
+	"81": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 7,
@@ -1086,7 +1086,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"81": {
+	"82": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 8,
@@ -1099,7 +1099,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"82": {
+	"83": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 9,
@@ -1112,7 +1112,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"83": {
+	"84": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 10,
@@ -1125,7 +1125,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"84": {
+	"85": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 11,
@@ -1138,7 +1138,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"85": {
+	"86": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 12,
@@ -1151,7 +1151,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"86": {
+	"87": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 13,
@@ -1164,7 +1164,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"87": {
+	"88": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 14,
@@ -1177,7 +1177,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"88": {
+	"89": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 15,
@@ -1190,7 +1190,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"89": {
+	"90": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 16,
@@ -1203,7 +1203,7 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
-	"90": {
+	"91": {
 		"series": "IndyCar Series",
 		"symbol": "IndyCar",
 		"round": 17,
@@ -1215,5 +1215,110 @@ event = {
 		"laps": "TBD",
 		"distance": false,
 		"length": 7200
+	},
+	// WRC 01 Monte Carlo
+	"92": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Shakedown",
+		"time": 1548320400,
+		"laps": false,
+		"distance": "3.35 km",
+		"length": 3600
+	},
+	"93": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 1",
+		"time": 1548354900,
+		"laps": false,
+		"distance": "41.35 km",
+		"length": 10800
+	},
+	"94": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 2",
+		"time": 1548403200,
+		"laps": false,
+		"distance": "62.56 km",
+		"length": 12600
+	},
+	"95": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 3",
+		"time": 1548422400,
+		"laps": false,
+		"distance": "62.56 km",
+		"length": 12600
+	},
+	"96": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 4",
+		"time": 1548488700,
+		"laps": false,
+		"distance": "46.69 km",
+		"length": 12600
+	},
+	"97": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 5",
+		"time": 1548503100,
+		"laps": false,
+		"distance": "46.69 km",
+		"length": 12600
+	},
+	"98": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 6",
+		"time": 1548573300,
+		"laps": false,
+		"distance": "31.99 km",
+		"length": 12600
+	},
+	"99": {
+		"series": "World Rally Championship",
+		"symbol": "WRC",
+		"round": 1,
+		"name": "Rallye Monte Carlo",
+		"circuit": "",
+		"location": "Monte Carlo, Monaco",
+		"session": "Section 7",
+		"time": 1548587700,
+		"laps": false,
+		"distance": "31.99 km",
+		"length": 12600
 	},
 }
