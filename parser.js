@@ -73,7 +73,7 @@ for (i=0; i<Object.keys(event).length; i++) {
 		nextEvents();
 		dump();
 	}
-	if (session == "Race *") {
+	if (session == "*") {
 		$("."+tag).addClass("table-secondary");	
 	}
 }
