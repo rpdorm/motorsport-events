@@ -52,7 +52,8 @@ for (i=0; i<Object.keys(event).length; i++) {
 	}
 	else {
 		end_time = Math.abs(start_time+length*1000);
-		if (laps == "TBD") { duration = laps; }
+		if (length == 9600) { duration = "2h 40'"; }
+		else if (laps == "TBD") { duration = laps; }
 		else if (laps == "45' + 1") { duration = laps+" Lap"; }
 		else if (distance != false) { duration = distance; }
 		else { duration = laps+" Laps"; }
