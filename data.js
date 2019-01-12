@@ -3,7 +3,7 @@ event = {
 	"0": {
 		"series": "Formula E",
 		"symbol": "FE",
-		"round": 01,
+		"round": 1,
 		"name": "Ad Diriyah ePrix",
 		"circuit": "Riyadh Street Circuit",
 		"location": "Ad Diriyah, Saudi Arabia",
@@ -16,7 +16,7 @@ event = {
 	"1": {
 		"series": "Formula E",
 		"symbol": "FE",
-		"round": 02,
+		"round": 2,
 		"name": "Marrakesh ePrix",
 		"circuit": "Moulay El Hassan",
 		"location": "Marrakesh, Morocco",
@@ -29,7 +29,7 @@ event = {
 	"2": {
 		"series": "Formula E",
 		"symbol": "FE",
-		"round": 03,
+		"round": 3,
 		"name": "Santiago ePrix",
 		"circuit": "Parque O'Higgins",
 		"location": "Santiago, Chile",
@@ -42,12 +42,12 @@ event = {
 	"3": {
 		"series": "Formula E",
 		"symbol": "FE",
-		"round": 04,
+		"round": 4,
 		"name": "Mexico City ePrix",
 		"circuit": "Hermanos Rodríguez",
 		"location": "Mexico City, Mexico",
-		"session": "*",
-		"time": 1550318400,
+		"session": "Race",
+		"time": 1550354580,
 		"laps": "45' + 1",
 		"distance": false,
 		"length": 2700
@@ -55,7 +55,7 @@ event = {
 	"4": {
 		"series": "Formula E",
 		"symbol": "FE",
-		"round": 05,
+		"round": 5,
 		"name": "Hong Kong ePrix",
 		"circuit": "Central Harbourfront",
 		"location": "Hong Kong",
@@ -2315,6 +2315,59 @@ event = {
 		"location": "Santiago, Chile",
 		"session": "Super Pole",
 		"time": 1548517500,
+		"laps": false,
+		"distance": false,
+		"length": 900
+	},
+	// FORMULA E ROUND 4
+	"176": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 4,
+		"name": "Mexico City ePrix",
+		"circuit": "Hermanos Rodríguez",
+		"location": "Mexico City, Mexico",
+		"session": "Free Practice 1",
+		"time": 1550323800,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"177": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 4,
+		"name": "Mexico City ePrix",
+		"circuit": "Hermanos Rodríguez",
+		"location": "Mexico City, Mexico",
+		"session": "Free Practice 2",
+		"time": 1550332800,
+		"laps": false,
+		"distance": false,
+		"length": 1800
+	},
+	"178": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 4,
+		"name": "Mexico City ePrix",
+		"circuit": "Hermanos Rodríguez",
+		"location": "Mexico City, Mexico",
+		"session": "Qualifying",
+		"time": 1550339100,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"179": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 4,
+		"name": "Mexico City ePrix",
+		"circuit": "Hermanos Rodríguez",
+		"location": "Mexico City, Mexico",
+		"session": "Super Pole",
+		"time": 1550341800,
 		"laps": false,
 		"distance": false,
 		"length": 900
