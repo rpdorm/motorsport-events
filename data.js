@@ -2373,4 +2373,18 @@ event = {
 		"distance": false,
 		"length": 900
 	},
+	// PIKES PEAK
+	"180": {
+		"series": "Pikes Peak International Hill Climb",
+		"symbol": "PPIHC",
+		"round": "",
+		"name": "Pikes Peak International Hill Climb",
+		"circuit": "Pikes Peak",
+		"location": "Pikes Peak, CO, USA",
+		"session": "*",
+		"time": 1561896000,
+		"laps": false,
+		"distance": "12.42 mi",
+		"length": 3600
+	},
 }

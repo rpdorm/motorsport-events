@@ -19,7 +19,6 @@ Missing Events:
   * SuperFormula
   * WTCR
   * LM Cup
-  * Euro LMS
   * MotoGP
   * BTCC
   * TCR Europe
