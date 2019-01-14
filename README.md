@@ -8,7 +8,7 @@ All events might be subject to schedule changes and/or delays. * Official schedu
 ---
 
 
-Missing Events:
+Missing Events for 2019:
   * Formula 2
   * Formula 3
   * Nurburgring 24h
@@ -16,10 +16,9 @@ Missing Events:
   * Isle of Man
   * 24H Series European Championship
   * 24H Series Champion of the Continents
-  * SuperFormula
+  * Super Formula
   * WTCR
   * LM Cup
-  * MotoGP
   * BTCC
   * TCR Europe
   * Super GT
