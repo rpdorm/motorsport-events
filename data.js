@@ -2872,4 +2872,18 @@ event = {
 		"distance": false,
 		"length": 3600
 	},
+	// 24h Nürburgring
+	"218": {
+		"series": "24 Hours of Nürburgring",
+		"symbol": "24hNurburgring",
+		"round": " ",
+		"name": "24 Hours of Nürburgring",
+		"circuit": "Nordschleife",
+		"location": "Nürburg, Germany",
+		"session": "*",
+		"time": 1561204800,
+		"laps": false,
+		"distance": false,
+		"length": 86400
+	},
 }

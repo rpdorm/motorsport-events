@@ -17,10 +17,10 @@ Missing Events for 2019:
   * 24H Series European Championship
   * 24H Series Champion of the Continents
   * Super Formula
-  * WTCR
   * LM Cup
   * BTCC
   * TCR Europe
+  * TCR Asia
   * Super GT
   * MENCS
   * FIA ERC
