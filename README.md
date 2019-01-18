@@ -11,7 +11,6 @@ All events might be subject to schedule changes and/or delays. * Official schedu
 Missing Events for 2019:
   * Formula 2
   * Formula 3
-  * Nurburgring 24h
   * Bathurst
   * Isle of Man
   * 24H Series European Championship
