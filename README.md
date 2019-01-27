@@ -34,7 +34,3 @@ Missing Events for 2019:
   * Blancpain Asia
   * Britcar
   * WSBK
-  * VNL
-  * BSB
-  * MXGP
-  * NCWTS
