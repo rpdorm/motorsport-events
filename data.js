@@ -3557,4 +3557,31 @@ event = {
 		"distance": false,
 		"length": 6300
 	},
+	// DUEL @ DAYTONA
+	"270": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": " ",
+		"name": "DUEL",
+		"circuit": "Daytona",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Race 1",
+		"time": 1550188800,
+		"laps": 60,
+		"distance": false,
+		"length": 5200
+	},
+	"271": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": " ",
+		"name": "DUEL",
+		"circuit": "Daytona",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Race 2",
+		"time": 1550195100,
+		"laps": 60,
+		"distance": false,
+		"length": 5200
+	},
 }
