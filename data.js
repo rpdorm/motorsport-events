@@ -3503,4 +3503,58 @@ event = {
 		"distance": false,
 		"length": 32400
 	},
+	// ARCA ROUND 1
+	"266": {
+		"series": "ARCA Racing Series",
+		"symbol": "ARCA",
+		"round": 1,
+		"name": "Daytona 200",
+		"circuit": "Daytona",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Practice",
+		"time": 1549636200,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"267": {
+		"series": "ARCA Racing Series",
+		"symbol": "ARCA",
+		"round": 1,
+		"name": "Daytona 200",
+		"circuit": "Daytona",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Qualifying",
+		"time": 1549657800,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"268": {
+		"series": "ARCA Racing Series",
+		"symbol": "ARCA",
+		"round": 1,
+		"name": "Daytona 200",
+		"circuit": "Daytona",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Race",
+		"time": 1549744200,
+		"laps": 80,
+		"distance": false,
+		"length": 6300
+	},
+	// THE CLASH @ DAYTONA
+	"269": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": " ",
+		"name": "The Clash",
+		"circuit": "Daytona",
+		"location": "Daytona Beach, FL, USA",
+		"session": "Race",
+		"time": 1549828800,
+		"laps": 75,
+		"distance": false,
+		"length": 6300
+	},
 }
