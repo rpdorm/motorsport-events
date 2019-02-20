@@ -490,8 +490,8 @@ event = {
 		"name": "4 Hours of Sepang",
 		"circuit": "Sepang International",
 		"location": "Selangor, Malaysia",
-		"session": "*",
-		"time": 1551009600,
+		"session": "Race",
+		"time": 1550980800,
 		"laps": false,
 		"distance": false,
 		"length": 14400
@@ -3684,7 +3684,7 @@ event = {
 		"name": "Atlanta 500",
 		"circuit": "Atlanta Motor Speedway",
 		"location": "Atlanta, GA, USA",
-		"session": "Practice 1",
+		"session": "Practice",
 		"time": 1550853300,
 		"laps": false,
 		"distance": false,
@@ -3728,5 +3728,58 @@ event = {
 		"laps": 325,
 		"distance": false,
 		"length": 10800
+	},
+	// AsianLMS Round 4
+	"283": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 4,
+		"name": "4 Hours of Sepang",
+		"circuit": "Sepang International",
+		"location": "Selangor, Malaysia",
+		"session": "Free Practice 1",
+		"time": 1550819400,
+		"laps": false,
+		"distance": false,
+		"length": 5400
+	},
+	"284": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 4,
+		"name": "4 Hours of Sepang",
+		"circuit": "Sepang International",
+		"location": "Selangor, Malaysia",
+		"session": "Free Practice 2",
+		"time": 1550889900,
+		"laps": false,
+		"distance": false,
+		"length": 5400
+	},
+	"285": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 4,
+		"name": "4 Hours of Sepang",
+		"circuit": "Sepang International",
+		"location": "Selangor, Malaysia",
+		"session": "GT Qualifying",
+		"time": 1550907300,
+		"laps": false,
+		"distance": false,
+		"length": 1500
+	},
+	"286": {
+		"series": "Asian Le Mans Series",
+		"symbol": "AsianLMS",
+		"round": 4,
+		"name": "4 Hours of Sepang",
+		"circuit": "Sepang International",
+		"location": "Selangor, Malaysia",
+		"session": "LMP2 & LMP3 Qualifying",
+		"time": 1550908800,
+		"laps": false,
+		"distance": false,
+		"length": 900
 	},
 }
