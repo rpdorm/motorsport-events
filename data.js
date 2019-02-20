@@ -3676,4 +3676,57 @@ event = {
 		"distance": false,
 		"length": 7200
 	},
+	// NASCAR CUP R02
+	"279": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 2,
+		"name": "Atlanta 500",
+		"circuit": "Atlanta Motor Speedway",
+		"location": "Atlanta, GA, USA",
+		"session": "Practice 1",
+		"time": 1550853300,
+		"laps": false,
+		"distance": false,
+		"length": 4800
+	},
+	"280": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 2,
+		"name": "Atlanta 500",
+		"circuit": "Atlanta Motor Speedway",
+		"location": "Atlanta, GA, USA",
+		"session": "Qualifying",
+		"time": 1550873400,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"281": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 2,
+		"name": "Atlanta 500",
+		"circuit": "Atlanta Motor Speedway",
+		"location": "Atlanta, GA, USA",
+		"session": "Final Practice",
+		"time": 1550941200,
+		"laps": false,
+		"distance": false,
+		"length": 4800
+	},
+	"282": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 2,
+		"name": "Atlanta 500",
+		"circuit": "Atlanta Motor Speedway",
+		"location": "Atlanta, GA, USA",
+		"session": "Race",
+		"time": 1551034800,
+		"laps": 325,
+		"distance": false,
+		"length": 10800
+	},
 }
