@@ -55,12 +55,12 @@ event = {
 	"4": {
 		"series": "Formula E",
 		"symbol": "FE",
-		"round": 5,
+		"round": 05,
 		"name": "Hong Kong ePrix",
 		"circuit": "Central Harbourfront",
 		"location": "Hong Kong",
-		"session": "*",
-		"time": 1552219200,
+		"session": "Race",
+		"time": 1552204980,
 		"laps": "45' + 1",
 		"distance": false,
 		"length": 2700
@@ -4463,5 +4463,58 @@ event = {
 		"laps": 78,
 		"distance": false,
 		"length": 7200
+	},
+	// FORMULA E 2018/19 SEASON ROUND 05 DETAILS
+	"339": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 05,
+		"name": "Hong Kong ePrix",
+		"circuit": "Central Harbourfront",
+		"location": "Hong Kong",
+		"session": "Free Practice 1",
+		"time": 1552131000,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"340": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 05,
+		"name": "Hong Kong ePrix",
+		"circuit": "Central Harbourfront",
+		"location": "Hong Kong",
+		"session": "Free Practice 2",
+		"time": 1552183200,
+		"laps": false,
+		"distance": false,
+		"length": 1800
+	},
+	"341": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 05,
+		"name": "Hong Kong ePrix",
+		"circuit": "Central Harbourfront",
+		"location": "Hong Kong",
+		"session": "Qualifying",
+		"time": 1552189500,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"342": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 05,
+		"name": "Hong Kong ePrix",
+		"circuit": "Central Harbourfront",
+		"location": "Hong Kong",
+		"session": "Super Pole",
+		"time": 1552192200,
+		"laps": false,
+		"distance": false,
+		"length": 900
 	},
 }
