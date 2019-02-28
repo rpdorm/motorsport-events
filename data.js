@@ -3953,4 +3953,70 @@ event = {
 		"distance": false,
 		"length": 10800
 	},
+	// NASCAR R04
+	"300": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 4,
+		"name": "ISM 500",
+		"circuit": "ISM Raceway",
+		"location": "Avondale, AZ, USA",
+		"session": "Practice",
+		"time": 1552070100,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"301": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 4,
+		"name": "ISM 500",
+		"circuit": "ISM Raceway",
+		"location": "Avondale, AZ, USA",
+		"session": "Qualifying",
+		"time": 1552086600,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"302": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 4,
+		"name": "ISM 500",
+		"circuit": "ISM Raceway",
+		"location": "Avondale, AZ, USA",
+		"session": "Practice",
+		"time": 1552149300,
+		"laps": false,
+		"distance": false,
+		"length": 3300
+	},
+	"303": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 4,
+		"name": "ISM 500",
+		"circuit": "ISM Raceway",
+		"location": "Avondale, AZ, USA",
+		"session": "Practice",
+		"time": 1552158300,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"304": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 4,
+		"name": "ISM 500",
+		"circuit": "ISM Raceway",
+		"location": "Avondale, AZ, USA",
+		"session": "Race",
+		"time": 1552159800,
+		"laps": 312,
+		"distance": false,
+		"length": 10800
+	},
 }
