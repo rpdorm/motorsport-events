@@ -3887,4 +3887,70 @@ event = {
 		"distance": false,
 		"length": 3600
 	},
+	// NASCAR R03
+	"295": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 3,
+		"name": "Las Vegas 400",
+		"circuit": "Las Vegas Motor Speedway",
+		"location": "Las Vegas, NV, USA",
+		"session": "Practice",
+		"time": 1551470700,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"296": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 3,
+		"name": "Las Vegas 400",
+		"circuit": "Las Vegas Motor Speedway",
+		"location": "Las Vegas, NV, USA",
+		"session": "Qualifying",
+		"time": 1551487200,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"297": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 3,
+		"name": "Las Vegas 400",
+		"circuit": "Las Vegas Motor Speedway",
+		"location": "Las Vegas, NV, USA",
+		"session": "Practice",
+		"time": 1551544200,
+		"laps": false,
+		"distance": false,
+		"length": 3300
+	},
+	"298": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 3,
+		"name": "Las Vegas 400",
+		"circuit": "Las Vegas Motor Speedway",
+		"location": "Las Vegas, NV, USA",
+		"session": "Practice",
+		"time": 1551555000,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"299": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 3,
+		"name": "Las Vegas 400",
+		"circuit": "Las Vegas Motor Speedway",
+		"location": "Las Vegas, NV, USA",
+		"session": "Race",
+		"time": 1551645000,
+		"laps": 267,
+		"distance": false,
+		"length": 10800
+	},
 }
