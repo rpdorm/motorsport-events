@@ -21,7 +21,6 @@ Missing Events for 2019:
   * TCR Europe
   * TCR Asia
   * Super GT
-  * MENCS
   * FIA ERC
   * VASC
   * GT Open
@@ -29,8 +28,6 @@ Missing Events for 2019:
   * ADAC GT
   * Indy Lights
   * Blancpain GT
-  * Blancpain USA
   * NXS
   * Blancpain Asia
   * Britcar
-  * WSBK

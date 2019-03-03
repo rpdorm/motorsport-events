@@ -5409,5 +5409,85 @@ event = {
 		"laps": false,
 		"distance": false,
 		"length": 1200
+	},	
+	// Australian GT Championship R1
+	// https://www.grandprix.com.au/event/track-schedule
+	"411": {
+		"series": "Australian GT Championship",
+		"symbol": "AustralianGT",
+		"round": 1,
+		"name": "Melbourne",
+		"circuit": "Albert Park",
+		"location": "Melbourne, Australia",
+		"session": "First Qualifying",
+		"time": 1552524600,
+		"laps": false,
+		"distance": false,
+		"length": 1200
+	},
+	"412": {
+		"series": "Australian GT Championship",
+		"symbol": "AustralianGT",
+		"round": 1,
+		"name": "Melbourne",
+		"circuit": "Albert Park",
+		"location": "Melbourne, Australia",
+		"session": "Second Qualifying",
+		"time": 1552538400,
+		"laps": false,
+		"distance": false,
+		"length": 1200
+	},
+	"413": {
+		"series": "Australian GT Championship",
+		"symbol": "AustralianGT",
+		"round": 1,
+		"name": "Melbourne",
+		"circuit": "Albert Park",
+		"location": "Melbourne, Australia",
+		"session": "First Race",
+		"time": 1552548300,
+		"laps": false,
+		"distance": false,
+		"length": 1500
+	},
+	"414": {
+		"series": "Australian GT Championship",
+		"symbol": "AustralianGT",
+		"round": 1,
+		"name": "Melbourne",
+		"circuit": "Albert Park",
+		"location": "Melbourne, Australia",
+		"session": "Second Race",
+		"time": 1552605300,
+		"laps": false,
+		"distance": false,
+		"length": 1500
+	},
+	"415": {
+		"series": "Australian GT Championship",
+		"symbol": "AustralianGT",
+		"round": 1,
+		"name": "Melbourne",
+		"circuit": "Albert Park",
+		"location": "Melbourne, Australia",
+		"session": "Third Race",
+		"time": 1552690500,
+		"laps": false,
+		"distance": false,
+		"length": 1500
+	},
+	"416": {
+		"series": "Australian GT Championship",
+		"symbol": "AustralianGT",
+		"round": 1,
+		"name": "Melbourne",
+		"circuit": "Albert Park",
+		"location": "Melbourne, Australia",
+		"session": "Forth Race",
+		"time": 1552783200,
+		"laps": false,
+		"distance": false,
+		"length": 1500
 	},
 }
