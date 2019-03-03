@@ -13,7 +13,7 @@ event = {
 		"distance": false,
 		"length": 2700
 	},
-	"1": {
+	1: {
 		"series": "Formula E",
 		"symbol": "FE",
 		"round": 2,
@@ -505,7 +505,7 @@ event = {
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
 		"session": "Race",
-		"time": 1552651200,
+		"time": 1552683600,
 		"laps": false,
 		"distance": "1000 Miles",
 		"length": 28800
@@ -746,10 +746,11 @@ event = {
 		"distance": false,
 		"length": 3600
 	},
+	// SportsCar Championship R1
 	"57": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -762,7 +763,7 @@ event = {
 	"58": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -775,7 +776,7 @@ event = {
 	"59": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -788,7 +789,7 @@ event = {
 	"60": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -801,7 +802,7 @@ event = {
 	"61": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -814,7 +815,7 @@ event = {
 	"61": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -827,7 +828,7 @@ event = {
 	"62": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -840,7 +841,7 @@ event = {
 	"63": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -853,7 +854,7 @@ event = {
 	"64": {
 		"series": "SportsCar Championship",
 		"symbol": "IMSASC",
-		"round": "1",
+		"round": 1,
 		"name": "24 Hours of Daytona",
 		"circuit": "Daytona road course",
 		"location": "Daytona Beach, FL, USA",
@@ -867,7 +868,7 @@ event = {
 	"65": {
 		"series": "Dakar Rally",
 		"symbol": "Dakar",
-		"round": "1",
+		"round": 1,
 		"name": "Dakar Rally",
 		"circuit": "",
 		"location": "Peru",
@@ -1408,8 +1409,8 @@ event = {
 		"name": "12 Hours of Sebring",
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
-		"session": "*",
-		"time": 1552737600,
+		"session": "Race",
+		"time": 1552750800,
 		"laps": false,
 		"distance": false,
 		"length": 43200
@@ -5181,7 +5182,7 @@ event = {
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
 		"session": "Practice 1",
-		"time": 1552471200,
+		"time": 1552507200,
 		"laps": false,
 		"distance": false,
 		"length": 5400
@@ -5194,7 +5195,7 @@ event = {
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
 		"session": "Practice 2",
-		"time": 1552488300,
+		"time": 1552524300,
 		"laps": false,
 		"distance": false,
 		"length": 5400
@@ -5207,7 +5208,7 @@ event = {
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
 		"session": "Practice 3",
-		"time": 1552562100,
+		"time": 1552598100,
 		"laps": false,
 		"distance": false,
 		"length": 3600
@@ -5220,7 +5221,7 @@ event = {
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
 		"session": "Qualifying LMGTE Pro & AM",
-		"time": 1552581000,
+		"time": 1552617000,
 		"laps": false,
 		"distance": false,
 		"length": 1200
@@ -5233,7 +5234,7 @@ event = {
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
 		"session": "Qualifying LMP1 & LMP2",
-		"time": 1552582800,
+		"time": 1552618800,
 		"laps": false,
 		"distance": false,
 		"length": 1200
@@ -5303,5 +5304,110 @@ event = {
 		"laps": false,
 		"distance": false,
 		"length": 3600
+	},
+	// SportsCar Championship R2
+	"403": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice 1 (All Classes)",
+		"time": 1552574700,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"404": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice (GTD S/B Only)",
+		"time": 1552575600,
+		"laps": false,
+		"distance": false,
+		"length": 900
+	},
+	"405": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice 2 (All Classes)",
+		"time": 1552592400,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"406": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice 4 (All Classes)",
+		"time": 1552654800,
+		"laps": false,
+		"distance": false,
+		"length": 5100
+	},
+	"407": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Qualifying (GTD)",
+		"time": 1552661700,
+		"laps": false,
+		"distance": false,
+		"length": 900
+	},
+	"408": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Qualifying (GTLM)",
+		"time": 1552663200,
+		"laps": false,
+		"distance": false,
+		"length": 900
+	},
+	"409": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Qualifying (DPi/LMP2)",
+		"time": 1552664700,
+		"laps": false,
+		"distance": false,
+		"length": 900
+	},
+	"410": {
+		"series": "SportsCar Championship",
+		"symbol": "IMSASC",
+		"round": 2,
+		"name": "12 Hours of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Warm Up (All Classes)",
+		"time": 1552741200,
+		"laps": false,
+		"distance": false,
+		"length": 1200
 	},
 }
