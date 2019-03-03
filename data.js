@@ -504,11 +504,11 @@ event = {
 		"name": "1000 Miles of Sebring",
 		"circuit": "Sebring",
 		"location": "Sebring, FL, USA",
-		"session": "*",
+		"session": "Race",
 		"time": 1552651200,
-		"laps": "TBD",
-		"distance": false,
-		"length": 7200
+		"laps": false,
+		"distance": "1000 Miles",
+		"length": 28800
 	},
 	"39": {
 		"series": "World Endurance Championship",
@@ -5171,5 +5171,71 @@ event = {
 		"laps": false,
 		"distance": false,
 		"length": 1800
+	},
+	//WEC R1
+	"393": {
+		"series": "World Endurance Championship",
+		"symbol": "WEC",
+		"round": 6,
+		"name": "1000 Miles of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice 1",
+		"time": 1552471200,
+		"laps": false,
+		"distance": false,
+		"length": 5400
+	},
+	"394": {
+		"series": "World Endurance Championship",
+		"symbol": "WEC",
+		"round": 6,
+		"name": "1000 Miles of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice 2",
+		"time": 1552488300,
+		"laps": false,
+		"distance": false,
+		"length": 5400
+	},
+	"395": {
+		"series": "World Endurance Championship",
+		"symbol": "WEC",
+		"round": 6,
+		"name": "1000 Miles of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Practice 3",
+		"time": 1552562100,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"396": {
+		"series": "World Endurance Championship",
+		"symbol": "WEC",
+		"round": 6,
+		"name": "1000 Miles of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Qualifying LMGTE Pro & AM",
+		"time": 1552581000,
+		"laps": false,
+		"distance": false,
+		"length": 1200
+	},
+	"397": {
+		"series": "World Endurance Championship",
+		"symbol": "WEC",
+		"round": 6,
+		"name": "1000 Miles of Sebring",
+		"circuit": "Sebring",
+		"location": "Sebring, FL, USA",
+		"session": "Qualifying LMP1 & LMP2",
+		"time": 1552582800,
+		"laps": false,
+		"distance": false,
+		"length": 1200
 	},
 }
