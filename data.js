@@ -5238,4 +5238,70 @@ event = {
 		"distance": false,
 		"length": 1200
 	},
+	// TC America
+	"398": {
+		"series": "TC America",
+		"symbol": "TCamerica",
+		"round": 2,
+		"name": "Grand Prix of St. Petersburg",
+		"circuit": "Streets of St. Petersburg",
+		"location": "St. Petersburg, FL, USA",
+		"session": "Practice 1",
+		"time": 1552020900,
+		"laps": false,
+		"distance": false,
+		"length": 2100
+	},
+	"399": {
+		"series": "TC America",
+		"symbol": "TCamerica",
+		"round": 2,
+		"name": "Grand Prix of St. Petersburg",
+		"circuit": "Streets of St. Petersburg",
+		"location": "St. Petersburg, FL, USA",
+		"session": "Practice 2",
+		"time": 1552043400,
+		"laps": false,
+		"distance": false,
+		"length": 2100
+	},
+	"400": {
+		"series": "TC America",
+		"symbol": "TCamerica",
+		"round": 2,
+		"name": "Grand Prix of St. Petersburg",
+		"circuit": "Streets of St. Petersburg",
+		"location": "St. Petersburg, FL, USA",
+		"session": "Qualifying",
+		"time": 1552107000,
+		"laps": false,
+		"distance": false,
+		"length": 1200
+	},
+	"401": {
+		"series": "TC America",
+		"symbol": "TCamerica",
+		"round": 2,
+		"name": "Grand Prix of St. Petersburg",
+		"circuit": "Streets of St. Petersburg",
+		"location": "St. Petersburg, FL, USA",
+		"session": "Race 1",
+		"time": 1552133700,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
+	"402": {
+		"series": "TC America",
+		"symbol": "TCamerica",
+		"round": 2,
+		"name": "Grand Prix of St. Petersburg",
+		"circuit": "Streets of St. Petersburg",
+		"location": "St. Petersburg, FL, USA",
+		"session": "Race 2",
+		"time": 1552217700,
+		"laps": false,
+		"distance": false,
+		"length": 3600
+	},
 }
