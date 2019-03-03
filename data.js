@@ -5247,7 +5247,7 @@ event = {
 		"circuit": "Streets of St. Petersburg",
 		"location": "St. Petersburg, FL, USA",
 		"session": "Practice 1",
-		"time": 1552020900,
+		"time": 1552056900,
 		"laps": false,
 		"distance": false,
 		"length": 2100
@@ -5260,7 +5260,7 @@ event = {
 		"circuit": "Streets of St. Petersburg",
 		"location": "St. Petersburg, FL, USA",
 		"session": "Practice 2",
-		"time": 1552043400,
+		"time": 1552079400,
 		"laps": false,
 		"distance": false,
 		"length": 2100
@@ -5273,7 +5273,7 @@ event = {
 		"circuit": "Streets of St. Petersburg",
 		"location": "St. Petersburg, FL, USA",
 		"session": "Qualifying",
-		"time": 1552107000,
+		"time": 1552135800,
 		"laps": false,
 		"distance": false,
 		"length": 1200
@@ -5286,7 +5286,7 @@ event = {
 		"circuit": "Streets of St. Petersburg",
 		"location": "St. Petersburg, FL, USA",
 		"session": "Race 1",
-		"time": 1552133700,
+		"time": 1552169700,
 		"laps": false,
 		"distance": false,
 		"length": 3600
@@ -5299,7 +5299,7 @@ event = {
 		"circuit": "Streets of St. Petersburg",
 		"location": "St. Petersburg, FL, USA",
 		"session": "Race 2",
-		"time": 1552217700,
+		"time": 1552253700,
 		"laps": false,
 		"distance": false,
 		"length": 3600
