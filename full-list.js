@@ -36,7 +36,7 @@ for (i=0; i<Object.keys(event).length; i++) {
 	tag=sha256(unique_tag);
 	if (uniqueEvents.includes(unique_event)==false) { uniqueEvents.push(unique_event); }
 	if (uniqueSeries.includes(symbol)==false) { uniqueSeries.push(symbol); }
-	time = moment(start_time).format('ddd MMM Do YYYY h:mm a');
+	time = moment(start_time).format('ddd MMM Do YYYY hh:mm a');
 	time_hours =  moment(start_time).format('h:mm a');
 	from = moment(start_time).fromNow();
 	laps = event[i].laps;

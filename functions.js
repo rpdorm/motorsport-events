@@ -1,3 +1,5 @@
+// GLOBAL FUNCTIONS
+
 function listen() {
 	var search = $(".form-control")[0].value;
 	$("tbody").find("tr").hide();

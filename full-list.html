@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Motorsport Events</title>
+		<title>Motorsport Events | Full List</title>
 		<meta name="author" content="Rui Pedro Moreira">
 		<meta name="description" content="Motorsports schedule list">
 		<meta name="keywords" content="Motorsports, Schedule, Calendar, Racing, Cars, Racing Cars, Sports, F1, F2, WEC, IndyCar, IndyCar Series, DTM, Formula 1, World Endurance Championship, FIA, Formula 2, FIM, MotoGP, Indy 500, Indianapolis 500, Monaco GP, Le Mans 24h">
@@ -21,36 +21,40 @@
 	</head>
 
 	<body>
-		<div class="wrapper">
-			<div class="header">
-				<nav class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation">
-					<div class="navbar-header">
-						<a class="navbar-brand" href="">Motorsport Events</a>
-					</div>
-		  		</nav>
+
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="">Motorsport Events</a>
+
+				<a href="#" type="button" class="btn btn-default filter navbar-btn pull-right" checked>
+					<i class="fa fa-filter" aria-hidden="true"></i> Filter
+				</a>
 			</div>
-			<div class="content">
-				<div class="now-on">
-					
-				</div>
-				<div class="this-week row">
-					
-				</div>
-				<div class="next-week">
-					
-				</div>
-				<div class="list">
-					<small><a href="full-list.html">See Full List >></a></small>
-				</div>
-			</div>
-			<div class="footer">
-				<small>All events might be subject to schedule changes and/or delays.</small><br/>
-				<small><a href="index.html">Motorsport Events</a> 2018-2019</small>
-					
-			</div>
+  		</nav>
+
+
+		<div class="table-responsive event-table" id="event-table-max"></div>
+		<div class="event-table-filter" id="event-table-filter-min">
+
+			<strong>~ by Series</strong>
+			<div id="event-table-filter-by-series"></div>
+		
 		</div>
+		
+		
+		<footer>
+			<div>
+				<p id="note" class="text-left">
+					<small>All events might be subject to schedule changes and/or delays.</small>
+					<small>2018-2019</small>
+					<a href="https://github.com/rpdorm/motorsport-events" target="_blank" title="contribute"><i class="fa fa-github"></i></a>
+				</p>
+			</div>
+		</footer>	
+		
+		
 	</body>
 	<script type="application/x-javascript" src="data.js"></script>
-	<script type="application/x-javascript" src="home.js"></script>
+	<script type="application/x-javascript" src="full-list.js"></script>
 	<script type="application/x-javascript" src="functions.js"></script>
 </html>

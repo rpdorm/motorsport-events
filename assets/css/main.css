@@ -32,15 +32,24 @@ tbody {
 }
 
 footer {
+	float:none;
 	display:block;
+	height:34px;
 	position:absolute;
 	overflow:hidden;
-	height:29px;
 	width:100%;
 	bottom:0;
 	padding:5px;
 	border-top:1px solid #dee2e6;
-
+}
+.footer {
+	float:none;
+	display:block;
+	overflow:hidden;
+	width:100%;
+	bottom:0;
+	padding:5px;
+	border-top:1px solid #dee2e6;
 }
 
 #note {
@@ -48,3 +57,22 @@ footer {
 	float:left;
 }
 
+/* INDEX.HTML */
+.wrapper {
+  margin-right: auto; /* 1 */
+  margin-left:  auto; /* 1 */
+
+  max-width: 960px; /* 2 */
+
+  padding-right: 10px; /* 3 */
+  padding-left:  10px; /* 3 */
+}
+
+.event_group {
+	padding:6px;
+	font-size:12px;
+}
+.details { font-size:14px; text-align:center; }
+.img {
+	width:100%;
+}
