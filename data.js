@@ -5490,4 +5490,70 @@ event = {
 		"distance": false,
 		"length": 1500
 	},
+	// NASCAR ROUND 5
+	"417": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 5,
+		"name": "California 400",
+		"circuit": "California Speedway",
+		"location": "Fontana, CA, USA",
+		"session": "Practice",
+		"time": 1552669500,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"418": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 5,
+		"name": "California 400",
+		"circuit": "California Speedway",
+		"location": "Fontana, CA, USA",
+		"session": "Qualifying",
+		"time": 1552686000,
+		"laps": false,
+		"distance": false,
+		"length": 5600
+	},
+	"419": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 5,
+		"name": "California 400",
+		"circuit": "California Speedway",
+		"location": "Fontana, CA, USA",
+		"session": "Practice",
+		"time": 1552752300,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"420": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 5,
+		"name": "California 400",
+		"circuit": "California Speedway",
+		"location": "Fontana, CA, USA",
+		"session": "Practice",
+		"time": 1552764600,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"421": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 5,
+		"name": "California 400",
+		"circuit": "California Speedway",
+		"location": "Fontana, CA, USA",
+		"session": "Race",
+		"time": 1552851000,
+		"laps": 200,
+		"distance": false,
+		"length": 7200
+	},
 }

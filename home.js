@@ -2,8 +2,7 @@ now = moment();
 today = moment().isoWeekday;
 
 last_monday = monday = moment().isoWeekday(1);
-next_monday = moment().add(1, 'weeks').isoWeekday(1);
-next_week = moment().add(7, 'days');
+next_monday = moment().add(2, 'weeks').isoWeekday(1);
 upcoming = new Array();
 upcoming_unique = new Array();
 upcoming_dump = "";
