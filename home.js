@@ -13,6 +13,7 @@ x=0;
 for (i=0; i<Object.keys(event).length; i++) {
 	timestamp = event[i].time
 	start_time = event[i].time*1000;
+	length = event[i].length;
 	end_time = Math.abs(start_time+length*1000);
 	// THIS WEEK
 	// SELECT ONLY UPCOMING EVENTS
@@ -58,7 +59,8 @@ function this_week() {
 		c=0;
 		for (v=0; v<upcoming.length; v++) {
 			if (upcoming[v]['unique_event'] == upcoming_unique[t]) {
-				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; /*console.log("yayy!"); */}
+				n = Math.abs(now.unix()*1000);
+				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; }
 				else if (upcoming[v]['timestamp']*1000 > now) {item_class = "future"; }
 				else { item_class = "past"; }
 				if (c==0) { div = div + "<img class='img' title='" + upcoming[v]['series'] + "' src='assets/png/"+upcoming[v]['symbol']+".png'><p class='details'>" + upcoming[v]['name'] + "</p><p class='details circuit'>" + upcoming[v]['circuit'] + "</p><p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
