@@ -1,7 +1,8 @@
 now = moment();
 today = moment().isoWeekday;
-if (today < 1) { monday = moment().isoWeekday(1); }
-else { monday = moment().add(1, 'weeks').isoWeekday(1); }
+
+last_monday = monday = moment().isoWeekday(1);
+next_monday = moment().add(1, 'weeks').isoWeekday(1);
 next_week = moment().add(7, 'days');
 upcoming = new Array();
 upcoming_unique = new Array();
@@ -12,9 +13,10 @@ x=0;
 for (i=0; i<Object.keys(event).length; i++) {
 	timestamp = event[i].time
 	start_time = event[i].time*1000;
+	end_time = Math.abs(start_time+length*1000);
 	// THIS WEEK
 	// SELECT ONLY UPCOMING EVENTS
-	if (start_time >= now && monday >= start_time) {
+	if (start_time >= last_monday && next_monday >= start_time) {
 		upcoming[x] = {};
 		upcoming[x]['id'] = i;
 		upcoming[x]['timestamp'] = timestamp;
@@ -31,6 +33,8 @@ for (i=0; i<Object.keys(event).length; i++) {
 		upcoming[x]['unique_event'] = unique_event;
 		upcoming[x]['unique_tag'] = unique_tag;
 		upcoming[x]['from'] = moment(start_time).fromNow();
+		upcoming[x]['start'] = start_time;
+		upcoming[x]['end'] = end_time;
 		if ( $.inArray(unique_event, upcoming_unique) == -1 ) {
 			upcoming_unique.push(unique_event);
 		}
@@ -56,13 +60,16 @@ function this_week() {
 		c=0;
 		for (v=0; v<upcoming.length; v++) {
 			if (upcoming[v]['unique_event'] == upcoming_unique[t]) {
-				if (c==0) { div = div + "<img class='img' title='" + upcoming[v]['series'] + "' src='assets/png/"+upcoming[v]['symbol']+".png'><p class='details'>" + upcoming[v]['name'] + "</p><p class='details'>" + upcoming[v]['circuit'] + "</p><p>" + upcoming[v]['from'] + ": " + upcoming[v]['session'] + "</p>"; }
-				else { div = div + "<p>" + upcoming[v]['from'] + ": " + upcoming[v]['session'] + "</p>"; }
+				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; }
+				else if (upcoming[v]['timestamp']*1000 > now) {item_class = "future"; }
+				else { item_class = "past"; }
+				if (c==0) { div = div + "<img class='img' title='" + upcoming[v]['series'] + "' src='assets/png/"+upcoming[v]['symbol']+".png'><p class='details'>" + upcoming[v]['name'] + "</p><p class='details'>" + upcoming[v]['circuit'] + "</p><p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
+				else { div = div + "<p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
 				c++;
 			}
 		}
 		div = div + "</div>";
 		upcoming_dump = upcoming_dump + div;
 	}
-	$(".this-week").html(upcoming_dump);
+	$(".this-week").html("<h4 style='float:none; width:100%; margin-top:15px'>This Week</h4>" + upcoming_dump);
 };
