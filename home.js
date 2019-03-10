@@ -61,7 +61,7 @@ function this_week() {
 				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; /*console.log("yayy!"); */}
 				else if (upcoming[v]['timestamp']*1000 > now) {item_class = "future"; }
 				else { item_class = "past"; }
-				if (c==0) { div = div + "<img class='img' title='" + upcoming[v]['series'] + "' src='assets/png/"+upcoming[v]['symbol']+".png'><p class='details'>" + upcoming[v]['name'] + "</p><p class='details'>" + upcoming[v]['circuit'] + "</p><p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
+				if (c==0) { div = div + "<img class='img' title='" + upcoming[v]['series'] + "' src='assets/png/"+upcoming[v]['symbol']+".png'><p class='details'>" + upcoming[v]['name'] + "</p><p class='details circuit'>" + upcoming[v]['circuit'] + "</p><p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
 				else { div = div + "<p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
 				c++;
 			}

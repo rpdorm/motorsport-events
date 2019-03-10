@@ -69,7 +69,13 @@ footer {
 	font-size:10px;
 	border-top:1px solid #dee2e6;
 }
-.details { font-size:14px; text-align:center; }
+.details {
+	font-size:21px;
+	text-decoration:underline;
+	text-align:center;
+	margin-bottom:0;
+}
+.circuit { font-size:12px; margin-bottom:6px; }
 .img {
 	width:100%;
 }
