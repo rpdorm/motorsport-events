@@ -59,7 +59,6 @@ function this_week() {
 		c=0;
 		for (v=0; v<upcoming.length; v++) {
 			if (upcoming[v]['unique_event'] == upcoming_unique[t]) {
-				n = Math.abs(now.unix()*1000);
 				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; }
 				else if (upcoming[v]['timestamp']*1000 > now) {item_class = "future"; }
 				else { item_class = "past"; }

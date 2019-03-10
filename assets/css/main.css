@@ -70,12 +70,13 @@ footer {
 	border-top:1px solid #dee2e6;
 }
 .details {
-	font-size:21px;
+	font-weight: bold;
+	font-size:20px;
 	text-decoration:underline;
 	text-align:center;
 	margin-bottom:0;
 }
-.circuit { font-size:12px; margin-bottom:6px; }
+.circuit { font-size:12px; margin-bottom:6px; text-decoration:none; }
 .img {
 	width:100%;
 }
@@ -87,6 +88,7 @@ footer {
 	color:gray;
 	text-decoration:line-through;
 }
+.now_live, .future { font-weight: bold; }
 .now_live {
 	color:green;
 }
