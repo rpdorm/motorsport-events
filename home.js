@@ -48,8 +48,6 @@ upcoming.sort(function(x, y){
 })
 
 
-console.log(upcoming);
-console.log(upcoming_unique);
 
 //upcoming.length = target;
 this_week();
@@ -60,7 +58,7 @@ function this_week() {
 		c=0;
 		for (v=0; v<upcoming.length; v++) {
 			if (upcoming[v]['unique_event'] == upcoming_unique[t]) {
-				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; }
+				if (upcoming[v]['start'] < now && upcoming[v]['end'] > now) { item_class = "now_live"; /*console.log("yayy!"); */}
 				else if (upcoming[v]['timestamp']*1000 > now) {item_class = "future"; }
 				else { item_class = "past"; }
 				if (c==0) { div = div + "<img class='img' title='" + upcoming[v]['series'] + "' src='assets/png/"+upcoming[v]['symbol']+".png'><p class='details'>" + upcoming[v]['name'] + "</p><p class='details'>" + upcoming[v]['circuit'] + "</p><p class='item " + item_class + "'> • " + upcoming[v]['session'] + " (" + upcoming[v]['from'] + ")</p>"; }
