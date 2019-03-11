@@ -1017,8 +1017,8 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Race",
-		"time": 1553452200,
-		"laps": false,
+		"time": 1553449200,
+		"laps": "TBD",
 		"distance": false,
 		"length": 7200
 	},
@@ -3439,7 +3439,7 @@ event = {
 		"series": "Intercontinental GT Challenge",
 		"symbol": "IGTC",
 		"round": 1,
-		"name": "Bathurst 12 Hours",
+		"name": "Bathurst 12 Hour",
 		"circuit": "Mount Panorama",
 		"location": "Bathurst, Australia",
 		"session": "Race",
@@ -5801,7 +5801,7 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Practice 1",
-		"time": 1553271300,
+		"time": 1553267700,
 		"laps": false,
 		"distance": false,
 		"length": 2700
@@ -5814,7 +5814,7 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Practice 2",
-		"time": 1553285100,
+		"time": 1553281500,
 		"laps": false,
 		"distance": false,
 		"length": 3600
@@ -5827,7 +5827,7 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Practice 3",
-		"time": 1553356800,
+		"time": 1553353200,
 		"laps": false,
 		"distance": false,
 		"length": 2700
@@ -5840,7 +5840,7 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Qualifications 1 Group 1",
-		"time": 1553371200,
+		"time": 1553367600,
 		"laps": false,
 		"distance": false,
 		"length": 600
@@ -5853,7 +5853,7 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Qualifications 1 Group 2",
-		"time": 1553372400,
+		"time": 1553368800,
 		"laps": false,
 		"distance": false,
 		"length": 600
@@ -5866,7 +5866,7 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Qualifications 2",
-		"time": 1553373600,
+		"time": 1553370000,
 		"laps": false,
 		"distance": false,
 		"length": 600
@@ -5879,9 +5879,62 @@ event = {
 		"circuit": "Circuit of the Americas",
 		"location": "Austin, TX, USA",
 		"session": "Qualifications Fast 6",
-		"time": 1553374800,
+		"time": 1553371200,
 		"laps": false,
 		"distance": false,
 		"length": 900
+	},
+	// NASCAR ROUND 5
+	"447": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 6,
+		"name": "Virginia 500",
+		"circuit": "Martinsville Speedway",
+		"location": "Ridgeway, VA, USA",
+		"session": "Practice",
+		"time": 1553348100,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"448": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 6,
+		"name": "Virginia 500",
+		"circuit": "Martinsville Speedway",
+		"location": "Ridgeway, VA, USA",
+		"session": "Practice",
+		"time": 1553358600,
+		"laps": false,
+		"distance": false,
+		"length": 3000
+	},
+	"449": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 6,
+		"name": "Virginia 500",
+		"circuit": "Martinsville Speedway",
+		"location": "Ridgeway, VA, USA",
+		"session": "Qualifying",
+		"time": 1553375400,
+		"laps": false,
+		"distance": false,
+		"length": 5400
+	},
+	"450": {
+		"series": "NASCAR Cup Series",
+		"symbol": "NCS",
+		"round": 6,
+		"name": "Virginia 500",
+		"circuit": "Martinsville Speedway",
+		"location": "Ridgeway, VA, USA",
+		"session": "Race",
+		"time": 1553450400,
+		"laps": "TBD",
+		"distance": false,
+		"length": 7200
 	},
 }
