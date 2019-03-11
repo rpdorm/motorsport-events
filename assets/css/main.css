@@ -17,6 +17,7 @@ div#event-table-max { right:0; }
 .navbar-header{
 	margin-left:5px;
 	width:100%;
+	font-family:'Trebuchet MS', Arial, sans-serif;
 }
 
 thead {
@@ -50,6 +51,7 @@ footer {
 	bottom:0;
 	padding:5px;
 	border-top:1px solid #dee2e6;
+	font-family:'Trebuchet MS', Arial, sans-serif;
 }
 
 #note {
@@ -91,4 +93,10 @@ footer {
 .now_live, .future { font-weight: bold; }
 .now_live {
 	color:green;
+}
+.week {
+	float:none;
+	width:100%;
+	margin-top:15px;
+	font-family:'Trebuchet MS', Arial, sans-serif;
 }

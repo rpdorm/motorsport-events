@@ -69,5 +69,5 @@ function this_week() {
 		div = div + "</div>";
 		upcoming_dump = upcoming_dump + div;
 	}
-	$(".this-week").html("<h4 style='float:none; width:100%; margin-top:15px'>This Week</h4>" + upcoming_dump);
+	$(".this-week").html("<h4 class='week'>This Week</h4>" + upcoming_dump);
 };
