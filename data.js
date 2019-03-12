@@ -6159,4 +6159,57 @@ event = {
 		"distance": "21.99 km",
 		"length": 3600
 	},
+	// F2 R1
+	"468": {
+		"series": "Formula 2",
+		"symbol": "F2",
+		"round": 1,
+		"name": "Round 1",
+		"circuit": "Bahrain International",
+		"location": "Sakhir, Bahrain",
+		"session": "Practice",
+		"time": 1553848200,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"469": {
+		"series": "Formula 2",
+		"symbol": "F2",
+		"round": 1,
+		"name": "Round 1",
+		"circuit": "Bahrain International",
+		"location": "Sakhir, Bahrain",
+		"session": "Qualifying",
+		"time": 1553867400,
+		"laps": false,
+		"distance": false,
+		"length": 1800
+	},
+	"470": {
+		"series": "Formula 2",
+		"symbol": "F2",
+		"round": 1,
+		"name": "Round 1",
+		"circuit": "Bahrain International",
+		"location": "Sakhir, Bahrain",
+		"session": "Feature Race",
+		"time": 1553940600,
+		"laps": 32,
+		"distance": false,
+		"length": 3600
+	},
+	"471": {
+		"series": "Formula 2",
+		"symbol": "F2",
+		"round": 1,
+		"name": "Round 1",
+		"circuit": "Bahrain International",
+		"location": "Sakhir, Bahrain",
+		"session": "Sprint Race",
+		"time": 1554030900,
+		"laps": 23,
+		"distance": false,
+		"length": 2700
+	},
 }
