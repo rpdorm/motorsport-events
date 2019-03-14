@@ -6329,7 +6329,7 @@ event = {
 		"time": 1553857500,
 		"laps": false,
 		"distance": false,
-		"length": 1600
+		"length": 1800
 	},
 	"481": {
 		"series": "24H Series European Championship",
@@ -6342,7 +6342,7 @@ event = {
 		"time": 1553859900,
 		"laps": false,
 		"distance": false,
-		"length": 1600
+		"length": 1800
 	},
 	"482": {
 		"series": "24H Series European Championship",
