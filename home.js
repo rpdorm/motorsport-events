@@ -1,8 +1,8 @@
 now = moment();
 today = moment().isoWeekday;
 
-last_monday = monday = moment().isoWeekday(1);
-next_monday = moment().add(1, 'weeks').isoWeekday(1);
+last_monday = monday = moment().add(0, 'weeks').isoWeekday(1);
+next_monday = moment(monday).add(1, 'weeks').isoWeekday(1);
 upcoming = new Array();
 upcoming_unique = new Array();
 upcoming_dump = "";
