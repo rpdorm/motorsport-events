@@ -72,8 +72,8 @@ event = {
 		"name": "Sanya ePrix",
 		"circuit": "Sanya Street Circuit",
 		"location": "Sanya, China",
-		"session": "*",
-		"time": 1553342400,
+		"session": "Race",
+		"time": 1553322600,
 		"laps": "45' + 1",
 		"distance": false,
 		"length": 2700
@@ -6946,5 +6946,58 @@ event = {
 		"laps": false,
 		"distance": "47.18 km",
 		"length": 7200
+	},
+	// FORMULA E 2018/19 SEASON ROUND 06 DETAILS
+	"528": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 06,
+		"name": "Sanya ePrix",
+		"circuit": "Sanya Street Circuit",
+		"location": "Sanya, China",
+		"session": "Free Practice 1",
+		"time": 1553296500,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"529": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 06,
+		"name": "Sanya ePrix",
+		"circuit": "Sanya Street Circuit",
+		"location": "Sanya, China",
+		"session": "Free Practice 2",
+		"time": 1553304600,
+		"laps": false,
+		"distance": false,
+		"length": 1800
+	},
+	"530": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 06,
+		"name": "Sanya ePrix",
+		"circuit": "Sanya Street Circuit",
+		"location": "Sanya, China",
+		"session": "Qualifying",
+		"time": 1553310000,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"531": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 06,
+		"name": "Sanya ePrix",
+		"circuit": "Sanya Street Circuit",
+		"location": "Sanya, China",
+		"session": "Super Pole",
+		"time": 1553313000,
+		"laps": false,
+		"distance": false,
+		"length": 900
 	},
 }
