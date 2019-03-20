@@ -73,7 +73,7 @@ event = {
 		"circuit": "Sanya Street Circuit",
 		"location": "Sanya, China",
 		"session": "Race",
-		"time": 1553322600,
+		"time": 1553324580,
 		"laps": "45' + 1",
 		"distance": false,
 		"length": 2700
@@ -6969,7 +6969,7 @@ event = {
 		"circuit": "Sanya Street Circuit",
 		"location": "Sanya, China",
 		"session": "Free Practice 2",
-		"time": 1553304600,
+		"time": 1553304900,
 		"laps": false,
 		"distance": false,
 		"length": 1800
@@ -6982,10 +6982,10 @@ event = {
 		"circuit": "Sanya Street Circuit",
 		"location": "Sanya, China",
 		"session": "Qualifying",
-		"time": 1553310000,
+		"time": 1553311200,
 		"laps": false,
 		"distance": false,
-		"length": 2700
+		"length": 2160
 	},
 	"531": {
 		"series": "Formula E",
@@ -6995,9 +6995,22 @@ event = {
 		"circuit": "Sanya Street Circuit",
 		"location": "Sanya, China",
 		"session": "Super Pole",
-		"time": 1553313000,
+		"time": 1553313900,
 		"laps": false,
 		"distance": false,
-		"length": 900
+		"length": 1200
+	},
+	"532": {
+		"series": "Formula E",
+		"symbol": "FE",
+		"round": 06,
+		"name": "Sanya ePrix",
+		"circuit": "Sanya Street Circuit",
+		"location": "Sanya, China",
+		"session": "Shakedown",
+		"time": 1553239800,
+		"laps": false,
+		"distance": false,
+		"length": 1800
 	},
 }
