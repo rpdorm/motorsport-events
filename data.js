@@ -1028,9 +1028,9 @@ event = {
 		"round": 3,
 		"name": "Grand Prix of Alabama",
 		"circuit": "Barber Motorsports Park",
-		"location": "Leeds, AL, USA",
-		"session": "*",
-		"time": 1554638400,
+		"location": "Birmingham, AL, USA",
+		"session": "Race",
+		"time": 1554671700,
 		"laps": 90,
 		"distance": false,
 		"length": 7200
@@ -2754,7 +2754,7 @@ event = {
 		"time": 1554657300,
 		"laps": 21,
 		"distance": false,
-		"length": 2700
+		"length": 2100
 	},
 	"209": {
 		"series": "World Touring Car Cup",
@@ -7013,6 +7013,7 @@ event = {
 		"distance": false,
 		"length": 1800
 	},
+	// WTCR R1
 	"533": {
 		"series": "World Touring Car Cup",
 		"symbol": "WTCR",
@@ -7088,6 +7089,111 @@ event = {
 		"session": "Race 2",
 		"time": 1554651900,
 		"laps": 18,
+		"distance": false,
+		"length": 1800
+	},
+	// IndyCar R3
+	"539": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Practice 1",
+		"time": 1554484500,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"540": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Practice 2",
+		"time": 1554497400,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"541": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Practice 3",
+		"time": 1554569100,
+		"laps": false,
+		"distance": false,
+		"length": 2700
+	},
+	"542": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Qualifications 1 Group 1",
+		"time": 1554584400,
+		"laps": false,
+		"distance": false,
+		"length": 600
+	},
+	"543": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Qualifications 1 Group 2",
+		"time": 1554585600,
+		"laps": false,
+		"distance": false,
+		"length": 600
+	},
+	"544": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Qualifications 2",
+		"time": 1554586800,
+		"laps": false,
+		"distance": false,
+		"length": 600
+	},
+	"545": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Qualifications 3",
+		"time": 1554588000,
+		"laps": false,
+		"distance": false,
+		"length": 900
+	},
+	"546": {
+		"series": "IndyCar Series",
+		"symbol": "IndyCar",
+		"round": 3,
+		"name": "Grand Prix of Alabama",
+		"circuit": "Barber Motorsports Park",
+		"location": "Birmingham, AL, USA",
+		"session": "Final Warmup",
+		"time": 1554657000,
+		"laps": false,
 		"distance": false,
 		"length": 1800
 	},
