@@ -78,13 +78,14 @@ footer {
 	text-align:center;
 	margin-bottom:0;
 }
-.circuit { font-size:12px; margin-bottom:6px; text-decoration:none; }
+.circuit { font-family:'Courier New', Courier, monospace; font-size:12px; margin-bottom:6px; text-decoration:none; }
 .img {
 	width:100%;
 }
 .item {
 	padding:0;
 	margin:0;
+	font-family:'Courier New', Courier, monospace;
 }
 .past {
 	color:gray;
