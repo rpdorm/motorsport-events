@@ -1225,6 +1225,179 @@ data = {
 					}
 				}
 			}
+		},
+		"7": {
+			"name": "W Series",
+			"symbol": "WS",
+			"events": {
+				"0": {
+					"round": 5,
+					"name": "Spa-Francorchamps",
+					"circuit": 0,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1630061700,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1630074600,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1630161000,
+							"length": 2100,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 6,
+					"name": "Zandvoort",
+					"circuit": 1,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1630765800,
+							"length": 15,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 7,
+					"name": "Austin",
+					"circuit": 8,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1634999400,
+							"length": 15,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 8,
+					"name": "Mexico City",
+					"circuit": 9,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1635604200,
+							"length": 15,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		"8": {
+			"name": "Deutsche Tourenwagen Masters",
+			"symbol": "DTM",
+			"events": {
+				"0": {
+					"round": 5,
+					"name": "Spielberg",
+					"circuit": 25,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1630663200,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1630672200,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1630740000,
+							"length": 1200,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R1",
+							"timestamp": 1630751400,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1630826400,
+							"length": 1200,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 2",
+							"symbol": "R2",
+							"timestamp": 1630837800,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 6,
+					"name": "Assen",
+					"circuit": 26,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1632047400,
+							"length": 15,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 7,
+					"name": "Hockenheim",
+					"circuit": 27,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1633257000,
+							"length": 15,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 7,
+					"name": "Nuremberg",
+					"circuit": 28,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1633861800,
+							"length": 15,
+							"laps": false
+						}
+					}
+				}
+			}
 		}
 	},
 	"circuits": {
@@ -1242,7 +1415,7 @@ data = {
 		},
 		"3": {
 			"name": "Portland International Raceway",
-			"location": "Portland, Oregon"
+			"location": "Portland, USA"
 		},
 		"4": {
 			"name": "Silverstone",
@@ -1262,7 +1435,7 @@ data = {
 		},
 		"8": {
 			"name": "Circuit of the Americas",
-			"location": "Austin, Texas"
+			"location": "Austin, USA"
 		},
 		"9": {
 			"name": "Autódromo Hermanos Rodríguez",
@@ -1302,11 +1475,11 @@ data = {
 		},
 		"18": {
 			"name": "Laguna Seca",
-			"location": "Monterey County, California"
+			"location": "Monterey County, USA"
 		},
 		"19": {
 			"name": "Long Beach",
-			"location": "Long Beach, California"
+			"location": "Long Beach, USA"
 		},
 		"20": {
 			"name": "Bahrain International Circuit",
@@ -1327,6 +1500,22 @@ data = {
 		"24": {
 			"name": "Adria International Raceway",
 			"location": "Adria, Italy"
+		},
+		"25": {
+			"name": "Red Bull Ring",
+			"location": "Spielberg, Austria"
+		},
+		"26": {
+			"name": "TT Circuit Assen",
+			"location": "Assen, Netherlands"
+		},
+		"27": {
+			"name": "Hockenheimring",
+			"location": "Hockenheim, Germany"
+		},
+		"28": {
+			"name": "Norisring",
+			"location": "Nuremberg, Germany"
 		}
 	}
 }
