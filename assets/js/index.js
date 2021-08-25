@@ -1,5 +1,5 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000*1.5;
+upcoming = now+2592000*1.2;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
@@ -22,13 +22,15 @@ for (i=0; i<Object.keys(series).length; i++) {
 			numberOfSessions=Object.keys(sessions).length;
 			if (maxHeight < numberOfSessions) { maxHeight = numberOfSessions; }
 			for (k=0; k<numberOfSessions; k++) {
+				timediv = "";
 				session = series[i].events[j].sessions[k].name;
 				length = series[i].events[j].sessions[k].length;
 				sessionTimeUnix=Math.floor(series[i].events[j].sessions[k].timestamp*1000);
 				sessionTime = moment(sessionTimeUnix).format('ddd MMM Do YYYY HH:mm');
 				if (sessionTimeUnix+length > now) { del=""; }
 				else { del="<del>"; }
-				$("#" + sha).append("<li class='bg-light list-group-item'><p class='card-subtitle text-muted'><small>" + del + sessionTime + "</small></p><h6>" + del + session + "</h6></li>");
+				if (session != "Cancelled") { timediv= "<p class='card-subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
+				$("#" + sha).append("<li class='bg-light list-group-item'>" + timediv + "<h6>" + del + session + "</h6></li>");
 				
 			}
 			$("#" + shatimestamp).append("</ul>");

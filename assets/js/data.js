@@ -493,6 +493,34 @@ data = {
 							"laps": 102
 						}
 					}
+				},
+				"1": {
+					"round": 15,
+					"name": "Grand Prix of Monterey",
+					"circuit": 18,
+					"sessions":{
+						"0": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1632069000,
+							"length": 1080,
+							"laps": 90
+						}
+					}
+				},
+				"2": {
+					"round": 16,
+					"name": "Grand Prix of Long Beach",
+					"circuit": 19,
+					"sessions":{
+						"0": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1632673800,
+							"length": 1080,
+							"laps": 98
+						}
+					}
 				}
 			}
 		},
@@ -755,7 +783,7 @@ data = {
 				"4": {
 					"round": 16,
 					"name": "TBA",
-					"circuit": 11,
+					"circuit": 15,
 					"sessions":{
 						"0": {
 							"name": "TBA",
@@ -893,6 +921,164 @@ data = {
 					}
 				}
 			}
+		},
+		"3": {
+			"name": "World Endurance Championship",
+			"symbol": "WEC",
+			"events": {
+				"0": {
+					"round": 5,
+					"name": "6 Hours of Bahrain",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1635591600,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 6,
+					"name": "8 Hours of Bahrain",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1636200000,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 0,
+					"name": "6 Hours of Fuji",
+					"circuit": 21,
+					"sessions":{
+						"0": {
+							"name": "Cancelled",
+							"symbol": "C",
+							"timestamp": 1632654000,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		"4": {
+			"name": "World Touring Car Cup",
+			"symbol": "WTCR",
+			"events": {
+				"0": {
+					"round": 5,
+					"name": "Race of the Czech Republic",
+					"circuit": 22,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1633863600,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		"5": {
+			"name": "Formula 2",
+			"symbol": "F2",
+			"events": {
+				"0": {
+					"round": 5,
+					"name": "Monza",
+					"circuit": 2,
+					"sessions":{
+						"0": {
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1631265600,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1631285400,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race 1",
+							"symbol": "SR1",
+							"timestamp": 1631343000,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Sprint Race 2",
+							"symbol": "SR2",
+							"timestamp": 1631364300,
+							"length": 2700,
+							"laps": false
+						},
+						"4": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1631435100,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 6,
+					"name": "Sochi",
+					"circuit": 5,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1632643200,
+							"length": 2700,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 7,
+					"name": "Jeddah",
+					"circuit": 12,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1638694800,
+							"length": 2700,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 8,
+					"name": "Abu Dhabi",
+					"circuit": 13,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1639299600,
+							"length": 2700,
+							"laps": false
+						}
+					}
+				}
+			}
 		}
 	},
 	"circuits": {
@@ -967,6 +1153,26 @@ data = {
 		"17": {
 			"name": "Ricardo Tormo",
 			"location": "Cheste, Spain"
+		},
+		"18": {
+			"name": "Laguna Seca",
+			"location": "Monterey County, California"
+		},
+		"19": {
+			"name": "Long Beach",
+			"location": "Long Beach, California"
+		},
+		"20": {
+			"name": "Bahrain International Circuit",
+			"location": "Sakhir, Bahrain"
+		},
+		"21": {
+			"name": "Fuji Speedway",
+			"location": "Oyama, Japan"
+		},
+		"22": {
+			"name": "Most",
+			"location": "Most, Czech Republic"
 		}
 	}
 }
