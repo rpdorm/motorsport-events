@@ -976,13 +976,55 @@ data = {
 			"events": {
 				"0": {
 					"round": 5,
-					"name": "Race of the Czech Republic",
+					"name": "Race of Czech Republic",
 					"circuit": 22,
 					"sessions":{
 						"0": {
 							"name": "TBA",
 							"symbol": "TBA",
 							"timestamp": 1633863600,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 6,
+					"name": "Race of France",
+					"circuit": 23,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1634468400,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 7,
+					"name": "Race of Italy",
+					"circuit": 24,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1636286400,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 8,
+					"name": "Race of Russia",
+					"circuit": 5,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1638100800,
 							"length": 7200,
 							"laps": false
 						}
@@ -1074,6 +1116,110 @@ data = {
 							"symbol": "TBA",
 							"timestamp": 1639299600,
 							"length": 2700,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		"6": {
+			"name": "Formula 3",
+			"symbol": "F3",
+			"events": {
+				"0": {
+					"round": 5,
+					"name": "Spa-Francorchamps",
+					"circuit": 0,
+					"sessions":{
+						"0": {
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1630051500,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1630065300,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race 1",
+							"symbol": "R1",
+							"timestamp": 1630137900,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 2",
+							"symbol": "R2",
+							"timestamp": 1630166100,
+							"length": 2400,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 3",
+							"symbol": "R3",
+							"timestamp": 1630226400,
+							"length": 2400,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 6,
+					"name": "Zandvoort",
+					"circuit": 1,
+					"sessions":{
+						"0": {
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1630656300,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1630669800,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race 1",
+							"symbol": "R1",
+							"timestamp": 1630748100,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 2",
+							"symbol": "R2",
+							"timestamp": 1630770900,
+							"length": 2400,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 3",
+							"symbol": "R3",
+							"timestamp": 1630831500,
+							"length": 2400,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 7,
+					"name": "Austin",
+					"circuit": 8,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1635065100,
+							"length": 15,
 							"laps": false
 						}
 					}
@@ -1173,6 +1319,14 @@ data = {
 		"22": {
 			"name": "Most",
 			"location": "Most, Czech Republic"
+		},
+		"23": {
+			"name": "Pau-Arnos",
+			"location": "Arnos, France"
+		},
+		"24": {
+			"name": "Adria International Raceway",
+			"location": "Adria, Italy"
 		}
 	}
 }
