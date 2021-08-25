@@ -1,5 +1,5 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000;
+upcoming = now+2592000*1.5;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
@@ -17,7 +17,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 			sessions = series[i].events[j].sessions;
 			/*$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>Round " + series[i].events[j].round + "</p>");
 			$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>" + circuit.name + "</p>");*/
-			sha = sha256(series[i]+name+circuit);
+			sha = sha256(series[i]+i+name+circuit);
 			$("#" + timestamp).append("<ul class='list-group list-group-flush' id='" + sha + "'>");
 			numberOfSessions=Object.keys(sessions).length;
 			if (maxHeight < numberOfSessions) { maxHeight = numberOfSessions; }
@@ -49,7 +49,7 @@ $.each(listitems, function(idx, itm) {
 
 $(document).ready(function () {
 	maxHeight = maxHeight * 50;
-	cardHeight = maxHeight+128;
+	cardHeight = maxHeight+130;
 	$("ul").height(maxHeight);
 	$(".card").height(cardHeight);
 });
