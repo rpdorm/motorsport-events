@@ -1398,6 +1398,242 @@ data = {
 					}
 				}
 			}
+		},
+		"9": {
+			"name": "Moto2 World Championship",
+			"symbol": "Moto2",
+			"events": {
+				"0": {
+					"round": 12,
+					"name": "British Grand Prix",
+					"circuit": 4,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1630058100,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1630073400,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP3",
+							"timestamp": 1630144500,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1630159800,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1630161300,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1630227600,
+							"length": 1200,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1630243800,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 13,
+					"name": "Aragon Grand Prix",
+					"circuit": 14,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1631264100,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1631279400,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP3",
+							"timestamp": 1631350500,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1631365800,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1631367300,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1631430600,
+							"length": 1200,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1631442000,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		"10": {
+			"name": "Moto3 World Championship",
+			"symbol": "Moto3",
+			"events": {
+				"0": {
+					"round": 12,
+					"name": "British Grand Prix",
+					"circuit": 4,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1630051200,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1630066500,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP3",
+							"timestamp": 1630137600,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1630150500,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1630152000,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1630224000,
+							"length": 1200,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1630232400,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 13,
+					"name": "Aragon Grand Prix",
+					"circuit": 14,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1631257200,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1631272500,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP3",
+							"timestamp": 1631343600,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1631356500,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1631358000,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1631428800,
+							"length": 1200,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1631437200,
+							"length": 7200,
+							"laps": false
+						}
+					}
+				}
+			}
 		}
 	},
 	"circuits": {
