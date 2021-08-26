@@ -8,7 +8,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
-		timestamp = series[i].events[j].sessions[t].timestamp+129600;
+		timestamp = series[i].events[j].sessions[t].timestamp+108000;
 		shatimestamp = sha256("sha" + series[i] + timestamp);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;

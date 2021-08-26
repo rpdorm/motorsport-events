@@ -1384,7 +1384,7 @@ data = {
 					}
 				},
 				"3": {
-					"round": 7,
+					"round": 8,
 					"name": "Nuremberg",
 					"circuit": 28,
 					"sessions":{
