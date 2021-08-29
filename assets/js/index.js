@@ -8,7 +8,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
-		timestamp = series[i].events[j].sessions[t].timestamp+108000;
+		timestamp = series[i].events[j].sessions[t].timestamp+21200;
 		shatimestamp = sha256("sha" + series[i] + timestamp);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
@@ -29,12 +29,12 @@ for (i=0; i<Object.keys(series).length; i++) {
 				sessionTime = moment(sessionTimeUnix).format('ddd MMM Do YYYY HH:mm');
 				if (sessionTimeUnix/1000+length > now) {
 					del="";
-					if (sessionTimeUnix/1000+length > now && sessionTimeUnix/1000 < now) { green = " - <span style='color: green'>Session now on!</span>"; }
+					if (sessionTimeUnix/1000+length > now && sessionTimeUnix/1000 < now) { green = " style='color:green; font-weight: bold'"; }
 					else { green = ""; }
 				}
 				else { del="<del>"; green=""; }
 				if (session != "Cancelled") { timediv= "<p class='card-subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
-				$("#" + sha).append("<li class='bg-light list-group-item'>" + timediv + "<h6>" + del + session + green + "</h6></li>");
+				$("#" + sha).append("<li class='list-group-item'>" + timediv + "<h6" + green + ">" + del + session + "</h6></li>");
 				
 			}
 			$("#" + shatimestamp).append("</ul>");
