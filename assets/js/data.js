@@ -1264,10 +1264,24 @@ data = {
 					"circuit": 1,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1630666500,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1630679400,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
 							"timestamp": 1630765800,
-							"length": 15,
+							"length": 2100,
 							"laps": false
 						}
 					}

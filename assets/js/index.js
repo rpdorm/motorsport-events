@@ -13,7 +13,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			circuit = circuits[series[i].events[j].circuit];
-			$(".eventlist").append("<div  id='" + timestamp + "' class='card sortme'><div class=' card-header'><img class='card-img-top' src='assets/png/" + series[i].symbol + ".png'><h5 class='card-title text-center'>" + name + "</h5><h6 class='card-subtitle mb-2 text-muted text-center'>" + circuit.name + "</h6></div></div>");
+			$(".eventlist").append("<div  id='" + timestamp + "' class='card sortme'><div class=' card-header'><img class='card-img-top' src='assets/png/" + series[i].symbol + ".png'><h5 class='card-title text-center'>" + name + "</h5><h6 class='card-subtitle mb-2 text-muted text-center'><b>" + circuit.name + "</b></h6></div></div>");
 			sessions = series[i].events[j].sessions;
 			/*$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>Round " + series[i].events[j].round + "</p>");
 			$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>" + circuit.name + "</p>");*/
