@@ -224,7 +224,7 @@ data = {
 							"name": "Cancelled",
 							"symbol": "C",
 							"timestamp": 1633838400,
-							"length": 0,
+							"length": 1,
 							"laps": false
 						}
 					}
@@ -467,28 +467,28 @@ data = {
 						"0": {
 							"name": "Practice 1",
 							"symbol": "P",
-							"timestamp": 1631376000,
+							"timestamp": 1631372400,
 							"length": 4500,
 							"laps": false
 						},
 						"1": {
 							"name": "Qualifications",
 							"symbol": "Q",
-							"timestamp": 1631387700,
+							"timestamp": 1631384100,
 							"length": 4500,
 							"laps": false
 						},
 						"2": {
 							"name": "Final Practice",
 							"symbol": "P",
-							"timestamp": 1631398500,
+							"timestamp": 1631394900,
 							"length": 1800,
 							"laps": false
 						},
 						"3": {
 							"name": "Race",
 							"symbol": "R",
-							"timestamp": 1631473200,
+							"timestamp": 1631471400,
 							"length": 10800,
 							"laps": 102
 						}
@@ -500,11 +500,39 @@ data = {
 					"circuit": 18,
 					"sessions":{
 						"0": {
+							"name": "Practice 1",
+							"symbol": "P1",
+							"timestamp": 1631910600,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P2",
+							"timestamp": 1631983500,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "Q",
+							"timestamp": 1631995500,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WP",
+							"timestamp": 1632063600,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
 							"name": "Race",
 							"symbol": "R",
-							"timestamp": 1632069000,
-							"length": 1080,
-							"laps": 90
+							"timestamp": 1632074400,
+							"length": 10800,
+							"laps": 102
 						}
 					}
 				},
@@ -514,11 +542,39 @@ data = {
 					"circuit": 19,
 					"sessions":{
 						"0": {
+							"name": "Practice 1",
+							"symbol": "P1",
+							"timestamp": 1632517200,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P2",
+							"timestamp": 1632582000,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "Q",
+							"timestamp": 1632593100,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WP",
+							"timestamp": 1632668400,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
 							"name": "Race",
 							"symbol": "R",
-							"timestamp": 1632673800,
-							"length": 1080,
-							"laps": 98
+							"timestamp": 1632681000,
+							"length": 10800,
+							"laps": 102
 						}
 					}
 				}
@@ -963,7 +1019,7 @@ data = {
 							"name": "Cancelled",
 							"symbol": "C",
 							"timestamp": 1632654000,
-							"length": 7200,
+							"length": 1,
 							"laps": false
 						}
 					}

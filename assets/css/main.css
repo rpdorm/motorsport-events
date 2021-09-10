@@ -1,7 +1,7 @@
-body {font-family: Roboto, Arial, sans-serif;}
+body { font-family: Roboto, Arial, sans-serif; padding-top: 0.1%; }
 h6 { margin: 0; }
 li { display: hidden; overflow: hidden; height: 55px; }
 nav { padding:10px; }
 .eventlist { overflow: auto; }
-.card { border: white; border-top-right-radius: 1rem; border-top-left-radius: 1rem; display: inline-block; overflow: hidden; float: left; margin: 0.2%; width:19.6%; margin-top: 0.25rem; min-width: 234px; }
-.card-header { height:130px }
+.card { border: white; border-radius: 1rem; display: inline-block; overflow: hidden; float: left; margin: 0.1%; width:19.8%; min-width: 234px; }
+.card-header { height:130px; }
