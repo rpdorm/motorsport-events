@@ -1267,15 +1267,57 @@ data = {
 					}
 				},
 				"2": {
-					"round": 7,
+					"round": 0,
 					"name": "Austin",
 					"circuit": 8,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
+							"name": "Cancelled",
+							"symbol": "C",
 							"timestamp": 1635065100,
-							"length": 15,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 7,
+					"name": "Sochi",
+					"circuit": 5,
+					"sessions":{
+						/*"0": {
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1630656300,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1630669800,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race 1",
+							"symbol": "R1",
+							"timestamp": 1630748100,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 2",
+							"symbol": "R2",
+							"timestamp": 1630770900,
+							"length": 2400,
+							"laps": false
+						},*/
+						"0": {
+							"name": "TBA",
+							"symbol": "R3",
+							"timestamp": 1632646800,
+							"length": 2400,
 							"laps": false
 						}
 					}
@@ -1431,10 +1473,45 @@ data = {
 					"circuit": 26,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1631870100,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1631880900,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1631949300,
+							"length": 1200,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R1",
+							"timestamp": 1631961000,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1632034800,
+							"length": 1200,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 2",
+							"symbol": "R2",
 							"timestamp": 1632047400,
-							"length": 15,
+							"length": 1800,
 							"laps": false
 						}
 					}
