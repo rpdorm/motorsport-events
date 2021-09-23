@@ -1285,38 +1285,38 @@ data = {
 					"name": "Sochi",
 					"circuit": 5,
 					"sessions":{
-						/*"0": {
+						"0": {
 							"name": "Free Practice",
 							"symbol": "FP",
-							"timestamp": 1630656300,
-							"length": 2700,
+							"timestamp": 1632477300,
+							"length": 3300,
 							"laps": false
 						},
 						"1": {
 							"name": "Qualifying",
 							"symbol": "Q",
-							"timestamp": 1630669800,
+							"timestamp": 1632492000,
 							"length": 1800,
 							"laps": false
 						},
 						"2": {
 							"name": "Race 1",
 							"symbol": "R1",
-							"timestamp": 1630748100,
+							"timestamp": 1632562500,
 							"length": 2400,
 							"laps": false
 						},
 						"3": {
 							"name": "Race 2",
 							"symbol": "R2",
-							"timestamp": 1630770900,
+							"timestamp": 1632580800,
 							"length": 2400,
 							"laps": false
-						},*/
-						"0": {
-							"name": "TBA",
+						},
+						"4": {
+							"name": "Race 3",
 							"symbol": "R3",
-							"timestamp": 1632646800,
+							"timestamp": 1632653700,
 							"length": 2400,
 							"laps": false
 						}
