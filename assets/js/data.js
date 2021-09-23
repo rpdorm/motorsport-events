@@ -1140,10 +1140,38 @@ data = {
 					"circuit": 5,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1632643200,
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1632467100,
 							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1632489900,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race 1",
+							"symbol": "SR1",
+							"timestamp": 1632555000,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Sprint Race 2",
+							"symbol": "SR2",
+							"timestamp": 1632577500,
+							"length": 2700,
+							"laps": false
+						},
+						"4": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1632644400,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1288,35 +1316,35 @@ data = {
 						"0": {
 							"name": "Free Practice",
 							"symbol": "FP",
-							"timestamp": 1632477300,
+							"timestamp": 1632462900,
 							"length": 3300,
 							"laps": false
 						},
 						"1": {
 							"name": "Qualifying",
 							"symbol": "Q",
-							"timestamp": 1632492000,
+							"timestamp": 1632477600,
 							"length": 1800,
 							"laps": false
 						},
 						"2": {
 							"name": "Race 1",
 							"symbol": "R1",
-							"timestamp": 1632562500,
+							"timestamp": 1632548100,
 							"length": 2400,
 							"laps": false
 						},
 						"3": {
 							"name": "Race 2",
 							"symbol": "R2",
-							"timestamp": 1632580800,
+							"timestamp": 1632566400,
 							"length": 2400,
 							"laps": false
 						},
 						"4": {
 							"name": "Race 3",
 							"symbol": "R3",
-							"timestamp": 1632653700,
+							"timestamp": 1632639300,
 							"length": 2400,
 							"laps": false
 						}
