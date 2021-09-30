@@ -1550,10 +1550,45 @@ data = {
 					"circuit": 27,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1633257000,
-							"length": 15,
+							"name": "Free Practice 1",
+							"symbol": "FP1",
+							"timestamp": 1633077900,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP2",
+							"timestamp": 1633091100,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q1",
+							"timestamp": 1633159200,
+							"length": 1200,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R1",
+							"timestamp": 1633168200,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q2",
+							"timestamp": 1633245600,
+							"length": 1200,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 2",
+							"symbol": "R2",
+							"timestamp": 1633254600,
+							"length": 1800,
 							"laps": false
 						}
 					}
