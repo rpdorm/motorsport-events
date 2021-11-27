@@ -1,6 +1,6 @@
 data = {
-	"year": 2021,
 	"series": {
+		//F1
 		"0": {
 			"name": "Formula 1",
 			"symbol": "F1",
@@ -455,6 +455,7 @@ data = {
 				}
 			}
 		},
+		//IndyCar
 		"1": {
 			"name": "IndyCar Series",
 			"symbol": "IndyCar",
@@ -462,18 +463,21 @@ data = {
 				
 			}
 		},
+		//MotoGP
 		"2": {
 			"name": "MotoGP",
 			"symbol": "MotoGP",
 			"events": {
 			}
 		},
+		//WEC
 		"3": {
 			"name": "World Endurance Championship",
 			"symbol": "WEC",
 			"events": {
 			}
 		},
+		//WTCR
 		"4": {
 			"name": "World Touring Car Cup",
 			"symbol": "WTCR",
@@ -481,6 +485,7 @@ data = {
 				
 			}
 		},
+		//F2
 		"5": {
 			"name": "Formula 2",
 			"symbol": "F2",
@@ -655,34 +660,102 @@ data = {
 				}
 			}
 		},
+		//F3
 		"6": {
 			"name": "Formula 3",
 			"symbol": "F3",
 			"events": {
 			}
 		},
+		//WSeries
 		"7": {
 			"name": "W Series",
 			"symbol": "WS",
 			"events": {
 			}
 		},
+		//DTM
 		"8": {
 			"name": "Deutsche Tourenwagen Masters",
 			"symbol": "DTM",
 			"events": {
 			}
 		},
+		//Moto2
 		"9": {
 			"name": "Moto2 World Championship",
 			"symbol": "Moto2",
 			"events": {
 			}
 		},
+		//Moto3
 		"10": {
 			"name": "Moto3 World Championship",
 			"symbol": "Moto3",
 			"events": {
+			}
+		},
+		//FE
+		"11": {
+			"name": "Formula E",
+			"symbol": "FE",
+			"events": {
+				"0": {
+					"round": 1,
+					"name": "Diriyah ePrix",
+					"circuit": 29,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1643371200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 3,
+					"name": "Mexico City ePrix",
+					"circuit": 9,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1644667200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 4,
+					"name": "TBA",
+					"circuit": 11,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1646481600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 5,
+					"name": "TBA (China)",
+					"circuit": 11,
+					"sessions":{
+						"0": {
+							"name": "TBA",
+							"symbol": "TBA",
+							"timestamp": 1647691200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		}
 	},
@@ -802,6 +875,10 @@ data = {
 		"28": {
 			"name": "Norisring",
 			"location": "Nuremberg, Germany"
+		},
+		"29": {
+			"name": "Diriyah Street Circuit",
+			"location": "Diriyah, Saudi Arabia"
 		}
 	}
 }
