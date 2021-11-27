@@ -377,35 +377,35 @@ data = {
 						"0": {
 							"name": "Free Practice 1",
 							"symbol": "FP1",
-							"timestamp": 1638534600,
+							"timestamp": 1638538200,
 							"length": 3600,
 							"laps": false
 						},
 						"1": {
 							"name": "Free Practice 2",
 							"symbol": "FP2",
-							"timestamp": 1638547200,
+							"timestamp": 1638550800,
 							"length": 3600,
 							"laps": false
 						},
 						"2": {
 							"name": "Free Practice 3",
 							"symbol": "FP3",
-							"timestamp": 1638622800,
+							"timestamp": 1638626400,
 							"length": 3600,
 							"laps": false
 						},
 						"3": {
 							"name": "Qualifying",
 							"symbol": "Q",
-							"timestamp": 1638633600,
+							"timestamp": 1638637200,
 							"length": 3600,
 							"laps": false
 						},
 						"4": {
 							"name": "Race",
 							"symbol": "R",
-							"timestamp": 1638720000,
+							"timestamp": 1638725400,
 							"length": 7200,
 							"laps": 50
 						}
@@ -459,633 +459,26 @@ data = {
 			"name": "IndyCar Series",
 			"symbol": "IndyCar",
 			"events": {
-				"0": {
-					"round": 14,
-					"name": "Grand Prix of Portland",
-					"circuit": 3,
-					"sessions":{
-						"0": {
-							"name": "Practice 1",
-							"symbol": "P",
-							"timestamp": 1631372400,
-							"length": 4500,
-							"laps": false
-						},
-						"1": {
-							"name": "Qualifications",
-							"symbol": "Q",
-							"timestamp": 1631384100,
-							"length": 4500,
-							"laps": false
-						},
-						"2": {
-							"name": "Final Practice",
-							"symbol": "P",
-							"timestamp": 1631394900,
-							"length": 1800,
-							"laps": false
-						},
-						"3": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1631471400,
-							"length": 10800,
-							"laps": 102
-						}
-					}
-				},
-				"1": {
-					"round": 15,
-					"name": "Grand Prix of Monterey",
-					"circuit": 18,
-					"sessions":{
-						"0": {
-							"name": "Practice 1",
-							"symbol": "P1",
-							"timestamp": 1631910600,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Practice 2",
-							"symbol": "P2",
-							"timestamp": 1631983500,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Qualifications",
-							"symbol": "Q",
-							"timestamp": 1631995500,
-							"length": 4500,
-							"laps": false
-						},
-						"3": {
-							"name": "Warm Up",
-							"symbol": "WP",
-							"timestamp": 1632063600,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1632074400,
-							"length": 10800,
-							"laps": 102
-						}
-					}
-				},
-				"2": {
-					"round": 16,
-					"name": "Grand Prix of Long Beach",
-					"circuit": 19,
-					"sessions":{
-						"0": {
-							"name": "Practice 1",
-							"symbol": "P1",
-							"timestamp": 1632517200,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Practice 2",
-							"symbol": "P2",
-							"timestamp": 1632582000,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Qualifications",
-							"symbol": "Q",
-							"timestamp": 1632593100,
-							"length": 4500,
-							"laps": false
-						},
-						"3": {
-							"name": "Warm Up",
-							"symbol": "WP",
-							"timestamp": 1632668400,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1632681000,
-							"length": 10800,
-							"laps": 102
-						}
-					}
-				}
+				
 			}
 		},
 		"2": {
 			"name": "MotoGP",
 			"symbol": "MotoGP",
 			"events": {
-				"0": {
-					"round": 12,
-					"name": "British Grand Prix",
-					"circuit": 4,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1630054500,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1630069800,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1630140900,
-							"length": 2700,
-							"laps": false
-						},
-						"3": {
-							"name": "Free Practice 4",
-							"symbol": "FP4",
-							"timestamp": 1630153800,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1630156200,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1630157700,
-							"length": 900,
-							"laps": false
-						},
-						"6": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1630225800,
-							"length": 1200,
-							"laps": false
-						},
-						"7": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1630238400,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 13,
-					"name": "Aragon Grand Prix",
-					"circuit": 14,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631865300,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631275800,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1631346900,
-							"length": 2700,
-							"laps": false
-						},
-						"3": {
-							"name": "Free Practice 4",
-							"symbol": "FP4",
-							"timestamp": 1631359800,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631362200,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1631363700,
-							"length": 900,
-							"laps": false
-						},
-						"6": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1631432400,
-							"length": 1200,
-							"laps": false
-						},
-						"7": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1631448000,
-							"length": 5400,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 14,
-					"name": "San Marino Grand Prix",
-					"circuit": 15,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631865300,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631880600,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1631951700,
-							"length": 2700,
-							"laps": false
-						},
-						"3": {
-							"name": "Free Practice 4",
-							"symbol": "FP4",
-							"timestamp": 1631964600,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631967000,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1631968500,
-							"length": 900,
-							"laps": false
-						},
-						"6": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1632037200,
-							"length": 1200,
-							"laps": false
-						},
-						"7": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1632052800,
-							"length": 5400,
-							"laps": false
-						}
-					}
-				},
-				"3": {
-					"round": 15,
-					"name": "Grand Prix of the Americas",
-					"circuit": 8,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1633100100,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1633115400,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1633186500,
-							"length": 2700,
-							"laps": false
-						},
-						"3": {
-							"name": "Free Practice 4",
-							"symbol": "FP4",
-							"timestamp": 1633199400,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1633201800,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1633203300,
-							"length": 900,
-							"laps": false
-						},
-						"6": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1633272000,
-							"length": 1200,
-							"laps": false
-						},
-						"7": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1633291200,
-							"length": 5400,
-							"laps": false
-						}
-					}
-				},
-				"4": {
-					"round": 16,
-					"name": "TBA",
-					"circuit": 15,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1635073200,
-							"length": 10,
-							"laps": false
-						}
-					}
-				},
-				"5": {
-					"round": 17,
-					"name": "Algarve Grand Prix",
-					"circuit": 16,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1636106100,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1636121400,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1636192500,
-							"length": 2700,
-							"laps": false
-						},
-						"3": {
-							"name": "Free Practice 4",
-							"symbol": "FP4",
-							"timestamp": 1636205400,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1636207800,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1636209300,
-							"length": 900,
-							"laps": false
-						},
-						"6": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1636278000,
-							"length": 1200,
-							"laps": false
-						},
-						"7": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1636293600,
-							"length": 5400,
-							"laps": false
-						}
-					}
-				},
-				"6": {
-					"round": 18,
-					"name": "Valencian Community Grand Prix",
-					"circuit": 17,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1636707300,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1636722600,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1636793700,
-							"length": 2700,
-							"laps": false
-						},
-						"3": {
-							"name": "Free Practice 4",
-							"symbol": "FP4",
-							"timestamp": 1636806600,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1636809000,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1636810500,
-							"length": 900,
-							"laps": false
-						},
-						"6": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1636879200,
-							"length": 1200,
-							"laps": false
-						},
-						"7": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1636894800,
-							"length": 5400,
-							"laps": false
-						}
-					}
-				}
 			}
 		},
 		"3": {
 			"name": "World Endurance Championship",
 			"symbol": "WEC",
 			"events": {
-				"0": {
-					"round": 5,
-					"name": "6 Hours of Bahrain",
-					"circuit": 20,
-					"sessions":{
-						"0": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1635591600,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 6,
-					"name": "8 Hours of Bahrain",
-					"circuit": 20,
-					"sessions":{
-						"0": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1636200000,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 0,
-					"name": "6 Hours of Fuji",
-					"circuit": 21,
-					"sessions":{
-						"0": {
-							"name": "Cancelled",
-							"symbol": "C",
-							"timestamp": 1632654000,
-							"length": 1,
-							"laps": false
-						}
-					}
-				}
 			}
 		},
 		"4": {
 			"name": "World Touring Car Cup",
 			"symbol": "WTCR",
 			"events": {
-				"0": {
-					"round": 5,
-					"name": "Race of Czech Republic",
-					"circuit": 22,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1633863600,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 6,
-					"name": "Race of France",
-					"circuit": 23,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1634468400,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 7,
-					"name": "Race of Italy",
-					"circuit": 24,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1636286400,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"3": {
-					"round": 8,
-					"name": "Race of Russia",
-					"circuit": 5,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1638100800,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				}
+				
 			}
 		},
 		"5": {
@@ -1182,24 +575,80 @@ data = {
 					"circuit": 12,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1638694800,
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1638528300,
 							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1638544800,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race 1",
+							"symbol": "SR1",
+							"timestamp": 1638621000,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Sprint Race 2",
+							"symbol": "SR2",
+							"timestamp": 1638643200,
+							"length": 2700,
+							"laps": false
+						},
+						"4": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1638714300,
+							"length": 3600,
 							"laps": false
 						}
 					}
 				},
 				"3": {
 					"round": 8,
-					"name": "Abu Dhabi",
+					"name": "Yas Island",
 					"circuit": 13,
 					"sessions":{
 						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1639299600,
+							"name": "Free Practice",
+							"symbol": "FP",
+							"timestamp": 1639121700,
 							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1639146600,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race 1",
+							"symbol": "SR1",
+							"timestamp": 1639210800,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Sprint Race 2",
+							"symbol": "SR2",
+							"timestamp": 1639233900,
+							"length": 2700,
+							"laps": false
+						},
+						"4": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1639299600,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1210,751 +659,30 @@ data = {
 			"name": "Formula 3",
 			"symbol": "F3",
 			"events": {
-				"0": {
-					"round": 5,
-					"name": "Spa-Francorchamps",
-					"circuit": 0,
-					"sessions":{
-						"0": {
-							"name": "Free Practice",
-							"symbol": "FP",
-							"timestamp": 1630051500,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Qualifying",
-							"symbol": "Q",
-							"timestamp": 1630065300,
-							"length": 1800,
-							"laps": false
-						},
-						"2": {
-							"name": "Race 1",
-							"symbol": "R1",
-							"timestamp": 1630137900,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 2",
-							"symbol": "R2",
-							"timestamp": 1630166100,
-							"length": 2400,
-							"laps": false
-						},
-						"4": {
-							"name": "Race 3",
-							"symbol": "R3",
-							"timestamp": 1630226400,
-							"length": 2400,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 6,
-					"name": "Zandvoort",
-					"circuit": 1,
-					"sessions":{
-						"0": {
-							"name": "Free Practice",
-							"symbol": "FP",
-							"timestamp": 1630656300,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Qualifying",
-							"symbol": "Q",
-							"timestamp": 1630669800,
-							"length": 1800,
-							"laps": false
-						},
-						"2": {
-							"name": "Race 1",
-							"symbol": "R1",
-							"timestamp": 1630748100,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 2",
-							"symbol": "R2",
-							"timestamp": 1630770900,
-							"length": 2400,
-							"laps": false
-						},
-						"4": {
-							"name": "Race 3",
-							"symbol": "R3",
-							"timestamp": 1630831500,
-							"length": 2400,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 0,
-					"name": "Austin",
-					"circuit": 8,
-					"sessions":{
-						"0": {
-							"name": "Cancelled",
-							"symbol": "C",
-							"timestamp": 1635065100,
-							"length": 1,
-							"laps": false
-						}
-					}
-				},
-				"3": {
-					"round": 7,
-					"name": "Sochi",
-					"circuit": 5,
-					"sessions":{
-						"0": {
-							"name": "Free Practice",
-							"symbol": "FP",
-							"timestamp": 1632462900,
-							"length": 3300,
-							"laps": false
-						},
-						"1": {
-							"name": "Qualifying",
-							"symbol": "Q",
-							"timestamp": 1632477600,
-							"length": 1800,
-							"laps": false
-						},
-						"2": {
-							"name": "Race 1",
-							"symbol": "R1",
-							"timestamp": 1632548100,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 2",
-							"symbol": "R2",
-							"timestamp": 1632566400,
-							"length": 2400,
-							"laps": false
-						},
-						"4": {
-							"name": "Race 3",
-							"symbol": "R3",
-							"timestamp": 1632639300,
-							"length": 2400,
-							"laps": false
-						}
-					}
-				}
 			}
 		},
 		"7": {
 			"name": "W Series",
 			"symbol": "WS",
 			"events": {
-				"0": {
-					"round": 5,
-					"name": "Spa-Francorchamps",
-					"circuit": 0,
-					"sessions":{
-						"0": {
-							"name": "Practice",
-							"symbol": "P",
-							"timestamp": 1630061700,
-							"length": 1800,
-							"laps": false
-						},
-						"1": {
-							"name": "Qualifying",
-							"symbol": "Q",
-							"timestamp": 1630074600,
-							"length": 1800,
-							"laps": false
-						},
-						"2": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1630161000,
-							"length": 2100,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 6,
-					"name": "Zandvoort",
-					"circuit": 1,
-					"sessions":{
-						"0": {
-							"name": "Practice",
-							"symbol": "P",
-							"timestamp": 1630666500,
-							"length": 1800,
-							"laps": false
-						},
-						"1": {
-							"name": "Qualifying",
-							"symbol": "Q",
-							"timestamp": 1630679400,
-							"length": 1800,
-							"laps": false
-						},
-						"2": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1630765800,
-							"length": 2100,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 7,
-					"name": "Austin",
-					"circuit": 8,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1634999400,
-							"length": 15,
-							"laps": false
-						}
-					}
-				},
-				"3": {
-					"round": 8,
-					"name": "Mexico City",
-					"circuit": 9,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1635604200,
-							"length": 15,
-							"laps": false
-						}
-					}
-				}
 			}
 		},
 		"8": {
 			"name": "Deutsche Tourenwagen Masters",
 			"symbol": "DTM",
 			"events": {
-				"0": {
-					"round": 5,
-					"name": "Spielberg",
-					"circuit": 25,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1630663200,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1630672200,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1630740000,
-							"length": 1200,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 1",
-							"symbol": "R1",
-							"timestamp": 1630751400,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1630826400,
-							"length": 1200,
-							"laps": false
-						},
-						"5": {
-							"name": "Race 2",
-							"symbol": "R2",
-							"timestamp": 1630837800,
-							"length": 1800,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 6,
-					"name": "Assen",
-					"circuit": 26,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631870100,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631880900,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631949300,
-							"length": 1200,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 1",
-							"symbol": "R1",
-							"timestamp": 1631961000,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1632034800,
-							"length": 1200,
-							"laps": false
-						},
-						"5": {
-							"name": "Race 2",
-							"symbol": "R2",
-							"timestamp": 1632047400,
-							"length": 1800,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 7,
-					"name": "Hockenheim",
-					"circuit": 27,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1633077900,
-							"length": 2700,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1633091100,
-							"length": 2700,
-							"laps": false
-						},
-						"2": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1633159200,
-							"length": 1200,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 1",
-							"symbol": "R1",
-							"timestamp": 1633168200,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1633245600,
-							"length": 1200,
-							"laps": false
-						},
-						"5": {
-							"name": "Race 2",
-							"symbol": "R2",
-							"timestamp": 1633254600,
-							"length": 1800,
-							"laps": false
-						}
-					}
-				},
-				"3": {
-					"round": 8,
-					"name": "Nuremberg",
-					"circuit": 28,
-					"sessions":{
-						"0": {
-							"name": "TBA",
-							"symbol": "TBA",
-							"timestamp": 1633861800,
-							"length": 15,
-							"laps": false
-						}
-					}
-				}
 			}
 		},
 		"9": {
 			"name": "Moto2 World Championship",
 			"symbol": "Moto2",
 			"events": {
-				"0": {
-					"round": 12,
-					"name": "British Grand Prix",
-					"circuit": 4,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1630058100,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1630073400,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1630144500,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1630159800,
-							"length": 900,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1630161300,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1630227600,
-							"length": 1200,
-							"laps": false
-						},
-						"6": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1630243800,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 13,
-					"name": "Aragon Grand Prix",
-					"circuit": 14,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631264100,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631279400,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1631350500,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631365800,
-							"length": 900,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1631367300,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1631430600,
-							"length": 1200,
-							"laps": false
-						},
-						"6": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1631442000,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 14,
-					"name": "San Marino Grand Prix",
-					"circuit": 15,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631868900,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631884200,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1631955300,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631970600,
-							"length": 900,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1631972100,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1632035400,
-							"length": 1200,
-							"laps": false
-						},
-						"6": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1632046800,
-							"length": 2400,
-							"laps": false
-						}
-					}
-				}
 			}
 		},
 		"10": {
 			"name": "Moto3 World Championship",
 			"symbol": "Moto3",
 			"events": {
-				"0": {
-					"round": 12,
-					"name": "British Grand Prix",
-					"circuit": 4,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1630051200,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1630066500,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1630137600,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1630150500,
-							"length": 900,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1630152000,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1630224000,
-							"length": 1200,
-							"laps": false
-						},
-						"6": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1630232400,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"1": {
-					"round": 13,
-					"name": "Aragon Grand Prix",
-					"circuit": 14,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631257200,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631272500,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1631343600,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631356500,
-							"length": 900,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1631358000,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1631428800,
-							"length": 1200,
-							"laps": false
-						},
-						"6": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1631437200,
-							"length": 7200,
-							"laps": false
-						}
-					}
-				},
-				"2": {
-					"round": 14,
-					"name": "San Marino Grand Prix",
-					"circuit": 15,
-					"sessions":{
-						"0": {
-							"name": "Free Practice 1",
-							"symbol": "FP1",
-							"timestamp": 1631862000,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Free Practice 2",
-							"symbol": "FP2",
-							"timestamp": 1631877300,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Free Practice 3",
-							"symbol": "FP3",
-							"timestamp": 1631948400,
-							"length": 2400,
-							"laps": false
-						},
-						"3": {
-							"name": "Qualifying 1",
-							"symbol": "Q1",
-							"timestamp": 1631961300,
-							"length": 900,
-							"laps": false
-						},
-						"4": {
-							"name": "Qualifying 2",
-							"symbol": "Q2",
-							"timestamp": 1631962800,
-							"length": 900,
-							"laps": false
-						},
-						"5": {
-							"name": "Warm Up",
-							"symbol": "WU",
-							"timestamp": 1632033600,
-							"length": 1200,
-							"laps": false
-						},
-						"6": {
-							"name": "Race",
-							"symbol": "R",
-							"timestamp": 1632042000,
-							"length": 3800,
-							"laps": false
-						}
-					}
-				}
 			}
 		}
 	},

@@ -1,11 +1,12 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000*.8;
+upcoming = now+2592000*1;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
 maxHeight = 0;
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
+	imgtitle = series[i].name;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
 		timestamp = series[i].events[j].sessions[t].timestamp+21200;
@@ -13,7 +14,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			circuit = circuits[series[i].events[j].circuit];
-			$(".eventlist").append("<div  id='" + timestamp + "' class='card sortme'><div class=' card-header'><img class='card-img-top' src='assets/png/" + series[i].symbol + ".png'><h5 class='card-title text-center'>" + name + "</h5><h6 class='card-subtitle mb-2 text-muted text-center'><b>" + circuit.name + "</b></h6></div></div>");
+			$(".event-list-grid").append("<article id='" + timestamp + "' class='sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
 			sessions = series[i].events[j].sessions;
 			/*$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>Round " + series[i].events[j].round + "</p>");
 			$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>" + circuit.name + "</p>");*/
@@ -33,7 +34,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					else { green = ""; }
 				}
 				else { del="<del>"; green=""; }
-				if (session != "Cancelled") { timediv= "<p class='card-subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
+				if (session != "Cancelled") { timediv= "<p class='subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
 				$("#" + sha).append("<li class='list-group-item'>" + timediv + "<h6" + green + ">" + del + session + "</h6></li>");
 				
 			}
@@ -42,8 +43,8 @@ for (i=0; i<Object.keys(series).length; i++) {
 	}
 }
 
-var mylist = $('.eventlist');
-var listitems = mylist.children('div').get();
+var mylist = $('.event-list-grid');
+var listitems = mylist.children('article').get();
 listitems.sort(function(a, b) {
     var compA = $(a).attr('id').toUpperCase();
     var compB = $(b).attr('id').toUpperCase();
@@ -51,11 +52,4 @@ listitems.sort(function(a, b) {
 })
 $.each(listitems, function(idx, itm) {
     mylist.append(itm);
-});
-
-$(document).ready(function () {
-	maxHeight = maxHeight * 50;
-	cardHeight = maxHeight+130;
-	$("ul").height(maxHeight);
-	$(".card").height(cardHeight);
 });

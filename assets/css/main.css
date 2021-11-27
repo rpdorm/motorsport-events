@@ -1,7 +1,36 @@
-body { font-family: Roboto, Arial, sans-serif; padding-top: 0.1%; }
-h6 { margin: 0; }
-li { display: hidden; overflow: hidden; height: 55px; }
-nav { padding:10px; }
-.eventlist { overflow: auto; }
-.card { border: white; border-radius: 1rem; display: inline-block; overflow: hidden; float: left; margin: 0.1%; width:19.8%; min-width: 234px; }
-.card-header { height:130px; }
+p. main, body {
+  padding: 0;
+  margin: 0;
+  gap: 0;
+}
+
+main, body {
+  background-color: #222;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: .5em;
+}
+
+article {
+  width: 1fr;
+}
+
+.header {
+  background-color: #ddd;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+img { height: 16px; margin-right: .5em; }
+
+h5, h6 { color: #222; }
+
+footer {
+  background-color: #fff;
+  margin-top: 1.5em;
+  padding: 1em;
+  font-size: 11px;
+}
