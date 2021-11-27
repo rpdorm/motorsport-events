@@ -10,8 +10,28 @@ main, body {
 
 main {
   display: grid;
-  grid-template-columns: repeat(4,1fr);
   gap: .5em;
+}
+
+@media only screen and (max-width: 600px) {
+  main {
+    grid-template-columns: repeat(1,1fr);
+  }
+}
+@media only screen and (min-width: 600px) {
+  main {
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+@media only screen and (min-width: 1000px) {
+  main {
+    grid-template-columns: repeat(3,1fr);
+  }
+}
+@media only screen and (min-width: 1300px) {
+  main {
+    grid-template-columns: repeat(4,1fr);
+  }
 }
 
 article {
@@ -29,7 +49,7 @@ img { height: 16px; margin-right: .5em; }
 h5, h6 { color: #222; }
 
 footer {
-  background-color: #fff;
+  background-color: #ddd;
   margin-top: 1.5em;
   padding: 1em;
   font-size: 11px;
