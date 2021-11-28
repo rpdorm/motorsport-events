@@ -7,7 +7,7 @@ data = {
 			"events": {
 				"0": {
 					"round": 12,
-					"name": "Belgian Grand Prix",
+					"name": "Belgian GP",
 					"circuit": 0,
 					"sessions":{
 						"0": {
@@ -49,7 +49,7 @@ data = {
 				},
 				"1": {
 					"round": 13,
-					"name": "Dutch Grand Prix",
+					"name": "Dutch GP",
 					"circuit": 1,
 					"sessions":{
 						"0": {
@@ -91,7 +91,7 @@ data = {
 				},
 				"2": {
 					"round": 14,
-					"name": "Italian Grand Prix",
+					"name": "Italian GP",
 					"circuit": 2,
 					"sessions":{
 						"0": {
@@ -133,7 +133,7 @@ data = {
 				},
 				"3": {
 					"round": 15,
-					"name": "Russian Grand Prix",
+					"name": "Russian GP",
 					"circuit": 5,
 					"sessions":{
 						"0": {
@@ -175,7 +175,7 @@ data = {
 				},
 				"4": {
 					"round": 16,
-					"name": "Turkish Grand Prix",
+					"name": "Turkish GP",
 					"circuit": 6,
 					"sessions":{
 						"0": {
@@ -217,7 +217,7 @@ data = {
 				},
 				"5": {
 					"round": 17,
-					"name": "Japanese Grand Prix",
+					"name": "Japanese GP",
 					"circuit": 7,
 					"sessions":{
 						"0": {
@@ -231,7 +231,7 @@ data = {
 				},
 				"6": {
 					"round": 18,
-					"name": "United States Grand Prix",
+					"name": "United States GP",
 					"circuit": 8,
 					"sessions":{
 						"0": {
@@ -273,7 +273,7 @@ data = {
 				},
 				"7": {
 					"round": 19,
-					"name": "Mexico City Grand Prix",
+					"name": "Mexico City GP",
 					"circuit": 9,
 					"sessions":{
 						"0": {
@@ -315,7 +315,7 @@ data = {
 				},
 				"8": {
 					"round": 20,
-					"name": "São Paulo Grand Prix",
+					"name": "São Paulo GP",
 					"circuit": 10,
 					"sessions":{
 						"0": {
@@ -371,7 +371,7 @@ data = {
 				},
 				"10": {
 					"round": 22,
-					"name": "Saudi Arabian Grand Prix",
+					"name": "Saudi Arabian GP",
 					"circuit": 12,
 					"sessions":{
 						"0": {
@@ -413,7 +413,7 @@ data = {
 				},
 				"11": {
 					"round": 23,
-					"name": "Abu Dhabi Grand Prix",
+					"name": "Abu Dhabi GP",
 					"circuit": 13,
 					"sessions":{
 						"0": {
@@ -706,7 +706,7 @@ data = {
 					"circuit": 29,
 					"sessions":{
 						"0": {
-							"name": "TBA",
+							"name": "Schedule TBA",
 							"symbol": "TBA",
 							"timestamp": 1643371200,
 							"length": 1,
@@ -720,7 +720,7 @@ data = {
 					"circuit": 9,
 					"sessions":{
 						"0": {
-							"name": "TBA",
+							"name": "Schedule TBA",
 							"symbol": "TBA",
 							"timestamp": 1644667200,
 							"length": 1,
@@ -752,6 +752,62 @@ data = {
 							"symbol": "TBA",
 							"timestamp": 1647691200,
 							"length": 1,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//Dakar
+		"12": {
+			"name": "Dakar",
+			"symbol": "Dakar",
+			"events": {
+				"0": {
+					"round": 1,
+					"name": "Dakar 2022",
+					"circuit": 30,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1641110400,
+							"length": 24*60*60,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//IMSA SportsCar
+		"13": {
+			"name": "IMSA SportsCar",
+			"symbol": "IMSASC",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "Pole Award 100",
+					"circuit": 31,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1642968000,
+							"length": 6000,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 1,
+					"name": "Daytona 24h",
+					"circuit": 31,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1643486400,
+							"length": 86400,
 							"laps": false
 						}
 					}
@@ -879,6 +935,14 @@ data = {
 		"29": {
 			"name": "Diriyah Street Circuit",
 			"location": "Diriyah, Saudi Arabia"
+		},
+		"30": {
+			"name": "Ha'il - Jeddah",
+			"location": "Saudi Arabia"
+		},
+		"31": {
+			"name": "Daytona",
+			"location": "Daytona Beach, FL, USA"
 		}
 	}
 }

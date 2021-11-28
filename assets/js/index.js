@@ -1,5 +1,5 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000*3;
+upcoming = now+2592000*2.5;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;

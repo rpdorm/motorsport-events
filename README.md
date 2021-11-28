@@ -1,5 +1,5 @@
 Motorsport Events 2018-2021
 
-https://motorsport-events.netlify.com/
+https://motorsport-events.netlify.app
 
-All events might be subject to schedule changes and/or delays. * Official schedule yet to be released.
+All events might be subject to schedule changes and/or delays.
