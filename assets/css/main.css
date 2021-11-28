@@ -1,10 +1,9 @@
 body { font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-p. main, body {
+p, main, body {
   padding: 0;
   margin: 0;
   gap: 0;
 }
-
 main, body {
   background-color: #222;
 }
@@ -45,7 +44,7 @@ article {
   padding-bottom: .5em;
 }
 
-img { max-height: 26px; margin-right: .5em; }
+img { max-height: 28px; margin-right: .5rem; }
 
 h5, h6 { color: #222; }
 
@@ -54,10 +53,11 @@ h5 { text-shadow: 2px 2px #6c757d; }
 footer {
   display: grid;
   background-color: #fff;
-  margin-top: .5em;
-  padding: 1em;
+  margin-top: .5rem;
+  padding: 1rem;
   font-size: 11px;
   grid-template-columns: repeat(2,2fr);
+  padding-bottom: 1.5rem;
 }
 
 .donate {
