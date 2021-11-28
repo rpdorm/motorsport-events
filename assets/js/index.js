@@ -1,5 +1,5 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000*2.5;
+upcoming = now+2592000*2;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
@@ -16,8 +16,6 @@ for (i=0; i<Object.keys(series).length; i++) {
 			circuit = circuits[series[i].events[j].circuit];
 			$(".event-list-grid").append("<article id='" + timestamp + "' class='sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
 			sessions = series[i].events[j].sessions;
-			/*$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>Round " + series[i].events[j].round + "</p>");
-			$("#" + timestamp).append("<p class='card-subtitle mb-2 text-muted'>" + circuit.name + "</p>");*/
 			sha = sha256(series[i]+i+name+circuit);
 			$("#" + timestamp).append("<ul class='list-group list-group-flush' id='" + sha + "'>");
 			numberOfSessions=Object.keys(sessions).length;

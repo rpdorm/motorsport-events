@@ -765,14 +765,98 @@ data = {
 			"events": {
 				"0": {
 					"round": 1,
-					"name": "Dakar 2022",
+					"name": "Dakar",
 					"circuit": 30,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1641110400,
-							"length": 24*60*60,
+							"name": "Stage 1A - Jeddah > Hail",
+							"symbol": "S1A",
+							"timestamp": 1641016800,
+							"length": 36000,
+							"laps": false
+						},
+						"1": {
+							"name": "Stage 1B - Hail > Hail",
+							"symbol": "S1B",
+							"timestamp": 1641103200,
+							"length": 36000,
+							"laps": false
+						},
+						"2": {
+							"name": "Stage 2 - Hail > Al Artawiya",
+							"symbol": "S2",
+							"timestamp": 1641189600,
+							"length": 36000,
+							"laps": false
+						},
+						"3": {
+							"name": "Stage 3 - Al Artawiya > Al Qaysumah",
+							"symbol": "S3",
+							"timestamp": 1641276000,
+							"length": 36000,
+							"laps": false
+						},
+						"4": {
+							"name": "Stage 4 - Al Qaysumah > Riyadh",
+							"symbol": "S4",
+							"timestamp": 1641362400,
+							"length": 36000,
+							"laps": false
+						},
+						"5": {
+							"name": "Stage 5 - Riyadh > Riyadh",
+							"symbol": "S5",
+							"timestamp": 1641448800,
+							"length": 36000,
+							"laps": false
+						},
+						"6": {
+							"name": "Stage 6 - Riyadh > Riyadh",
+							"symbol": "S6",
+							"timestamp": 1641535200,
+							"length": 36000,
+							"laps": false
+						},
+						"7": {
+							"name": "Stage 7 - Riyadh > Al Dawadimi",
+							"symbol": "S7",
+							"timestamp": 1641708000,
+							"length": 36000,
+							"laps": false
+						},
+						"8": {
+							"name": "Stage 8 - Al Dawadimi > Wadi Ad Dawasir",
+							"symbol": "S8",
+							"timestamp": 1641794400,
+							"length": 36000,
+							"laps": false
+						},
+						"9": {
+							"name": "Stage 9 - Wadi Ad Dawasir > Wadi Ad Dawasir",
+							"symbol": "S9",
+							"timestamp": 1641880800,
+							"length": 36000,
+							"laps": false
+						},
+						"10": {
+							"name": "Stage 10 - Wadi Ad Dawasir > Bisha",
+							"symbol": "S10",
+							"timestamp": 1641967200,
+							"length": 36000,
+							"laps": false
+						},
+						"11": {
+							"name": "Stage 11 - Bisha > Bisha",
+							"symbol": "S11",
+							"timestamp": 1642053600,
+							"length": 36000,
+							"laps": false
+						},
+						"12": {
+							"name": "Stage 12 - Bisha > Jeddah",
+							"symbol": "S12",
+							"timestamp": 1642140000,
+							"length": 36000,
 							"laps": false
 						}
 					}
@@ -808,6 +892,27 @@ data = {
 							"symbol": "TBA",
 							"timestamp": 1643486400,
 							"length": 86400,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//WRC
+		"14": {
+			"name": "World Rally Championship",
+			"symbol": "WRC",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "Rallye Monte-Carlo",
+					"circuit": 32,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1642939200,
+							"length": 28800,
 							"laps": false
 						}
 					}
@@ -943,6 +1048,10 @@ data = {
 		"31": {
 			"name": "Daytona",
 			"location": "Daytona Beach, FL, USA"
+		},
+		"32": {
+			"name": "Monte Carlo",
+			"location": "Monaco"
 		}
 	}
 }

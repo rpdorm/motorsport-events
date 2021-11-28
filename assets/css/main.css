@@ -49,10 +49,12 @@ img { max-height: 26px; margin-right: .5em; }
 
 h5, h6 { color: #222; }
 
+h5 { text-shadow: 2px 2px #6c757d; }
+
 footer {
   display: grid;
   background-color: #fff;
-  margin-top: 1.5em;
+  margin-top: .5em;
   padding: 1em;
   font-size: 11px;
   grid-template-columns: repeat(2,2fr);
