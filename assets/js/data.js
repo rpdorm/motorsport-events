@@ -1042,7 +1042,7 @@ data = {
 			"location": "Diriyah, Saudi Arabia"
 		},
 		"30": {
-			"name": "Ha'il - Jeddah",
+			"name": "Saudi Arabia",
 			"location": "Saudi Arabia"
 		},
 		"31": {
