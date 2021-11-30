@@ -918,7 +918,91 @@ data = {
 					}
 				}
 			}
-		}
+		},
+		//IMSA SportsCar
+		"13": {
+			"name": "Supercars Championship",
+			"symbol": "SCC",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "Bathurst 1000",
+					"circuit": 33,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P1",
+							"timestamp": 1638399600,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P2",
+							"timestamp": 1638422700,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P3",
+							"timestamp": 1638445200,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P4",
+							"timestamp": 1638498600,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1638509700,
+							"length": 2400,
+							"laps": false
+						},
+						"5": {
+							"name": "Practice 5",
+							"symbol": "P5",
+							"timestamp": 1638573300,
+							"length": 3600,
+							"laps": false
+						},
+						"6": {
+							"name": "Practice 6",
+							"symbol": "P6",
+							"timestamp": 1638580500,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "Top Ten Shootout",
+							"symbol": "T10S",
+							"timestamp": 1638597900,
+							"length": 2700,
+							"laps": false
+						},
+						"8": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1638655800,
+							"length": 1200,
+							"laps": false
+						},
+						"9": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1638666900,
+							"length": 25200,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
 	},
 	"circuits": {
 		"0": {
@@ -1052,6 +1136,10 @@ data = {
 		"32": {
 			"name": "Monte Carlo",
 			"location": "Monaco"
+		},
+		"33": {
+			"name": "Mount Panorama",
+			"location": "Bathurst"
 		}
 	}
 }
