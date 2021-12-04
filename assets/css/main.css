@@ -1,4 +1,4 @@
-p, main, body {
+p, main, body, h6 {
   padding: 0;
   margin: 0;
   gap: 0;
@@ -17,6 +17,12 @@ main {
   gap: .5em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
+}
+
+hr {
+  margin: auto;
+  margin-top: 0.5rem;
+  max-width: 280px;
 }
 
 nav {
@@ -74,9 +80,14 @@ footer {
   padding-bottom: 1.5rem;
 }
 
+
 .donate {
   text-align: right;
   width: 1fr;
+}
+
+.list-group-item {
+  padding: .8rem;
 }
 
 del {
@@ -84,3 +95,5 @@ del {
   color: #6c757d;
   font-size: .8rem;
 }
+
+.subtitle { margin-bottom: .5rem; }

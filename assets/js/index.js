@@ -14,7 +14,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			circuit = circuits[series[i].events[j].circuit];
-			$(".event-list-grid").append("<article id='" + timestamp + "' class='sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
+			$(".event-list-grid").append("<article id='" + timestamp + "' class='sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
 			sessions = series[i].events[j].sessions;
 			sha = sha256(series[i]+i+name+circuit);
 			$("#" + timestamp).append("<ul class='list-group list-group-flush' id='" + sha + "'>");
@@ -32,7 +32,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					else { green = ""; }
 				}
 				else { del="<del>"; green=""; }
-				if (session != "Cancelled") { timediv= "<p class='subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
+				if (del == "") { timediv= "<p class='subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
 				$("#" + sha).append("<li class='list-group-item'>" + timediv + "<h6" + green + ">" + del + session + "</h6></li>");
 				
 			}
