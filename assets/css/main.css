@@ -13,6 +13,7 @@ main, body, nav {
 
 main {
   display: grid;
+  grid-auto-flow: row dense;
   gap: .5em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
@@ -76,4 +77,10 @@ footer {
 .donate {
   text-align: right;
   width: 1fr;
+}
+
+del {
+  font-weight: normal;
+  color: #6c757d;
+  font-size: .8rem;
 }

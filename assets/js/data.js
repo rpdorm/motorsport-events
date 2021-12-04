@@ -695,7 +695,7 @@ data = {
 			"events": {
 			}
 		},
-		//FE
+		//Formula E
 		"11": {
 			"name": "Formula E",
 			"symbol": "FE",
@@ -734,7 +734,7 @@ data = {
 					"circuit": 11,
 					"sessions":{
 						"0": {
-							"name": "TBA",
+							"name": "Schedule TBA",
 							"symbol": "TBA",
 							"timestamp": 1646481600,
 							"length": 1,
@@ -748,7 +748,7 @@ data = {
 					"circuit": 11,
 					"sessions":{
 						"0": {
-							"name": "TBA",
+							"name": "Schedule TBA",
 							"symbol": "TBA",
 							"timestamp": 1647691200,
 							"length": 1,
@@ -919,8 +919,8 @@ data = {
 				}
 			}
 		},
-		//IMSA SportsCar
-		"13": {
+		//Supercars Championship
+		"15": {
 			"name": "Supercars Championship",
 			"symbol": "SCC",
 			"events": {
@@ -1002,7 +1002,7 @@ data = {
 					}
 				}
 			}
-		},
+		}
 	},
 	"circuits": {
 		"0": {
