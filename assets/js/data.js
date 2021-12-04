@@ -874,9 +874,44 @@ data = {
 					"circuit": 31,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1642968000,
+							"name": "Practice 1",
+							"symbol": "P1",
+							"timestamp": 1642781700,
+							"length": 4500,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P2",
+							"timestamp": 1642799700,
+							"length": 4500,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P3",
+							"timestamp": 1642863600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P4",
+							"timestamp": 1642896000,
+							"length": 7200,
+							"laps": false
+						},
+						"4": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1642950000,
+							"length": 1200,
+							"laps": false
+						},
+						"5": {
+							"name": "Pole Award 1000",
+							"symbol": "R",
+							"timestamp": 1642964700,
 							"length": 6000,
 							"laps": false
 						}
@@ -888,9 +923,37 @@ data = {
 					"circuit": 31,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1643486400,
+							"name": "Practice 1",
+							"symbol": "P1",
+							"timestamp": 1643299500,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P2",
+							"timestamp": 1643313600,
+							"length": 6300,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P3",
+							"timestamp": 1643328900,
+							"length": 6300,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P4",
+							"timestamp": 1643386800,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1643481600,
 							"length": 86400,
 							"laps": false
 						}
