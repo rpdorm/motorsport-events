@@ -3,6 +3,7 @@ p, main, body, h6 {
   margin: 0;
   gap: 0;
 }
+
 body {
   font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -80,7 +81,6 @@ footer {
   grid-template-columns: repeat(2,2fr);
   padding-bottom: 1.5rem;
 }
-
 
 .donate {
   text-align: right;

@@ -958,6 +958,20 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"2": {
+					"round": 2,
+					"name": "12h of Sebring",
+					"circuit": 34,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647715200,
+							"length": 43200,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -1203,6 +1217,10 @@ data = {
 		"33": {
 			"name": "Mount Panorama",
 			"location": "Bathurst"
+		},
+		"34": {
+			"name": "Sebring",
+			"location": "Sebring, FL, USA"
 		}
 	}
 }
