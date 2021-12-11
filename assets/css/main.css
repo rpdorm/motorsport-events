@@ -34,29 +34,6 @@ nav {
 
 footer { font-size: 0.7rem }
 
-@media only screen and (max-width: 1080px) {
-  main {
-    grid-template-columns: repeat(1,1fr);
-  }
-  html { font-size: 2rem; }
-  footer { font-size: 0.35rem }
-}
-@media only screen and (min-width: 1080px) {
-  main {
-    grid-template-columns: repeat(2,1fr);
-  }
-}
-@media only screen and (min-width: 1200px) {
-  main {
-    grid-template-columns: repeat(3,1fr);
-  }
-}
-@media only screen and (min-width: 1300px) {
-  main {
-    grid-template-columns: repeat(4,1fr);
-  }
-}
-
 article {
   width: 1fr;
 }
@@ -98,3 +75,46 @@ del {
 }
 
 .subtitle { margin-bottom: .5rem; }
+
+
+
+
+
+@media only screen and (max-width: 1080px) {
+  main, footer {
+    grid-template-columns: repeat(1,1fr);
+    display: block;
+    margin: 0;
+    margin-top: .2rem;
+  }
+  html {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .footerDiv{
+    text-align: left;
+    width: 2fr;
+  }
+  .donate {
+    margin-top: 2rem;
+  }
+  a.navbar-brand {
+    width:  100%;
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 1081px) {
+  main {
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+@media only screen and (min-width: 1200px) {
+  main {
+    grid-template-columns: repeat(3,1fr);
+  }
+}
+@media only screen and (min-width: 1300px) {
+  main {
+    grid-template-columns: repeat(4,1fr);
+  }
+}
