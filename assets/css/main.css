@@ -85,7 +85,6 @@ del {
     grid-template-columns: repeat(1,1fr);
     display: block;
     margin: 0;
-    margin-top: .2rem;
   }
   html {
     font-size: 2rem;
@@ -97,6 +96,9 @@ del {
   }
   .donate {
     margin-top: 2rem;
+  }
+  article {
+    margin-bottom: .2rem;
   }
   a.navbar-brand {
     width:  100%;
