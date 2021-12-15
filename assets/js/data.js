@@ -986,10 +986,129 @@ data = {
 					"circuit": 32,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1642939200,
-							"length": 28800,
+							"name": "Shakedown - Sainte-Agnès > Peille",
+							"symbol": "SD",
+							"timestamp": 1642667400,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "SS1 - Luceram > Lantosque",
+							"symbol": "SS1",
+							"timestamp": 1642706280,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "SS2 - La Bollène-Vésubie > Moulinet",
+							"symbol": "SS2",
+							"timestamp": 1642710660,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "SS3 - Roure > Beuil",
+							"symbol": "SS3",
+							"timestamp": 1642752840,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "SS4 - Guillaumes > Péone > Valberg",
+							"symbol": "SS4",
+							"timestamp": 1642756620,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "SS5 - Val-de-Chalvagne > Entrevaux",
+							"symbol": "SS5",
+							"timestamp": 1642761300,
+							"length": 3600,
+							"laps": false
+						},
+						"6": {
+							"name": "SS6 - Roure > Beuil",
+							"symbol": "SS6",
+							"timestamp": 1642772580,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "SS7 - Guillaumes > Péone > Valberg",
+							"symbol": "SS7",
+							"timestamp": 1642775460,
+							"length": 3600,
+							"laps": false
+						},
+						"8": {
+							"name": "SS8 - Val-de-Chalvagne > Entrevaux",
+							"symbol": "SS8",
+							"timestamp": 1642778940,
+							"length": 3600,
+							"laps": false
+						},
+						"9": {
+							"name": "SS9 - Le Fugeret > Thorame-Haute",
+							"symbol": "SS9",
+							"timestamp": 1642835820,
+							"length": 3600,
+							"laps": false
+						},
+						"10": {
+							"name": "SS10 - Saint-Jeannet > Malijai",
+							"symbol": "SS10",
+							"timestamp": 1642842480,
+							"length": 3600,
+							"laps": false
+						},
+						"11": {
+							"name": "SS11 - Saint-Geniez > Thoard",
+							"symbol": "SS11",
+							"timestamp": 1642846560,
+							"length": 3600,
+							"laps": false
+						},
+						"12": {
+							"name": "SS12 - Saint-Jeannet > Malijai",
+							"symbol": "SS12",
+							"timestamp": 1642856880,
+							"length": 3600,
+							"laps": false
+						},
+						"13": {
+							"name": "SS13 - Saint-Geniez > Thoard",
+							"symbol": "SS13",
+							"timestamp": 1642860960,
+							"length": 3600,
+							"laps": false
+						},
+						"14": {
+							"name": "SS14 - La Penne > Collongues",
+							"symbol": "SS14",
+							"timestamp": 1642923900,
+							"length": 3600,
+							"laps": false
+						},
+						"15": {
+							"name": "SS15 - Briançonnet > Entrevaux",
+							"symbol": "SS15",
+							"timestamp": 1642928880,
+							"length": 3600,
+							"laps": false
+						},
+						"16": {
+							"name": "SS16 - La Penne > Collongues",
+							"symbol": "SS16",
+							"timestamp": 1642931580,
+							"length": 3600,
+							"laps": false
+						},
+						"17": {
+							"name": "SS17 - Briançonnet > Entrevaux",
+							"symbol": "SS17",
+							"timestamp": 1642936680,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1211,7 +1330,7 @@ data = {
 			"location": "Daytona Beach, FL, USA"
 		},
 		"32": {
-			"name": "Monte Carlo",
+			"name": "Monaco",
 			"location": "Monaco"
 		},
 		"33": {
