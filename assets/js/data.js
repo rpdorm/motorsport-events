@@ -1244,10 +1244,143 @@ data = {
 					"circuit": 51,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1645963200,
-							"length": 1,
+							"name": "Shakedown",
+							"symbol": "SD",
+							"timestamp": 1645689660,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "SS1 - Kroksjö",
+							"symbol": "SS1",
+							"timestamp": 1645774920,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "SS2 - Kamsjön",
+							"symbol": "SS2",
+							"timestamp": 1645779120,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "SS3 - Sävar",
+							"symbol": "SS3",
+							"timestamp": 1645784940,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "SS4 - Kroksjö",
+							"symbol": "SS4",
+							"timestamp": 1645796820,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "SS5 - Kamsjön",
+							"symbol": "SS5",
+							"timestamp": 1645801020,
+							"length": 3600,
+							"laps": false
+						},
+						"6": {
+							"name": "SS6 - Sävar",
+							"symbol": "SS6",
+							"timestamp": 1645806840,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "SS7 - Umeå Sprint",
+							"symbol": "SS7",
+							"timestamp": 1645810680,
+							"length": 3600,
+							"laps": false
+						},
+						"8": {
+							"name": "SS8 - Brattby",
+							"symbol": "SS8",
+							"timestamp": 1645858920,
+							"length": 3600,
+							"laps": false
+						},
+						"9": {
+							"name": "SS9 - TBA",
+							"symbol": "SS9",
+							"timestamp": 1645864140,
+							"length": 3600,
+							"laps": false
+						},
+						"10": {
+							"name": "SS10 - TBA",
+							"symbol": "SS10",
+							"timestamp": 1645869240,
+							"length": 3600,
+							"laps": false
+						},
+						"11": {
+							"name": "SS11 - Umeå",
+							"symbol": "SS11",
+							"timestamp": 1645873680,
+							"length": 3600,
+							"laps": false
+						},
+						"12": {
+							"name": "SS12 - Brattby",
+							"symbol": "SS12",
+							"timestamp": 1645882320,
+							"length": 3600,
+							"laps": false
+						},
+						"13": {
+							"name": "SS13 - TBA",
+							"symbol": "SS13",
+							"timestamp": 1645887540,
+							"length": 3600,
+							"laps": false
+						},
+						"14": {
+							"name": "SS14 - TBA",
+							"symbol": "SS14",
+							"timestamp": 1645892640,
+							"length": 3600,
+							"laps": false
+						},
+						"15": {
+							"name": "SS15 - Umeå",
+							"symbol": "SS15",
+							"timestamp": 1645897080,
+							"length": 3600,
+							"laps": false
+						},
+						"16": {
+							"name": "SS16 - Vindeln",
+							"symbol": "SS16",
+							"timestamp": 1645941600,
+							"length": 3600,
+							"laps": false
+						},
+						"17": {
+							"name": "SS17 - Sarsjöliden",
+							"symbol": "SS17",
+							"timestamp": 1645945680,
+							"length": 3600,
+							"laps": false
+						},
+						"18": {
+							"name": "SS18 - Vindeln",
+							"symbol": "SS18",
+							"timestamp": 1645950960,
+							"length": 3600,
+							"laps": false
+						},
+						"19": {
+							"name": "SS19 - Sarsjöliden Power Stage",
+							"symbol": "SS19",
+							"timestamp": 1645960680,
+							"length": 3600,
 							"laps": false
 						}
 					}
