@@ -418,6 +418,34 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"5": {
+					"round": 5,
+					"name": "6h of Fuji",
+					"circuit": 21,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662894000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 6,
+					"name": "8h of Bahrain",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1665486000,
+							"length": 1,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -506,27 +534,111 @@ data = {
 				},
 				"2": {
 					"round": 4,
-					"name": "TBA",
-					"circuit": 11,
+					"name": "Rome ePrix",
+					"circuit": 45,
 					"sessions":{
 						"0": {
 							"name": "Schedule TBA",
 							"symbol": "TBA",
-							"timestamp": 1646481600,
+							"timestamp": 1649502000,
 							"length": 1,
 							"laps": false
 						}
 					}
 				},
 				"3": {
-					"round": 5,
-					"name": "TBA (China)",
+					"round": 6,
+					"name": "Monaco ePrix",
+					"circuit": 32,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1651316400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 7,
+					"name": "Berlin ePrix",
+					"circuit": 46,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1652526000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 9,
+					"name": "Jakarta ePrix",
 					"circuit": 11,
 					"sessions":{
 						"0": {
 							"name": "Schedule TBA",
 							"symbol": "TBA",
-							"timestamp": 1647691200,
+							"timestamp": 1654340400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 10,
+					"name": "Vancouver ePrix",
+					"circuit": 47,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656759600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 11,
+					"name": "New York ePrix",
+					"circuit": 48,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1657969200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 13,
+					"name": "London ePrix",
+					"circuit": 49,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659178800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 15,
+					"name": "Seoul ePrix",
+					"circuit": 50,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1660388400,
 							"length": 1,
 							"laps": false
 						}
@@ -1079,6 +1191,31 @@ data = {
 		"44": {
 			"name": "Circuit de la Sarthe",
 			"location": "Le Mans, France"
+		},
+		"45": {
+			"name": "Circuito Cittadino dell'EUR",
+			"location": "Rome, Italy"
+		},
+		"46": {
+			"name": "Tempelhof Airport Street Circuit",
+			"location": "Berlin, Germany"
+		},
+		"47": {
+			"name": "Vancouver Street Circuit",
+			"location": "Vancouver, Canada"
+		},
+		"48": {
+			"name": "Brooklyn Street Circuit",
+			"location": "New York, NY, USA"
+		},
+		"49": {
+			"name": "ExCeL London",
+			"location": "London, England"
+		},
+		"50": {
+			"name": "Seoul Street Circuit",
+			"location": "Seoul, South Korea"
 		}
 	}
 }
+
