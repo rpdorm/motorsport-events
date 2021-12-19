@@ -1,6 +1,10 @@
 now = Math.floor(Date.now()/1000);
-months = 2;
-upcoming = now+2592000*months;
+if ($(location).attr("hash") == "#show1week") { nWeeks = 1; }
+else if ($(location).attr("hash") == "#show1month") { nWeeks = 4; }
+else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; }
+else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; }
+else { nWeeks = 6; }
+upcoming = now+604800*nWeeks;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
@@ -47,7 +51,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 }
 $(".nEvents").append(nEvents);
 $(".nSessions").append(nSessions);
-$(".months").append(months);
+$(".nWeeks").append(nWeeks);
 
 var mylist = $('.event-list-grid');
 var listitems = mylist.children('article').get();
