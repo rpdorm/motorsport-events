@@ -334,7 +334,244 @@ data = {
 			"name": "IndyCar Series",
 			"symbol": "IndyCar",
 			"events": {
-				
+				"0": {
+					"round": 1,
+					"name": "GP of St. Petersburg",
+					"circuit": 62,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645963200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Texas 600",
+					"circuit": 63,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647777600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "GP of Long Beach",
+					"circuit": 12,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1649588400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 4,
+					"name": "GP of Alabama",
+					"circuit": 64,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1651402800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 5,
+					"name": "GP of Indianapolis",
+					"circuit": 65,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1652526000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 6,
+					"name": "Indy 500",
+					"circuit": 65,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653822000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 7,
+					"name": "Detroit GP",
+					"circuit": 66,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1654426800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 8,
+					"name": "GP at Road America",
+					"circuit": 67,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1655031600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 9,
+					"name": "Indy 200 at Mid-Ohio",
+					"circuit": 68,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656846000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 10,
+					"name": "Indy Toronto",
+					"circuit": 69,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658055600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"10": {
+					"round": 11,
+					"name": "Iowa 250",
+					"circuit": 70,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658574000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"11": {
+					"round": 12,
+					"name": "Iowa 300",
+					"circuit": 70,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658660400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"12": {
+					"round": 13,
+					"name": "Grand Prix of Indianapolis",
+					"circuit": 65,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659178800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"13": {
+					"round": 14,
+					"name": "Nashville Grand Prix",
+					"circuit": 71,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659870000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"14": {
+					"round": 15,
+					"name": "Illinois 500",
+					"circuit": 72,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1660993200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"15": {
+					"round": 16,
+					"name": "GP of Portland",
+					"circuit": 3,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662289200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"16": {
+					"round": 17,
+					"name": "GP of Monterey",
+					"circuit": 18,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662894000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//MotoGP
@@ -1413,7 +1650,50 @@ data = {
 		"61": {
 			"name": "Japan",
 			"location": "Japan"
+		},
+		"62": {
+			"name": "Streets of St. Petersburg",
+			"location": "St. Petersburg, FL, USA"
+		},
+		"63": {
+			"name": "Texas Motor Speedway",
+			"location": "Fort Worth, TX, USA"
+		},
+		"64": {
+			"name": "Barber Motorsports Park",
+			"location": "Birmingham, AL, USA"
+		},
+		"65": {
+			"name": "Indianapolis",
+			"location": "Indianapolis, IN, USA"
+		},
+		"66": {
+			"name": "Belle Isle Street Circuit",
+			"location": "Detroit, MI, USA"
+		},
+		"67": {
+			"name": "Road America",
+			"location": "Elkhart Lake, WI, USA"
+		},
+		"68": {
+			"name": "Mid-Ohio Sports Car Course",
+			"location": "Lexington, OH, USA"
+		},
+		"69": {
+			"name": "Toronto Exhibition Place",
+			"location": "Toronto, Canada"
+		},
+		"70": {
+			"name": "Iowa Speedway",
+			"location": "Newton, IA, USA"
+		},
+		"71": {
+			"name": "Nashville Street Circuit",
+			"location": "Nashville, TN, USA"
+		},
+		"72": {
+			"name": "World Wide Technology Raceway",
+			"location": "Madison, IL, USA"
 		}
 	}
 }
-
