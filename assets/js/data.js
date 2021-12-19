@@ -869,7 +869,7 @@ data = {
 			"symbol": "WRC",
 			"events": {
 				"0": {
-					"round": 0,
+					"round": 1,
 					"name": "Rallye Monte-Carlo",
 					"circuit": 32,
 					"sessions":{
@@ -997,6 +997,160 @@ data = {
 							"symbol": "SS17",
 							"timestamp": 1642936680,
 							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Rally Sweden",
+					"circuit": 51,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645963200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "Croatia Rally",
+					"circuit": 52,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1650798000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 4,
+					"name": "Rally de Portugal",
+					"circuit": 53,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653217200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 5,
+					"name": "Rally Italia Sardegna",
+					"circuit": 54,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1654426800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 6,
+					"name": "Safari Rally Kenya",
+					"circuit": 55,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656241200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 7,
+					"name": "Rally Estonia",
+					"circuit": 56,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658055600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 8,
+					"name": "Rally Finland",
+					"circuit": 57,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659870000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 10,
+					"name": "Acropolis Rally",
+					"circuit": 58,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662894000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 11,
+					"name": "Rally New Zealand",
+					"circuit": 59,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1664708400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"10": {
+					"round": 12,
+					"name": "Rally Catalunya",
+					"circuit": 60,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1666522800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"11": {
+					"round": 13,
+					"name": "Rally Japan",
+					"circuit": 61,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1668340800,
+							"length": 1,
 							"laps": false
 						}
 					}
@@ -1215,6 +1369,50 @@ data = {
 		"50": {
 			"name": "Seoul Street Circuit",
 			"location": "Seoul, South Korea"
+		},
+		"51": {
+			"name": "Sweden",
+			"location": "Sweden"
+		},
+		"52": {
+			"name": "Croatia",
+			"location": "Croatia"
+		},
+		"53": {
+			"name": "Portugal",
+			"location": "Portugal"
+		},
+		"54": {
+			"name": "Sardinia",
+			"location": "Sardinia, Italy"
+		},
+		"55": {
+			"name": "Kenya",
+			"location": "Kenya"
+		},
+		"56": {
+			"name": "Estonia",
+			"location": "Estonia"
+		},
+		"57": {
+			"name": "Finland",
+			"location": "Finland"
+		},
+		"58": {
+			"name": "Greece",
+			"location": "Greece"
+		},
+		"59": {
+			"name": "New Zealand",
+			"location": "New Zealand"
+		},
+		"60": {
+			"name": "Catalonia",
+			"location": "Catalonia, Spain"
+		},
+		"61": {
+			"name": "Japan",
+			"location": "Japan"
 		}
 	}
 }
