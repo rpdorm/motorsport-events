@@ -1601,6 +1601,34 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"3": {
+					"round": 2,
+					"name": "California 400",
+					"circuit": 74,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645963200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 3,
+					"name": "Las Vegas 400",
+					"circuit": 75,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1646568000,
+							"length": 1,
+							"laps": false
+						}
+					}
 				}
 			}
 		}
@@ -1901,6 +1929,14 @@ data = {
 		"73": {
 			"name": "Los Angeles Memorial Coliseum",
 			"location": "LA, CA, USA"
+		},
+		"74": {
+			"name": "California Speedway",
+			"location": "Fontana, CA, USA"
+		},
+		"75": {
+			"name": "Las Vegas Motor Speedway",
+			"location": "Las Vegas, NV, USA"
 		}
 	}
 }

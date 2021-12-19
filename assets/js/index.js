@@ -1,9 +1,12 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000*2;
+months = 2;
+upcoming = now+2592000*months;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
 maxHeight = 0;
+nSessions = 0;
+nEvents = 0;
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
 	imgtitle = series[i].name;
@@ -15,6 +18,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 			name = series[i].events[j].name;
 			circuit = circuits[series[i].events[j].circuit];
 			$(".event-list-grid").append("<article id='" + timestamp + "' class='" + shatimestamp + " sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
+			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(series[i].name + "-" + i + "-" + name + "-" + circuit.name);
 			$("." + shatimestamp).append("<ul class='list-group list-group-flush' id='" + sha + "'>");
@@ -34,12 +38,16 @@ for (i=0; i<Object.keys(series).length; i++) {
 				else { del="<del>"; green=""; }
 				if (del == "") { timediv= "<p class='subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
 				$("#" + sha).append("<li class='list-group-item'>" + timediv + "<h6" + green + ">" + del + session + "</h6></li>");
+				nSessions++;
 				
 			}
 			$("." + shatimestamp).append("</ul>");
 		}
 	}
 }
+$(".nEvents").append(nEvents);
+$(".nSessions").append(nSessions);
+$(".months").append(months);
 
 var mylist = $('.event-list-grid');
 var listitems = mylist.children('article').get();
