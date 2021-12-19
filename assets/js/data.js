@@ -1533,6 +1533,76 @@ data = {
 			"symbol": "SCC",
 			"events": {
 			}
+		},
+		//NASCAR
+		"16": {
+			"name": "NASCAR Cup Series",
+			"symbol": "NCS",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "The Clash",
+					"circuit": 73,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1644080400,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1644109200,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying Heat Races",
+							"symbol": "QHR",
+							"timestamp": 1644177600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Main Event",
+							"symbol": "ME",
+							"timestamp": 1644188400,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 0,
+					"name": "Daytona Duels",
+					"circuit": 31,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645099200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 1,
+					"name": "Daytona 500",
+					"circuit": 31,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645358400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
+			}
 		}
 	},
 	"circuits": {
@@ -1827,6 +1897,10 @@ data = {
 		"72": {
 			"name": "World Wide Technology Raceway",
 			"location": "Madison, IL, USA"
+		},
+		"73": {
+			"name": "Los Angeles Memorial Coliseum",
+			"location": "LA, CA, USA"
 		}
 	}
 }
