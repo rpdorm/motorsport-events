@@ -5,6 +5,328 @@ data = {
 			"name": "Formula 1",
 			"symbol": "F1",
 			"events": {
+				"0": {
+					"round": 1,
+					"name": "Bahrain GP",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647777600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Saudi Arabian GP",
+					"circuit": 12,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1648378800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "Australian GP",
+					"circuit": 35,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1649588400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 4,
+					"name": "Emilia Romagna GP",
+					"circuit": 36,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1650798000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 5,
+					"name": "Miami GP",
+					"circuit": 37,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1652007600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 6,
+					"name": "Spanish GP",
+					"circuit": 38,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653217200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 7,
+					"name": "Monaco GP",
+					"circuit": 32,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653822000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 8,
+					"name": "Azerbaijan GP",
+					"circuit": 39,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1655031600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 9,
+					"name": "Canadian GP",
+					"circuit": 40,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1655636400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 10,
+					"name": "British GP",
+					"circuit": 4,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656846000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"10": {
+					"round": 11,
+					"name": "Austrian GP",
+					"circuit": 25,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1657450800	,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"11": {
+					"round": 12,
+					"name": "French GP",
+					"circuit": 41,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658660400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"12": {
+					"round": 13,
+					"name": "Hungarian GP",
+					"circuit": 42,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659265200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"13": {
+					"round": 14,
+					"name": "Belgian GP",
+					"circuit": 0,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1661684400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"14": {
+					"round": 15,
+					"name": "Dutch GP",
+					"circuit": 1,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662289200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"15": {
+					"round": 16,
+					"name": "Italian GP",
+					"circuit": 2,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662894000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"16": {
+					"round": 17,
+					"name": "Russian GP",
+					"circuit": 5,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1664103600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"17": {
+					"round": 18,
+					"name": "Singapore GP",
+					"circuit": 43,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1664708400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"18": {
+					"round": 19,
+					"name": "Japanese GP",
+					"circuit": 7,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1665313200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"19": {
+					"round": 20,
+					"name": "United States GP",
+					"circuit": 8,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1666522800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"20": {
+					"round": 21,
+					"name": "Mexico City GP",
+					"circuit": 9,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1667131200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"21": {
+					"round": 22,
+					"name": "São Paulo GP",
+					"circuit": 10,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1668340800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"22": {
+					"round": 23,
+					"name": "Abu Dhabi GP",
+					"circuit": 13,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1668945600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//IndyCar
@@ -27,6 +349,76 @@ data = {
 			"name": "World Endurance Championship",
 			"symbol": "WEC",
 			"events": {
+				"0": {
+					"round": 0,
+					"name": "Prologue",
+					"circuit": 34,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647172800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 1,
+					"name": "1000 Miles of Sebring",
+					"circuit": 34,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647604800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 2,
+					"name": "6h of Spa",
+					"circuit": 0,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1651921200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 3,
+					"name": "Le Mans 24h",
+					"circuit": 44,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1654945200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 4,
+					"name": "6h of Monza",
+					"circuit": 2,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1657450800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//WTCR
@@ -647,6 +1039,46 @@ data = {
 		"34": {
 			"name": "Sebring",
 			"location": "Sebring, FL, USA"
+		},
+		"35": {
+			"name": "Albert Park",
+			"location": "Melbourne, Australia"
+		},
+		"36": {
+			"name": "Imola",
+			"location": "Imola, Italy"
+		},
+		"37": {
+			"name": "Miami",
+			"location": "Miami, FL, USA"
+		},
+		"38": {
+			"name": "Circuit de Catalunya",
+			"location": "Montmeló, Catalonia, Spain"
+		},
+		"39": {
+			"name": "Baku Street Circuit",
+			"location": "Baku, Azerbaijan"
+		},
+		"40": {
+			"name": "Circuit Gilles Villeneuve",
+			"location": "Montrèal, Canada"
+		},
+		"41": {
+			"name": "Circuit Paul Ricard",
+			"location": "Le Castellet, France"
+		},
+		"42": {
+			"name": "Hungaroring",
+			"location": "Mogyoród, Hungary"
+		},
+		"43": {
+			"name": "Marina Bay Street Circuit",
+			"location": "Singapore"
+		},
+		"44": {
+			"name": "Circuit de la Sarthe",
+			"location": "Le Mans, France"
 		}
 	}
 }

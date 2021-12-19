@@ -1,5 +1,5 @@
 now = Math.floor(Date.now()/1000);
-upcoming = now+2592000*1.6;
+upcoming = now+2592000*12;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;
@@ -10,14 +10,14 @@ for (i=0; i<Object.keys(series).length; i++) {
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
 		timestamp = series[i].events[j].sessions[t].timestamp+21200;
-		shatimestamp = sha256("sha" + series[i] + timestamp);
+		shatimestamp = sha256("sha" + series[i].name + timestamp);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			circuit = circuits[series[i].events[j].circuit];
-			$(".event-list-grid").append("<article id='" + timestamp + "' class='sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
+			$(".event-list-grid").append("<article id='" + timestamp + "' class='" + shatimestamp + " sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
 			sessions = series[i].events[j].sessions;
-			sha = sha256(series[i]+i+name+circuit);
-			$("#" + timestamp).append("<ul class='list-group list-group-flush' id='" + sha + "'>");
+			sha = sha256(series[i].name + "-" + i + "-" + name + "-" + circuit.name);
+			$("." + shatimestamp).append("<ul class='list-group list-group-flush' id='" + sha + "'>");
 			numberOfSessions=Object.keys(sessions).length;
 			if (maxHeight < numberOfSessions) { maxHeight = numberOfSessions; }
 			for (k=0; k<numberOfSessions; k++) {
@@ -36,7 +36,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				$("#" + sha).append("<li class='list-group-item'>" + timediv + "<h6" + green + ">" + del + session + "</h6></li>");
 				
 			}
-			$("#" + shatimestamp).append("</ul>");
+			$("." + shatimestamp).append("</ul>");
 		}
 	}
 }
