@@ -699,6 +699,202 @@ data = {
 			"name": "Formula 2",
 			"symbol": "F2",
 			"events": {
+				"0": {
+					"round": 1,
+					"name": "Sakhir",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647766800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Jeddah",
+					"circuit": 12,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1648368000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "Imola",
+					"circuit": 36,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1650787200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 4,
+					"name": "Barcelona",
+					"circuit": 38,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653206400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 5,
+					"name": "Monaco",
+					"circuit": 32,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653811200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 6,
+					"name": "Baku",
+					"circuit": 39,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1655020800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 7,
+					"name": "Silverstone",
+					"circuit": 4,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656835200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 8,
+					"name": "Spielberg",
+					"circuit": 25,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1657440000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 9,
+					"name": "Mogyoród",
+					"circuit": 42,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659254400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 10,
+					"name": "Stavelot",
+					"circuit": 0,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1661673600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"10": {
+					"round": 11,
+					"name": "Zandvoort",
+					"circuit": 1,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662278400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"11": {
+					"round": 12,
+					"name": "Monza",
+					"circuit": 2,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662883200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"12": {
+					"round": 13,
+					"name": "Sochi",
+					"circuit": 5,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1664092800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"13": {
+					"round": 14,
+					"name": "Abu Dhabi",
+					"circuit": 13,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1668934800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//F3
@@ -706,6 +902,132 @@ data = {
 			"name": "Formula 3",
 			"symbol": "F3",
 			"events": {
+				"0": {
+					"round": 1,
+					"name": "Sakhir",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647766800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Imola",
+					"circuit": 36,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1650787200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "Barcelona",
+					"circuit": 38,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653206400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 4,
+					"name": "Silverstone",
+					"circuit": 4,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656835200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 5,
+					"name": "Spielberg",
+					"circuit": 25,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1657440000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 6,
+					"name": "Mogyoród",
+					"circuit": 42,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659254400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 7,
+					"name": "Stavelot",
+					"circuit": 0,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1661673600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 8,
+					"name": "Zandvoort",
+					"circuit": 1,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662278400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 9,
+					"name": "Monza",
+					"circuit": 2,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1662883200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//WSeries
