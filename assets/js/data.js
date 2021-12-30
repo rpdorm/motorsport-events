@@ -579,6 +579,48 @@ data = {
 			"name": "MotoGP",
 			"symbol": "MotoGP",
 			"events": {
+				"0": {
+					"round": 0,
+					"name": "Pre-season Testing",
+					"circuit": 76,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1644127200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 0,
+					"name": "Pre-season Testing",
+					"circuit": 77,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1644732000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 0,
+					"name": "Pre-season Testing",
+					"circuit": 16,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645430400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//WEC
@@ -1218,92 +1260,92 @@ data = {
 						"0": {
 							"name": "Stage 1A - Jeddah > Hail",
 							"symbol": "S1A",
-							"timestamp": 1641016800,
-							"length": 36000,
+							"timestamp": 1641013200,
+							"length": 21600,
 							"laps": false
 						},
 						"1": {
 							"name": "Stage 1B - Hail > Hail",
 							"symbol": "S1B",
-							"timestamp": 1641103200,
-							"length": 36000,
+							"timestamp": 1641099600,
+							"length": 21600,
 							"laps": false
 						},
 						"2": {
 							"name": "Stage 2 - Hail > Al Artawiya",
 							"symbol": "S2",
-							"timestamp": 1641189600,
-							"length": 36000,
+							"timestamp": 1641186000,
+							"length": 21600,
 							"laps": false
 						},
 						"3": {
 							"name": "Stage 3 - Al Artawiya > Al Qaysumah",
 							"symbol": "S3",
-							"timestamp": 1641276000,
-							"length": 36000,
+							"timestamp": 1641272400,
+							"length": 21600,
 							"laps": false
 						},
 						"4": {
 							"name": "Stage 4 - Al Qaysumah > Riyadh",
 							"symbol": "S4",
-							"timestamp": 1641362400,
-							"length": 36000,
+							"timestamp": 1641358800,
+							"length": 21600,
 							"laps": false
 						},
 						"5": {
 							"name": "Stage 5 - Riyadh > Riyadh",
 							"symbol": "S5",
-							"timestamp": 1641448800,
-							"length": 36000,
+							"timestamp": 1641445200,
+							"length": 21600,
 							"laps": false
 						},
 						"6": {
 							"name": "Stage 6 - Riyadh > Riyadh",
 							"symbol": "S6",
-							"timestamp": 1641535200,
-							"length": 36000,
+							"timestamp": 1641531600,
+							"length": 21600,
 							"laps": false
 						},
 						"7": {
 							"name": "Stage 7 - Riyadh > Al Dawadimi",
 							"symbol": "S7",
-							"timestamp": 1641708000,
-							"length": 36000,
+							"timestamp": 1641704400,
+							"length": 21600,
 							"laps": false
 						},
 						"8": {
 							"name": "Stage 8 - Al Dawadimi > Wadi Ad Dawasir",
 							"symbol": "S8",
-							"timestamp": 1641794400,
-							"length": 36000,
+							"timestamp": 1641790800,
+							"length": 21600,
 							"laps": false
 						},
 						"9": {
 							"name": "Stage 9 - Wadi Ad Dawasir > Wadi Ad Dawasir",
 							"symbol": "S9",
-							"timestamp": 1641880800,
-							"length": 36000,
+							"timestamp": 1641877200,
+							"length": 21600,
 							"laps": false
 						},
 						"10": {
 							"name": "Stage 10 - Wadi Ad Dawasir > Bisha",
 							"symbol": "S10",
-							"timestamp": 1641967200,
-							"length": 36000,
+							"timestamp": 1641963600,
+							"length": 21600,
 							"laps": false
 						},
 						"11": {
 							"name": "Stage 11 - Bisha > Bisha",
 							"symbol": "S11",
-							"timestamp": 1642053600,
-							"length": 36000,
+							"timestamp": 1642050000,
+							"length": 21600,
 							"laps": false
 						},
 						"12": {
 							"name": "Stage 12 - Bisha > Jeddah",
 							"symbol": "S12",
-							"timestamp": 1642140000,
-							"length": 36000,
+							"timestamp": 1642136400,
+							"length": 21600,
 							"laps": false
 						}
 					}
@@ -2259,6 +2301,14 @@ data = {
 		"75": {
 			"name": "Las Vegas Motor Speedway",
 			"location": "Las Vegas, NV, USA"
+		},
+		"76": {
+			"name": "Sepang",
+			"location": "Sepang, Malaysia"
+		},
+		"77": {
+			"name": "Mandalika Street Circuit",
+			"location": "Central Lombok Regency, West Nusa Tenggara, Indonesia"
 		}
 	}
 }
