@@ -326,6 +326,34 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"23": {
+					"round": 0,
+					"name": "Pre-season Testing",
+					"circuit": 38,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1645790400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"24": {
+					"round": 0,
+					"name": "Pre-season Testing",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1647086400,
+							"length": 1,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -1911,14 +1939,14 @@ data = {
 						"0": {
 							"name": "Practice",
 							"symbol": "P",
-							"timestamp": 1644080400,
+							"timestamp": 1644082200,
 							"length": 3600,
 							"laps": false
 						},
 						"1": {
 							"name": "Qualifying",
 							"symbol": "Q",
-							"timestamp": 1644109200,
+							"timestamp": 1644111000,
 							"length": 3600,
 							"laps": false
 						},
