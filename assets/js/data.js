@@ -1706,7 +1706,7 @@ data = {
 							"laps": false
 						},
 						"5": {
-							"name": "Pole Award 1000",
+							"name": "Pole Award 100",
 							"symbol": "R",
 							"timestamp": 1642964700,
 							"length": 6000,
