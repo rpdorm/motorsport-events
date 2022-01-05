@@ -48,7 +48,7 @@ img { max-height: 28px; margin-right: .5rem; }
 
 h5, h6 { color: #222; }
 
-h5 { text-shadow: 2px 1px #6c757d; }
+h5 { text-shadow: 1px 1px #6c757d; }
 
 footer {
   display: grid;
