@@ -2308,355 +2308,443 @@ data = {
 	"circuits": {
 		"0": {
 			"name": "Spa-Francorchamps",
-			"location": "Stavelot, Belgium"
+			"location": "Stavelot, Belgium",
+			"url": ""
 		},
 		"1": {
 			"name": "Zandvoort",
-			"location": "Zandvoort, Netherlands"
+			"location": "Zandvoort, Netherlands",
+			"url": "https://www.racingcircuits.info/europe/netherlands/zandvoort.html"
 		},
 		"2": {
 			"name": "Monza",
-			"location": "Monza, Italy"
+			"location": "Monza, Italy",
+			"url": "https://www.racingcircuits.info/europe/italy/monza.html"
 		},
 		"3": {
 			"name": "Portland International Raceway",
-			"location": "Portland, USA"
+			"location": "Portland, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/portland-international-raceway.html"
 		},
 		"4": {
 			"name": "Silverstone",
-			"location": "Silverstone, United Kingdom"
+			"location": "Silverstone, United Kingdom",
+			"url": "https://www.racingcircuits.info/europe/united-kingdom/silverstone.html"
 		},
 		"5": {
 			"name": "Sochi",
-			"location": "Sochi, Russia"
+			"location": "Sochi, Russia",
+			"url": "https://www.racingcircuits.info/europe/russia/sochi.html"
 		},
 		"6": {
 			"name": "Istanbul Park",
-			"location": "Istanbul, Turkey"
+			"location": "Istanbul, Turkey",
+			"url": "https://www.racingcircuits.info/asia/turkey/istanbul-park.html"
 		},
 		"7": {
 			"name": "Suzuka",
-			"location": "Suzuka, Japan"
+			"location": "Suzuka, Japan",
+			"url": "https://www.racingcircuits.info/asia/japan/suzuka.html"
 		},
 		"8": {
 			"name": "Circuit of the Americas",
-			"location": "Austin, USA"
+			"location": "Austin, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/circuit-of-the-americas.html"
 		},
 		"9": {
-			"name": "Autódromo Hermanos Rodríguez",
-			"location": "Mexico City, Mexico"
+			"name": "Mexico City",
+			"location": "Mexico City, Mexico",
+			"url": "https://www.racingcircuits.info/north-america/mexico/mexico-city.html"
 		},
 		"10": {
 			"name": "Interlagos",
-			"location": "São Paulo, Brazil"
+			"location": "São Paulo, Brazil",
+			"url": "https://www.racingcircuits.info/south-america/brazil/interlagos.html"
 		},
 		"11": {
 			"name": "TBA",
-			"location": "TBA"
+			"location": "TBA",
+			"url": false
 		},
 		"12": {
 			"name": "Jeddah Street Circuit",
-			"location": "Jeddah, Saudi Arabia"
+			"location": "Jeddah, Saudi Arabia",
+			"url": "https://www.racingcircuits.info/middle-east/saudi-arabia/jeddah-street-circuit.html"
 		},
 		"13": {
 			"name": "Yas Marina",
-			"location": "Abu Dhabi, UAE"
+			"location": "Abu Dhabi, UAE",
+			"url": "https://www.racingcircuits.info/middle-east/united-arab-emirates/yas-marina.html"
 		},
 		"14": {
 			"name": "MotorLand Aragón",
-			"location": "Aragón, Spain"
+			"location": "Aragón, Spain",
+			"url": "https://www.racingcircuits.info/europe/spain/motorland-aragon.html"
 		},
 		"15": {
 			"name": "Misano",
-			"location": "Misano Adriático, Italy"
+			"location": "Misano Adriático, Italy",
+			"url": "https://www.racingcircuits.info/europe/italy/misano.html"
 		},
 		"16": {
-			"name": "Portimão",
-			"location": "Portimão, Portugal"
+			"name": "Autódromo Internacional do Algarve",
+			"location": "Portimão, Portugal",
+			"url": "https://www.racingcircuits.info/europe/portugal/algarve-portimao.html"
 		},
 		"17": {
-			"name": "Ricardo Tormo",
-			"location": "Cheste, Spain"
+			"name": "Valencia",
+			"location": "Cheste, Spain",
+			"url": "https://www.racingcircuits.info/europe/spain/valencia-ricardo-tormo.html"
 		},
 		"18": {
 			"name": "Laguna Seca",
-			"location": "Monterey County, USA"
+			"location": "Monterey County, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/laguna-seca.html"
 		},
 		"19": {
 			"name": "Long Beach",
-			"location": "Long Beach, USA"
+			"location": "Long Beach, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/long-beach.html"
 		},
 		"20": {
 			"name": "Bahrain International Circuit",
-			"location": "Sakhir, Bahrain"
+			"location": "Sakhir, Bahrain",
+			"url": "https://www.racingcircuits.info/middle-east/bahrain/bahrain-international-circuit.html"
 		},
 		"21": {
 			"name": "Fuji Speedway",
-			"location": "Oyama, Japan"
+			"location": "Oyama, Japan",
+			"url": "https://www.racingcircuits.info/asia/japan/fuji-speedway.html"
 		},
 		"22": {
 			"name": "Most",
-			"location": "Most, Czech Republic"
+			"location": "Most, Czech Republic",
+			"url": "https://www.racingcircuits.info/europe/czech-republic/most.html"
 		},
 		"23": {
 			"name": "Pau-Arnos",
-			"location": "Arnos, France"
+			"location": "Arnos, France",
+			"url": "https://www.racingcircuits.info/europe/france/paul-ricard.html"
 		},
 		"24": {
-			"name": "Adria International Raceway",
-			"location": "Adria, Italy"
+			"name": "Adria",
+			"location": "Adria, Italy",
+			"url": "https://www.racingcircuits.info/europe/italy/adria.html"
 		},
 		"25": {
 			"name": "Red Bull Ring",
-			"location": "Spielberg, Austria"
+			"location": "Spielberg, Austria",
+			"url": "https://www.racingcircuits.info/europe/austria/red-bull-ring-a-1-ring-osterrichring.html"
 		},
 		"26": {
 			"name": "TT Circuit Assen",
-			"location": "Assen, Netherlands"
+			"location": "Assen, Netherlands",
+			"url": "https://www.racingcircuits.info/europe/netherlands/tt-circuit-assen.html"
 		},
 		"27": {
 			"name": "Hockenheimring",
-			"location": "Hockenheim, Germany"
+			"location": "Hockenheim, Germany",
+			"url": "https://www.racingcircuits.info/europe/germany/hockenheimring.html"
 		},
 		"28": {
 			"name": "Norisring",
-			"location": "Nuremberg, Germany"
+			"location": "Nuremberg, Germany",
+			"url": "https://www.racingcircuits.info/europe/germany/norisring.html"
 		},
 		"29": {
 			"name": "Diriyah Street Circuit",
-			"location": "Diriyah, Saudi Arabia"
+			"location": "Diriyah, Saudi Arabia",
+			"url": "https://www.racingcircuits.info/middle-east/saudi-arabia/ad-diriyah.html"
 		},
 		"30": {
 			"name": "Saudi Arabia",
-			"location": "Saudi Arabia"
+			"location": "Saudi Arabia",
+			"url": false
 		},
 		"31": {
 			"name": "Daytona",
-			"location": "Daytona Beach, FL, USA"
+			"location": "Daytona Beach, FL, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/daytona.html"
 		},
 		"32": {
-			"name": "Monaco",
-			"location": "Monaco"
+			"name": "Monte Carlo",
+			"location": "Monaco",
+			"url": "https://www.racingcircuits.info/europe/monaco/monte-carlo.html"
 		},
 		"33": {
-			"name": "Mount Panorama",
-			"location": "Bathurst"
+			"name": "Bathurst Mount Panorama",
+			"location": "Bathurst",
+			"url": "https://www.racingcircuits.info/australasia/australia/bathurst-mount-panorama.html"
 		},
 		"34": {
 			"name": "Sebring",
-			"location": "Sebring, FL, USA"
+			"location": "Sebring, FL, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/sebring.html"
 		},
 		"35": {
 			"name": "Albert Park",
-			"location": "Melbourne, Australia"
+			"location": "Melbourne, Australia",
+			"url": "https://www.racingcircuits.info/australasia/australia/albert-park,-melbourne.html"
 		},
 		"36": {
 			"name": "Imola",
-			"location": "Imola, Italy"
+			"location": "Imola, Italy",
+			"url": "https://www.racingcircuits.info/europe/italy/imola.html"
 		},
 		"37": {
 			"name": "Miami",
-			"location": "Miami, FL, USA"
+			"location": "Miami, FL, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/hard-rock-stadium.html"
 		},
 		"38": {
-			"name": "Circuit de Catalunya",
-			"location": "Montmeló, Catalonia, Spain"
+			"name": "Circuit de Barcelona-Catalunya",
+			"location": "Montmeló, Catalonia, Spain",
+			"url": "https://www.racingcircuits.info/europe/spain/circuit-de-barcelona-catalunya.html"
 		},
 		"39": {
-			"name": "Baku Street Circuit",
-			"location": "Baku, Azerbaijan"
+			"name": "Baku",
+			"location": "Baku, Azerbaijan",
+			"url": "https://www.racingcircuits.info/asia/azerbaijan/baku.html"
 		},
 		"40": {
 			"name": "Circuit Gilles Villeneuve",
-			"location": "Montrèal, Canada"
+			"location": "Montrèal, Canada",
+			"url": "https://www.racingcircuits.info/north-america/canada/circuit-gilles-villenueve,-montreal.html"
 		},
 		"41": {
 			"name": "Circuit Paul Ricard",
-			"location": "Le Castellet, France"
+			"location": "Le Castellet, France",
+			"url": "https://www.racingcircuits.info/europe/france/paul-ricard.html"
 		},
 		"42": {
 			"name": "Hungaroring",
-			"location": "Mogyoród, Hungary"
+			"location": "Mogyoród, Hungary",
+			"url": "https://www.racingcircuits.info/europe/hungary/hungaroring.html"
 		},
 		"43": {
-			"name": "Marina Bay Street Circuit",
-			"location": "Singapore"
+			"name": "Singapore Marina Bay",
+			"location": "Singapore",
+			"url": "https://www.racingcircuits.info/asia/singapore/marina-bay,-singapore.html"
 		},
 		"44": {
-			"name": "Circuit de la Sarthe",
-			"location": "Le Mans, France"
+			"name": "Le Mans",
+			"location": "Le Mans, France",
+			"url": "https://www.racingcircuits.info/europe/france/le-mans.html"
 		},
 		"45": {
-			"name": "Circuito Cittadino dell'EUR",
-			"location": "Rome, Italy"
+			"name": "Rome",
+			"location": "Rome, Italy",
+			"url": "https://www.racingcircuits.info/europe/italy/rome.html"
 		},
 		"46": {
-			"name": "Tempelhof Airport Street Circuit",
-			"location": "Berlin, Germany"
+			"name": "Berlin-Tempelhof",
+			"location": "Berlin, Germany",
+			"url": "https://www.racingcircuits.info/europe/germany/berlin-tempelhof.html"
 		},
 		"47": {
 			"name": "Vancouver Street Circuit",
-			"location": "Vancouver, Canada"
+			"location": "Vancouver, Canada",
+			"url": false
 		},
 		"48": {
 			"name": "Brooklyn Street Circuit",
-			"location": "New York, NY, USA"
+			"location": "New York, NY, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/brooklyn.html"
 		},
 		"49": {
-			"name": "ExCeL London",
-			"location": "London, England"
+			"name": "London",
+			"location": "London, England",
+			"url": "https://www.racingcircuits.info/europe/united-kingdom/london-excel.html"
 		},
 		"50": {
 			"name": "Seoul Street Circuit",
-			"location": "Seoul, South Korea"
+			"location": "Seoul, South Korea",
+			"url": "https://www.racingcircuits.info/asia/south-korea/seoul-street-circuit.html"
 		},
 		"51": {
 			"name": "Sweden",
-			"location": "Sweden"
+			"location": "Sweden",
+			"url": false
 		},
 		"52": {
 			"name": "Croatia",
-			"location": "Croatia"
+			"location": "Croatia",
+			"url": false
 		},
 		"53": {
 			"name": "Portugal",
-			"location": "Portugal"
+			"location": "Portugal",
+			"url": false
 		},
 		"54": {
 			"name": "Sardinia",
-			"location": "Sardinia, Italy"
+			"location": "Sardinia, Italy",
+			"url": false
 		},
 		"55": {
 			"name": "Kenya",
-			"location": "Kenya"
+			"location": "Kenya",
+			"url": false
 		},
 		"56": {
 			"name": "Estonia",
-			"location": "Estonia"
+			"location": "Estonia",
+			"url": false
 		},
 		"57": {
 			"name": "Finland",
-			"location": "Finland"
+			"location": "Finland",
+			"url": false
 		},
 		"58": {
 			"name": "Greece",
-			"location": "Greece"
+			"location": "Greece",
+			"url": false
 		},
 		"59": {
 			"name": "New Zealand",
-			"location": "New Zealand"
+			"location": "New Zealand",
+			"url": false
 		},
 		"60": {
 			"name": "Catalonia",
-			"location": "Catalonia, Spain"
+			"location": "Catalonia, Spain",
+			"url": false
 		},
 		"61": {
 			"name": "Japan",
-			"location": "Japan"
+			"location": "Japan",
+			"url": false
 		},
 		"62": {
 			"name": "Streets of St. Petersburg",
-			"location": "St. Petersburg, FL, USA"
+			"location": "St. Petersburg, FL, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/st-petersburg.html"
 		},
 		"63": {
 			"name": "Texas Motor Speedway",
-			"location": "Fort Worth, TX, USA"
+			"location": "Fort Worth, TX, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/texas-world-speedway.html"
 		},
 		"64": {
 			"name": "Barber Motorsports Park",
-			"location": "Birmingham, AL, USA"
+			"location": "Birmingham, AL, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/barber-motorsports-park.html"
 		},
 		"65": {
-			"name": "Indianapolis",
-			"location": "Indianapolis, IN, USA"
+			"name": "Indianapolis Motor Speedway",
+			"location": "Indianapolis, IN, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/indianapolis-motor-speedway.html"
 		},
 		"66": {
-			"name": "Belle Isle Street Circuit",
-			"location": "Detroit, MI, USA"
+			"name": "Detroit Belle Isle",
+			"location": "Detroit, MI, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/detroit-belle-isle.html"
 		},
 		"67": {
 			"name": "Road America",
-			"location": "Elkhart Lake, WI, USA"
+			"location": "Elkhart Lake, WI, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/road-america.html"
 		},
 		"68": {
-			"name": "Mid-Ohio Sports Car Course",
-			"location": "Lexington, OH, USA"
+			"name": "Mid-Ohio",
+			"location": "Lexington, OH, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/mid-ohio.html"
 		},
 		"69": {
 			"name": "Toronto Exhibition Place",
-			"location": "Toronto, Canada"
+			"location": "Toronto, Canada",
+			"url": "https://www.racingcircuits.info/north-america/canada/toronto-exhibition-place.html"
 		},
 		"70": {
 			"name": "Iowa Speedway",
-			"location": "Newton, IA, USA"
+			"location": "Newton, IA, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/iowa-speedway.html"
 		},
 		"71": {
 			"name": "Nashville Street Circuit",
-			"location": "Nashville, TN, USA"
+			"location": "Nashville, TN, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/nashville-street-circuit.html"
 		},
 		"72": {
 			"name": "World Wide Technology Raceway",
-			"location": "Madison, IL, USA"
+			"location": "Madison, IL, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/gateway-motorsports-park.html"
 		},
 		"73": {
 			"name": "Los Angeles Memorial Coliseum",
-			"location": "LA, CA, USA"
+			"location": "LA, CA, USA",
+			"url": false
 		},
 		"74": {
 			"name": "California Speedway",
-			"location": "Fontana, CA, USA"
+			"location": "Fontana, CA, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/auto-club-speedway,-fontana.html"
 		},
 		"75": {
 			"name": "Las Vegas Motor Speedway",
-			"location": "Las Vegas, NV, USA"
+			"location": "Las Vegas, NV, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/las-vegas-motor-speedway.html"
 		},
 		"76": {
 			"name": "Sepang",
-			"location": "Sepang, Malaysia"
+			"location": "Sepang, Malaysia",
+			"url": "https://www.racingcircuits.info/asia/malaysia/sepang.html"
 		},
 		"77": {
 			"name": "Mandalika Street Circuit",
-			"location": "Central Lombok Regency, West Nusa Tenggara, Indonesia"
+			"location": "Central Lombok Regency, West Nusa Tenggara, Indonesia",
+			"url": "https://www.racingcircuits.info/asia/indonesia/mandalika.html"
 		},
 		"78": {
-			"name": "Losail",
-			"location": "Lusail, Qatar"
+			"name": "Losail International Circuit",
+			"location": "Lusail, Qatar",
+			"url": "https://www.racingcircuits.info/middle-east/qatar/losail-international-circuit.html"
 		},
 		"79": {
-			"name": "Autódromo Termas de Río Hondo",
-			"location": "Termas de Río Hondo, Argentina"
+			"name": "Termas de Río Hondo",
+			"location": "Termas de Río Hondo, Argentina",
+			"url": "https://www.racingcircuits.info/south-america/argentina/autodromo-termas-de-rio-hondo.html"
 		},
 		"80": {
-			"name": "Circuito de Jerez",
-			"location": "Jerez de la Frontera, Spain"
+			"name": "Jerez",
+			"location": "Jerez de la Frontera, Spain",
+			"url": "https://www.racingcircuits.info/europe/spain/jerez.html"
 		},
 		"81": {
 			"name": "Circuit Bugatti",
-			"location": "Le Mans, France"
+			"location": "Le Mans, France",
+			"url": "https://www.racingcircuits.info/europe/france/le-mans.html"
 		},
 		"82": {
 			"name": "Mugello",
-			"location": "Scarperia e San Piero, Italy"
+			"location": "Scarperia e San Piero, Italy",
+			"url": "https://www.racingcircuits.info/europe/italy/mugello.html"
 		},
 		"83": {
 			"name": "Sachsenring",
-			"location": "Hohenstein-Ernstthal, Germany"
+			"location": "Hohenstein-Ernstthal, Germany",
+			"url": "https://www.racingcircuits.info/europe/germany/sachsenring.html"
 		},
 		"84": {
 			"name": "KymiRing",
-			"location": "Iitti, Finland"
+			"location": "Iitti, Finland",
+			"url": "https://www.racingcircuits.info/europe/finland/kymiring.html"
 		},
 		"85": {
 			"name": "Twin Ring Motegi",
-			"location": "Motegi, Japan"
+			"location": "Motegi, Japan",
+			"url": "https://www.racingcircuits.info/asia/japan/motegi.html"
 		},
 		"86": {
 			"name": "Buriram",
-			"location": "Buriram, Thailand"
+			"location": "Buriram, Thailand",
+			"url": "https://www.racingcircuits.info/asia/thailand/buriram-united-international-circuit.html"
 		},
 		"87": {
 			"name": "Phillip Island",
-			"location": "Ventnor, Australia"
+			"location": "Ventnor, Australia",
+			"url": "https://www.racingcircuits.info/australasia/australia/phillip-island.html"
 		}
 	}
 }
