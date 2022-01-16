@@ -21,7 +21,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			circuit = circuits[series[i].events[j].circuit];
-			$(".event-list-grid").append("<article id='" + timestamp + "' class='" + shatimestamp + " sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></div></article>");
+			$(".event-list-grid").append("<article id='" + timestamp + "' class='" + shatimestamp + " sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><a href='" + circuit.url + "' target='_blank'><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></a></div></article>");
 			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(series[i].name + "-" + i + "-" + name + "-" + circuit.name);

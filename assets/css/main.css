@@ -76,7 +76,9 @@ del {
 
 .subtitle { margin-bottom: .5rem; }
 
-
+a {
+  text-decoration: none;
+}
 
 
 
