@@ -1827,21 +1827,21 @@ data = {
 						"6": {
 							"name": "SS6 - Roure > Beuil",
 							"symbol": "SS6",
-							"timestamp": 1642772580,
+							"timestamp": 1642770960,
 							"length": 3600,
 							"laps": false
 						},
 						"7": {
 							"name": "SS7 - Guillaumes > Péone > Valberg",
 							"symbol": "SS7",
-							"timestamp": 1642775460,
+							"timestamp": 1642774740,
 							"length": 3600,
 							"laps": false
 						},
 						"8": {
 							"name": "SS8 - Val-de-Chalvagne > Entrevaux",
 							"symbol": "SS8",
-							"timestamp": 1642778940,
+							"timestamp": 1642779420,
 							"length": 3600,
 							"laps": false
 						},

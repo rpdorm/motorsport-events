@@ -3,7 +3,7 @@ if ($(location).attr("hash") == "#show1week") { nWeeks = 1; }
 else if ($(location).attr("hash") == "#show1month") { nWeeks = 4; }
 else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; }
 else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; }
-else { nWeeks = 6; }
+else { nWeeks = 4; }
 upcoming = now+604800*nWeeks;
 today = moment().isoWeekday;
 series = data.series;
