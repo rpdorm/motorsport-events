@@ -1692,22 +1692,29 @@ data = {
 							"laps": false
 						},
 						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1642883100,
+							"length": 4500,
+							"laps": false
+						},
+						"4": {
 							"name": "Practice 4",
 							"symbol": "P4",
 							"timestamp": 1642896000,
 							"length": 7200,
 							"laps": false
 						},
-						"4": {
+						"5": {
 							"name": "Warm Up",
 							"symbol": "WU",
 							"timestamp": 1642950000,
 							"length": 1200,
 							"laps": false
 						},
-						"5": {
-							"name": "Pole Award 100",
-							"symbol": "R",
+						"6": {
+							"name": "Qualifying Race",
+							"symbol": "QR",
 							"timestamp": 1642964700,
 							"length": 6000,
 							"laps": false
@@ -1729,7 +1736,7 @@ data = {
 						"1": {
 							"name": "Practice 2",
 							"symbol": "P2",
-							"timestamp": 1643313600,
+							"timestamp": 1643314800,
 							"length": 6300,
 							"laps": false
 						},
