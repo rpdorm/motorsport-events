@@ -9,7 +9,7 @@ body {
 }
 
 main, body, nav {
-  background-color: #222;
+  background: #222;
 }
 
 main {
@@ -46,8 +46,6 @@ article {
 
 img { max-height: 28px; margin-right: .5rem; }
 
-h5, h6 { color: #222; }
-
 h5 { text-shadow: 1px 1px #6c757d; }
 
 footer {
@@ -78,6 +76,12 @@ del {
 
 a {
   text-decoration: none;
+  color: inherit;
+}
+
+.green {
+  background-color: green;
+  color: white;
 }
 
 

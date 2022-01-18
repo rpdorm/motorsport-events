@@ -27,7 +27,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				url = "#";
 				target = "_self";
 			}
-			$(".event-list-grid").append("<article id='" + timestamp + "' class='" + shatimestamp + " sortme'><div class='header'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><a href='" + url + "' target='" + target + "'><h6 class='text-center mb-2 text-muted'><b>" + circuit.name + "</b></h6></a></div></article>");
+			$(".event-list-grid").append("<article id='" + timestamp + "' class='" + shatimestamp + " sortme'><div class='header' id='" + shatimestamp + "'><h5 class='title text-center'><img class='img-top' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + "</h5><hr><a href='" + url + "' target='" + target + "'><h6 class='text-center mb-2'><b>" + circuit.name + "</b></h6></a></div></article>");
 			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(series[i].name + "-" + i + "-" + name + "-" + circuit.name);
@@ -42,7 +42,10 @@ for (i=0; i<Object.keys(series).length; i++) {
 				sessionTime = moment(sessionTimeUnix).format('ddd MMM Do YYYY HH:mm');
 				if (sessionTimeUnix/1000+length > now) {
 					del="";
-					if (sessionTimeUnix/1000+length > now && sessionTimeUnix/1000 < now) { green = " style='color:green; font-weight: bold'"; }
+					if (sessionTimeUnix/1000+length > now && sessionTimeUnix/1000 < now) {
+						green = " style='color:green; font-weight: bold'";
+						$("#" + shatimestamp).addClass("green");
+					}
 					else { green = ""; }
 				}
 				else { del="<del>"; green=""; }
