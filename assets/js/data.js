@@ -354,6 +354,41 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"25": {
+					"round": 0,
+					"name": "2022 Car Launches",
+					"circuit": 88,
+					"sessions":{
+						"0": {
+							"name": "Aston Martin AMR22",
+							"symbol": "AstonMartin",
+							"timestamp": 1644494400,
+							"length": 1,
+							"laps": false
+						},
+						"1": {
+							"name": "McLaren MCL36",
+							"symbol": "McLaren",
+							"timestamp": 1644580800,
+							"length": 1,
+							"laps": false
+						},
+						"2": {
+							"name": "Ferrari",
+							"symbol": "Ferrari",
+							"timestamp": 1645099200,
+							"length": 1,
+							"laps": false
+						},
+						"3": {
+							"name": "Mercedes-AMG F1 W13",
+							"symbol": "Mercedes-AMG",
+							"timestamp": 1645185600,
+							"length": 1,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -609,21 +644,28 @@ data = {
 			"events": {
 				"0": {
 					"round": 0,
-					"name": "Pre-season Testing",
+					"name": "Pre-season",
 					"circuit": 76,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1644127200,
-							"length": 1,
+							"name": "Testing Day 1",
+							"symbol": "T",
+							"timestamp": 1644026400,
+							"length": 28800,
+							"laps": false
+						},
+						"1": {
+							"name": "Testing Day 2",
+							"symbol": "T",
+							"timestamp": 1644112800,
+							"length": 28800,
 							"laps": false
 						}
 					}
 				},
 				"1": {
 					"round": 0,
-					"name": "Pre-season Testing",
+					"name": "Pre-season",
 					"circuit": 77,
 					"sessions":{
 						"0": {
@@ -1399,6 +1441,76 @@ data = {
 			"name": "Moto2 World Championship",
 			"symbol": "Moto2",
 			"events": {
+				"0": {
+					"round": 0,
+					"name": "Pre-season",
+					"circuit": 16,
+					"sessions":{
+						"0": {
+							"name": "Testing Session 1",
+							"symbol": "T",
+							"timestamp": 1645269600,
+							"length": 4200,
+							"laps": false
+						},
+						"1": {
+							"name": "Testing Session 2",
+							"symbol": "T",
+							"timestamp": 1645279200,
+							"length": 4200,
+							"laps": false
+						},
+						"2": {
+							"name": "Testing Session 3",
+							"symbol": "T",
+							"timestamp": 1645289100,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Testing Session 4",
+							"symbol": "T",
+							"timestamp": 1645356000,
+							"length": 4200,
+							"laps": false
+						},
+						"4": {
+							"name": "Testing Session 5",
+							"symbol": "T",
+							"timestamp": 1645365600,
+							"length": 4200,
+							"laps": false
+						},
+						"5": {
+							"name": "Testing Session 6",
+							"symbol": "T",
+							"timestamp": 1645375500,
+							"length": 4500,
+							"laps": false
+						},
+						"6": {
+							"name": "Testing Session 7",
+							"symbol": "T",
+							"timestamp": 1645442400,
+							"length": 4200,
+							"laps": false
+						},
+						"7": {
+							"name": "Testing Session 8",
+							"symbol": "T",
+							"timestamp": 1645452000,
+							"length": 4200,
+							"laps": false
+						},
+						"8": {
+							"name": "Testing Session 9",
+							"symbol": "T",
+							"timestamp": 1645461900,
+							"length": 4500,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//Moto3
@@ -1406,6 +1518,76 @@ data = {
 			"name": "Moto3 World Championship",
 			"symbol": "Moto3",
 			"events": {
+				"0": {
+					"round": 0,
+					"name": "Pre-season",
+					"circuit": 16,
+					"sessions":{
+						"0": {
+							"name": "Testing Session 1",
+							"symbol": "T",
+							"timestamp": 1645264800,
+							"length": 4200,
+							"laps": false
+						},
+						"1": {
+							"name": "Testing Session 2",
+							"symbol": "T",
+							"timestamp": 1645274400,
+							"length": 4200,
+							"laps": false
+						},
+						"2": {
+							"name": "Testing Session 3",
+							"symbol": "T",
+							"timestamp": 1645284000,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Testing Session 4",
+							"symbol": "T",
+							"timestamp": 1645351200,
+							"length": 4200,
+							"laps": false
+						},
+						"4": {
+							"name": "Testing Session 5",
+							"symbol": "T",
+							"timestamp": 1645360800,
+							"length": 4200,
+							"laps": false
+						},
+						"5": {
+							"name": "Testing Session 6",
+							"symbol": "T",
+							"timestamp": 1645370400,
+							"length": 4500,
+							"laps": false
+						},
+						"6": {
+							"name": "Testing Session 7",
+							"symbol": "T",
+							"timestamp": 1645437600,
+							"length": 4200,
+							"laps": false
+						},
+						"7": {
+							"name": "Testing Session 8",
+							"symbol": "T",
+							"timestamp": 1645447200,
+							"length": 4200,
+							"laps": false
+						},
+						"8": {
+							"name": "Testing Session 9",
+							"symbol": "T",
+							"timestamp": 1645456800,
+							"length": 4500,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//Formula E
@@ -2310,6 +2492,55 @@ data = {
 					}
 				}
 			}
+		},
+		//Pikes Peak
+		"17": {
+			"name": "Pikes Peak International Hill Climb",
+			"symbol": "PPIHC",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "Pikes Peak",
+					"circuit": 89,
+					"sessions":{
+						"0": {
+							"name": "Practice and Qualifying Day",
+							"symbol": "PQ",
+							"timestamp": 1655811000,
+							"length": 10800,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice and Qualifying Day",
+							"symbol": "PQ",
+							"timestamp": 1655897400,
+							"length": 10800,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice and Qualifying Day",
+							"symbol": "PQ",
+							"timestamp": 1655983800,
+							"length": 10800,
+							"laps": false
+						},
+						"3": {
+							"name": "Optional Practice Day",
+							"symbol": "P",
+							"timestamp": 1656070200,
+							"length": 10800,
+							"laps": false
+						},
+						"4": {
+							"name": "Race Day",
+							"symbol": "R",
+							"timestamp": 1656250200,
+							"length": 27000,
+							"laps": false
+						}
+					}
+				}
+			}
 		}
 	},
 	"circuits": {
@@ -2752,6 +2983,16 @@ data = {
 			"name": "Phillip Island",
 			"location": "Ventnor, Australia",
 			"url": "https://www.racingcircuits.info/australasia/australia/phillip-island.html"
+		},
+		"88": {
+			"name": "misc.",
+			"location": "",
+			"url": false
+		},
+		"89": {
+			"name": "Pikes Peak",
+			"location": "Pikes Peak, CO, USA",
+			"url": false
 		}
 	}
 }
