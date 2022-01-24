@@ -382,8 +382,8 @@ data = {
 							"laps": false
 						},
 						"3": {
-							"name": "Mercedes-AMG F1 W13",
-							"symbol": "Mercedes-AMG",
+							"name": "Mercedes W13",
+							"symbol": "Mercedes",
 							"timestamp": 1645185600,
 							"length": 1,
 							"laps": false
@@ -1601,10 +1601,59 @@ data = {
 					"circuit": 29,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1643371200,
-							"length": 1,
+							"name": "Shakedown",
+							"symbol": "SD",
+							"timestamp": 1643288400,
+							"length": 900,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1643295600,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1643365800,
+							"length": 1800,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1643373600,
+							"length": 4500,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1643389200,
+							"length": 3000,
+							"laps": false
+						},
+						"5": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1643452200,
+							"length": 1800,
+							"laps": false
+						},
+						"6": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1643460000,
+							"length": 4500,
+							"laps": false
+						},
+						"7": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1643475600,
+							"length": 3000,
 							"laps": false
 						}
 					}
