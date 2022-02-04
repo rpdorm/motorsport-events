@@ -361,27 +361,48 @@ data = {
 					"circuit": 88,
 					"sessions":{
 						"0": {
+							"name": "Haas VF-22",
+							"symbol": "Haas",
+							"timestamp": 1643972400,
+							"length": 1,
+							"laps": false
+						},
+						"1": {
+							"name": "Red Bull RB18",
+							"symbol": "RBR",
+							"timestamp": 1644408000,
+							"length": 1,
+							"laps": false
+						},
+						"2": {
 							"name": "Aston Martin AMR22",
 							"symbol": "AstonMartin",
 							"timestamp": 1644494400,
 							"length": 1,
 							"laps": false
 						},
-						"1": {
+						"3": {
 							"name": "McLaren MCL36",
 							"symbol": "McLaren",
 							"timestamp": 1644580800,
 							"length": 1,
 							"laps": false
 						},
-						"2": {
-							"name": "Ferrari",
+						"4": {
+							"name": "AlphaTauri AT03",
+							"symbol": "AlphaTauri",
+							"timestamp": 1644840000,
+							"length": 1,
+							"laps": false
+						},
+						"5": {
+							"name": "Ferrari F1-75",
 							"symbol": "Ferrari",
 							"timestamp": 1645099200,
 							"length": 1,
 							"laps": false
 						},
-						"3": {
+						"6": {
 							"name": "Mercedes W13",
 							"symbol": "Mercedes",
 							"timestamp": 1645185600,
