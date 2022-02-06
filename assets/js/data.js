@@ -408,6 +408,13 @@ data = {
 							"timestamp": 1645185600,
 							"length": 1,
 							"laps": false
+						},
+						"7": {
+							"name": "Alpine A522",
+							"symbol": "Alpine",
+							"timestamp": 1645444800,
+							"length": 1,
+							"laps": false
 						}
 					}
 				}
@@ -2205,28 +2212,28 @@ data = {
 						"2": {
 							"name": "SS2 - Kamsjön",
 							"symbol": "SS2",
-							"timestamp": 1645779120,
+							"timestamp": 1645779300,
 							"length": 3600,
 							"laps": false
 						},
 						"3": {
 							"name": "SS3 - Sävar",
 							"symbol": "SS3",
-							"timestamp": 1645784940,
+							"timestamp": 1645785060,
 							"length": 3600,
 							"laps": false
 						},
 						"4": {
 							"name": "SS4 - Kroksjö",
 							"symbol": "SS4",
-							"timestamp": 1645796820,
+							"timestamp": 1645796700,
 							"length": 3600,
 							"laps": false
 						},
 						"5": {
 							"name": "SS5 - Kamsjön",
 							"symbol": "SS5",
-							"timestamp": 1645801020,
+							"timestamp": 1645800420,
 							"length": 3600,
 							"laps": false
 						},
@@ -2252,14 +2259,14 @@ data = {
 							"laps": false
 						},
 						"9": {
-							"name": "SS9 - TBA",
+							"name": "SS9 - Örträsk",
 							"symbol": "SS9",
 							"timestamp": 1645864140,
 							"length": 3600,
 							"laps": false
 						},
 						"10": {
-							"name": "SS10 - TBA",
+							"name": "SS10 - Långed",
 							"symbol": "SS10",
 							"timestamp": 1645869240,
 							"length": 3600,
@@ -2280,14 +2287,14 @@ data = {
 							"laps": false
 						},
 						"13": {
-							"name": "SS13 - TBA",
+							"name": "SS13 - Örträsk",
 							"symbol": "SS13",
 							"timestamp": 1645887540,
 							"length": 3600,
 							"laps": false
 						},
 						"14": {
-							"name": "SS14 - TBA",
+							"name": "SS14 - Långed",
 							"symbol": "SS14",
 							"timestamp": 1645892640,
 							"length": 3600,
