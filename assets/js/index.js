@@ -16,7 +16,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 	imgtitle = series[i].name;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
-		timestamp = series[i].events[j].sessions[t].timestamp+21200;
+		timestamp = series[i].events[j].sessions[t].timestamp+172800;
 		shatimestamp = sha256("sha" + series[i].name + timestamp);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
@@ -42,7 +42,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				sessionTime = moment(sessionTimeUnix).format('ddd MMM Do YYYY HH:mm');
 				if (sessionTimeUnix/1000+length > now) {
 					del="";
-					if (sessionTimeUnix/1000+length > now && sessionTimeUnix/1000 < now) {
+					if (sessionTimeUnix/1000 < now) {
 						green = " style='color:green; font-weight: bold'";
 						$("#" + shatimestamp).addClass("green");
 					}
