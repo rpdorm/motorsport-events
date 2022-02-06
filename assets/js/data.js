@@ -690,10 +690,24 @@ data = {
 					"circuit": 77,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1644732000,
-							"length": 1,
+							"name": "Testing Day 1",
+							"symbol": "T",
+							"timestamp": 1644544800,
+							"length": 28800,
+							"laps": false
+						},
+						"1": {
+							"name": "Testing Day 2",
+							"symbol": "T",
+							"timestamp": 1644631200,
+							"length": 28800,
+							"laps": false
+						},
+						"2": {
+							"name": "Testing Day 3",
+							"symbol": "T",
+							"timestamp": 1644717600,
+							"length": 28800,
 							"laps": false
 						}
 					}
@@ -2506,34 +2520,69 @@ data = {
 					}
 				},
 				"1": {
-					"round": 0,
-					"name": "Daytona Duels",
-					"circuit": 31,
-					"sessions":{
-						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1645099200,
-							"length": 1,
-							"laps": false
-						}
-					}
-				},
-				"2": {
 					"round": 1,
 					"name": "Daytona 500",
 					"circuit": 31,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1645358400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1644962700,
+							"length": 3000,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1644968100,
+							"length": 3000,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1645059900,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Duel 1",
+							"symbol": "D",
+							"timestamp": 1645142400,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Duel 2",
+							"symbol": "D",
+							"timestamp": 1645148700,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1645223700,
+							"length": 3000,
+							"laps": false
+						},
+						"6": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1645284600,
+							"length": 3000,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1645385400,
+							"length": 10800,
 							"laps": false
 						}
 					}
 				},
-				"3": {
+				"2": {
 					"round": 2,
 					"name": "California 400",
 					"circuit": 74,
@@ -2547,7 +2596,7 @@ data = {
 						}
 					}
 				},
-				"4": {
+				"3": {
 					"round": 3,
 					"name": "Las Vegas 400",
 					"circuit": 75,
