@@ -1706,10 +1706,31 @@ data = {
 					"circuit": 9,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1644667200,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1644674400,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1644681000,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1644687600,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1644703200,
+							"length": 3000,
 							"laps": false
 						}
 					}
