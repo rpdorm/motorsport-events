@@ -11,10 +11,38 @@ data = {
 					"circuit": 20,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1647777600,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1647604800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1647615600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1647691200,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1647702000,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1647788400,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -25,10 +53,38 @@ data = {
 					"circuit": 12,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1648378800,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1648216800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1648227600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1648303200,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1648314000,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1648400400,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -333,10 +389,24 @@ data = {
 					"circuit": 38,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1645790400,
-							"length": 1,
+							"name": "Day 1",
+							"symbol": "D1",
+							"timestamp": 1645603200,
+							"length": 32400,
+							"laps": false
+						},
+						"1": {
+							"name": "Day 2",
+							"symbol": "D2",
+							"timestamp": 1645689600,
+							"length": 32400,
+							"laps": false
+						},
+						"2": {
+							"name": "Day 3",
+							"symbol": "D3",
+							"timestamp": 1645776000,
+							"length": 32400,
 							"laps": false
 						}
 					}
@@ -347,10 +417,24 @@ data = {
 					"circuit": 20,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1647086400,
-							"length": 1,
+							"name": "Day 1",
+							"symbol": "D1",
+							"timestamp": 1646895600,
+							"length": 32400,
+							"laps": false
+						},
+						"1": {
+							"name": "Day 2",
+							"symbol": "D2",
+							"timestamp": 1646982000,
+							"length": 32400,
+							"laps": false
+						},
+						"2": {
+							"name": "Day 3",
+							"symbol": "D3",
+							"timestamp": 1647068400,
+							"length": 32400,
 							"laps": false
 						}
 					}
@@ -419,7 +503,14 @@ data = {
 						"8": {
 							"name": "Alpine A522",
 							"symbol": "Alpine",
-							"timestamp": 1645444800,
+							"timestamp": 1645470000,
+							"length": 1,
+							"laps": false
+						},
+						"9": {
+							"name": "Alfa Romeo C42",
+							"symbol": "Alfa Romeo",
+							"timestamp": 1645963200,
 							"length": 1,
 							"laps": false
 						}
@@ -438,10 +529,38 @@ data = {
 					"circuit": 62,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1645963200,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1645821600,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1645884000,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "Q",
+							"timestamp": 1645896600,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1645969500,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1645982700,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -1033,10 +1152,31 @@ data = {
 					"circuit": 34,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1647172800,
-							"length": 1,
+							"name": "Free Practice 1",
+							"symbol": "FP",
+							"timestamp": 1647095700,
+							"length": 100,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP",
+							"timestamp": 1647113100,
+							"length": 100,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP",
+							"timestamp": 1647179400,
+							"length": 100,
+							"laps": false
+						},
+						"3": {
+							"name": "Free Practice 4",
+							"symbol": "FP",
+							"timestamp": 1647197400,
+							"length": 100,
 							"laps": false
 						}
 					}
@@ -1047,10 +1187,45 @@ data = {
 					"circuit": 34,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1647604800,
-							"length": 1,
+							"name": "Free Practice 1",
+							"symbol": "FP",
+							"timestamp": 1647443100,
+							"length": 100,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP",
+							"timestamp": 1647462900,
+							"length": 100,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP",
+							"timestamp": 1647533100,
+							"length": 100,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1647558000,
+							"length": 100,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1647559200,
+							"length": 100,
+							"laps": false
+						},
+						"5": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1647619200,
+							"length": 100,
 							"laps": false
 						}
 					}
@@ -1146,10 +1321,31 @@ data = {
 					"circuit": 20,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1647766800,
-							"length": 1,
+							"name": "Free Practice",
+							"symbol": "P",
+							"timestamp": 1647596100,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1647620700,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1647708000,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1647772800,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1349,10 +1545,31 @@ data = {
 					"circuit": 20,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1647591900,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1647609900,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1647684300,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
 							"timestamp": 1647766800,
-							"length": 1,
+							"length": 2700,
 							"laps": false
 						}
 					}
@@ -2070,9 +2287,51 @@ data = {
 					"circuit": 34,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1647715200,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1647530100,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1647545100,
+							"length": 5400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1647564300,
+							"length": 5400,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1647611700,
+							"length": 2700,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1647613200,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WM",
+							"timestamp": 1647694800,
+							"length": 1200,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1647702600,
 							"length": 43200,
 							"laps": false
 						}
@@ -2623,10 +2882,24 @@ data = {
 					"circuit": 74,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1645963200,
-							"length": 1,
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1645902000,
+							"length": 2100,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1645904100,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1645993800,
+							"length": 10800,
 							"laps": false
 						}
 					}
@@ -2637,9 +2910,93 @@ data = {
 					"circuit": 75,
 					"sessions":{
 						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1646505000,
+							"length": 2100,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1646507100,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1646598600,
+							"length": 10800,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 4,
+					"name": "Phoenix 500",
+					"circuit": 90,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1647109800,
+							"length": 2100,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1647111900,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1647199800,
+							"length": 10800,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 5,
+					"name": "Atlanta 500",
+					"circuit": 91,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1647641100,
+							"length": 2100,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1647711000,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1647806400,
+							"length": 10800,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 6,
+					"name": "Texas Grand Prix",
+					"circuit": 8,
+					"sessions":{
+						"0": {
 							"name": "Schedule TBA",
 							"symbol": "TBA",
-							"timestamp": 1646568000,
+							"timestamp": 1648413000,
 							"length": 1,
 							"laps": false
 						}
@@ -3147,6 +3504,16 @@ data = {
 			"name": "Pikes Peak",
 			"location": "Pikes Peak, CO, USA",
 			"url": false
+		},
+		"90": {
+			"name": "Phoenix Raceway",
+			"location": "Phoenix, AZ, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/ism-raceway.html"
+		},
+		"91": {
+			"name": "Atlanta Motor Speedway",
+			"location": "Atlanta, GA, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/atlanta-motor-speedway.html"
 		}
 	}
 }
