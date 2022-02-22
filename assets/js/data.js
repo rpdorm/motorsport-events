@@ -847,14 +847,63 @@ data = {
 				},
 				"2": {
 					"round": 1,
-					"name": "GP of Qatar",
-					"circuit": 78,
+					"name": "Grand Prix of Qatar",
+					"circuit": 20,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1646568000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1646390400,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1646406000,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1646475300,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1646490000,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1646492400,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1646493900,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1646563200,
+							"length": 1200,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1646578800,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1776,6 +1825,62 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"1": {
+					"round": 1,
+					"name": "Grand Prix of Qatar",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1646387100,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1646402700,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1646472000,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1646486700,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1646488200,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1646562000,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1646572800,
+							"length": 3600,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -1850,6 +1955,62 @@ data = {
 							"symbol": "T",
 							"timestamp": 1645456800,
 							"length": 4500,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 1,
+					"name": "Grand Prix of Qatar",
+					"circuit": 20,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1646383800,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1646399400,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1646468700,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1646483400,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1646484900,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1646560800,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1646568000,
+							"length": 3600,
 							"laps": false
 						}
 					}
