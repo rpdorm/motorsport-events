@@ -385,25 +385,25 @@ data = {
 				},
 				"23": {
 					"round": 0,
-					"name": "Pre-season Testing",
+					"name": "Pre-season",
 					"circuit": 38,
 					"sessions":{
 						"0": {
-							"name": "Day 1",
+							"name": "Testing Day 1",
 							"symbol": "D1",
 							"timestamp": 1645603200,
 							"length": 32400,
 							"laps": false
 						},
 						"1": {
-							"name": "Day 2",
+							"name": "Testing Day 2",
 							"symbol": "D2",
 							"timestamp": 1645689600,
 							"length": 32400,
 							"laps": false
 						},
 						"2": {
-							"name": "Day 3",
+							"name": "Testing Day 3",
 							"symbol": "D3",
 							"timestamp": 1645776000,
 							"length": 32400,
@@ -413,25 +413,25 @@ data = {
 				},
 				"24": {
 					"round": 0,
-					"name": "Pre-season Testing",
+					"name": "Pre-season",
 					"circuit": 20,
 					"sessions":{
 						"0": {
-							"name": "Day 1",
+							"name": "Testing Day 1",
 							"symbol": "D1",
 							"timestamp": 1646895600,
 							"length": 32400,
 							"laps": false
 						},
 						"1": {
-							"name": "Day 2",
+							"name": "Testing Day 2",
 							"symbol": "D2",
 							"timestamp": 1646982000,
 							"length": 32400,
 							"laps": false
 						},
 						"2": {
-							"name": "Day 3",
+							"name": "Testing Day 3",
 							"symbol": "D3",
 							"timestamp": 1647068400,
 							"length": 32400,
@@ -504,13 +504,6 @@ data = {
 							"name": "Alpine A522",
 							"symbol": "Alpine",
 							"timestamp": 1645464600,
-							"length": 1,
-							"laps": false
-						},
-						"9": {
-							"name": "Alfa Romeo C42",
-							"symbol": "Alfa Romeo",
-							"timestamp": 1645963200,
 							"length": 1,
 							"laps": false
 						}

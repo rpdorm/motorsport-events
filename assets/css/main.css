@@ -36,6 +36,7 @@ footer { font-size: 0.7rem }
 
 article {
   width: 1fr;
+  max-width: 350px;
 }
 
 .header {
@@ -124,5 +125,11 @@ a {
 @media only screen and (min-width: 1300px) {
   main {
     grid-template-columns: repeat(4,1fr);
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  main {
+    grid-template-columns: repeat(5,1fr);
   }
 }
