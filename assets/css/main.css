@@ -36,13 +36,17 @@ footer { font-size: 0.7rem }
 
 article {
   width: 1fr;
-  max-width: 350px;
 }
 
 .header {
-  background-color: #ddd;
+  background-image: linear-gradient(#c0c0c0, white);
   padding-top: .5em;
   padding-bottom: .5em;
+}
+
+ul {
+  overflow-y: auto;
+  max-height: 320px;
 }
 
 img { max-height: 28px; margin-right: .5rem; }
@@ -64,7 +68,8 @@ footer {
 }
 
 .list-group-item {
-  padding: .8rem;
+  padding: 0.3rem;
+  padding-left: 0.5rem;
 }
 
 del {
@@ -73,7 +78,6 @@ del {
   font-size: .8rem;
 }
 
-.subtitle { margin-bottom: .5rem; }
 
 a {
   text-decoration: none;

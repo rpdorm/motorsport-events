@@ -291,8 +291,8 @@ data = {
 					"circuit": 5,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
+							"name": "Cancelled",
+							"symbol": "C",
 							"timestamp": 1664103600,
 							"length": 1,
 							"laps": false
