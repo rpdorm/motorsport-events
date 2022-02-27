@@ -46,7 +46,7 @@ article {
 
 ul {
   overflow-y: auto;
-  max-height: 320px;
+  max-height: 360px;
 }
 
 img { max-height: 28px; margin-right: .5rem; }
@@ -85,8 +85,7 @@ a {
 }
 
 .green {
-  background-color: green;
-  color: white;
+  color: green;
 }
 
 
@@ -117,11 +116,6 @@ a {
   }
 }
 @media only screen and (min-width: 1081px) {
-  main {
-    grid-template-columns: repeat(2,1fr);
-  }
-}
-@media only screen and (min-width: 1200px) {
   main {
     grid-template-columns: repeat(3,1fr);
   }
