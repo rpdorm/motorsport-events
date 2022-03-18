@@ -1566,10 +1566,31 @@ data = {
 					"circuit": 12,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1648368000,
-							"length": 1,
+							"name": "Free Practice",
+							"symbol": "P",
+							"timestamp": 1648207500,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1648221600,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1648297800,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1648385700,
+							"length": 3600,
 							"laps": false
 						}
 					}
