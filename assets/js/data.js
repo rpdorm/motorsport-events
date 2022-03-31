@@ -3582,6 +3582,34 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"7": {
+					"round": 7,
+					"name": "Richmond 400",
+					"circuit": 92,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1648909800,
+							"length": 2100,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1648912500,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1649014200,
+							"length": 10800,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -4095,6 +4123,11 @@ data = {
 			"name": "Atlanta Motor Speedway",
 			"location": "Atlanta, GA, USA",
 			"url": "https://www.racingcircuits.info/north-america/usa/atlanta-motor-speedway.html"
+		},
+		"92": {
+			"name": "Richmond Raceway",
+			"location": "Richmond, VA, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/richmond.html"
 		}
 	}
 }
