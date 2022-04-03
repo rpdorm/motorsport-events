@@ -95,10 +95,38 @@ data = {
 					"circuit": 35,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1649588400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1649386800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1649397600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1649473200,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1649484000,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1649566800,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -109,10 +137,38 @@ data = {
 					"circuit": 36,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1650798000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650627000,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "P",
+							"timestamp": 1650639600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650709800,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Sprint",
+							"symbol": "S",
+							"timestamp": 1650724200,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1650805200,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -123,10 +179,38 @@ data = {
 					"circuit": 37,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1652007600,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651861800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651872600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1651942800,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1651953600,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652038200,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -137,10 +221,38 @@ data = {
 					"circuit": 38,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653217200,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1653048000,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1653058800,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1653130800,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653141600,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1653224400,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -151,10 +263,38 @@ data = {
 					"circuit": 32,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653822000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1653652800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1653663600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1653735600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653746400,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1653829200,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -165,10 +305,38 @@ data = {
 					"circuit": 39,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1654858800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1654869600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1654945200,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1654956000,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
 							"timestamp": 1655031600,
-							"length": 1,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -179,10 +347,38 @@ data = {
 					"circuit": 40,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1655636400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1655488800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1655499600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1655571600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1655582400,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1655661600,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -193,10 +389,38 @@ data = {
 					"circuit": 4,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1656846000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1656676800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1656687600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1656763200,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1656770400,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1656856800,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -207,10 +431,38 @@ data = {
 					"circuit": 25,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1657450800	,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1657279800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "P",
+							"timestamp": 1657292400,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1657362600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Sprint",
+							"symbol": "S",
+							"timestamp": 1657377000,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1657458000,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -221,10 +473,38 @@ data = {
 					"circuit": 41,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1658660400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1658491200,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1658502000,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1658574000,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1658584800,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1658667600,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -235,10 +515,38 @@ data = {
 					"circuit": 42,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1659265200,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1659096000,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1659106800,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1659178800,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1659189600,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1659272400,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -249,10 +557,38 @@ data = {
 					"circuit": 0,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1661684400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1661515200,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1661526000,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1661598000,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1661608800,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1661691600,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -263,10 +599,38 @@ data = {
 					"circuit": 1,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1662289200,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1662120000,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1662130800,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1662202800,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1662213600,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1662296400,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -277,22 +641,50 @@ data = {
 					"circuit": 2,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1662894000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1662724800,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1662735600,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1662807600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1662818400,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1662901200,
+							"length": 7200,
 							"laps": false
 						}
 					}
 				},
 				"16": {
 					"round": 17,
-					"name": "Russian GP",
-					"circuit": 5,
+					"name": "TBA",
+					"circuit": 11,
 					"sessions":{
 						"0": {
-							"name": "Cancelled",
-							"symbol": "C",
+							"name": "Schedule TBA",
+							"symbol": "TBA",
 							"timestamp": 1664103600,
 							"length": 1,
 							"laps": false
@@ -599,10 +991,38 @@ data = {
 					"circuit": 19,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1649588400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1649466900,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1649529900,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "Q",
+							"timestamp": 1649541900,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1649617200,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1649628000,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -1737,8 +2157,8 @@ data = {
 				},
 				"12": {
 					"round": 13,
-					"name": "Sochi",
-					"circuit": 5,
+					"name": "TBA",
+					"circuit": 11,
 					"sessions":{
 						"0": {
 							"name": "Schedule TBA",
@@ -2532,10 +2952,52 @@ data = {
 					"circuit": 45,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1649502000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1649481300,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1649487600,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1649493600,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1649509200,
+							"length": 3000,
+							"laps": false
+						},
+						"4": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1649572200,
+							"length": 1800,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1649580000,
+							"length": 4500,
+							"laps": false
+						},
+						"6": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1649595600,
+							"length": 3000,
 							"laps": false
 						}
 					}
@@ -2546,10 +3008,10 @@ data = {
 					"circuit": 32,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1651316400,
-							"length": 1,
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651323600,
+							"length": 3000,
 							"laps": false
 						}
 					}
@@ -2900,6 +3362,293 @@ data = {
 							"symbol": "R",
 							"timestamp": 1647702600,
 							"length": 43200,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 3,
+					"name": "GP of Long Beach",
+					"circuit": 19,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1649445300,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1649459700,
+							"length": 6300,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1649474100,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1649549100,
+							"length": 6000,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 4,
+					"name": "GP of Monterey",
+					"circuit": 18,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651278600,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651337700,
+							"length": 6300,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1651351800,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1651420800,
+							"length": 1200,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651435800,
+							"length": 9600,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 5,
+					"name": "Mid-Ohio Challenge",
+					"circuit": 68,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652472000,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652533200,
+							"length": 6300,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1652548500,
+							"length": 2100,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1652618400,
+							"length": 1200,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652638200,
+							"length": 9600,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 6,
+					"name": "Detroit GP",
+					"circuit": 66,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1654257600,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1654272300,
+							"length": 7200,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1654291800,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1654350600,
+							"length": 1200,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1654369800,
+							"length": 6000,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 7,
+					"name": "6h of The Glen",
+					"circuit": 93,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1656102600,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1656158400,
+							"length": 6300,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1656177300,
+							"length": 3900,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1656244800,
+							"length": 1200,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1656254400,
+							"length": 21600,
+							"laps": false
+						}
+					}
+				},
+				"8": {
+					"round": 8,
+					"name": "Canadian GP",
+					"circuit": 94,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1656700800,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1656763200,
+							"length": 6300,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1656780000,
+							"length": 3900,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1656855600,
+							"length": 1200,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1656875100,
+							"length": 9600,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 9,
+					"name": "Northeast GP",
+					"circuit": 95,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1657898700,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1657911900,
+							"length": 4500,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1657921200,
+							"length": 900,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1657976700,
+							"length": 1200,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1657998600,
+							"length": 9600,
 							"laps": false
 						}
 					}
@@ -3661,6 +4410,139 @@ data = {
 					}
 				}
 			}
+		},
+		//Superbikes
+		"18": {
+			"name": "Superbike World Championship",
+			"symbol": "WSBK",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "Aragón Round",
+					"circuit": 14,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1649406600,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1649422800,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1649487600,
+							"length": 1800,
+							"laps": false
+						},
+						"3": {
+							"name": "Superpole",
+							"symbol": "Q",
+							"timestamp": 1649495400,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1649505600,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1649574000,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Superpole Race",
+							"symbol": "R",
+							"timestamp": 1649581200,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1649592000,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 1,
+					"name": "Dutch Round",
+					"circuit": 26,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650616200,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650632400,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1650697200,
+							"length": 1800,
+							"laps": false
+						},
+						"3": {
+							"name": "Superpole",
+							"symbol": "Q",
+							"timestamp": 1650705000,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1650715200,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1650783600,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Superpole Race",
+							"symbol": "R",
+							"timestamp": 1650790800,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1650806100,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				}
+			}
 		}
 	},
 	"circuits": {
@@ -4128,6 +5010,21 @@ data = {
 			"name": "Richmond Raceway",
 			"location": "Richmond, VA, USA",
 			"url": "https://www.racingcircuits.info/north-america/usa/richmond.html"
+		},
+		"93": {
+			"name": "Watkins Glen",
+			"location": "Watkins Glen, NY, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/watkins-glen.html"
+		},
+		"94": {
+			"name": "Mosport Park",
+			"location": "Ontario, Canada",
+			"url": "https://www.racingcircuits.info/north-america/canada/mosport-park.html"
+		},
+		"95": {
+			"name": "Lime Rock Park",
+			"location": "Lakeville, CT, USA",
+			"url": "https://www.racingcircuits.info/north-america/canada/mosport-park.html"
 		}
 	}
 }
