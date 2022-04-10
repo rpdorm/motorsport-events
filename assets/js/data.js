@@ -1033,10 +1033,38 @@ data = {
 					"circuit": 64,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1651402800,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651266000,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651330800,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "Q",
+							"timestamp": 1651341600,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Final Practice",
+							"symbol": "P",
+							"timestamp": 1651357200,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651428300,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -1537,10 +1565,59 @@ data = {
 					"circuit": 16,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1650798000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650617700,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650633000,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1650704100,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1650717000,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1650719400,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1650720900,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1650789600,
+							"length": 1200,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1650801600,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -2021,10 +2098,31 @@ data = {
 					"circuit": 36,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1650787200,
-							"length": 1,
+							"name": "Free Practice",
+							"symbol": "P",
+							"timestamp": 1650618300,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1650635700,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1650729300,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1650788400,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -2231,10 +2329,31 @@ data = {
 					"circuit": 36,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1650787200,
-							"length": 1,
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1650614100,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1650632400,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1650702900,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1650783000,
+							"length": 2700,
 							"laps": false
 						}
 					}
@@ -3946,10 +4065,150 @@ data = {
 					"circuit": 52,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1650798000,
-							"length": 1,
+							"name": "Shakedown",
+							"symbol": "S",
+							"timestamp": 1650524400,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "SS1 - Mali Lipovec - Grdanjci 1",
+							"symbol": "SS",
+							"timestamp": 1650609180,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "SS2 - Stojdraga - Gornja Vas 1",
+							"symbol": "SS",
+							"timestamp": 1650612360,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "SS3 - Krašić - Vrškovac 1",
+							"symbol": "SS",
+							"timestamp": 1650615540,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "SS4 - Pećurkovo Brdo - Mrežnički Novaki 1",
+							"symbol": "SS",
+							"timestamp": 1650619920,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "SS5 - Mali Lipovec - Grdanjci 2",
+							"symbol": "SS",
+							"timestamp": 1650632700,
+							"length": 3600,
+							"laps": false
+						},
+						"6": {
+							"name": "SS6 - Stojdraga - Gornja Vas 2",
+							"symbol": "SS",
+							"timestamp": 1650635880,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "SS7 - Krašić - Vrškovac 2",
+							"symbol": "SS",
+							"timestamp": 1650639060,
+							"length": 3600,
+							"laps": false
+						},
+						"8": {
+							"name": "SS8 - Pećurkovo Brdo - Mrežnički Novaki 2",
+							"symbol": "SS",
+							"timestamp": 1650643440,
+							"length": 3600,
+							"laps": false
+						},
+						"9": {
+							"name": "SS9 - Kostanjevac - Petruš Vrh 1",
+							"symbol": "SS",
+							"timestamp": 1650692580,
+							"length": 3600,
+							"laps": false
+						},
+						"10": {
+							"name": "SS10 - Jaškovo - Mali Modruš Potok 1",
+							"symbol": "SS",
+							"timestamp": 1650696060,
+							"length": 3600,
+							"laps": false
+						},
+						"11": {
+							"name": "SS11 - Platak 1",
+							"symbol": "SS",
+							"timestamp": 1650701340,
+							"length": 3600,
+							"laps": false
+						},
+						"12": {
+							"name": "SS12 - Vinski Vrh - Duga Resa 1",
+							"symbol": "SS",
+							"timestamp": 1650706680,
+							"length": 3600,
+							"laps": false
+						},
+						"13": {
+							"name": "SS13 - Kostanjevac - Petruš Vrh 2",
+							"symbol": "SS",
+							"timestamp": 1650719760,
+							"length": 3600,
+							"laps": false
+						},
+						"14": {
+							"name": "SS14 - Jaškovo - Mali Modruš Potok 2",
+							"symbol": "SS",
+							"timestamp": 1650723240,
+							"length": 3600,
+							"laps": false
+						},
+						"15": {
+							"name": "SS15 - Platak 2",
+							"symbol": "SS",
+							"timestamp": 1650728520,
+							"length": 3600,
+							"laps": false
+						},
+						"16": {
+							"name": "SS16 - Vinski Vrh - Duga Resa 2",
+							"symbol": "SS",
+							"timestamp": 1650733680,
+							"length": 3600,
+							"laps": false
+						},
+						"17": {
+							"name": "SS17 - Trakošćan - Vrbno 1",
+							"symbol": "SS",
+							"timestamp": 1650777480,
+							"length": 3600,
+							"laps": false
+						},
+						"18": {
+							"name": "SS18 - Zagorska Sela - Kumrovec 1",
+							"symbol": "SS",
+							"timestamp": 1650782280,
+							"length": 3600,
+							"laps": false
+						},
+						"19": {
+							"name": "SS19 - Trakošćan - Vrbno 2",
+							"symbol": "SS",
+							"timestamp": 1650788940,
+							"length": 3600,
+							"laps": false
+						},
+						"20": {
+							"name": "SS20 - Zagorska Sela - Kumrovec 2",
+							"symbol": "SS",
+							"timestamp": 1650799080,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -4359,6 +4618,41 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"8": {
+					"round": 8,
+					"name": "Bristol Dirt Race",
+					"circuit": 96,
+					"sessions":{
+						"0": {
+							"name": "First Practice",
+							"symbol": "P",
+							"timestamp": 1650052800,
+							"length": 4800,
+							"laps": false
+						},
+						"1": {
+							"name": "Final Practice",
+							"symbol": "P",
+							"timestamp": 1650062100,
+							"length": 4800,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1650146400,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1650236400,
+							"length": 10800,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -4538,6 +4832,104 @@ data = {
 							"symbol": "R",
 							"timestamp": 1650806100,
 							"length": 3600,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//ELMS
+		"19": {
+			"name": "European Le Mans Searies",
+			"symbol": "ELMS",
+			"events": {
+				"0": {
+					"round": 0,
+					"name": "4h of Le Castellet",
+					"circuit": 41,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650015000,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650092400,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "P",
+							"timestamp": 1650109800,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1650186000,
+							"length": 14400,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//BTCC
+		"20": {
+			"name": "British Touring Car Championship",
+			"symbol": "BTCC",
+			"events": {
+				"0": {
+					"round": 1,
+					"name": "Donington Park",
+					"circuit": 97,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650702900,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650712500,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1650724500,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1650797400,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1650807600,
+							"length": 1800,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 3",
+							"symbol": "R",
+							"timestamp": 1650817500,
+							"length": 1800,
 							"laps": false
 						}
 					}
@@ -5025,6 +5417,16 @@ data = {
 			"name": "Lime Rock Park",
 			"location": "Lakeville, CT, USA",
 			"url": "https://www.racingcircuits.info/north-america/canada/mosport-park.html"
+		},
+		"96": {
+			"name": "Bristol Motor Speedway",
+			"location": "Bristol, TN, USA",
+			"url": "https://www.racingcircuits.info/north-america/usa/bristol-motor-speedway.html"
+		},
+		"97": {
+			"name": "Doninigton Park",
+			"location": "Leicestershire, England",
+			"url": "https://www.racingcircuits.info/europe/united-kingdom/donington-park.html"
 		}
 	}
 }
