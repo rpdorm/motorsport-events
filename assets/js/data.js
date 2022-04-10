@@ -5424,7 +5424,7 @@ data = {
 			"url": "https://www.racingcircuits.info/north-america/usa/bristol-motor-speedway.html"
 		},
 		"97": {
-			"name": "Doninigton Park",
+			"name": "Donington Park",
 			"location": "Leicestershire, England",
 			"url": "https://www.racingcircuits.info/europe/united-kingdom/donington-park.html"
 		}
