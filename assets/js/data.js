@@ -1628,10 +1628,59 @@ data = {
 					"circuit": 80,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1651402800,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651218900,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651234200,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1651305300,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1651318200,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1651320600,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1651322100,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1651390800,
+							"length": 1200,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651406400,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1943,10 +1992,45 @@ data = {
 					"circuit": 0,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1651921200,
-							"length": 1,
+							"name": "Free Practice 1",
+							"symbol": "FP",
+							"timestamp": 1651757400,
+							"length": 100,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "FP",
+							"timestamp": 1651820700,
+							"length": 100,
+							"laps": false
+						},
+						"2": {
+							"name": "Free Practice 3",
+							"symbol": "FP",
+							"timestamp": 1651838400,
+							"length": 100,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1651854000,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1651855200,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651923600,
+							"length": 21600,
 							"laps": false
 						}
 					}
@@ -2714,6 +2798,62 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"4": {
+					"round": 4,
+					"name": "GP de Portugal",
+					"circuit": 16,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650621300,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650636600,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1650707700,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1650723000,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1650724500,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1650791400,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1650807000,
+							"length": 3600,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -2959,6 +3099,62 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"4": {
+					"round": 4,
+					"name": "GP de Portugal",
+					"circuit": 16,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1650614400,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1650629700,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1650700800,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1650713700,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1650715200,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1650788400,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1650795600,
+							"length": 3600,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -3127,6 +3323,13 @@ data = {
 					"circuit": 32,
 					"sessions":{
 						"0": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1651308300,
+							"length": 1200,
+							"laps": false
+						},
+						"1": {
 							"name": "Race",
 							"symbol": "R",
 							"timestamp": 1651323600,
@@ -4879,62 +5082,6 @@ data = {
 					}
 				}
 			}
-		},
-		//BTCC
-		"20": {
-			"name": "British Touring Car Championship",
-			"symbol": "BTCC",
-			"events": {
-				"0": {
-					"round": 1,
-					"name": "Donington Park",
-					"circuit": 97,
-					"sessions":{
-						"0": {
-							"name": "Practice 1",
-							"symbol": "P",
-							"timestamp": 1650702900,
-							"length": 2400,
-							"laps": false
-						},
-						"1": {
-							"name": "Practice 2",
-							"symbol": "P",
-							"timestamp": 1650712500,
-							"length": 2400,
-							"laps": false
-						},
-						"2": {
-							"name": "Qualifying",
-							"symbol": "Q",
-							"timestamp": 1650724500,
-							"length": 3600,
-							"laps": false
-						},
-						"3": {
-							"name": "Race 1",
-							"symbol": "R",
-							"timestamp": 1650797400,
-							"length": 1800,
-							"laps": false
-						},
-						"4": {
-							"name": "Race 2",
-							"symbol": "R",
-							"timestamp": 1650807600,
-							"length": 1800,
-							"laps": false
-						},
-						"5": {
-							"name": "Race 3",
-							"symbol": "R",
-							"timestamp": 1650817500,
-							"length": 1800,
-							"laps": false
-						}
-					}
-				}
-			}
 		}
 	},
 	"circuits": {
@@ -5427,6 +5574,11 @@ data = {
 			"name": "Donington Park",
 			"location": "Leicestershire, England",
 			"url": "https://www.racingcircuits.info/europe/united-kingdom/donington-park.html"
+		},
+		"98": {
+			"name": "Oschersleben",
+			"location": "Oschersleben, Germany",
+			"url": "https://www.racingcircuits.info/europe/germany/oschersleben.html"
 		}
 	}
 }
