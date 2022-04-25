@@ -1,10 +1,9 @@
 now = Math.floor(Date.now()/1000);
-if ($(location).attr("hash") == "#show1week") { nWeeks = 1; }
-else if ($(location).attr("hash") == "#show1month") { nWeeks = 4; }
-else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; }
-else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; }
-else { nWeeks = 4; }
-upcoming = now+604800*nWeeks;
+if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-success"); }
+else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show2month").addClass("btn-success"); }
+else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; $("#show12month").addClass("btn-success"); }
+else { nWeeks = 1; $("#show1week").addClass("btn-success"); }
+upcoming = now+691200*nWeeks;
 today = moment().isoWeekday;
 series = data.series;
 circuits = data.circuits;

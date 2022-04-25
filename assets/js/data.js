@@ -1691,10 +1691,59 @@ data = {
 					"circuit": 81,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1652612400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652428500,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652443800,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1652514900,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1652527800,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1652530200,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1652531700,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1652600400,
+							"length": 1200,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652616000,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -2959,6 +3008,62 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"6": {
+					"round": 6,
+					"name": "GP de France",
+					"circuit": 80,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652432100,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652447400,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1652518500,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1652533800,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1652535300,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1652599200,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652610000,
+							"length": 3600,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -3312,6 +3417,62 @@ data = {
 							"name": "Race",
 							"symbol": "R",
 							"timestamp": 1651395600,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 6,
+					"name": "GP de France",
+					"circuit": 80,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652425200,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652440500,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1652511600,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1652524500,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1652526000,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1652598000,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652605200,
 							"length": 3600,
 							"laps": false
 						}
@@ -5301,6 +5462,111 @@ data = {
 							"symbol": "TBA",
 							"timestamp": 1652612400,
 							"length": 1,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//MOTOE
+		"20": {
+			"name": "MotoE World Cup",
+			"symbol": "MotoE",
+			"events": {
+				"0": {
+					"round": 1,
+					"name": "GP de España",
+					"circuit": 80,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651213500,
+							"length": 1200,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651228500,
+							"length": 1200,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1651243800,
+							"length": 600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1651245000,
+							"length": 600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1651328100,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1651411800,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "GP de France",
+					"circuit": 81,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652423100,
+							"length": 1200,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652438100,
+							"length": 1200,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1652453400,
+							"length": 600,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1652454600,
+							"length": 600,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1652537700,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1652621400,
+							"length": 3600,
 							"laps": false
 						}
 					}

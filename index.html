@@ -22,6 +22,18 @@
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark">
 		<a class="navbar-brand" href="index.html">Upcoming Motorsport Events</a>
+		<div class="navbar-collapse collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<form class="form-inline">
+						<a href="#show1week"><button id="show1week" class="btn btn-secondary" type="button" onClick="window.location.hash = '#show1week'; location.reload()">1w</button></a>
+						<a href="#show1month"><button id="show1month" class="btn btn-secondary" type="button" onClick="window.location.hash = '#show1month'; location.reload()">1m</button></a>
+						<a href="#show2month"><button id="show2month" class="btn btn-secondary" type="button" onClick="window.location.hash = '#show2month'; location.reload()">2m</button></a>
+						<a href="#show12month"><button id="show12month" class="btn btn-secondary" type="button" onClick="window.location.hash = '#show12month'; location.reload()">1y</button></a>
+					</form>
+				</li>
+			</ul>
+		</div>
 	</nav>
 
 	<main class="event-list-grid"></main>
