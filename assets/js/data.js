@@ -1075,10 +1075,10 @@ data = {
 					"circuit": 65,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1652526000,
-							"length": 1,
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652556600,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -1089,10 +1089,10 @@ data = {
 					"circuit": 65,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653822000,
-							"length": 1,
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1653841800,
+							"length": 12600,
 							"laps": false
 						}
 					}
@@ -2554,6 +2554,55 @@ data = {
 			"name": "Deutsche Tourenwagen Masters",
 			"symbol": "DTM",
 			"events": {
+				"0": {
+					"round": 1,
+					"name": "Portimão",
+					"circuit": 16,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651226700,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651239000,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1651305600,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1651317300,
+							"length": 3600,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1651392000,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1651403700,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//Moto2
@@ -2850,6 +2899,62 @@ data = {
 							"name": "Race",
 							"symbol": "R",
 							"timestamp": 1650807000,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 5,
+					"name": "GP de España",
+					"circuit": 80,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651222500,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651237800,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1651308900,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1651324200,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1651325700,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1651389600,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651400400,
 							"length": 3600,
 							"laps": false
 						}
@@ -3155,6 +3260,62 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"5": {
+					"round": 5,
+					"name": "GP de España",
+					"circuit": 80,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651215600,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651230900,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1651302000,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1651314900,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1651316400,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1651388400,
+							"length": 600,
+							"laps": false
+						},
+						"6": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1651395600,
+							"length": 3600,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -3323,13 +3484,27 @@ data = {
 					"circuit": 32,
 					"sessions":{
 						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1651296600,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1651302600,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
 							"name": "Qualifying",
 							"symbol": "Q",
 							"timestamp": 1651308300,
 							"length": 1200,
 							"laps": false
 						},
-						"1": {
+						"3": {
 							"name": "Race",
 							"symbol": "R",
 							"timestamp": 1651323600,
@@ -3344,10 +3519,31 @@ data = {
 					"circuit": 46,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1652526000,
-							"length": 1,
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1652517900,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1652533200,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1652604300,
+							"length": 1200,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1652619600,
+							"length": 3000,
 							"laps": false
 						}
 					}
@@ -3355,13 +3551,20 @@ data = {
 				"5": {
 					"round": 9,
 					"name": "Jakarta ePrix",
-					"circuit": 11,
+					"circuit": 99,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1654340400,
-							"length": 1,
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1654317600,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1654333200,
+							"length": 1800,
 							"laps": false
 						}
 					}
@@ -4422,10 +4625,17 @@ data = {
 					"circuit": 53,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653217200,
-							"length": 1,
+							"name": "Shakedown",
+							"symbol": "S",
+							"timestamp": 1652947200,
+							"length": 18000,
+							"laps": false
+						},
+						"1": {
+							"name": "SS22 Power Stage",
+							"symbol": "SS",
+							"timestamp": 1653218280,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -5080,6 +5290,20 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"1": {
+					"round": 2,
+					"name": "4h of Imola",
+					"circuit": 36,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1652612400,
+							"length": 1,
+							"laps": false
+						}
+					}
 				}
 			}
 		}
@@ -5579,6 +5803,11 @@ data = {
 			"name": "Oschersleben",
 			"location": "Oschersleben, Germany",
 			"url": "https://www.racingcircuits.info/europe/germany/oschersleben.html"
+		},
+		"99": {
+			"name": "Jakarta National Monument",
+			"location": "Jakarta, Indonesia",
+			"url": "https://www.racingcircuits.info/asia/indonesia/jakarta-national-monument.html"
 		}
 	}
 }
