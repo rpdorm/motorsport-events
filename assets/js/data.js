@@ -3012,7 +3012,7 @@ data = {
 				"6": {
 					"round": 6,
 					"name": "GP de France",
-					"circuit": 80,
+					"circuit": 81,
 					"sessions":{
 						"0": {
 							"name": "Practice 1",
@@ -3425,7 +3425,7 @@ data = {
 				"6": {
 					"round": 6,
 					"name": "GP de France",
-					"circuit": 80,
+					"circuit": 81,
 					"sessions":{
 						"0": {
 							"name": "Practice 1",
