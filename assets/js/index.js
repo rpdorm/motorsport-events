@@ -2,7 +2,7 @@ now = Math.floor(Date.now()/1000);
 if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-success"); }
 else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show2month").addClass("btn-success"); }
 else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; $("#show12month").addClass("btn-success"); }
-else { nWeeks = 1; $("#show1week").addClass("btn-success"); }
+else { nWeeks = 2; $("#show2week").addClass("btn-success"); }
 upcoming = now+691200*nWeeks;
 today = moment().isoWeekday;
 series = data.series;
@@ -42,7 +42,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				if (sessionTimeUnix/1000+length > now) {
 					del="";
 					if (sessionTimeUnix/1000 < now) {
-						green = " style='color:green; font-weight: bold'";
+						green = " class='green' style='color:green; font-weight: bold'";
 						$("#" + shatimestamp).addClass("green");
 					}
 					else { green = ""; }

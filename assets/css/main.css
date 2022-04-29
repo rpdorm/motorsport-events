@@ -60,7 +60,7 @@ footer {
   padding: 1rem;
   grid-template-columns: repeat(2,2fr);
   padding-bottom: 1.5rem;
-  background-image: linear-gradient(#DADBDD, #c0c0c0);
+  background-image: linear-gradient(to bottom right, #c0c0c0, white);
 }
 
 .donate {
@@ -87,6 +87,9 @@ a {
 
 .green {
   color: green;
+  text-transform: uppercase;
+  text-shadow: none;
+  font-size: 1rem;
 }
 
 

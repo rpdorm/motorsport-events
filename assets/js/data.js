@@ -1075,10 +1075,38 @@ data = {
 					"circuit": 65,
 					"sessions":{
 						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652448600,
+							"length": 3600,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652460300,
+							"length": 3600,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "Q",
+							"timestamp": 1652472000,
+							"length": 4500,
+							"laps": false
+						},
+						"3": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1652538600,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
 							"name": "Race",
 							"symbol": "R",
-							"timestamp": 1652556600,
-							"length": 7200,
+							"timestamp": 1652556000,
+							"length": 7800,
 							"laps": false
 						}
 					}
@@ -1089,10 +1117,101 @@ data = {
 					"circuit": 65,
 					"sessions":{
 						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652792400,
+							"length": 7200,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652814000,
+							"length": 10800,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1652889600,
+							"length": 21600,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1652976000,
+							"length": 21600,
+							"laps": false
+						},
+						"4": {
+							"name": "Practice 5",
+							"symbol": "P",
+							"timestamp": 1653062400,
+							"length": 21600,
+							"laps": false
+						},
+						"5": {
+							"name": "Practice 6",
+							"symbol": "P",
+							"timestamp": 1653138000,
+							"length": 5400,
+							"laps": false
+						},
+						"6": {
+							"name": "Qualifications - Day 1",
+							"symbol": "Q",
+							"timestamp": 1653148800,
+							"length": 21000,
+							"laps": false
+						},
+						"7": {
+							"name": "Practice 7",
+							"symbol": "P",
+							"timestamp": 1653233400,
+							"length": 9000,
+							"laps": false
+						},
+						"8": {
+							"name": "Qualifications - Last Row",
+							"symbol": "Q",
+							"timestamp": 1653239700,
+							"length": 4500,
+							"laps": false
+						},
+						"9": {
+							"name": "Qualifications - Top 12",
+							"symbol": "Q",
+							"timestamp": 1653249600,
+							"length": 3300,
+							"laps": false
+						},
+						"10": {
+							"name": "Qualifications - Fast 6",
+							"symbol": "Q",
+							"timestamp": 1653253800,
+							"length": 1800,
+							"laps": false
+						},
+						"11": {
+							"name": "Practice 8",
+							"symbol": "p",
+							"timestamp": 1653321600,
+							"length": 7200,
+							"laps": false
+						},
+						"12": {
+							"name": "Practice 9",
+							"symbol": "P",
+							"timestamp": 1653663600,
+							"length": 7200,
+							"laps": false
+						},
+						"13": {
 							"name": "Race",
 							"symbol": "R",
 							"timestamp": 1653841800,
-							"length": 12600,
+							"length": 18000,
 							"laps": false
 						}
 					}
@@ -1103,10 +1222,10 @@ data = {
 					"circuit": 66,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1654426800,
-							"length": 1,
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1654457400,
+							"length": 7200,
 							"laps": false
 						}
 					}
@@ -2147,7 +2266,48 @@ data = {
 			"name": "World Touring Car Cup",
 			"symbol": "WTCR",
 			"events": {
-				
+				"0": {
+					"round": 1,
+					"name": "Race of France",
+					"circuit": 23,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "P",
+							"timestamp": 1651909800,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Feature Practice 2",
+							"symbol": "P",
+							"timestamp": 1651927800,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1651937400,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1652008200,
+							"length": 2400,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1652022600,
+							"length": 2100,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//F2
@@ -5458,10 +5618,31 @@ data = {
 					"circuit": 36,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1652612400,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1652434200,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1652513400,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifications",
+							"symbol": "P",
+							"timestamp": 1652529900,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652607000,
+							"length": 14400,
 							"laps": false
 						}
 					}
@@ -5691,9 +5872,9 @@ data = {
 			"url": "https://www.racingcircuits.info/europe/czech-republic/most.html"
 		},
 		"23": {
-			"name": "Pau-Arnos",
+			"name": "Pau",
 			"location": "Arnos, France",
-			"url": "https://www.racingcircuits.info/europe/france/paul-ricard.html"
+			"url": "https://www.racingcircuits.info/europe/france/pau.html"
 		},
 		"24": {
 			"name": "Adria",
