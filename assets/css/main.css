@@ -20,6 +20,22 @@ main {
   margin-right: 0.5rem;
 }
 
+.buttons {
+  display: block;
+  overflow: hidden;
+  max-width: 200px;
+  margin-right: 0.5rem;
+}
+
+.live {
+  display: block;
+  color: white;
+  text-shadow: none;
+}
+
+.live > span {
+  margin-right: 0.2rem;
+}
 hr {
   margin: auto;
   margin-top: 0.5rem;

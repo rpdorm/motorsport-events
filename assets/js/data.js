@@ -1873,10 +1873,59 @@ data = {
 					"circuit": 82,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653822000,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1653638100,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1653653400,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1653724500,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1653737400,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1653739800,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1653741300,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1653810000,
+							"length": 1200,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1653825600,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -1887,10 +1936,59 @@ data = {
 					"circuit": 38,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1654426800,
-							"length": 1,
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1654242900,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1654258200,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1654329300,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Practice 4",
+							"symbol": "P",
+							"timestamp": 1654342200,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1654344600,
+							"length": 900,
+							"laps": false
+						},
+						"5": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1654346100,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1654414800,
+							"length": 1200,
+							"laps": false
+						},
+						"7": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1654430400,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -2279,7 +2377,7 @@ data = {
 							"laps": false
 						},
 						"1": {
-							"name": "Feature Practice 2",
+							"name": "Free Practice 2",
 							"symbol": "P",
 							"timestamp": 1651927800,
 							"length": 1800,
@@ -2303,6 +2401,48 @@ data = {
 							"name": "Race 2",
 							"symbol": "R",
 							"timestamp": 1652022600,
+							"length": 2100,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Race of Germany",
+					"circuit": 102,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "P",
+							"timestamp": 1653568200,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "P",
+							"timestamp": 1653584400,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653649200,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1653724800,
+							"length": 2100,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1653734100,
 							"length": 2100,
 							"laps": false
 						}
@@ -2426,10 +2566,31 @@ data = {
 					"circuit": 38,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653206400,
-							"length": 1,
+							"name": "Free Practice",
+							"symbol": "P",
+							"timestamp": 1653039300,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653064200,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1653147600,
+							"length": 2700,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1653212100,
+							"length": 3600,
 							"laps": false
 						}
 					}
@@ -2657,10 +2818,31 @@ data = {
 					"circuit": 38,
 					"sessions":{
 						"0": {
-							"name": "Schedule TBA",
-							"symbol": "TBA",
-							"timestamp": 1653206400,
-							"length": 1,
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1653031800,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653053400,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Sprint Race",
+							"symbol": "SR",
+							"timestamp": 1653123600,
+							"length": 2400,
+							"laps": false
+						},
+						"3": {
+							"name": "Feature Race",
+							"symbol": "FR",
+							"timestamp": 1653206700,
+							"length": 2700,
 							"laps": false
 						}
 					}
@@ -5508,7 +5690,7 @@ data = {
 					}
 				},
 				"1": {
-					"round": 1,
+					"round": 2,
 					"name": "Dutch Round",
 					"circuit": 26,
 					"sessions":{
@@ -5565,6 +5747,69 @@ data = {
 							"name": "Race 2",
 							"symbol": "R",
 							"timestamp": 1650806100,
+							"length": 3600,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "Estoril Round",
+					"circuit": 101,
+					"sessions":{
+						"0": {
+							"name": "Practice 1",
+							"symbol": "P",
+							"timestamp": 1653039000,
+							"length": 2700,
+							"laps": false
+						},
+						"1": {
+							"name": "Practice 2",
+							"symbol": "P",
+							"timestamp": 1653055200,
+							"length": 2700,
+							"laps": false
+						},
+						"2": {
+							"name": "Practice 3",
+							"symbol": "P",
+							"timestamp": 1653120000,
+							"length": 1800,
+							"laps": false
+						},
+						"3": {
+							"name": "Superpole",
+							"symbol": "Q",
+							"timestamp": 1653127800,
+							"length": 900,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1653138000,
+							"length": 3600,
+							"laps": false
+						},
+						"5": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1653206400,
+							"length": 900,
+							"laps": false
+						},
+						"6": {
+							"name": "Superpole Race",
+							"symbol": "R",
+							"timestamp": 1653213600,
+							"length": 3600,
+							"laps": false
+						},
+						"7": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1653224400,
 							"length": 3600,
 							"laps": false
 						}
@@ -5748,6 +5993,118 @@ data = {
 							"symbol": "R",
 							"timestamp": 1652621400,
 							"length": 3600,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//BTCC
+		"21": {
+			"name": "British Touring Car Championship",
+			"symbol": "BTCC",
+			"events": {
+				"0": {
+					"round": 1,
+					"name": "Brands Hatch",
+					"circuit": 100,
+					"sessions":{
+						"0": {
+							"name": "Free Practice 1",
+							"symbol": "P",
+							"timestamp": 1652517000,
+							"length": 2400,
+							"laps": false
+						},
+						"1": {
+							"name": "Free Practice 2",
+							"symbol": "P",
+							"timestamp": 1652526300,
+							"length": 2400,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1652539800,
+							"length": 1800,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1652610600,
+							"length": 1800,
+							"laps": false
+						},
+						"4": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1652622300,
+							"length": 1800,
+							"laps": false
+						},
+						"5": {
+							"name": "Race 3",
+							"symbol": "R",
+							"timestamp": 1652625000,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				}
+			}
+		},
+		//24h Nürburgring
+		"22": {
+			"name": "24h Nürburgring",
+			"symbol": "24hNurburgring",
+			"events": {
+				"0": {
+					"round": 1,
+					"name": "24h Nürburgring",
+					"circuit": 102,
+					"sessions":{
+						"0": {
+							"name": "Qualifying 1",
+							"symbol": "Q",
+							"timestamp": 1653561000,
+							"length": 5400,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying 2",
+							"symbol": "Q",
+							"timestamp": 1653589800,
+							"length": 10800,
+							"laps": false
+						},
+						"2": {
+							"name": "Qualifying 3",
+							"symbol": "Q",
+							"timestamp": 1653653400,
+							"length": 3600,
+							"laps": false
+						},
+						"3": {
+							"name": "Top Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653666600,
+							"length": 7800,
+							"laps": false
+						},
+						"4": {
+							"name": "Warm Up",
+							"symbol": "WU",
+							"timestamp": 1653728400,
+							"length": 2700,
+							"laps": false
+						},
+						"5": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1653746400,
+							"length": 86400,
 							"laps": false
 						}
 					}
@@ -6255,6 +6612,21 @@ data = {
 			"name": "Jakarta National Monument",
 			"location": "Jakarta, Indonesia",
 			"url": "https://www.racingcircuits.info/asia/indonesia/jakarta-national-monument.html"
+		},
+		"100": {
+			"name": "Brands Hatch",
+			"location": "Kent, England",
+			"url": "https://www.racingcircuits.info/europe/united-kingdom/brands-hatch.html"
+		},
+		"101": {
+			"name": "Estoril",
+			"location": "Cascais, Portugal",
+			"url": "https://www.racingcircuits.info/europe/portugal/estoril.html"
+		},
+		"102": {
+			"name": "Nürburgring Nordschleife",
+			"location": "Nürburg, Germany",
+			"url": "https://www.racingcircuits.info/europe/germany/nurburgring.html"
 		}
 	}
 }

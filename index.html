@@ -22,8 +22,8 @@
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark">
 		<a class="navbar-brand" href="index.html">Upcoming Motorsport Events</a>
-		<div class="navbar-collapse collapse">
-			<ul class="nav navbar-nav navbar-right">
+		<div class="navbar-collapse collapse buttons">
+			<ul class="nav navbar-nav">
 				<li>
 					<form class="form-inline">
 						<a href="#show2week"><button id="show2week" class="btn btn-secondary" type="button" onClick="window.location.hash = '#show2week'; location.reload()">2w</button></a>
@@ -34,15 +34,15 @@
 				</li>
 			</ul>
 		</div>
+		<div class="navbar-collapse collapse live"><span class="badge bg-light text-dark">Now Live</span></div>
 	</nav>
-
 	<main class="event-list-grid"></main>
 
 	<footer>
 		<div class="footerDiv">
 			<p>
 				<b>Motorsport Events</b> by <a target="_blank" href="https://twitter.com/realzambas">@realzambas</a><br/>
-				last update <b>Apr 29<sup>th</sup></b><br/>
+				last update <b>May 1<sup>st</sup></b><br/>
 				displaying <b class="nSessions"></b> sessions from <b class="nEvents"></b> events within the next <b class="nWeeks"></b> weeks<br/>
 				all events might be subject to schedule changes and/or delays
 			</p>

@@ -1,3 +1,4 @@
+$(".live").hide();
 now = Math.floor(Date.now()/1000);
 if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-success"); }
 else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show2month").addClass("btn-success"); }
@@ -44,6 +45,8 @@ for (i=0; i<Object.keys(series).length; i++) {
 					if (sessionTimeUnix/1000 < now) {
 						green = " class='green' style='color:green; font-weight: bold'";
 						$("#" + shatimestamp).addClass("green");
+						$(".live").show();
+						$(".live").append("<span class='badge bg-success'>" + series[i].symbol + " - " + name + " - " + session + "</span>");
 					}
 					else { green = ""; }
 				}
