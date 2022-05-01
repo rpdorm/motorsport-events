@@ -46,7 +46,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 						green = " class='green' style='color:green; font-weight: bold'";
 						$("#" + shatimestamp).addClass("green");
 						$(".live").show();
-						$(".live").append("<span class='badge bg-success'>" + series[i].symbol + " - " + name + " - " + session + "</span>");
+						$("div.live").append("<span class='badge bg-success'>" + series[i].symbol + " • " + name + " • " + session + "</span>");
 					}
 					else { green = ""; }
 				}
