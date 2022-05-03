@@ -49,11 +49,11 @@ for (i=0; i<Object.keys(series).length; i++) {
 						$("div.live").append("<span class='badge bg-success'>" + series[i].name + " • " + name + " • " + session + "</span>");
 					}
 					else { green = ""; }
+					nSessions++;
 				}
 				else { del="<del>"; green=""; }
 				if (del == "") { timediv= "<p class='subtitle text-muted'><small>" + del + sessionTime + "</small></p>"; }
 				$("#" + sha).append("<li class='list-group-item'>" + timediv + "<h6" + green + ">" + del + session + "</h6></li>");
-				nSessions++;
 				
 			}
 			$("." + shatimestamp).append("</ul>");
