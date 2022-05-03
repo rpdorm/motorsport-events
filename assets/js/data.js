@@ -5981,10 +5981,38 @@ data = {
 							"length": 5100,
 							"laps": false
 						},
-						"2": {
+						"3": {
 							"name": "Race",
 							"symbol": "R",
 							"timestamp": 1650236400,
+							"length": 10800,
+							"laps": false
+						}
+					}
+				},
+				"9": {
+					"round": 12,
+					"name": "Darlington 400",
+					"circuit": 106,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1651930200,
+							"length": 4800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1651975500,
+							"length": 5100,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1652034600,
 							"length": 10800,
 							"laps": false
 						}
@@ -7692,6 +7720,11 @@ data = {
 			"name": "San Juan Villicum",
 			"location": "San Juan, Argentina",
 			"url": "https://www.racingcircuits.info/south-america/argentina/el-villicum.html"
+		},
+		"106": {
+			"name": "Darlington Raceway",
+			"location": "Darlington, SC, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/darlington-raceway.html"
 		}
 	}
 }
