@@ -3078,6 +3078,244 @@ data = {
 			"name": "W Series",
 			"symbol": "WS",
 			"events": {
+				"0": {
+					"round": 1,
+					"name": "Miami",
+					"circuit": 37,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1651867200,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1651929000,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1651948200,
+							"length": 2100,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1652020500,
+							"length": 2100,
+							"laps": false
+						}
+					}
+				},
+				"1": {
+					"round": 2,
+					"name": "Barcelona",
+					"circuit": 38,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1653036000,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1653067500,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1653136800,
+							"length": 2100,
+							"laps": false
+						}
+					}
+				},
+				"2": {
+					"round": 3,
+					"name": "Silverstone",
+					"circuit": 4,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1656661200,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1656683700,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1656764700,
+							"length": 2100,
+							"laps": false
+						}
+					}
+				},
+				"3": {
+					"round": 4,
+					"name": "Le Castellet",
+					"circuit": 41,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1658491200,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1658494800,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1658584800,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				},
+				"4": {
+					"round": 5,
+					"name": "Budapest",
+					"circuit": 42,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1659088800,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1659096000,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1659189600,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				},
+				"5": {
+					"round": 6,
+					"name": "Suzuka",
+					"circuit": 7,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1665136800,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1665154800,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1665237600,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				},
+				"6": {
+					"round": 7,
+					"name": "Austin",
+					"circuit": 8,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1666342800,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1666357200,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race",
+							"symbol": "R",
+							"timestamp": 1666447200,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				},
+				"7": {
+					"round": 8,
+					"name": "Mexico City",
+					"circuit": 9,
+					"sessions":{
+						"0": {
+							"name": "Practice",
+							"symbol": "P",
+							"timestamp": 1666951200,
+							"length": 1800,
+							"laps": false
+						},
+						"1": {
+							"name": "Qualifying",
+							"symbol": "Q",
+							"timestamp": 1666962000,
+							"length": 1800,
+							"laps": false
+						},
+						"2": {
+							"name": "Race 1",
+							"symbol": "R",
+							"timestamp": 1667037600,
+							"length": 1800,
+							"laps": false
+						},
+						"3": {
+							"name": "Race 2",
+							"symbol": "R",
+							"timestamp": 1667124000,
+							"length": 1800,
+							"laps": false
+						}
+					}
+				}
 			}
 		},
 		//DTM
@@ -6017,6 +6255,160 @@ data = {
 							"laps": false
 						}
 					}
+				},
+				"10": {
+					"round": 13,
+					"name": "Kansas 400",
+					"circuit": 107,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1652637600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"11": {
+					"round": 0,
+					"name": "All-Star Open",
+					"circuit": 63,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653260400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"12": {
+					"round": 14,
+					"name": "Charlotte 600",
+					"circuit": 108,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1653858000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"13": {
+					"round": 15,
+					"name": "Illinois 300",
+					"circuit": 72,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1654453800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"14": {
+					"round": 16,
+					"name": "Sonoma 350",
+					"circuit": 109,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1655060400,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"15": {
+					"round": 17,
+					"name": "Nashville 400",
+					"circuit": 110,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656273600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"16": {
+					"round": 18,
+					"name": "Road America 250",
+					"circuit": 67,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1656871200,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"17": {
+					"round": 19,
+					"name": "Atlanta 400",
+					"circuit": 91,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1657476000,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"18": {
+					"round": 20,
+					"name": "New Hampshire 301",
+					"circuit": 111,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658080800,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"19": {
+					"round": 21,
+					"name": "Pocono 350",
+					"circuit": 112,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1658685600,
+							"length": 1,
+							"laps": false
+						}
+					}
+				},
+				"20": {
+					"round": 22,
+					"name": "200 at the Brickyard",
+					"circuit": 65,
+					"sessions":{
+						"0": {
+							"name": "Schedule TBA",
+							"symbol": "TBA",
+							"timestamp": 1659288600,
+							"length": 1,
+							"laps": false
+						}
+					}
 				}
 			}
 		},
@@ -7725,6 +8117,36 @@ data = {
 			"name": "Darlington Raceway",
 			"location": "Darlington, SC, US",
 			"url": "https://www.racingcircuits.info/north-america/usa/darlington-raceway.html"
+		},
+		"107": {
+			"name": "Kansas Speedway",
+			"location": "Kansas, KS, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/kansas-speedway.html"
+		},
+		"108": {
+			"name": "Charlotte Motor Speedway",
+			"location": "Concord, NC, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/charlotte-motor-speedway.html"
+		},
+		"109": {
+			"name": "Sonoma Raceway",
+			"location": "Sonoma, CA, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/sonoma-raceway.html"
+		},
+		"110": {
+			"name": "Nashville Superspeedway",
+			"location": "Nashville, TN, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/nashville-superspeedway.html"
+		},
+		"111": {
+			"name": "New Hampshire Motor Speedway",
+			"location": "North Loudon, NH, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/new-hampshire-motor-speedway.html"
+		},
+		"112": {
+			"name": "Pocono Raceway",
+			"location": "Long Pond, PA, US",
+			"url": "https://www.racingcircuits.info/north-america/usa/pocono-raceway.html"
 		}
 	}
 }

@@ -11,6 +11,7 @@ circuits = data.circuits;
 maxHeight = 0;
 nSessions = 0;
 nEvents = 0;
+nLive = 0;
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
 	imgtitle = series[i].name;
@@ -46,7 +47,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 						green = " class='green' style='color:green; font-weight: bold'";
 						$("#" + shatimestamp).addClass("green");
 						$(".live").show();
-						$("div.live").append("<span class='badge bg-success'>" + series[i].name + " • " + name + " • " + session + "</span>");
+						$("div.live").append("<span class='badge bg-success liveitem'><img class='img-small' title='" + imgtitle + "' src='assets/png/" + series[i].symbol + ".png'>" + name + " - " + session + "</span>");
 					}
 					else { green = ""; }
 					nSessions++;

@@ -23,18 +23,27 @@ main {
 .buttons {
   display: block;
   overflow: hidden;
+  min-width: 200px;
   max-width: 200px;
-  margin-right: 0.5rem;
+  margin-right: 0.25rem;
 }
 
 .live {
   display: block;
+  overflow: scroll;
   color: white;
   text-shadow: none;
 }
 
+.live::-webkit-scrollbar {
+  display: none;
+}
+
+.liveitem { font-size: 0.69rem; }
+
+
 .live > span {
-  margin-right: 0.2rem;
+  margin-right: 0.25rem;
 }
 hr {
   margin: auto;
