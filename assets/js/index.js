@@ -1,9 +1,9 @@
 $(".live").hide();
 now = Math.floor(Date.now()/1000);
-if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-success"); }
-else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show2month").addClass("btn-success"); }
-else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; $("#show12month").addClass("btn-success"); }
-else { nWeeks = 2; $("#show2week").addClass("btn-success"); }
+if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-light"); }
+else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show2month").addClass("btn-light"); }
+else if ($(location).attr("hash") == "#show12month") { nWeeks = 52; $("#show12month").addClass("btn-light"); }
+else { nWeeks = 2; $("#show2week").addClass("btn-light"); }
 upcoming = now+691200*nWeeks;
 today = moment().isoWeekday;
 series = data.series;
