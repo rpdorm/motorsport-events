@@ -4754,27 +4754,55 @@ data = {
                     "circuit": 46,
                     "sessions": {
                         "0": {
-                            "name": "Qualifying 1",
-                            "symbol": "Q",
-                            "timestamp": 1652517900,
+                            "name": "Practice 1",
+                            "symbol": "P",
+                            "timestamp": 1652505300,
                             "length": 1800,
                             "laps": false
                         },
                         "1": {
+                            "name": "Practice 2",
+                            "symbol": "P",
+                            "timestamp": 1652511600,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Qualifying 1",
+                            "symbol": "Q",
+                            "timestamp": 1652517600,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "3": {
                             "name": "Race 1",
                             "symbol": "R",
                             "timestamp": 1652533200,
                             "length": 1800,
                             "laps": false
                         },
-                        "2": {
+                        "4": {
+                            "name": "Practice 3",
+                            "symbol": "P",
+                            "timestamp": 1652591700,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "5": {
+                            "name": "Practice 4",
+                            "symbol": "P",
+                            "timestamp": 1652598000,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "6": {
                             "name": "Qualifying 2",
                             "symbol": "Q",
-                            "timestamp": 1652604300,
+                            "timestamp": 1652604000,
                             "length": 1200,
                             "laps": false
                         },
-                        "3": {
+                        "7": {
                             "name": "Race 2",
                             "symbol": "R",
                             "timestamp": 1652619600,
@@ -6430,10 +6458,24 @@ data = {
                     "circuit": 107,
                     "sessions": {
                         "0": {
-                            "name": "Schedule TBA",
-                            "symbol": "TBA",
+                            "name": "Practice",
+                            "symbol": "P",
+                            "timestamp": 1652558400,
+                            "length": 1200,
+                            "laps": false
+                        },
+                        "1": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1652560500,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Race",
+                            "symbol": "R",
                             "timestamp": 1652637600,
-                            "length": 1,
+                            "length": 10800,
                             "laps": false
                         }
                     }
