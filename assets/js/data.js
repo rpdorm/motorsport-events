@@ -6483,14 +6483,35 @@ data = {
                 "11": {
                     "hl": 0,
                     "round": 0,
-                    "name": "All-Star Open",
+                    "name": "NASCAR All-Star",
                     "circuit": 63,
                     "sessions": {
                         "0": {
-                            "name": "Schedule TBA",
-                            "symbol": "TBA",
+                            "name": "Practice",
+                            "symbol": "P",
+                            "timestamp": 1653170400,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "1": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1653172500,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "All-Star Open",
+                            "symbol": "R",
+                            "timestamp": 1653251400,
+                            "length": 7600,
+                            "laps": false
+                        },
+                        "3": {
+                            "name": "All-Star Race",
+                            "symbol": "R",
                             "timestamp": 1653260400,
-                            "length": 1,
+                            "length": 7600,
                             "laps": false
                         }
                     }
