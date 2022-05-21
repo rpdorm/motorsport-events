@@ -1255,9 +1255,37 @@ data = {
                     "circuit": 66,
                     "sessions": {
                         "0": {
+                            "name": "Practice 1",
+                            "symbol": "P",
+                            "timestamp": 1654281000,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "1": {
+                            "name": "Practice 2",
+                            "symbol": "P",
+                            "timestamp": 1654342200,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Qualifications",
+                            "symbol": "Q",
+                            "timestamp": 1654356900,
+                            "length": 4500,
+                            "laps": false
+                        },
+                        "3": {
+                            "name": "Warm Up",
+                            "symbol": "WU",
+                            "timestamp": 1654434900,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "4": {
                             "name": "Race",
                             "symbol": "R",
-                            "timestamp": 1654457400,
+                            "timestamp": 1654453800,
                             "length": 7200,
                             "laps": false
                         }
@@ -1270,6 +1298,34 @@ data = {
                     "circuit": 67,
                     "sessions": {
                         "0": {
+                            "name": "Practice 1",
+                            "symbol": "P",
+                            "timestamp": 1654883100,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "1": {
+                            "name": "Practice 2",
+                            "symbol": "P",
+                            "timestamp": 1654955700,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Qualifications",
+                            "symbol": "Q",
+                            "timestamp": 1654966800,
+                            "length": 4500,
+                            "laps": false
+                        },
+                        "3": {
+                            "name": "Final Practice",
+                            "symbol": "P",
+                            "timestamp": 1654979700,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "4": {
                             "name": "Race",
                             "symbol": "R",
                             "timestamp": 1655047800,
@@ -2821,10 +2877,31 @@ data = {
                     "circuit": 32,
                     "sessions": {
                         "0": {
-                            "name": "Schedule TBA",
-                            "symbol": "TBA",
-                            "timestamp": 1653811200,
-                            "length": 1,
+                            "name": "Practice",
+                            "symbol": "P",
+                            "timestamp": 1653577500,
+                            "length": 2700,
+                            "laps": false
+                        },
+                        "1": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1653644400,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Sprint Race",
+                            "symbol": "SR",
+                            "timestamp": 1653752400,
+                            "length": 2700,
+                            "laps": false
+                        },
+                        "3": {
+                            "name": "Feature Race",
+                            "symbol": "FR",
+                            "timestamp": 1653810600,
+                            "length": 3600,
                             "laps": false
                         }
                     }
@@ -4818,17 +4895,31 @@ data = {
                     "circuit": 99,
                     "sessions": {
                         "0": {
-                            "name": "Qualifying",
-                            "symbol": "Q",
-                            "timestamp": 1654317600,
+                            "name": "Practice 1",
+                            "symbol": "P",
+                            "timestamp": 1654301700,
                             "length": 1800,
                             "laps": false
                         },
                         "1": {
+                            "name": "Practice 2",
+                            "symbol": "p",
+                            "timestamp": 1654308000,
+                            "length": 1800,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1654314000,
+                            "length": 4500,
+                            "laps": false
+                        },
+                        "3": {
                             "name": "Race",
                             "symbol": "R",
-                            "timestamp": 1654333200,
-                            "length": 1800,
+                            "timestamp": 1654329600,
+                            "length": 3600,
                             "laps": false
                         }
                     }
