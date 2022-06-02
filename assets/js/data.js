@@ -6629,10 +6629,24 @@ data = {
                     "circuit": 72,
                     "sessions": {
                         "0": {
-                            "name": "Schedule TBA",
-                            "symbol": "TBA",
-                            "timestamp": 1654453800,
-                            "length": 1,
+                            "name": "Practice",
+                            "symbol": "P",
+                            "timestamp": 1654290300,
+                            "length": 1200,
+                            "laps": false
+                        },
+                        "1": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1654354800,
+                            "length": 3600,
+                            "laps": false
+                        },
+                        "2": {
+                            "name": "Race",
+                            "symbol": "R",
+                            "timestamp": 1654457400,
+                            "length": 10800,
                             "laps": false
                         }
                     }
