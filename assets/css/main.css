@@ -1,7 +1,6 @@
 p, main, body, h6 {
   padding: 0;
   margin: 0;
-  gap: 0;
 }
 
 body {
@@ -13,9 +12,6 @@ main, body, nav {
 }
 
 main {
-  display: grid;
-  grid-auto-flow: row dense;
-  gap: .5em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
@@ -39,7 +35,7 @@ main {
   display: none;
 }
 
-.liveitem { font-size: 0.69rem; }
+.liveitem { font-size: 1rem; }
 
 
 .live > span {
@@ -47,10 +43,9 @@ main {
 }
 
 hr {
-  margin: auto;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-  max-width: 280px;
+  width: 100%;
 }
 
 nav {
@@ -62,20 +57,22 @@ footer { font-size: 0.7rem }
 
 article {
   width: 1fr;
+  margin-bottom: 0.5rem;
 }
 
 .header {
   background-image: linear-gradient(#c0c0c0, white);
-  padding-top: .5em;
-  padding-bottom: .5em;
+  padding: .5em;
 }
 
 ul {
   overflow-y: auto;
-  max-height: 360px;
 }
 
-img { max-height: 28px; margin-right: .5rem; }
+img { margin-right: .25rem; }
+
+
+.img-small { max-height: 14px; }
 
 h5 { text-shadow: 1px 1px #6c757d; }
 
@@ -143,20 +140,17 @@ a {
     width: 100%;
     text-align: center;
   }
+  h5 { font-size: 1.2rem; }
+  h6 { font-size: .8rem; }
+  .img-top { max-height: 1.2rem; }
+  .img-flag { max-height: .8rem; }
 }
 @media only screen and (min-width: 1081px) {
   main {
-    grid-template-columns: repeat(3,1fr);
+    width: 500px;
   }
-}
-@media only screen and (min-width: 1300px) {
-  main {
-    grid-template-columns: repeat(4,1fr);
-  }
-}
-
-@media only screen and (min-width: 1400px) {
-  main {
-    grid-template-columns: repeat(5,1fr);
-  }
+  .img-top { max-height: 1.6rem; }
+  .img-flag { max-height: 12px; }
+  h5 { font-size: 1.6rem; }
+  h6 { font-size: 12px; }
 }
