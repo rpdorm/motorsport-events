@@ -2,7 +2,7 @@ data = {
     "series": {
         //FIA Formula One World Championship
         "0": {
-            "name": "Formula One",
+            "name": "Formula 1",
             "symbol": "F1",
             "events": {
                 "0": {
@@ -1564,6 +1564,7 @@ data = {
                 }
             }
         },
+         //NASCAR
         "8": {
             "name": "NASCAR Cup Series",
             "symbol": "NCS",
@@ -2077,6 +2078,7 @@ data = {
                 }
             }
         },
+         //Supercars
         "9": {
             "name": "Supercars Championship",
             "symbol": "Supercars",
@@ -2239,6 +2241,7 @@ data = {
                 }
             }
         },
+         //24h Series
         "10": {
             "name": "24h Series",
             "symbol": "24hS",
@@ -2420,6 +2423,137 @@ data = {
                             "name": "TBA",
                             "symbol": "T",
                             "timestamp": 1726311600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //Asian Le Mans Series
+        "11": {
+            "name": "Asian Le Mans Series",
+            "symbol": "ALMS",
+            "events": {
+                "0": {
+                    "name": "4h of Dubai",
+                    "venue": 150,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1707048000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "4h of Abu Dhabi",
+                    "venue": 13,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1707566400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //European Le Mans Series
+        "12": {
+            "name": "European Le Mans Series",
+            "symbol": "ELMS",
+            "events": {
+                "0": {
+                    "name": "Prologue",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1712660400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "4h of Barcelona",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713092400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "4h of Le Castellet",
+                    "venue": 41,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714906800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "4h of Imola",
+                    "venue": 36,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720350000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "4h of Spa-Francorchamps",
+                    "venue": 0,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1724583600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "4h of Mugello",
+                    "venue": 82,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727607600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "4h of Portimão",
+                    "venue": 16,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1729335600,
                             "length": 3600,
                             "live": false
                         }

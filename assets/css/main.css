@@ -11,6 +11,10 @@ main, body, nav {
   background: #222;
 }
 
+.nav-item {
+  font-size: .75rem;
+}
+
 main {
   margin-left: 10px;
 }
