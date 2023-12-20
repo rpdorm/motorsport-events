@@ -24,14 +24,20 @@
 		<a class="navbar-brand" href="index.html">Motorsport Events</a>
 		<div class="navbar-collapse collapse live"></div>
 	</nav>
-	<main class="event-list-grid"></main>
-
+	<div class="body-wrapper">
+		<div class="menu d-flex flex-column flex-shrink-0 p-3 text-white bg-dark">
+			<ul class="filter nav nav-pills flex-column mb-auto text-decoration-none">
+				<li class="nav-item"><a href="#" id="show-all" class="nav-link text-white active" aria-current="page">Show All</a></li>
+			</ul>
+		</div>
+		<main class="event-list-grid"></main>
+	</div>
 	<footer>
 		<div class="footerDiv">
 			<p>
 				<b>Motorsport Events</b><br/>
 				last update <b>Dec 20<sup>th</sup> 2023</b><br/>
-				displaying <b class="nSessions"></b> sessions from <b class="nEvents"></b> events within the next <b class="nWeeks"></b> weeks<br/>
+				displaying <b class="nSessions"></b> sessions from <b class="nEvents"></b> events in <b class="Year"></b><br/>
 				all events might be subject to schedule changes and/or delays
 			</p>
 		</div>
