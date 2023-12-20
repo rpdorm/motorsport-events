@@ -55,11 +55,6 @@ nav {
 
 footer { font-size: 0.7rem }
 
-article {
-  width: 1fr;
-  margin-bottom: 0.5rem;
-}
-
 .header {
   background-image: linear-gradient(#c0c0c0, white);
   padding: .5em;
@@ -92,7 +87,7 @@ footer {
 }
 
 .list-group-item {
-  padding: 0.3rem;
+  padding: 0.25rem;
   padding-left: 0.5rem;
 }
 
@@ -139,6 +134,7 @@ a {
   a.navbar-brand {
     width: 100%;
     text-align: center;
+    margin:0;
   }
   h5 { font-size: 1.2rem; }
   h6 { font-size: .8rem; }
@@ -167,6 +163,10 @@ a {
     float: left;
     width: 490px;
   }
+  article {
+    margin-bottom: 0.75rem;
+  }
+
   .img-top { max-height: 1.6rem; }
   .img-flag { max-height: 12px; }
   h5 { font-size: 1.6rem; }

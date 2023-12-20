@@ -1563,6 +1563,681 @@ data = {
                     }
                 }
             }
+        },
+        "8": {
+            "name": "NASCAR Cup Series",
+            "symbol": "NCS",
+            "events": {
+                "0": {
+                    "name": "Clash at the Coliseum",
+                    "venue": 73,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1707048000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Duels at Daytona",
+                    "venue": 31,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1707998400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Daytona 500",
+                    "venue": 31,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1708257600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Atlanta 400",
+                    "venue": 91,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1708862400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Las Vegas 400",
+                    "venue": 75,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1709467200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Phoenix 500",
+                    "venue": 90,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1710072000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Bristol 500",
+                    "venue": 96,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1710676800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Grand Prix of the Americas",
+                    "venue": 8,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1711281600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Richmond 400",
+                    "venue": 92,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1711886400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Martinsville 400",
+                    "venue": 134,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1712491200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Texas 400",
+                    "venue": 63,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1713096000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Alabama 500",
+                    "venue": 135,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1713700800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "12": {
+                    "name": "Dover 400",
+                    "venue": 136,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1714305600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "13": {
+                    "name": "Kansas 400",
+                    "venue": 107,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1714910400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "14": {
+                    "name": "Darlington 400",
+                    "venue": 106,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1715515200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "15": {
+                    "name": "NASCAR All-Star",
+                    "venue": 137,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1716145200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "16": {
+                    "name": "Charlotte 600",
+                    "venue": 108,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1716750000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "17": {
+                    "name": "Illinois 300",
+                    "venue": 72,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1717354800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "18": {
+                    "name": "Sonoma 350",
+                    "venue": 109,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1717959600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "19": {
+                    "name": "Iowa 350",
+                    "venue": 70,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1718564400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "20": {
+                    "name": "New Hampshire 301",
+                    "venue": 111,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1719169200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "21": {
+                    "name": "Nashville 400",
+                    "venue": 110,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1719774000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "22": {
+                    "name": "Chicago Street Race Weekend",
+                    "venue": 138,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1720378800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "23": {
+                    "name": "Pocono 400",
+                    "venue": 112,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1720983600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "24": {
+                    "name": "Brickyard 400",
+                    "venue": 65,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1721588400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "25": {
+                    "name": "Richmond Raceway 400",
+                    "venue": 92,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1723402800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "26": {
+                    "name": "Michigan 400",
+                    "venue": 139,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1724007600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "27": {
+                    "name": "Daytona 400",
+                    "venue": 31,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1724871600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "28": {
+                    "name": "Southern 500",
+                    "venue": 106,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1725217200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "29": {
+                    "name": "Georgia 400",
+                    "venue": 91,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1725822000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "30": {
+                    "name": "NASCAR at the Glen",
+                    "venue": 93,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1726426800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "31": {
+                    "name": "Bristol Night Race",
+                    "venue": 96,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1726945200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "31": {
+                    "name": "Kansas City 400",
+                    "venue": 107,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1727636400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "32": {
+                    "name": "Talladega 500",
+                    "venue": 135,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1728241200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "33": {
+                    "name": "Charlotte Roval 400",
+                    "venue": 108,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1728846000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "34": {
+                    "name": "Nevada 400",
+                    "venue": 75,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1729450800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "35": {
+                    "name": "Homestead-Miami 400",
+                    "venue": 140,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1730055600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "36": {
+                    "name": "Martinsville 500",
+                    "venue": 134,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1730660400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "37": {
+                    "name": "Championship Race",
+                    "venue": 90,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1731265200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+        "9": {
+            "name": "Supercars Championship",
+            "symbol": "Supercars",
+            "events": {
+                "0": {
+                    "name": "Bathurst 500",
+                    "venue": 33,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1708887600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Melbourne SuperSprint",
+                    "venue": 35,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1711306800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Taupō Super400",
+                    "venue": 141,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1713726000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Perth SuperSprint",
+                    "venue": 142,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1716145200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Darwin Triple Crown",
+                    "venue": 143,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1718564400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Townsville 500",
+                    "venue": 144,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1720378800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Sydney SuperNight",
+                    "venue": 145,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1721588400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Tasmania SuperSprint",
+                    "venue": 146,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1724007600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Sandown 500",
+                    "venue": 147,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1727031600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Bathurst 1000",
+                    "venue": 33,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1728846000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Gold Coast 500",
+                    "venue": 148,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1730055600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Adelaide 500",
+                    "venue": 149,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "R",
+                            "timestamp": 1731870000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -2007,7 +2682,7 @@ data = {
             "name": "Los Angeles Memorial Coliseum",
             "location": "LA, CA, USA",
             "flag": "us",
-            "url": false
+            "url": "https://www.racingcircuits.info/north-america/usa/la-memorial-coliseum.html"
         },
         "74": {
             "name": "California Speedway",
@@ -2366,6 +3041,102 @@ data = {
             "location": "Braselton, GA, USA",
             "flag": "us",
             "url": "https://www.racingcircuits.info/north-america/usa/road-atlanta.html"
+        },
+        "134": {
+            "name": "Martinsville Speedway",
+            "location": "Ridgeway, VA, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/martinsville-speedway.html"
+        },
+        "135": {
+            "name": "Talladega Superspeedway",
+            "location": "Talladega, AL, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/talladega-superspeedway.html"
+        },
+        "136": {
+            "name": "Dover Motor Speedway",
+            "location": "Dover, DE, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/dover-motor-speedway.html"
+        },
+        "137": {
+            "name": "North Wilkesboro Speedway",
+            "location": "North Wilkesboro, NC, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/north-wilkesboro-speedway.html"
+        },
+        "138": {
+            "name": "Chicago Street Course",
+            "location": "Chicago, IL, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/chicago-street-circuit.html"
+        },
+        "139": {
+            "name": "Michigan International Speedway",
+            "location": "Brooklyn, MI, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/michigan-international-speedway.html"
+        },
+        "140": {
+            "name": "Homestead–Miami Speedway",
+            "location": "Homestead, FL, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/homestead-miami-speedway.html"
+        },
+        "141": {
+            "name": "Taupō International Motorsport Park",
+            "location": "Taupō, New Zealand",
+            "flag": "nz",
+            "url": "https://www.racingcircuits.info/australasia/new-zealand/taupo.html"
+        },
+        "142": {
+            "name": "Wanneroo Raceway",
+            "location": "Neerabup, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/wanneroo-raceway.html"
+        },
+        "143": {
+            "name": "Hidden Valley Raceway",
+            "location": "Darwin, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/hidden-valley-raceway.html"
+        },
+        "144": {
+            "name": "Reid Park Street Circuit",
+            "location": "Townsville, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/townsville.html"
+        },
+        "145": {
+            "name": "Sydney Motorsport Park",
+            "location": "Sydney, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/sydney-motorsport-park.html"
+        },
+        "146": {
+            "name": "Symmons Plains Raceway",
+            "location": "Launceston, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/symmons-plains.html"
+        },
+        "147": {
+            "name": "Sandown Raceway",
+            "location": "Sprinvale, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/sandown-raceway.html"
+        },
+        "148": {
+            "name": "Surfers Paradise Street Circuit",
+            "location": "Surfers Paradise, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/surfers-paradise.html"
+        },
+        "149": {
+            "name": "Adelaide Street Circuit",
+            "location": "Adelaide, Australia",
+            "flag": "au",
+            "url": "https://www.racingcircuits.info/australasia/australia/adelaide.html"
         }
     }
 }
