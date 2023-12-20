@@ -86,7 +86,7 @@ $(document).ready(function(){
 
 	// SORT LI
 	function sortUL(selector) {
-	    $(selector).children("li.sortli").sort(function(a, b) {
+	    $(selector).children("li").sort(function(a, b) {
 	        var upA = $(a).text().toUpperCase();
 	        var upB = $(b).text().toUpperCase();
 	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
