@@ -28,7 +28,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				url = "#";
 				target = "_self";
 			}
-			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h5 class='title'><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name}</h5><hr><a href='${url}' target='${target}'><h6 class='mb-2'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</h6></a></div></article>`);
+			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h5 class='title'>${name}</h5><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${series[i].name}</h6><hr><a href='${url}' target='${target}'><h6 class='mb-2'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</h6></a></div></article>`);
 			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(`${series[i].name}-${i}-${name}-${venue.name}`);
@@ -40,6 +40,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				session = series[i].events[j].sessions[k].name;
 				length = series[i].events[j].sessions[k].length;
 				livestream = series[i].events[j].sessions[k].live;
+				if (livestream != false) { liveicon = `<a class='livestream' target='_blank' href='${livestream}' title='Watch Live'>WATCH LIVE</a>`; }
 				sessionTimeUnix=Math.floor(series[i].events[j].sessions[k].timestamp*1000);
 				sessionTime = moment(sessionTimeUnix).format('HH:mm');
 				sessionDate = moment(sessionTimeUnix).format('ddd, MMM Do');
@@ -48,7 +49,6 @@ for (i=0; i<Object.keys(series).length; i++) {
 					del="";
 					if (sessionTimeUnix/1000 < now) {
 						green = " class='green' style='color:green; font-weight: bold'";
-						if (livestream != false) { liveicon = `<a class='livestream' target='_blank' href='${livestream}' title='Watch Live'>Watch Live <img src='assets/png/play-circle-regular-24.png'></a>`; }
 						$("#" + shatimestamp).addClass("green");
 						$(".live").show();
 						$("div.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
@@ -56,7 +56,11 @@ for (i=0; i<Object.keys(series).length; i++) {
 					else { green = ""; }
 					nSessions++;
 				}
-				else { del="<del>"; green=""; }
+				else {
+					del= "<del>";
+					green= "";
+					liveicon = "";
+				}
 				if (session == "TBA") { sessionTime = ""; }
 				if (del == "") { timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`; }
 				$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green}>${del}${session}${liveicon}</h6></li>`);

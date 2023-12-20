@@ -2238,6 +2238,194 @@ data = {
                     }
                 }
             }
+        },
+        "10": {
+            "name": "24h Series",
+            "symbol": "24hS",
+            "events": {
+                "0": {
+                    "name": "24h Dubai",
+                    "venue": 150,
+                    "sessions": {
+                        "0": {
+                            "name": "Private Test 1",
+                            "symbol": "T",
+                            "timestamp": 1704954600,
+                            "length": 9000,
+                            "live": false
+                        },
+                        "1": {
+                            "name": "Private Test 2",
+                            "symbol": "T",
+                            "timestamp": 1704967200,
+                            "length": 9000,
+                            "live": false
+                        },
+                        "2": {
+                            "name": "Free Practice",
+                            "symbol": "P",
+                            "timestamp": 1705039200,
+                            "length": 5400,
+                            "live": false
+                        },
+                        "3": {
+                            "name": "Qualifying (TCE & GT4)",
+                            "symbol": "Q",
+                            "timestamp": 1705056000,
+                            "length": 3300,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        },
+                        "4": {
+                            "name": "Qualifying (GTX & 992)",
+                            "symbol": "Q",
+                            "timestamp": 1705059900,
+                            "length": 3300,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        },
+                        "5": {
+                            "name": "Qualifying (GT3)",
+                            "symbol": "Q",
+                            "timestamp": 1705063800,
+                            "length": 3300,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        },
+                        "6": {
+                            "name": "Night Practice",
+                            "symbol": "P",
+                            "timestamp": 1705072500,
+                            "length": 5400,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        },
+                        "7": {
+                            "name": "Warm Up",
+                            "symbol": "W",
+                            "timestamp": 1705123800,
+                            "length": 1800,
+                            "live": false
+                        },
+                        "8": {
+                            "name": "Race",
+                            "symbol": "R",
+                            "timestamp": 1705136400,
+                            "length": 86400,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        }
+                    }
+                },
+                "1": {
+                    "name": "6h Abu Dhabi",
+                    "venue": 13,
+                    "sessions": {
+                        "0": {
+                            "name": "Private Test 1",
+                            "symbol": "T",
+                            "timestamp": 1705640400,
+                            "length": 7200,
+                            "live": false
+                        },
+                        "1": {
+                            "name": "Private Test 2",
+                            "symbol": "T",
+                            "timestamp": 1705663800,
+                            "length": 7200,
+                            "live": false
+                        },
+                        "2": {
+                            "name": "Private Test 3",
+                            "symbol": "T",
+                            "timestamp": 1705676400,
+                            "length": 7200,
+                            "live": false
+                        },
+                        "3": {
+                            "name": "Free Practice",
+                            "symbol": "P",
+                            "timestamp": 1705731600,
+                            "length": 5400,
+                            "live": false
+                        },
+                        "4": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1705756800,
+                            "length": 3300,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        },
+                        "5": {
+                            "name": "Race",
+                            "symbol": "R",
+                            "timestamp": 1705816800,
+                            "length": 21600,
+                            "live": "https://www.youtube.com/@24HSeries/streams"
+                        }
+                    }
+                },
+                "2": {
+                    "name": "12h Mugello",
+                    "venue": 82,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1711195200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "12h Spa-Francorchamps",
+                    "venue": 0,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713610800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "24h Portimão",
+                    "venue": 16,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1715425200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "12h Misano",
+                    "venue": 15,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720263600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "24h Barcelona",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1726311600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -3137,6 +3325,12 @@ data = {
             "location": "Adelaide, Australia",
             "flag": "au",
             "url": "https://www.racingcircuits.info/australasia/australia/adelaide.html"
+        },
+        "150": {
+            "name": "Dubai Autodrome",
+            "location": "Dubai, UAE",
+            "flag": "ae",
+            "url": "https://www.racingcircuits.info/middle-east/united-arab-emirates/dubai-autodrome.html"
         }
     }
 }

@@ -4,10 +4,8 @@ p, main, body, h6 {
 }
 
 body {
-  font-family:
-    /* 1 */ -apple-system, BlinkMacSystemFont,
-    /* 2 */ "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
-    /* 3 */ "Helvetica Neue", sans-serif;}
+  font-family: Roboto, sans-serif
+}
 
 main, body, nav {
   background: #222;
@@ -50,7 +48,7 @@ hr {
 
 nav {
   padding: 0.5rem;
-  text-shadow: 2px 1px #6c757d;
+  text-shadow: #ffffff 1px 0 18px;
 }
 
 footer { font-size: 0.7rem }
@@ -69,7 +67,7 @@ img { margin-right: .25rem; }
 
 .img-small { max-height: 14px; }
 
-h5 { text-shadow: 1px 1px #6c757d; }
+h5, h6 { font-weight: bold; }
 
 footer {
   display: block;
@@ -89,6 +87,7 @@ footer {
 .list-group-item {
   padding: 0.25rem;
   padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 del {
@@ -167,7 +166,7 @@ a {
     margin-bottom: 0.75rem;
   }
 
-  .img-top { max-height: 1.6rem; }
+  .img-top { max-height: .8rem; }
   .img-flag { max-height: 12px; }
   h5 { font-size: 1.6rem; }
   h6 { font-size: 12px; }
