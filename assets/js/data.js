@@ -583,6 +583,58 @@ data = {
                             "live": false
                         }
                     }
+                },
+                "1": {
+                    "name": "Abu Dhabi Desert Challenge",
+                    "venue": 129,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1709384400,
+                            "length": 21600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Rally-Raid Portugal",
+                    "venue": 53,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1712494800,
+                            "length": 21600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Desafío Ruta 40",
+                    "venue": 130,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1717851600,
+                            "length": 21600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Rallye du Maroc",
+                    "venue": 131,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1728651600,
+                            "length": 21600,
+                            "live": false
+                        }
+                    }
                 }
             }
         },
@@ -1025,6 +1077,136 @@ data = {
                             "live": false
                         }
                     }
+                },
+                "2": {
+                    "name": "12h of Sebring",
+                    "venue": 34,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1710590400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Grand Prix of Long Beach",
+                    "venue": 19,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1713614400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Course de Monterey",
+                    "venue": 18,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1715515200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Detroit Grand Prix",
+                    "venue": 66,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1717243200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "6h of the Glen",
+                    "venue": 93,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1719144000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Mosport Grand Prix",
+                    "venue": 94,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1720958400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "IMSA Sportscar Weekend",
+                    "venue": 67,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1722772800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "GT Challenge at VIR",
+                    "venue": 132,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1724587200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Battle on the Bricks",
+                    "venue": 65,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1727006400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Petit Le Mans",
+                    "venue": 133,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "P",
+                            "timestamp": 1728734400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
                 }
             }
         },
@@ -1219,6 +1401,162 @@ data = {
                             "name": "Stage 17",
                             "symbol": "S17",
                             "timestamp": 1706440500,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Rally Sweden",
+                    "venue": 51,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1708261200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Safari Rally Kenya",
+                    "venue": 55,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1711890000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Croatia Rally",
+                    "venue": 52,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1713704400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Rally Portugal",
+                    "venue": 53,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1715518800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Rally Sardegna",
+                    "venue": 54,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1717333200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Rally Poland",
+                    "venue": 125,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1719752400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Rally Latvia",
+                    "venue": 126,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1721566800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Rally Finland",
+                    "venue": 57,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1722776400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Acropolis Rally",
+                    "venue": 58,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1725800400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Rally Chile",
+                    "venue": 127,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1727614800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Central European Rally",
+                    "venue": 128,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1730638800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "12": {
+                    "name": "Rally Japan",
+                    "venue": 61,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "S",
+                            "timestamp": 1732453200,
                             "length": 3600,
                             "live": false
                         }
@@ -1974,6 +2312,60 @@ data = {
             "location": "Monaco",
             "flag": "mc",
             "url": false
+        },
+        "125": {
+            "name": "Poland",
+            "location": "Poland",
+            "flag": "pl",
+            "url": false
+        },
+        "126": {
+            "name": "Latvia",
+            "location": "Latvia",
+            "flag": "lv",
+            "url": false
+        },
+        "127": {
+            "name": "Chile",
+            "location": "Chile",
+            "flag": "cl",
+            "url": false
+        },
+        "128": {
+            "name": "Germany",
+            "location": "Germany",
+            "flag": "de",
+            "url": false
+        },
+        "129": {
+            "name": "Abu Dhabi",
+            "location": "Abu Dhabi, UAE",
+            "flag": "ae",
+            "url": false
+        },
+        "130": {
+            "name": "Argentina",
+            "location": "Argentina",
+            "flag": "ar",
+            "url": false
+        },
+        "131": {
+            "name": "Marocco",
+            "location": "Marocco",
+            "flag": "ma",
+            "url": false
+        },
+        "132": {
+            "name": "Virginia International Raceway",
+            "location": "Alton, VA, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/virginia-international-raceway.html"
+        },
+        "133": {
+            "name": "Road Atlanta",
+            "location": "Braselton, GA, USA",
+            "flag": "us",
+            "url": "https://www.racingcircuits.info/north-america/usa/road-atlanta.html"
         }
     }
 }

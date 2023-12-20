@@ -4,8 +4,10 @@ p, main, body, h6 {
 }
 
 body {
-  font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
+  font-family:
+    /* 1 */ -apple-system, BlinkMacSystemFont,
+    /* 2 */ "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    /* 3 */ "Helvetica Neue", sans-serif;}
 
 main, body, nav {
   background: #222;
@@ -41,6 +43,8 @@ main {
 .live > span {
   margin-right: 0.25rem;
 }
+
+
 
 hr {
   margin-top: 0.5rem;
@@ -144,6 +148,10 @@ a {
   h6 { font-size: .8rem; }
   .img-top { max-height: 1.2rem; }
   .img-flag { max-height: .8rem; }
+  .livestream {
+    height: 25px;
+    margin-left: 15px;
+  }
 }
 @media only screen and (min-width: 1081px) {
   main {
@@ -153,4 +161,8 @@ a {
   .img-flag { max-height: 12px; }
   h5 { font-size: 1.6rem; }
   h6 { font-size: 12px; }
+  .livestream {
+    float: right;
+    height: 18px;
+  }
 }
