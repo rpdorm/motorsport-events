@@ -2560,6 +2560,501 @@ data = {
                     }
                 }
             }
+        },
+         //MotoGP
+        "13": {
+            "name": "MotoGP",
+            "symbol": "MotoGP",
+            "events": {
+                "0": {
+                    "name": "Sepang Shakedown",
+                    "venue": 76,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1706961600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Sepang Official Test",
+                    "venue": 76,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1707393600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Qatar Official Test",
+                    "venue": 78,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1708430400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Grand Prix of Qatar",
+                    "venue": 78,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1710072000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Grande Prémio de Portugal",
+                    "venue": 16,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1711281600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Gran Premio de la República Argentina",
+                    "venue": 79,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1712487600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Grand Prix of the Americas",
+                    "venue": 8,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713092400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Gran Premio de España",
+                    "venue": 80,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714302000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Grand Prix de France",
+                    "venue": 81,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1715511600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Gran Premi de Catalunya",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716721200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Gran Premio d'Italia",
+                    "venue": 82,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717326000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Grand Prix of Kazakhstan",
+                    "venue": 151,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1718535600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "12": {
+                    "name": "TT Assen",
+                    "venue": 26,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719745200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "13": {
+                    "name": "Grand Prix Deutschland",
+                    "venue": 83,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720350000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "14": {
+                    "name": "British Grand Prix",
+                    "venue": 4,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722769200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "15": {
+                    "name": "Grand Prix von Österreich",
+                    "venue": 25,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1723978800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "16": {
+                    "name": "Gran Premio de Aragón",
+                    "venue": 14,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725188400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "17": {
+                    "name": "Gran Premio di San Marino e della Riviera di Rimini",
+                    "venue": 15,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725793200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "18": {
+                    "name": "Grand Prix of India",
+                    "venue": 152,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727002800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "19": {
+                    "name": "Grand Prix of Indonesia",
+                    "venue": 77,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727607600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "20": {
+                    "name": "Grand Prix of Japan",
+                    "venue": 85,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728212400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "21": {
+                    "name": "Australian Motorcycle Grand Prix",
+                    "venue": 87,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1729422000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "22": {
+                    "name": "Thailand Grand Prix",
+                    "venue": 86,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1730030400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "23": {
+                    "name": "Grand Prix of Malaysia",
+                    "venue": 76,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1730635200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "24": {
+                    "name": "Gran Premio de la Comunitat Valenciana",
+                    "venue": 17,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1731844800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //SBK
+        "14": {
+            "name": "Superbike World Championship",
+            "symbol": "WSBK",
+            "events": {
+                "0": {
+                    "name": "Australian Round",
+                    "venue": 87,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1708862400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Catalunya Round",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1711281600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Dutch Round",
+                    "venue": 26,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713697200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Emilia-Romagna Round",
+                    "venue": 15,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1718535600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "UK Round",
+                    "venue": 97,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720954800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Czech Round",
+                    "venue": 22,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721559600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Portuguese Round",
+                    "venue": 16,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1723374000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Hungarian Round",
+                    "venue": 153,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1724583600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "French Round",
+                    "venue": 104,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725793200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Italian Round",
+                    "venue": 154,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727002800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Aragón Round",
+                    "venue": 14,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727607600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Spanish Round",
+                    "venue": 80,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728817200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -2665,7 +3160,7 @@ data = {
             "url": "https://www.racingcircuits.info/europe/portugal/algarve-portimao.html"
         },
         "17": {
-            "name": "Valencia",
+            "name": "Circuit Ricardo Tormo",
             "location": "Cheste, Spain",
             "flag": "es",
             "url": "https://www.racingcircuits.info/europe/spain/valencia-ricardo-tormo.html"
@@ -3465,6 +3960,30 @@ data = {
             "location": "Dubai, UAE",
             "flag": "ae",
             "url": "https://www.racingcircuits.info/middle-east/united-arab-emirates/dubai-autodrome.html"
+        },
+        "151": {
+            "name": "Sokol",
+            "location": "Almaty, Kazakhstan",
+            "flag": "kz",
+            "url": "https://www.racingcircuits.info/asia/kazakhstan/sokol.html"
+        },
+        "152": {
+            "name": "Buddh International Circuit",
+            "location": "Dankaur, India",
+            "flag": "in",
+            "url": "https://www.racingcircuits.info/asia/india/buddh-international-circuit.html"
+        },
+        "153": {
+            "name": "Balaton Park",
+            "location": "Balatonfőkajár, Hungary",
+            "flag": "hu",
+            "url": "https://www.racingcircuits.info/europe/hungary/balaton-park.html"
+        },
+        "154": {
+            "name": "Cremona Circuit",
+            "location": "San Martino del Lago, Italy",
+            "flag": "it",
+            "url": false
         }
     }
 }
