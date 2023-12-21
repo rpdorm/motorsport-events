@@ -488,97 +488,97 @@ data = {
             "symbol": "W2RC",
             "events": {
                 "0": {
-                    "name": "Dakar",
+                    "name": "Dakar Rally",
                     "venue": 30,
                     "sessions": {
                         "0": {
                             "name": "Prologue",
                             "symbol": "P",
-                            "timestamp": 1704430800,
-                            "length": 21600,
+                            "timestamp": 1704427200,
+                            "length": 32400,
                             "live": false
                         },
                         "1": {
-                            "name": "Stage 1",
+                            "name": "Stage 1: Al-'Ula > Al Henakiyah",
                             "symbol": "S1",
-                            "timestamp": 1704517200,
-                            "length": 21600,
+                            "timestamp": 1704513600,
+                            "length": 32400,
                             "live": false
                         },
                         "2": {
-                            "name": "Stage 2",
+                            "name": "Stage 2: Al Henakiyah > Ad Dawadimi",
                             "symbol": "S2",
-                            "timestamp": 1704603600,
-                            "length": 21600,
+                            "timestamp": 1704600000,
+                            "length": 32400,
                             "live": false
                         },
                         "3": {
-                            "name": "Stage 3",
+                            "name": "Stage 3: Ad Dawadimi > Al Salamiya",
                             "symbol": "S3",
-                            "timestamp": 1704690000,
-                            "length": 21600,
+                            "timestamp": 1704686400,
+                            "length": 32400,
                             "live": false
                         },
                         "4": {
-                            "name": "Stage 4",
+                            "name": "Stage 4: Al Salamiya > Al-Hofuf",
                             "symbol": "S4",
-                            "timestamp": 1704776400,
-                            "length": 21600,
+                            "timestamp": 1704772800,
+                            "length": 32400,
                             "live": false
                         },
                         "5": {
-                            "name": "Stage 5",
+                            "name": "Stage 5: Al-Hofuf > Shaybah",
                             "symbol": "S5",
-                            "timestamp": 1704862800,
-                            "length": 21600,
+                            "timestamp": 1704859200,
+                            "length": 32400,
                             "live": false
                         },
                         "6": {
-                            "name": "Stage 6",
+                            "name": "Stage 6 (48h Marathon): Shaybah > Shaybah",
                             "symbol": "S6",
-                            "timestamp": 1704949200,
+                            "timestamp": 1704945600,
                             "length": 172800,
                             "live": false
                         },
                         "7": {
-                            "name": "Stage 7",
+                            "name": "Stage 7: Riyadh > Ad Dawadimi",
                             "symbol": "S7",
-                            "timestamp": 1705208400,
-                            "length": 21600,
+                            "timestamp": 1705204800,
+                            "length": 32400,
                             "live": false
                         },
                         "8": {
-                            "name": "Stage 8",
+                            "name": "Stage 8: Ad Dawadimi > Ha'il",
                             "symbol": "S8",
-                            "timestamp": 1705294800,
-                            "length": 21600,
+                            "timestamp": 1705291200,
+                            "length": 32400,
                             "live": false
                         },
                         "9": {
-                            "name": "Stage 9",
+                            "name": "Stage 9: Ha'il > Al-'Ula",
                             "symbol": "S9",
-                            "timestamp": 1705381200,
-                            "length": 21600,
+                            "timestamp": 1705377600,
+                            "length": 32400,
                             "live": false
                         },
                         "10": {
-                            "name": "Stage 10",
+                            "name": "Stage 10: Al-'Ula > Al-'Ula",
                             "symbol": "S10",
-                            "timestamp": 1705467600,
-                            "length": 21600,
+                            "timestamp": 1705464000,
+                            "length": 32400,
                             "live": false
                         },
                         "11": {
-                            "name": "Stage 11",
+                            "name": "Stage 11: Al-'Ula > Yanbu",
                             "symbol": "S11",
-                            "timestamp": 1705554000,
-                            "length": 21600,
+                            "timestamp": 1705550400,
+                            "length": 32400,
                             "live": false
                         },
                         "12": {
-                            "name": "Stage 12",
+                            "name": "Stage 12: Yanbu > Yanbu",
                             "symbol": "S12",
-                            "timestamp": 1705640400,
+                            "timestamp": 1705636800,
                             "length": 21600,
                             "live": false
                         }
