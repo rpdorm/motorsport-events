@@ -3265,8 +3265,8 @@ data = {
                 }
             }
         },
-         //Indy NXT
-        "16": {
+         //IndyNXT
+        "17": {
             "name": "IndyNXT Series",
             "symbol": "IndyNXT",
             "events": {
@@ -3421,6 +3421,332 @@ data = {
                             "name": "TBA",
                             "symbol": "T",
                             "timestamp": 1726398000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //Formula 2
+        "18": {
+            "name": "Formula 2",
+            "symbol": "F2",
+            "events": {
+                "0": {
+                    "name": "Sakhir",
+                    "venue": 20,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1709380800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Jeddah",
+                    "venue": 12,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1709985600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Melbourne",
+                    "venue": 35,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1711281600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Imola",
+                    "venue": 36,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716116400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Monaco",
+                    "venue": 32,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716721200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Montmeló",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719140400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Spielberg",
+                    "venue": 25,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719745200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Silverstone",
+                    "venue": 4,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720350000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Mogyoród",
+                    "venue": 42,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721559600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Stavelot",
+                    "venue": 0,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722164400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Monza",
+                    "venue": 2,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725188400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "11": {
+                    "name": "Baku",
+                    "venue": 39,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1726398000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "12": {
+                    "name": "Lusail",
+                    "venue": 78,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1733054400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "13": {
+                    "name": "Abu Dhabi",
+                    "venue": 13,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1733659200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //Formula 3
+        "19": {
+            "name": "Formula 3",
+            "symbol": "F3",
+            "events": {
+                "0": {
+                    "name": "Sakhir",
+                    "venue": 20,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1709380800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Melbourne",
+                    "venue": 35,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1711281600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Imola",
+                    "venue": 36,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716116400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Monaco",
+                    "venue": 32,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716721200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Montmeló",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719140400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Spielberg",
+                    "venue": 25,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719745200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Silverstone",
+                    "venue": 4,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720350000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Mogyoród",
+                    "venue": 42,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721559600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Stavelot",
+                    "venue": 0,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722164400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Monza",
+                    "venue": 2,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725188400,
                             "length": 3600,
                             "live": false
                         }
