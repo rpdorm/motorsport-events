@@ -72,6 +72,7 @@ img { margin-right: .25rem; }
 .img-small { max-height: 14px; }
 
 h5, h6 { font-weight: bold; }
+h5 { font-size: 2rem; }
 
 footer {
   display: block;
@@ -139,13 +140,15 @@ a {
     text-align: center;
     margin:0;
   }
-  h5 { font-size: 1.2rem; }
   h6 { font-size: .8rem; }
-  .img-top { max-height: 1.2rem; }
+  .img-top { max-height: 2rem; }
   .img-flag { max-height: .8rem; }
   .livestream {
     height: 25px;
     margin-left: 15px;
+  }
+  span.series {
+    display: none;
   }
 }
 @media only screen and (min-width: 1081px) {
@@ -170,12 +173,14 @@ a {
     margin-bottom: 0.75rem;
   }
 
-  .img-top { max-height: .8rem; }
+  .img-top { max-height: 1.2rem; }
   .img-flag { max-height: 12px; }
-  h5 { font-size: 1.6rem; }
   h6 { font-size: 12px; }
   .livestream {
     float: right;
     height: 18px;
+  }
+  span.series {
+    font-size: 1rem;
   }
 }

@@ -1,6 +1,6 @@
 data = {
     "series": {
-        //FIA Formula One World Championship
+        //Formula One
         "0": {
             "name": "Formula 1",
             "symbol": "F1",
@@ -332,7 +332,7 @@ data = {
                 }
             }
         },
-        //FIA Formula E World Championship
+        //Formula E
         "1": {
             "name": "Formula E",
             "symbol": "FE",
@@ -482,7 +482,7 @@ data = {
                 }
             }
         },
-        //FIA World Rally-Raid Championship
+        //WRC
         "2": {
             "name": "World Rally-Raid Championship",
             "symbol": "W2RC",
@@ -983,7 +983,7 @@ data = {
             "symbol": "IMSASC",
             "events": {
                 "0": {
-                    "name": "Roar Before the 24h of Daytona",
+                    "name": "Roar Before the 24",
                     "venue": 31,
                     "sessions": {
                         "0": {
@@ -2893,7 +2893,7 @@ data = {
                 }
             }
         },
-         //SBK
+         //WSBK
         "14": {
             "name": "Superbike World Championship",
             "symbol": "WSBK",
@@ -3049,6 +3049,215 @@ data = {
                             "name": "TBA",
                             "symbol": "T",
                             "timestamp": 1728817200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //Super Formula
+        "15": {
+            "name": "Super Formula",
+            "symbol": "SFC",
+            "events": {
+                "0": {
+                    "name": "Round 1",
+                    "venue": 7,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1710072000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Round 2",
+                    "venue": 155,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716116400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Round 3",
+                    "venue": 156,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719140400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Round 4",
+                    "venue": 21,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721559600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Round 5",
+                    "venue": 85,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1724583600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Round 6",
+                    "venue": 21,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728817200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Round 7",
+                    "venue": 7,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1732449600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //Super GT
+        "16": {
+            "name": "Super GT",
+            "symbol": "SGT",
+            "events": {
+                "0": {
+                    "name": "Round 1",
+                    "venue": 157,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713178800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Round 2",
+                    "venue": 21,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714820400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Round 3",
+                    "venue": 7,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717326000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Round 4",
+                    "venue": 21,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722769200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Round 5",
+                    "venue": 7,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725188400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Round 6",
+                    "venue": 156,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727002800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Round 7",
+                    "venue": 155,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728212400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Round 8",
+                    "venue": 85,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1730635200,
                             "length": 3600,
                             "live": false
                         }
@@ -3984,6 +4193,24 @@ data = {
             "location": "San Martino del Lago, Italy",
             "flag": "it",
             "url": false
+        },
+        "155": {
+            "name": "Autopolis",
+            "location": "Kamitsue, Japan",
+            "flag": "jp",
+            "url": "https://www.racingcircuits.info/asia/japan/autopolis.html"
+        },
+        "156": {
+            "name": "Sugo",
+            "location": "Murata, Japan",
+            "flag": "jp",
+            "url": "https://www.racingcircuits.info/asia/japan/sugo.html"
+        },
+        "157": {
+            "name": "Okayama International Circuit",
+            "location": "Mimasaka, Okayama Prefecture, Japan",
+            "flag": "jp",
+            "url": "https://www.racingcircuits.info/asia/japan/okayama.html"
         }
     }
 }

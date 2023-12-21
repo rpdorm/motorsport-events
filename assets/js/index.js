@@ -28,7 +28,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				url = "#";
 				target = "_self";
 			}
-			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h5 class='title'>${name}</h5><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${series[i].name}</h6><hr><a href='${url}' target='${target}'><h6 class='mb-2'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</h6></a></div></article>`);
+			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h5 class='title'>${name}</h5><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'><span class='series text-muted'>${series[i].name}<span></h6><hr><a href='${url}' target='${target}'><h6 class='mb-2'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</h6></a></div></article>`);
 			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(`${series[i].name}-${i}-${name}-${venue.name}`);
@@ -61,7 +61,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					green= "";
 					liveicon = "";
 				}
-				if (session == "TBA") { sessionTime = ""; }
+				if (session == "TBA") { sessionTime = ""; session = "schedule to be announced"; }
 				if (del == "") { timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`; }
 				$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green}>${del}${session}${liveicon}</h6></li>`);
 				
