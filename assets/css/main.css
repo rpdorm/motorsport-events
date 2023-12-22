@@ -146,6 +146,10 @@ a {
     display: none;
   }
   .navbar { display: none; }
+  .nav { display: none; }
+  img.menu {
+    height: 50px;
+  }
 }
 @media only screen and (min-width: 1081px) {
   div.body-wrapper, footer {
@@ -178,14 +182,26 @@ a {
     margin-bottom: 0.75rem;
   }
 
-  .img-top { max-height: 1.2rem; }
-  .img-flag { max-height: 12px; }
-  h6 { font-size: 12px; }
+  .img-top { max-height: 20px; }
+  .img-flag { max-height: 16px; }
+
+  .img-yt { max-height: 20px; }
+
+  .session, .venue {
+    display: block;
+    vertical-align: middle;
+    height: 16px;
+    font-size: 16px;
+    font-weight: bold;
+  }
   .livestream {
-    float: right;
-    height: 18px;
+    position: absolute;
+    bottom: 7px;
+    right: 5px;
+    height: 16px;
   }
   span.series {
     font-size: 1rem;
   }
+  img.menu { display: none; }
 }

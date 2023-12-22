@@ -28,7 +28,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				url = "#";
 				target = "_self";
 			}
-			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h5 class='title'>${name}</h5><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'><span class='series text-muted'>${series[i].name}<span></h6><hr><a href='${url}' target='${target}'><h6 class='mb-2'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</h6></a></div></article>`);
+			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h5 class='title'>${name}</h5><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'><span class='series text-muted'>${series[i].name}<span></h6><hr><a class='venue' href='${url}' target='${target}'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</a></div></article>`);
 			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(`${series[i].name}-${i}-${name}-${venue.name}`);
@@ -40,7 +40,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				session = series[i].events[j].sessions[k].name;
 				length = series[i].events[j].sessions[k].length;
 				livestream = series[i].events[j].sessions[k].live;
-				if (livestream != false) { liveicon = `<a class='livestream' target='_blank' href='${livestream}' title='Watch Live'>WATCH LIVE</a>`; }
+				if (livestream != false) { liveicon = `<a class='livestream' target='_blank' href='${livestream}' title='Watch Live'><img class='img-yt' src='assets/png/icons/youtube.svg'></a>`; }
 				sessionTimeUnix=Math.floor(series[i].events[j].sessions[k].timestamp*1000);
 				sessionTime = moment(sessionTimeUnix).format('HH:mm');
 				sessionDate = moment(sessionTimeUnix).format('ddd, MMM Do');
@@ -63,7 +63,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule to be announced"; }
 				if (del == "") { timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`; }
-				$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green}>${del}${session}${liveicon}</h6></li>`);
+				$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${del}${session}${liveicon}</h6></li>`);
 				
 			}
 			$("." + shatimestamp).append("</ul>");
@@ -111,5 +111,10 @@ $(document).ready(function(){
 			$("a.active").removeClass("active");
 			$(this).addClass("active");
 		}
+	});
+
+	$("img.menu").click(function() {
+		if ($("ul.nav").css('display') == "none") { $("ul.nav").show(); }
+		else { $("ul.nav").hide(); }
 	});
 });
