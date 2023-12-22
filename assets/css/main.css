@@ -135,11 +135,6 @@ a {
   article {
     margin-bottom: .2rem;
   }
-  a.navbar-brand {
-    width: 100%;
-    text-align: center;
-    margin:0;
-  }
   h6 { font-size: .8rem; }
   .img-top { max-height: 2rem; }
   .img-flag { max-height: .8rem; }
@@ -150,15 +145,25 @@ a {
   span.series {
     display: none;
   }
+  .navbar { display: none; }
 }
 @media only screen and (min-width: 1081px) {
   div.body-wrapper, footer {
     display: block;
     overflow: hidden;
   }
-  div.body-wrapper {
+  div.body-wrapper, header {
     margin:auto;
     width: 80%;
+  }
+  header {
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    padding: .5rem;
+    font-family: ;
+    font-size: 1.5rem;
+    text-decoration: none;
   }
   div.menu {
     float: left;
