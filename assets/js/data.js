@@ -342,10 +342,31 @@ data = {
                     "venue": 9,
                     "sessions": {
                         "0": {
-                            "name": "TBA",
+                            "name": "Free Practice 1",
+                            "symbol": "P",
+                            "timestamp": 1705098300,
+                            "length": 3000,
+                            "live": false
+                        },
+                        "1": {
+                            "name": "Free Practice 2",
+                            "symbol": "P",
+                            "timestamp": 1705152300,
+                            "length": 3000,
+                            "live": false
+                        },
+                        "2": {
+                            "name": "Qualifying",
+                            "symbol": "Q",
+                            "timestamp": 1705160400,
+                            "length": 5100,
+                            "live": false
+                        },
+                        "3": {
+                            "name": "Race",
                             "symbol": "R",
-                            "timestamp": 1705147200,
-                            "length": 3600,
+                            "timestamp": 1705176000,
+                            "length": 5400,
                             "live": false
                         }
                     }
