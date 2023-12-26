@@ -2,7 +2,7 @@
 // Author: Rui Pedro Moreira
 // github.com/rpdorm/motorsport-events
 $(".live").hide();
-now = 1704665564/*Math.floor(Date.now()/1000)*/;
+now = Math.floor(Date.now()/1000);
 if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-light"); }
 else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show12month").addClass("btn-light"); }
 else { nWeeks = 52; $("#show12month").addClass("btn-light"); } // show 52 weeks ahead by default
