@@ -545,7 +545,7 @@ data = {
                 }
             }
         },
-        //WRC
+        //W2RC
         "2": {
             "name": "World Rally-Raid Championship",
             "symbol": "W2RC",
@@ -4410,6 +4410,117 @@ data = {
                     }
                 }
             }
+        },
+        //ERC
+        "25": {
+            "name": "European Rally Championship",
+            "symbol": "ERC",
+            "events": {
+                "0": {
+                    "name": "Rally Hungary",
+                    "venue": 160,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713096000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Rally Islas Canarias",
+                    "venue": 161,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714824000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Rally of Scandinavia",
+                    "venue": 51,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1718452800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Rally Estonia",
+                    "venue": 56,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720353600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Rally di Roma Capitale",
+                    "venue": 162,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722168000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Czech Rally",
+                    "venue": 163,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1723982400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Rally Ceredigion",
+                    "venue": 164,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725192000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Rally Silesia",
+                    "venue": 125,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728820800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -5369,6 +5480,36 @@ data = {
             "location": "Klettwitz, Germany",
             "flag": "de",
             "url": "https://www.racingcircuits.info/europe/germany/lausitzring.html"
+        },
+        "160": {
+            "name": "Hungary",
+            "location": "Hungary",
+            "flag": "hu",
+            "url": false
+        },
+        "161": {
+            "name": "Islas Canarias, Spain",
+            "location": "Islas Canarias, Spain",
+            "flag": "es",
+            "url": false
+        },
+        "162": {
+            "name": "Italy",
+            "location": "Italy",
+            "flag": "it",
+            "url": false
+        },
+        "163": {
+            "name": "Czech Republic",
+            "location": "Czech Republic",
+            "flag": "cz",
+            "url": false
+        },
+        "164": {
+            "name": "United Kingdom",
+            "location": "United Kingdom",
+            "flag": "gb",
+            "url": false
         }
     }
 }
