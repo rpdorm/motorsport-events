@@ -58,10 +58,8 @@ nav {
   text-shadow: #ffffff 1px 0 18px;
 }
 
-footer { font-size: 0.7rem }
-
 .header {
-  background-image: linear-gradient(#c0c0c0, white);
+  background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, white);
   padding: .5em;
 }
 
@@ -76,18 +74,19 @@ img { margin-right: .25rem; }
 
 h5, h6 { font-weight: bold; }
 h5 {
-    text-shadow: #6c757d 1px 0 8px;
-    font-size: 2rem;
+    text-shadow: #6c757d 1px 0 5px;
+    font-size: 2.6rem;
   }
 
 footer {
+  font-size: 0.8rem;
   display: block;
   background-color: #fff;
   margin-top: .5rem;
   padding: 1rem;
   grid-template-columns: repeat(2,2fr);
   padding-bottom: 1.5rem;
-  background-image: linear-gradient(to bottom right, #c0c0c0, white);
+  background-image: radial-gradient(farthest-side at 100% 100%, #c0c0c0, white);
 }
 
 .donate {
@@ -139,7 +138,7 @@ a {
     margin-top: 2rem;
   }
   article {
-    margin-bottom: .2rem;
+    margin-bottom: .5rem;
   }
   h6 { font-size: .8rem; }
   .img-top { max-height: 2rem; }
@@ -179,13 +178,13 @@ a {
   }
   main {
     float: left;
-    width: 490px;
+    width: 560px;
   }
   article {
-    margin-bottom: 0.75rem;
+    margin-bottom: 1rem;
   }
 
-  .img-top { max-height: 20px; }
+  .img-top { max-height: 30px; }
   .img-flag { max-height: 15px; }
   .img-yt { max-height: 20px; }
 

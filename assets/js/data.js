@@ -390,14 +390,14 @@ data = {
                             "live": false
                         },
                         "2": {
-                            "name": "Qualifying",
+                            "name": "Qualifying 1",
                             "symbol": "Q",
                             "timestamp": 1706271600,
                             "length": 5100,
                             "live": false
                         },
                         "3": {
-                            "name": "Race",
+                            "name": "Race 1",
                             "symbol": "R",
                             "timestamp": 1706288400,
                             "length": 5400,
@@ -411,14 +411,14 @@ data = {
                             "live": false
                         },
                         "5": {
-                            "name": "Qualifying",
+                            "name": "Qualifying 2",
                             "symbol": "Q",
                             "timestamp": 1706358000,
                             "length": 5100,
                             "live": false
                         },
                         "6": {
-                            "name": "Race",
+                            "name": "Race 2",
                             "symbol": "R",
                             "timestamp": 1706374800,
                             "length": 5400,
@@ -551,7 +551,7 @@ data = {
             "symbol": "W2RC",
             "events": {
                 "0": {
-                    "name": "Dakar Rally",
+                    "name": "Dakar",
                     "venue": 30,
                     "sessions": {
                         "0": {
@@ -3653,7 +3653,7 @@ data = {
                     }
                 },
                 "12": {
-                    "name": "Lusail",
+                    "name": "Losail",
                     "venue": 78,
                     "sessions": {
                         "0": {
