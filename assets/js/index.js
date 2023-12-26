@@ -88,7 +88,7 @@ $(document).ready(function(){
 	    mylist.append(itm);
 	});
 
-	// SORT LI
+	// SORT MENU LIST
 	function sortUL(selector) {
 	    $(selector).children("li").sort(function(a, b) {
 	        var upA = $(a).text().toUpperCase();

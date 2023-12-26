@@ -142,13 +142,10 @@ a {
     height: 25px;
     margin-left: 15px;
   }
-  span.series {
-    display: none;
-  }
   .navbar { display: none; }
   .nav { display: none; }
   img.menu {
-    height: 50px;
+    height: 80px;
   }
 }
 @media only screen and (min-width: 1081px) {
