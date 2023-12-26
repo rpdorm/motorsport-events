@@ -4,7 +4,10 @@ p, main, body, h6 {
 }
 
 body {
-  font-family: Roboto, sans-serif
+  font-family:
+    /* 1 */ -apple-system, BlinkMacSystemFont,
+    /* 2 */ "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    /* 3 */ "Helvetica Neue", sans-serif;
 }
 
 main, body, nav {
@@ -72,7 +75,10 @@ img { margin-right: .25rem; }
 .img-small { max-height: 14px; }
 
 h5, h6 { font-weight: bold; }
-h5 { font-size: 2rem; }
+h5 {
+    text-shadow: #6c757d 1px 0 8px;
+    font-size: 2rem;
+  }
 
 footer {
   display: block;
