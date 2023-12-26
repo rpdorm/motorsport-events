@@ -31,7 +31,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				url = "#";
 				target = "_self";
 			}
-			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'><br/><span class='series'>${series[i].name}<span></h6><h5 class='title'>${name}</h5><a class='venue' href='${url}' target='${target}'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</a></div></article>`);
+			$(".event-list-grid").append(`<article id='${series[i].events[j].sessions[0].timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'><br/><span class='series'>${series[i].name}<span></h6><h5 class='title'>${name}</h5><a class='venue' href='${url}' target='${target}'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</a></div></article>`);
 			nEvents++;
 			sessions = series[i].events[j].sessions;
 			sha = sha256(`${timestamp}-${series[i].name}-${i}-${name}-${venue.name}`);
