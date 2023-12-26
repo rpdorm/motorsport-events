@@ -4162,6 +4162,143 @@ data = {
                     }
                 }
             }
+        },
+         //BTCC
+        "23": {
+            "name": "British Touring Car Championship",
+            "symbol": "BTCC",
+            "events": {
+                "0": {
+                    "name": "Donington Park",
+                    "venue": 97,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714305600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Brands Hatch Indy",
+                    "venue": 100,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1715515200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Snetterton",
+                    "venue": 116,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716724800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Thruxton",
+                    "venue": 103,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717934400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Oulton Park",
+                    "venue": 113,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719144000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Croft",
+                    "venue": 114,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722168000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Knockhill",
+                    "venue": 115,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1723377600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Donington Park GP",
+                    "venue": 97,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1724587200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Silverstone National",
+                    "venue": 4,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727006400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Brands Hatch GP",
+                    "venue": 100,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728216000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
