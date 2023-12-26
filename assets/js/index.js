@@ -2,7 +2,7 @@
 // Author: Rui Pedro Moreira
 // github.com/rpdorm/motorsport-events
 $(".live").hide();
-now = Math.floor(Date.now()/1000);
+now = 1704665564/*Math.floor(Date.now()/1000)*/;
 if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-light"); }
 else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show12month").addClass("btn-light"); }
 else { nWeeks = 52; $("#show12month").addClass("btn-light"); } // show 52 weeks ahead by default
@@ -49,7 +49,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				sessionDate = moment(sessionTimeUnix).format('ddd, MMM Do');
 				year = moment(sessionTimeUnix).format('YYYY');
 				if (sessionTimeUnix/1000+length > now) {
-					del="";
+					del = false;
 					if (sessionTimeUnix/1000 < now) {
 						green = " class='green' style='color:green'";
 						$(".live").show();
@@ -59,13 +59,13 @@ for (i=0; i<Object.keys(series).length; i++) {
 					nSessions++;
 				}
 				else {
-					del= "<del>";
-					green= "";
+					del = true;
+					green = "";
 					liveicon = "";
 				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
-				if (del == "") {
-					timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`;
+				if (del == false) {
+					timediv= `<p class='subtitle text-muted'><small>${sessionDate} ${sessionTime}</small></p>`;
 					$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${session}${liveicon}</h6></li>`);
 				}
 				
