@@ -18,11 +18,12 @@ main, body, nav {
 }
 
 .nav-item {
-  font-size: .75rem;
+  font-size: .8rem;
+  font-family: "Verdana";
 }
 
 main {
-  margin-left: 10px;
+  margin-left: 1%;
 }
 
 .buttons {
@@ -44,16 +45,14 @@ main {
   display: none;
 }
 
-.liveitem { font-size: 1rem; }
-
+.liveitem {
+  font-size: 1rem;
+  padding: 1rem;
+  float: left;
+}
 
 .live > span {
-  margin-right: 0.25rem;
-}
-hr {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-  width: 100%;
+  margin: 0.2rem;
 }
 
 nav {
@@ -63,7 +62,7 @@ nav {
 
 .header {
   background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, white);
-  padding: .5em;
+  padding: .8em;
   border-bottom: 1px solid #c0c0c0;
 }
 
@@ -76,10 +75,11 @@ img { margin-right: .25rem; }
 
 .img-small { max-height: 14px; }
 .img-flag { border: 1px solid #000; }
+.img-kofi { float: left; margin: 0; }
 
 h5, h6 { font-weight: bold; }
 h5 {
-    text-shadow: #6c757d 1px 0 5px;
+    text-shadow: #6c757d 1px 0 6px;
     font-size: 2.6rem;
     margin:0;
   }
@@ -101,9 +101,8 @@ footer {
 }
 
 .list-group-item {
-  padding: 0.25rem;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding: .8rem;
+  border-top: 1px solid #c0c0c0;
   border-bottom: 1px solid #c0c0c0;
 }
 
@@ -123,6 +122,16 @@ a {
   color: green;
   text-shadow: none;
   font-size: 1rem;
+}
+
+.mute {
+  border:0;
+  padding-top:0;
+  padding-bottom:0;
+}
+.session {
+  font-size: 1em;
+  text-shadow: #c0c0c0 1px 0 6px;
 }
 
 
@@ -168,7 +177,9 @@ a {
   div.body-wrapper, header {
     margin:auto;
     width: 80%;
+    max-width: 900px;
   }
+  div.body-wrapper { margin-top: 1rem; }
   header {
     text-align: center;
     display: block;
@@ -180,12 +191,12 @@ a {
   }
   div.menu {
     float: left;
-    width: 300px;
+    width: 37.2%;
 
   }
   main {
     float: left;
-    width: 560px;
+    width: 61.8%;
   }
   article {
     display: block;
@@ -196,19 +207,18 @@ a {
 
   .img-top { max-height: 30px; }
   .img-flag { max-height: 15px; }
-  .img-yt { max-height: 20px; }
+  .img-yt { max-height: 24px; }
 
   .session, .venue {
     display: block;
     vertical-align: middle;
     height: 16px;
-    font-size: 14px;
   }
   .livestream {
     position: absolute;
-    bottom: 7px;
-    right: 5px;
-    height: 16px;
+    bottom: 1em;
+    right: .8rem;
+    height: 1em;
   }
   span.series {
     font-size: 1rem;

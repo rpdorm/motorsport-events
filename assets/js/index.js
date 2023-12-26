@@ -20,7 +20,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
 		timestamp = series[i].events[j].sessions[t].timestamp+172800;
-		shatimestamp = sha256("sha" + series[i].name + timestamp);
+		shatimestamp = sha256(`sha' ${series[i].name}-${timestamp}`);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			venue = venues[series[i].events[j].venue];
@@ -34,7 +34,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 			$(".event-list-grid").append(`<article id='${timestamp}' class='${shatimestamp} ${series[i].symbol} sortme'><div class='header' id='${shatimestamp}'><h6><img class='img-top' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'><br/><span class='series'>${series[i].name}<span></h6><h5 class='title'>${name}</h5><a class='venue' href='${url}' target='${target}'><img class='img-flag' src='assets/png/flags/${flag}.png'>${venue.name}</a></div></article>`);
 			nEvents++;
 			sessions = series[i].events[j].sessions;
-			sha = sha256(`${series[i].name}-${i}-${name}-${venue.name}`);
+			sha = sha256(`${timestamp}-${series[i].name}-${i}-${name}-${venue.name}`);
 			$("." + shatimestamp).append(`<ul class='list-group list-group-flush' id='${sha}'>`);
 			numberOfSessions=Object.keys(sessions).length;
 			for (k=0; k<numberOfSessions; k++) {
@@ -50,23 +50,24 @@ for (i=0; i<Object.keys(series).length; i++) {
 				year = moment(sessionTimeUnix).format('YYYY');
 				if (sessionTimeUnix/1000+length > now) {
 					del="";
+					mute="";
 					if (sessionTimeUnix/1000 < now) {
-						green = " class='green' style='color:green; font-weight: bold'";
-						$("#" + shatimestamp).addClass("green");
+						green = " class='green' style='color:green'";
 						$(".live").show();
-						$("div.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
+						$("header.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
 					}
 					else { green = ""; }
 					nSessions++;
 				}
 				else {
 					del= "<del>";
+					mute="mute";
 					green= "";
 					liveicon = "";
 				}
-				if (session == "TBA") { sessionTime = ""; session = "schedule to be announced"; }
+				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
 				if (del == "") { timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`; }
-				$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${del}${session}${liveicon}</h6></li>`);
+				$("#" + sha).append(`<li class='list-group-item ${mute}'>${timediv}<h6${green} class='session'>${del}${session}${liveicon}</h6></li>`);
 				
 			}
 			$("." + shatimestamp).append("</ul>");
