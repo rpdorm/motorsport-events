@@ -4521,6 +4521,130 @@ data = {
                     }
                 }
             }
+        },
+        //TCR
+        "26": {
+            "name": "TCR World Tour",
+            "symbol": "TCR",
+            "events": {
+                "0": {
+                    "name": "Round 1",
+                    "venue": 165,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713700800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Round 2",
+                    "venue": 166,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714824000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Round 3",
+                    "venue": 68,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717934400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Round 4",
+                    "venue": 170,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721563200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Round 5",
+                    "venue": 167,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722772800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Round 6",
+                    "venue": 168,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727006400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Round 7",
+                    "venue": 145,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1730548800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Round 8",
+                    "venue": 33,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1731153600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "Round 9",
+                    "venue": 169,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1731844800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -5509,6 +5633,42 @@ data = {
             "name": "United Kingdom",
             "location": "United Kingdom",
             "flag": "gb",
+            "url": false
+        },
+        "165": {
+            "name": "Vallelunga Circuit",
+            "location": "Campagnano di Roma, Italy",
+            "flag": "it",
+            "url": "https://www.racingcircuits.info/europe/italy/vallelunga.html"
+        },
+        "166": {
+            "name": "Marrakesh",
+            "location": "Marrakesh, Morocco",
+            "flag": "ma",
+            "url": "https://www.racingcircuits.info/africa/morocco/marrakesh.html"
+        },
+        "167": {
+            "name": "Autódromo Víctor Borrat Fabini",
+            "location": "El Pinar, Uruguay",
+            "flag": "uy",
+            "url": "https://www.racingcircuits.info/south-america/uruguay/el-pinar.html"
+        },
+        "168": {
+            "name": "Zhuzhou International Circuit",
+            "location": "Zhuzhou, China",
+            "flag": "cn",
+            "url": "https://www.racingcircuits.info/asia/china/zhuzhou-international-circuit.html"
+        },
+        "169": {
+            "name": "Guia Circuit",
+            "location": "Macau",
+            "flag": "mo",
+            "url": "https://www.racingcircuits.info/asia/macau/macau-guia.html"
+        },
+        "170": {
+            "name": "Brazil",
+            "location": "Brazil",
+            "flag": "br",
             "url": false
         }
     }
