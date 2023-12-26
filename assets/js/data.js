@@ -4299,6 +4299,117 @@ data = {
                     }
                 }
             }
+        },
+         //DTM
+        "24": {
+            "name": "Deutsche Tourenwagen Masters",
+            "symbol": "DTM",
+            "events": {
+                "0": {
+                    "name": "Oschersleben",
+                    "venue": 158,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714305600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Lausitzring",
+                    "venue": 159,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716724800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Zandvoort",
+                    "venue": 1,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717934400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Norisring",
+                    "venue": 28,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720353600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Nürburgring",
+                    "venue": 102,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1723982400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Sachsenring",
+                    "venue": 83,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725796800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Red Bull Ring",
+                    "venue": 25,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727611200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Hockenheimring",
+                    "venue": 27,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1729425600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -5246,6 +5357,18 @@ data = {
             "location": "Mimasaka, Okayama Prefecture, Japan",
             "flag": "jp",
             "url": "https://www.racingcircuits.info/asia/japan/okayama.html"
+        },
+        "158": {
+            "name": "Motorsport Arena Oschersleben",
+            "location": "Oschersleben, Germany",
+            "flag": "de",
+            "url": "https://www.racingcircuits.info/europe/germany/oschersleben.html"
+        },
+        "159": {
+            "name": "Lausitzring",
+            "location": "Klettwitz, Germany",
+            "flag": "de",
+            "url": "https://www.racingcircuits.info/europe/germany/lausitzring.html"
         }
     }
 }
