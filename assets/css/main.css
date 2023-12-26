@@ -1,3 +1,6 @@
+/* Motorsport Events 2019-2024 */
+/* Author: Rui Pedro Moreira */
+/* github.com/rpdorm/motorsport-events */
 p, main, body, h6 {
   padding: 0;
   margin: 0;
@@ -61,6 +64,7 @@ nav {
 .header {
   background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, white);
   padding: .5em;
+  border-bottom: 1px solid #c0c0c0;
 }
 
 ul {
@@ -71,11 +75,13 @@ img { margin-right: .25rem; }
 
 
 .img-small { max-height: 14px; }
+.img-flag { border: 1px solid #000; }
 
 h5, h6 { font-weight: bold; }
 h5 {
     text-shadow: #6c757d 1px 0 5px;
     font-size: 2.6rem;
+    margin:0;
   }
 
 footer {
@@ -98,6 +104,7 @@ footer {
   padding: 0.25rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+  border-bottom: 1px solid #c0c0c0;
 }
 
 del {
@@ -181,7 +188,10 @@ a {
     width: 560px;
   }
   article {
+    display: block;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 12px;
   }
 
   .img-top { max-height: 30px; }

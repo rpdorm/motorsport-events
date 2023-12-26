@@ -1,3 +1,6 @@
+// Motorsport Events 2019-2024
+// Author: Rui Pedro Moreira
+// github.com/rpdorm/motorsport-events
 data = {
     "series": {
         //Formula One
