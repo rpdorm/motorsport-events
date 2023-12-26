@@ -47,7 +47,7 @@ main {
 
 .liveitem {
   font-size: 1rem;
-  padding: 1rem;
+  padding: .8rem;
   float: left;
 }
 
@@ -73,7 +73,7 @@ ul {
 img { margin-right: .25rem; }
 
 
-.img-small { max-height: 14px; }
+.img-small { max-height: 1rem; }
 .img-flag { border: 1px solid #000; }
 .img-kofi { float: left; margin: 0; }
 
@@ -185,8 +185,7 @@ a {
     display: block;
     overflow: hidden;
     padding: .5rem;
-    font-family: ;
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-decoration: none;
   }
   div.menu {

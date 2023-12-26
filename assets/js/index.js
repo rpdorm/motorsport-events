@@ -19,7 +19,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 	imgtitle = series[i].name;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
-		timestamp = series[i].events[j].sessions[t].timestamp+172800;
+		timestamp = series[i].events[j].sessions[t].timestamp+series[i].events[j].sessions[t].length;
 		shatimestamp = sha256(`sha' ${series[i].name}-${timestamp}`);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
@@ -50,7 +50,6 @@ for (i=0; i<Object.keys(series).length; i++) {
 				year = moment(sessionTimeUnix).format('YYYY');
 				if (sessionTimeUnix/1000+length > now) {
 					del="";
-					mute="";
 					if (sessionTimeUnix/1000 < now) {
 						green = " class='green' style='color:green'";
 						$(".live").show();
@@ -61,13 +60,15 @@ for (i=0; i<Object.keys(series).length; i++) {
 				}
 				else {
 					del= "<del>";
-					mute="mute";
 					green= "";
 					liveicon = "";
 				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
-				if (del == "") { timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`; }
-				$("#" + sha).append(`<li class='list-group-item ${mute}'>${timediv}<h6${green} class='session'>${del}${session}${liveicon}</h6></li>`);
+				if (del == "") {
+					timediv= `<p class='subtitle text-muted'><small>${del}${sessionDate} ${sessionTime}</small></p>`;
+					$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${session}${liveicon}</h6></li>`);
+				}
+				
 				
 			}
 			$("." + shatimestamp).append("</ul>");
