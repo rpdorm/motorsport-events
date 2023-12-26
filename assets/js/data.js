@@ -3816,6 +3816,352 @@ data = {
                     }
                 }
             }
+        },
+         //GT World Challenge Europe
+        "20": {
+            "name": "GT World Challenge Europe",
+            "symbol": "GTWCE",
+            "events": {
+                "0": {
+                    "name": "Prologue",
+                    "venue": 41,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1709726400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Paul Ricard 500 km",
+                    "venue": 41,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1712491200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Brands Hatch",
+                    "venue": 100,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714910400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Misano",
+                    "venue": 15,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716120000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "24h of Spa",
+                    "venue": 0,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719748800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Hockenheim",
+                    "venue": 27,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721563200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "3 Hours of Nürburgring",
+                    "venue": 102,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722168000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "7": {
+                    "name": "Magny-Cours",
+                    "venue": 104,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1724587200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "8": {
+                    "name": "3 Hours of Monza",
+                    "venue": 2,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727006400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "9": {
+                    "name": "Barcelona",
+                    "venue": 38,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728820800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "10": {
+                    "name": "Jeddah 1000 km",
+                    "venue": 12,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1732363200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //GT World Challenge Asia
+        "21": {
+            "name": "GT World Challenge Asia",
+            "symbol": "GTWCA",
+            "events": {
+                "0": {
+                    "name": "Sepang",
+                    "venue": 76,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713700800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Buriram",
+                    "venue": 86,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714651200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Sugo",
+                    "venue": 156,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717934400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Fuji",
+                    "venue": 21,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1719144000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Suzuka",
+                    "venue": 7,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720353600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Okayama",
+                    "venue": 157,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1724587200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Shanghai",
+                    "venue": 120,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1726401600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+         //GT World Challenge America
+        "22": {
+            "name": "GT World Challenge America",
+            "symbol": "GTWCAm",
+            "events": {
+                "0": {
+                    "name": "Sonoma",
+                    "venue": 109,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1712491200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Sebring",
+                    "venue": 34,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714910400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Circuit of the Americas",
+                    "venue": 8,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716120000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Virginia",
+                    "venue": 132,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1721563200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Road America",
+                    "venue": 67,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1723982400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Barber Motorsports Park",
+                    "venue": 64,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725796800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "6": {
+                    "name": "Indianapolis",
+                    "venue": 65,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1728216000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -4429,7 +4775,7 @@ data = {
             "url": "https://www.racingcircuits.info/europe/portugal/estoril.html"
         },
         "102": {
-            "name": "Nürburgring Nordschleife",
+            "name": "Nürburgring",
             "location": "Nürburg, Germany",
             "flag": "de",
             "url": "https://www.racingcircuits.info/europe/germany/nurburgring.html"
