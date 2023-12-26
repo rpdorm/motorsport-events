@@ -4522,7 +4522,7 @@ data = {
                 }
             }
         },
-        //TCR
+        //TCR World Tour
         "26": {
             "name": "TCR World Tour",
             "symbol": "TCR",
@@ -4639,6 +4639,91 @@ data = {
                             "name": "TBA",
                             "symbol": "T",
                             "timestamp": 1731844800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
+        },
+        //TCR Europe Touring Car Series
+        "27": {
+            "name": "TCR Europe Touring Car Series",
+            "symbol": "TCRE",
+            "events": {
+                "0": {
+                    "name": "Round 1",
+                    "venue": 165,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1713700800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Round 2",
+                    "venue": 171,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716120000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Round 3",
+                    "venue": 172,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717329600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Round 4",
+                    "venue": 0,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1720267200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Round 5",
+                    "venue": 173,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725883200,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Round 6",
+                    "venue": 17,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727611200,
                             "length": 3600,
                             "live": false
                         }
@@ -5670,6 +5755,24 @@ data = {
             "location": "Brazil",
             "flag": "br",
             "url": false
+        },
+        "171": {
+            "name": "Zolder",
+            "location": "Heusden-Zolder, Belgium",
+            "flag": "be",
+            "url": "https://www.racingcircuits.info/europe/belgium/zolder.html"
+        },
+        "172": {
+            "name": "Salzburgring",
+            "location": "Plainfeld, Austria",
+            "flag": "at",
+            "url": "https://www.racingcircuits.info/europe/austria/salzburgring.html"
+        },
+        "173": {
+            "name": "Brno",
+            "location": "Brno, Czech Republic",
+            "flag": "cz",
+            "url": "https://www.racingcircuits.info/europe/czech-republic/brno.html"
         }
     }
 }
