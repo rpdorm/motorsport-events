@@ -2317,12 +2317,12 @@ data = {
                     "venue": 150,
                     "sessions": {
                         "0": {
-                            "name": "Private Test 1",
+                            "name": "TBA",
                             "symbol": "T",
-                            "timestamp": 1704954600,
-                            "length": 9000,
+                            "timestamp": 1706346000,
+                            "length": 1,
                             "live": false
-                        },
+                        }/*,
                         "1": {
                             "name": "Private Test 2",
                             "symbol": "T",
@@ -2378,7 +2378,7 @@ data = {
                             "timestamp": 1705136400,
                             "length": 86400,
                             "live": "https://www.youtube.com/@24HSeries/streams"
-                        }
+                        }*/
                     }
                 },
                 "1": {

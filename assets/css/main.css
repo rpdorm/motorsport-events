@@ -200,7 +200,7 @@ a {
   article {
     display: block;
     overflow: hidden;
-    margin-bottom: 1rem;
+    margin-bottom: .8em;
     border-radius: 12px;
   }
 
