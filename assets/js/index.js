@@ -3,9 +3,7 @@
 // github.com/rpdorm/motorsport-events
 $(".live").hide();
 now = Math.floor(Date.now()/1000);
-if ($(location).attr("hash") == "#show1month") { nWeeks = 4; $("#show1month").addClass("btn-light"); }
-else if ($(location).attr("hash") == "#show2month") { nWeeks = 8; $("#show12month").addClass("btn-light"); }
-else { nWeeks = 52; $("#show12month").addClass("btn-light"); } // show 52 weeks ahead by default
+nWeeks = 52; // show 52 weeks ahead by default
 upcoming = now+691200*nWeeks;
 today = moment().isoWeekday;
 series = data.series;
@@ -14,8 +12,8 @@ nSessions = 0;
 nEvents = 0;
 nLive = 0;
 for (i=0; i<Object.keys(series).length; i++) {
-	$(".filter").append(`<li class="nav-item"><a href="#" id="${series[i].symbol}" class="nav-link text-white sortli" aria-current="page">${series[i].name}</a></li>`);
 	events = series[i].events;
+	$(".filter").append(`<li class="nav-item"><a href="#" id="${series[i].symbol}" class="nav-link text-white sortli" aria-current="page">${series[i].name}</small></a></li>`);
 	imgtitle = series[i].name;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;

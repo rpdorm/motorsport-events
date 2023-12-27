@@ -4733,6 +4733,91 @@ data = {
                     }
                 }
             }
+        },
+        //TCR Eastern Europe Touring Car Series
+        "28": {
+            "name": "TCR Eastern Europe Touring Car Series",
+            "symbol": "TCREE",
+            "events": {
+                "0": {
+                    "name": "Round 1",
+                    "venue": 153,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1714305600,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "1": {
+                    "name": "Round 2",
+                    "venue": 25,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1716120000,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "2": {
+                    "name": "Round 3",
+                    "venue": 174,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1717934400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "3": {
+                    "name": "Round 4",
+                    "venue": 22,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1722772800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "4": {
+                    "name": "Round 5",
+                    "venue": 173,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1725796800,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                },
+                "5": {
+                    "name": "Round 6",
+                    "venue": 172,
+                    "sessions": {
+                        "0": {
+                            "name": "TBA",
+                            "symbol": "T",
+                            "timestamp": 1727006400,
+                            "length": 3600,
+                            "live": false
+                        }
+                    }
+                }
+            }
         }
     },
     "venues": {
@@ -5776,6 +5861,12 @@ data = {
             "location": "Brno, Czech Republic",
             "flag": "cz",
             "url": "https://www.racingcircuits.info/europe/czech-republic/brno.html"
+        },
+        "174": {
+            "name": "Slovakiaring",
+            "location": "Orechová Potôň, Slovakia",
+            "flag": "sk",
+            "url": "https://www.racingcircuits.info/europe/slovakia/slovakiaring.html"
         }
     }
 }
