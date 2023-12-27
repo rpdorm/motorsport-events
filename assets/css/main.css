@@ -61,7 +61,6 @@ nav {
 }
 
 .header {
-  background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, white);
   padding: .8em;
   border-bottom: 1px solid #c0c0c0;
 }
@@ -102,16 +101,9 @@ footer {
 
 .list-group-item {
   padding: .8rem;
-  border-top: 1px solid #c0c0c0;
   border-bottom: 1px solid #c0c0c0;
+  background-color: transparent;
 }
-
-del {
-  font-weight: normal;
-  color: #6c757d;
-  font-size: .8rem;
-}
-
 
 a {
   text-decoration: none;
@@ -133,6 +125,7 @@ a {
   font-size: 1em;
   text-shadow: #c0c0c0 1px 0 6px;
 }
+article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, white); }
 
 
 
