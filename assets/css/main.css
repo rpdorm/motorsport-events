@@ -87,7 +87,7 @@ h5 {
   }
 
 footer {
-  font-size: 0.8rem;
+  font-size: 1rem;
   display: block;
   margin-top: .5rem;
   padding: 1rem;
@@ -225,4 +225,12 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     font-size: 1.2rem;
   }
   img.menu { display: none; }
+
+  .today {
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-size: .8rem;
+    padding: .8em;
+    margin-bottom: 1rem;
+  }
 }

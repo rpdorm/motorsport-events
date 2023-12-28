@@ -1,8 +1,21 @@
 // Motorsport Events 2019-2024
 // Author: Rui Pedro Moreira
 // github.com/rpdorm/motorsport-events
+
+
 $(".live").hide();
-now = Math.floor(Date.now()/1000);
+$(".today").hide();
+var now = Math.floor(Date.now()/1000);
+var start = moment.unix(now).startOf('day');
+var end = moment.unix(now).endOf('day');
+
+console.log('now:', moment.unix(now).format());
+console.log('start of day:', start.format());
+console.log('start unix:', start.unix());
+console.log('end of day:', end.format());
+console.log('end unix:', end.unix());
+
+
 nWeeks = 52; // show next 52 weeks by default
 upcoming = now+691200*nWeeks;
 nSessions = 0;
@@ -48,7 +61,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					if (sessionTimeUnix/1000 < now) {
 						green = " class='green' style='color:green'";
 						$(".live").show();
-						$("header.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
+						$("div.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
 					}
 					else { green = ""; }
 					nSessions++;
@@ -58,12 +71,15 @@ for (i=0; i<Object.keys(series).length; i++) {
 					green = "";
 					liveicon = "";
 				}
+				if (sessionTimeUnix/1000 >= start.unix() && sessionTimeUnix/1000 <= end.unix() || sessionTimeUnix/1000+length >= start.unix() && sessionTimeUnix/1000+length <= end.unix()) {
+					$(".today").show();
+					$(".today").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
+				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
 				if (del == false) {
 					timediv= `<p class='subtitle text-muted'><small>${sessionDate} ${sessionTime}</small></p>`;
 					$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${session}${liveicon}</h6></li>`);
 				}
-				
 				
 			}
 			$("." + shatimestamp).append("</ul>");
@@ -87,6 +103,16 @@ $(document).ready(function(){
 	$.each(listitems, function(idx, itm) {
 	    mylist.append(itm);
 	});
+
+	// SORT Today
+	function sortToday(selector) {
+	    $(selector).children("p").sort(function(a, b) {
+	        var upA = $(a).text().toUpperCase();
+	        var upB = $(b).text().toUpperCase();
+	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
+	    }).appendTo(selector);
+	}
+	sortToday(".today");
 
 	// SORT MENU LIST
 	function sortUL(selector) {
