@@ -14,7 +14,7 @@ body {
 }
 
 main, body, nav {
-  background: #222;
+  background: #333;
 }
 
 .nav-item {
@@ -193,18 +193,18 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   div.menu {
     display: block;
     float: left;
-    width: 37.2%;
+    width: 38.2%;
     padding: 0;
 
   }
   main {
     float: left;
-    width: 61.8%;
+    width: 60.8%;
   }
   article {
     display: block;
     overflow: hidden;
-    margin-bottom: .8em;
+    margin-bottom: 1em;
     border-radius: 12px;
   }
 

@@ -9,10 +9,6 @@ var start = moment.unix(now).startOf('day');
 var end = moment.unix(now).endOf('day');
 
 console.log('now:', moment.unix(now).format());
-console.log('start of day:', start.format());
-console.log('start unix:', start.unix());
-console.log('end of day:', end.format());
-console.log('end unix:', end.unix());
 
 
 nWeeks = 52; // show next 52 weeks by default
@@ -71,12 +67,12 @@ for (i=0; i<Object.keys(series).length; i++) {
 					liveicon = "";
 				}
 				// TODAY
-				if (sessionTimeUnix/1000 >= start.unix() && sessionTimeUnix/1000 <= end.unix() || sessionTimeUnix/1000+length >= start.unix() && sessionTimeUnix/1000+length <= end.unix()) {
+				if (sessionTimeUnix/1000 >= start.unix() && sessionTimeUnix/1000 <= end.unix()) {
 					$(".showToday").show();
 					$(".today").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
 				}
 				// TOMORROW
-				if (sessionTimeUnix/1000 >= start.unix()+86400 && sessionTimeUnix/1000 <= end.unix()+86400 || sessionTimeUnix/1000+length >= start.unix()+86400 && sessionTimeUnix/1000+length <= end.unix()+86400) {
+				if (sessionTimeUnix/1000 >= start.unix()+86400 && sessionTimeUnix/1000 <= end.unix()+86400) {
 					$(".showTomorrow").show();
 					$(".tomorrow").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
 				}

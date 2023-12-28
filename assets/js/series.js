@@ -429,19 +429,6 @@ series = {
                 }
             },
             "2": {
-                "name": "Hyderabad E-Prix",
-                "venue": 117,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1707566400,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "3": {
                 "name": "São Paulo E-Prix",
                 "venue": 118,
                 "sessions": {
@@ -454,7 +441,7 @@ series = {
                     }
                 }
             },
-            "4": {
+            "3": {
                 "name": "Tokyo E-Prix",
                 "venue": 119,
                 "sessions": {
@@ -467,7 +454,7 @@ series = {
                     }
                 }
             },
-            "5": {
+            "4": {
                 "name": "Misano E-Prix",
                 "venue": 15,
                 "sessions": {
@@ -480,7 +467,7 @@ series = {
                     }
                 }
             },
-            "6": {
+            "5": {
                 "name": "Monaco E-Prix",
                 "venue": 32,
                 "sessions": {
@@ -493,7 +480,7 @@ series = {
                     }
                 }
             },
-            "7": {
+            "6": {
                 "name": "Berlin E-Prix",
                 "venue": 46,
                 "sessions": {
@@ -506,7 +493,7 @@ series = {
                     }
                 }
             },
-            "8": {
+            "7": {
                 "name": "Shanghai E-Prix",
                 "venue": 120,
                 "sessions": {
@@ -519,7 +506,7 @@ series = {
                     }
                 }
             },
-            "9": {
+            "8": {
                 "name": "Portland E-Prix",
                 "venue": 3,
                 "sessions": {
@@ -532,7 +519,7 @@ series = {
                     }
                 }
             },
-            "10": {
+            "9": {
                 "name": "London E-Prix",
                 "venue": 49,
                 "sessions": {
