@@ -5,7 +5,6 @@ $(".live").hide();
 now = Math.floor(Date.now()/1000);
 nWeeks = 52; // show next 52 weeks by default
 upcoming = now+691200*nWeeks;
-today = moment().isoWeekday;
 nSessions = 0;
 nEvents = 0;
 nLive = 0;

@@ -73,7 +73,11 @@ img { margin-right: .25rem; }
 
 .img-small { max-height: 1rem; }
 .img-flag { border: 1px solid #000; }
-.img-kofi { float: left; margin: 0; }
+.img-footer {
+  margin: .2rem;
+  height: 24px;
+}
+style='border:0px;height:36px;'
 
 h5, h6 { font-weight: bold; }
 h5 {
@@ -89,6 +93,11 @@ footer {
   padding: 1rem;
   grid-template-columns: repeat(2,2fr);
   background-image: radial-gradient(farthest-side at 100% 100%, #c0c0c0, white);
+}
+
+.footerDiv {
+  width: 50%;
+  float: left;
 }
 
 .donate {
@@ -128,8 +137,8 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
 
 @media only screen and (max-width: 1080px) {
   main, footer {
-    grid-template-columns: repeat(1,1fr);
     display: block;
+    overflow: hidden;
     margin: 0;
   }
   html {
@@ -138,10 +147,10 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   }
   .footerDiv{
     text-align: left;
-    width: 2fr;
+    width: 100%;
   }
-  .donate {
-    margin-top: 2rem;
+  .img-footer {
+    float: left;
   }
   article {
     margin-bottom: .5rem;
@@ -197,6 +206,9 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   .img-top { max-height: 30px; }
   .img-flag { max-height: 15px; }
   .img-yt { max-height: 24px; }
+  .img-footer {
+    float: right;
+  }
 
   .session, .venue {
     display: block;
