@@ -4,7 +4,6 @@
 
 
 $(".live").hide();
-$(".today").hide();
 var now = Math.floor(Date.now()/1000);
 var start = moment.unix(now).startOf('day');
 var end = moment.unix(now).endOf('day');
@@ -71,9 +70,15 @@ for (i=0; i<Object.keys(series).length; i++) {
 					green = "";
 					liveicon = "";
 				}
+				// TODAY
 				if (sessionTimeUnix/1000 >= start.unix() && sessionTimeUnix/1000 <= end.unix() || sessionTimeUnix/1000+length >= start.unix() && sessionTimeUnix/1000+length <= end.unix()) {
-					$(".today").show();
+					$(".showToday").show();
 					$(".today").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
+				}
+				// TOMORROW
+				if (sessionTimeUnix/1000 >= start.unix()+86400 && sessionTimeUnix/1000 <= end.unix()+86400 || sessionTimeUnix/1000+length >= start.unix()+86400 && sessionTimeUnix/1000+length <= end.unix()+86400) {
+					$(".showTomorrow").show();
+					$(".tomorrow").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
 				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
 				if (del == false) {
@@ -113,6 +118,15 @@ $(document).ready(function(){
 	    }).appendTo(selector);
 	}
 	sortToday(".today");
+	// SORT TOMORROW
+	function sortToday(selector) {
+	    $(selector).children("p").sort(function(a, b) {
+	        var upA = $(a).text().toUpperCase();
+	        var upB = $(b).text().toUpperCase();
+	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
+	    }).appendTo(selector);
+	}
+	sortToday(".tomorrow");
 
 	// SORT MENU LIST
 	function sortUL(selector) {
