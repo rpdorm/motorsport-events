@@ -36,7 +36,6 @@ main {
 
 .live {
   display: block;
-  overflow: scroll;
   color: white;
   text-shadow: none;
 }
@@ -48,7 +47,6 @@ main {
 .liveitem {
   font-size: 1rem;
   padding: .8rem;
-  float: left;
 }
 
 .live > span {
@@ -61,6 +59,7 @@ nav {
 }
 
 .header {
+  display: block;
   padding: .8em;
   border-bottom: 1px solid #c0c0c0;
 }
@@ -86,11 +85,9 @@ h5 {
 footer {
   font-size: 0.8rem;
   display: block;
-  background-color: #fff;
   margin-top: .5rem;
   padding: 1rem;
   grid-template-columns: repeat(2,2fr);
-  padding-bottom: 1.5rem;
   background-image: radial-gradient(farthest-side at 100% 100%, #c0c0c0, white);
 }
 
@@ -163,11 +160,11 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   }
 }
 @media only screen and (min-width: 1081px) {
-  div.body-wrapper, footer {
+  div.body-wrapper, header, footer {
     display: block;
     overflow: hidden;
   }
-  div.body-wrapper, header {
+  div.body-wrapper {
     margin:auto;
     width: 80%;
     max-width: 900px;
@@ -176,10 +173,10 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   header {
     text-align: center;
     display: block;
-    overflow: hidden;
     padding: .5rem;
     font-size: 1rem;
     text-decoration: none;
+    padding-bottom: 0;
   }
   div.menu {
     float: left;
@@ -213,7 +210,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     height: 1em;
   }
   span.series {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
   img.menu { display: none; }
 }

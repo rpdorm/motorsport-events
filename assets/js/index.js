@@ -3,11 +3,9 @@
 // github.com/rpdorm/motorsport-events
 $(".live").hide();
 now = Math.floor(Date.now()/1000);
-nWeeks = 52; // show 52 weeks ahead by default
+nWeeks = 52; // show next 52 weeks by default
 upcoming = now+691200*nWeeks;
 today = moment().isoWeekday;
-series = data.series;
-venues = data.venues;
 nSessions = 0;
 nEvents = 0;
 nLive = 0;
