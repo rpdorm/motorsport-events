@@ -1044,7 +1044,7 @@ venues = {
         "url": "https://www.racingcircuits.info/europe/czech-republic/brno.html"
     },
     "174": {
-        "name": "Slovakiaring",
+        "name": "Automotodróm Slovakia Ring",
         "location": "Orechová Potôň, Slovakia",
         "flag": "sk",
         "url": "https://www.racingcircuits.info/europe/slovakia/slovakiaring.html"

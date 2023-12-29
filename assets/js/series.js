@@ -4510,7 +4510,7 @@ series = {
         "symbol": "TCR",
         "events": {
             "0": {
-                "name": "Round 1",
+                "name": "Vallelunga",
                 "venue": 165,
                 "sessions": {
                     "0": {
@@ -4523,7 +4523,7 @@ series = {
                 }
             },
             "1": {
-                "name": "Round 2",
+                "name": "Marrakesh",
                 "venue": 166,
                 "sessions": {
                     "0": {
@@ -4536,7 +4536,7 @@ series = {
                 }
             },
             "2": {
-                "name": "Round 3",
+                "name": "Mid-Ohio",
                 "venue": 68,
                 "sessions": {
                     "0": {
@@ -4549,7 +4549,7 @@ series = {
                 }
             },
             "3": {
-                "name": "Round 4",
+                "name": "TBA",
                 "venue": 170,
                 "sessions": {
                     "0": {
@@ -4562,7 +4562,7 @@ series = {
                 }
             },
             "4": {
-                "name": "Round 5",
+                "name": "El Pinar",
                 "venue": 167,
                 "sessions": {
                     "0": {
@@ -4575,7 +4575,7 @@ series = {
                 }
             },
             "5": {
-                "name": "Round 6",
+                "name": "Zhuzhou",
                 "venue": 168,
                 "sessions": {
                     "0": {
@@ -4588,7 +4588,7 @@ series = {
                 }
             },
             "6": {
-                "name": "Round 7",
+                "name": "Sydney",
                 "venue": 145,
                 "sessions": {
                     "0": {
@@ -4601,7 +4601,7 @@ series = {
                 }
             },
             "7": {
-                "name": "Round 8",
+                "name": "Mount Panorama",
                 "venue": 33,
                 "sessions": {
                     "0": {
@@ -4614,7 +4614,7 @@ series = {
                 }
             },
             "8": {
-                "name": "Round 9",
+                "name": "Macau",
                 "venue": 169,
                 "sessions": {
                     "0": {
@@ -4634,7 +4634,7 @@ series = {
         "symbol": "TCRE",
         "events": {
             "0": {
-                "name": "Round 1",
+                "name": "Vallelunga",
                 "venue": 165,
                 "sessions": {
                     "0": {
@@ -4647,7 +4647,7 @@ series = {
                 }
             },
             "1": {
-                "name": "Round 2",
+                "name": "Zolder",
                 "venue": 171,
                 "sessions": {
                     "0": {
@@ -4660,7 +4660,7 @@ series = {
                 }
             },
             "2": {
-                "name": "Round 3",
+                "name": "Salzburgring",
                 "venue": 172,
                 "sessions": {
                     "0": {
@@ -4673,7 +4673,7 @@ series = {
                 }
             },
             "3": {
-                "name": "Round 4",
+                "name": "Spa-Francorchamps",
                 "venue": 0,
                 "sessions": {
                     "0": {
@@ -4686,7 +4686,7 @@ series = {
                 }
             },
             "4": {
-                "name": "Round 5",
+                "name": "Brno",
                 "venue": 173,
                 "sessions": {
                     "0": {
@@ -4699,7 +4699,7 @@ series = {
                 }
             },
             "5": {
-                "name": "Round 6",
+                "name": "Valencia",
                 "venue": 17,
                 "sessions": {
                     "0": {
@@ -4719,7 +4719,7 @@ series = {
         "symbol": "TCREE",
         "events": {
             "0": {
-                "name": "Round 1",
+                "name": "Balaton",
                 "venue": 153,
                 "sessions": {
                     "0": {
@@ -4732,7 +4732,7 @@ series = {
                 }
             },
             "1": {
-                "name": "Round 2",
+                "name": "Spielberg",
                 "venue": 25,
                 "sessions": {
                     "0": {
@@ -4745,7 +4745,7 @@ series = {
                 }
             },
             "2": {
-                "name": "Round 3",
+                "name": "Slovakia Ring",
                 "venue": 174,
                 "sessions": {
                     "0": {
@@ -4758,7 +4758,7 @@ series = {
                 }
             },
             "3": {
-                "name": "Round 4",
+                "name": "Most",
                 "venue": 22,
                 "sessions": {
                     "0": {
@@ -4771,7 +4771,7 @@ series = {
                 }
             },
             "4": {
-                "name": "Round 5",
+                "name": "Brno",
                 "venue": 173,
                 "sessions": {
                     "0": {
@@ -4784,7 +4784,7 @@ series = {
                 }
             },
             "5": {
-                "name": "Round 6",
+                "name": "Salzburgring",
                 "venue": 172,
                 "sessions": {
                     "0": {
