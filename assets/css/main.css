@@ -90,7 +90,7 @@ footer {
   font-size: 1rem;
   display: block;
   margin-top: .5rem;
-  padding: 1rem;
+  padding: 2em;
   grid-template-columns: repeat(2,2fr);
   background-image: radial-gradient(farthest-side at 100% 100%, #c0c0c0, white);
 }
@@ -198,13 +198,15 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   }
   main {
     float: left;
-    width: 60.8%;
+    width: 60%;
   }
   article {
     display: block;
     overflow: hidden;
     margin-bottom: 1em;
     border-radius: 12px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px black;
   }
 
   .img-top { max-height: 30px; }
