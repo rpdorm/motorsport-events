@@ -185,10 +185,9 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   header {
     text-align: center;
     display: block;
-    padding: .5rem;
+    padding: 0rem;
     font-size: 1rem;
     text-decoration: none;
-    padding-bottom: 0;
   }
   div.menu {
     display: block;

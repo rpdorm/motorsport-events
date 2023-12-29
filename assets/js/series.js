@@ -989,7 +989,7 @@ series = {
                 }
             },
             "6": {
-                "name": "6h of the Circuit of the Americas",
+                "name": "6h of the Americas",
                 "venue": 8,
                 "sessions": {
                     "0": {
@@ -1619,7 +1619,7 @@ series = {
      //NASCAR
     "8": {
         "name": "NASCAR Cup Series",
-        "symbol": "NCS",
+        "symbol": "NASCAR",
         "events": {
             "0": {
                 "name": "Clash at the Coliseum",
@@ -2296,7 +2296,7 @@ series = {
      //24h Series
     "10": {
         "name": "24h Series",
-        "symbol": "24hS",
+        "symbol": "24hSeries",
         "events": {
             "0": {
                 "name": "24h Dubai",
@@ -3104,7 +3104,7 @@ series = {
      //Super Formula
     "15": {
         "name": "Super Formula",
-        "symbol": "SFC",
+        "symbol": "SF",
         "events": {
             "0": {
                 "name": "Round 1",

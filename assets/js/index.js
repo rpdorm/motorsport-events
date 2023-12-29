@@ -18,7 +18,7 @@ nEvents = 0;
 nLive = 0;
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
-	$(".filter").append(`<li class="nav-item"><a href="#" id="${series[i].symbol}" class="nav-link text-white sortli" aria-current="page">${series[i].name}</small></a></li>`);
+	plotmenu = false;
 	imgtitle = series[i].name;
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
@@ -51,9 +51,9 @@ for (i=0; i<Object.keys(series).length; i++) {
 				sessionTime = moment(sessionTimeUnix).format('HH:mm');
 				sessionDate = moment(sessionTimeUnix).format('ddd, MMM Do');
 				year = moment(sessionTimeUnix).format('YYYY');
-				if (sessionTimeUnix/1000+length > now) {
+				if (sessionTimeUnix/1000+length >= now) {
 					del = false;
-					if (sessionTimeUnix/1000 < now) {
+					if (sessionTimeUnix/1000 <= now) {
 						green = " class='green' style='color:green'";
 						$(".live").show();
 						$("div.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
@@ -80,11 +80,15 @@ for (i=0; i<Object.keys(series).length; i++) {
 				if (del == false) {
 					timediv= `<p class='subtitle text-muted'><small>${sessionDate} ${sessionTime}</small></p>`;
 					$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${session}${liveicon}</h6></li>`);
+					plotmenu = true;
 				}
 				
 			}
 			$("." + shatimestamp).append("</ul>");
 		}
+	}
+	if (plotmenu == true) {
+		$(".filter").append(`<li class="nav-item"><a href="#" id="${series[i].symbol}" class="nav-link text-white sortli" aria-current="page">${series[i].name}</small></a></li>`);
 	}
 }
 $(".nEvents").append(nEvents);
