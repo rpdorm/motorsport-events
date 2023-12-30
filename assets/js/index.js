@@ -2,8 +2,6 @@
 // Author: Rui Pedro Moreira
 // github.com/rpdorm/motorsport-events
 
-
-$(".live").hide();
 var now = Math.floor(Date.now()/1000);
 var start = moment.unix(now).startOf('day');
 var end = moment.unix(now).endOf('day');
@@ -59,8 +57,8 @@ for (i=0; i<Object.keys(series).length; i++) {
 					del = false;
 					if (sessionTimeUnix/1000 <= now) {
 						green = " class='green' style='color:green'";
-						$(".live").show();
-						$("div.live").append(`<span class='badge bg-success liveitem'><img class='img-small' title='${imgtitle}' src='assets/png/series/${series[i].symbol}.png'>${name} - ${session}</span>`);
+						$(".showLive").show();
+						$("div.live").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
 					}
 					else { green = ""; }
 					nSessions++;
@@ -71,7 +69,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					liveicon = "";
 				}
 				// TODAY
-				if (sessionTimeUnix/1000 >= start.unix() && sessionTimeUnix/1000 <= end.unix()) {
+				if (sessionTimeUnix/1000 > now && sessionTimeUnix/1000 <= end.unix()) {
 					$(".showToday").show();
 					$(".today").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
 				}

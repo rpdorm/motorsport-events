@@ -1,6 +1,7 @@
 // Motorsport Events 2019-2024
 // Author: Rui Pedro Moreira
 // github.com/rpdorm/motorsport-events
+
 series = {
     //Formula One
     "0": {
@@ -5508,7 +5509,7 @@ series = {
                         "name": "Official Start at Monaco",
                         "symbol": "P",
                         "timestamp": 1703959200,
-                        "length": 3600,
+                        "length": 7200,
                         "live": "http://www.youtube.com/watch?v=UjnF1z3F1Bg"
                     },
                     "1": {
