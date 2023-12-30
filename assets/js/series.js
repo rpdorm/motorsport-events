@@ -5509,7 +5509,7 @@ series = {
                         "symbol": "P",
                         "timestamp": 1703959200,
                         "length": 3600,
-                        "live": "www.youtube.com/watch?v=UjnF1z3F1Bg"
+                        "live": "http://www.youtube.com/watch?v=UjnF1z3F1Bg"
                     },
                     "1": {
                         "name": "Stage 1",
