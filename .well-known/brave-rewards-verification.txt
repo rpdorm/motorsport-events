@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: motorsport-events.netlify.app
-Token: e479c9d117b2e2c7e0d2aa43cd22de8c02cb5654afbba9e943ca39543d97aa59

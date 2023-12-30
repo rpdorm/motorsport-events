@@ -69,7 +69,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					liveicon = "";
 				}
 				// TODAY
-				if (sessionTimeUnix/1000 > now && sessionTimeUnix/1000 <= end.unix()) {
+				if (sessionTimeUnix/1000 > start.unix() && sessionTimeUnix/1000 > now && sessionTimeUnix/1000 <= end.unix()) {
 					$(".showToday").show();
 					$(".today").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
 				}
