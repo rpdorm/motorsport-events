@@ -5513,84 +5513,84 @@ series = {
                         "live": "http://www.youtube.com/watch?v=UjnF1z3F1Bg"
                     },
                     "1": {
-                        "name": "Stage 1",
+                        "name": "Stage 1: Nador > Boudnib",
                         "symbol": "S1",
                         "timestamp": 1704175200,
                         "length": 28800,
                         "live": false
                     },
                     "2": {
-                        "name": "Stage 2",
+                        "name": "Stage 2: Boudnib > M'Hamid",
                         "symbol": "S2",
                         "timestamp": 1704261600,
                         "length": 28800,
                         "live": false
                     },
                     "3": {
-                        "name": "Stage 3",
+                        "name": "Stage 3: M'Hamid > Assa",
                         "symbol": "S3",
                         "timestamp": 1704348000,
                         "length": 28800,
                         "live": false
                     },
                     "4": {
-                        "name": "Stage 4",
+                        "name": "Stage 4: Assa > Port Chacal",
                         "symbol": "S4",
                         "timestamp": 1704434400,
                         "length": 28800,
                         "live": false
                     },
                     "5": {
-                        "name": "Stage 5",
+                        "name": "Stage 5: Port Chacal > Dakhla",
                         "symbol": "S5",
                         "timestamp": 1704520800,
                         "length": 28800,
                         "live": false
                     },
                     "6": {
-                        "name": "Stage 6",
+                        "name": "Stage 6: Dakhla > Chami",
                         "symbol": "S6",
                         "timestamp": 1704693600,
                         "length": 28800,
                         "live": false
                     },
                     "7": {
-                        "name": "Stage 7",
+                        "name": "Stage 7: Chami > Chami",
                         "symbol": "S7",
                         "timestamp": 1704780000,
                         "length": 28800,
                         "live": false
                     },
                     "8": {
-                        "name": "Stage 8",
+                        "name": "Stage 8: Chami > Amodjar",
                         "symbol": "S8",
                         "timestamp": 1704866400,
                         "length": 28800,
                         "live": false
                     },
                     "9": {
-                        "name": "Stage 9",
+                        "name": "Stage 9: Amodjar > Amodjar",
                         "symbol": "S9",
                         "timestamp": 1704952800,
                         "length": 28800,
                         "live": false
                     },
                     "10": {
-                        "name": "Stage 10",
+                        "name": "Stage 10: Amodjar > Akjoujt",
                         "symbol": "S10",
                         "timestamp": 1705039200,
                         "length": 28800,
                         "live": false
                     },
                     "11": {
-                        "name": "Stage 11",
+                        "name": "Stage 11: Akjoujt > Saint-Louis",
                         "symbol": "S11",
                         "timestamp": 1705125600,
                         "length": 28800,
                         "live": false
                     },
                     "12": {
-                        "name": "Stage 12",
+                        "name": "Stage 12: Saint-Louis > Dakar",
                         "symbol": "S12",
                         "timestamp": 1705212000,
                         "length": 28800,

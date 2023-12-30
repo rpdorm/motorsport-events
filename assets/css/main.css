@@ -80,11 +80,6 @@ footer {
   float: left;
 }
 
-.donate {
-  text-align: right;
-  width: 1fr;
-}
-
 .list-group-item {
   padding: .8rem;
   border-bottom: 1px solid #c0c0c0;
@@ -94,11 +89,6 @@ footer {
 a {
   text-decoration: none;
   color: inherit;
-}
-
-.green {
-  color: green;
-  text-shadow: none;
 }
 
 .mute {
@@ -151,6 +141,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     height: 80px;
   }
 }
+
 @media only screen and (min-width: 1081px) {
   div.body-wrapper, header, footer {
     display: block;
@@ -172,21 +163,20 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   div.menu {
     display: block;
     float: left;
-    width: 38.2%;
+    width: 38%;
     padding: 0;
-
   }
   main {
     float: left;
     width: 60%;
   }
-  article, .card {
+  article, div.card {
+    overflow: hidden;
     box-shadow: 3px 3px 3px black;
-    margin-bottom: .5em;
+    margin-bottom: 1rem;
   }
   article {
     display: block;
-    overflow: hidden;
     border-radius: 12px;
     border: 1px solid black;
   }
@@ -206,7 +196,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   .livestream {
     position: absolute;
     bottom: 1em;
-    right: .8rem;
+    right: 1rem;
     height: 1em;
   }
   span.series {
