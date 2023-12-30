@@ -552,84 +552,84 @@ series = {
                         "live": false
                     },
                     "1": {
-                        "name": "Stage 1: Al-'Ula > Al Henakiyah",
+                        "name": "Al-'Ula ➜ Al Henakiyah",
                         "symbol": "S1",
                         "timestamp": 1704513600,
                         "length": 32400,
                         "live": false
                     },
                     "2": {
-                        "name": "Stage 2: Al Henakiyah > Ad Dawadimi",
+                        "name": "Al Henakiyah ➜ Ad Dawadimi",
                         "symbol": "S2",
                         "timestamp": 1704600000,
                         "length": 32400,
                         "live": false
                     },
                     "3": {
-                        "name": "Stage 3: Ad Dawadimi > Al Salamiya",
+                        "name": "Ad Dawadimi ➜ Al Salamiya",
                         "symbol": "S3",
                         "timestamp": 1704686400,
                         "length": 32400,
                         "live": false
                     },
                     "4": {
-                        "name": "Stage 4: Al Salamiya > Al-Hofuf",
+                        "name": "Al Salamiya ➜ Al-Hofuf",
                         "symbol": "S4",
                         "timestamp": 1704772800,
                         "length": 32400,
                         "live": false
                     },
                     "5": {
-                        "name": "Stage 5: Al-Hofuf > Shaybah",
+                        "name": "Al-Hofuf ➜ Shaybah",
                         "symbol": "S5",
                         "timestamp": 1704859200,
                         "length": 32400,
                         "live": false
                     },
                     "6": {
-                        "name": "Stage 6 (48h Marathon): Shaybah > Shaybah",
+                        "name": "48h Marathon: Shaybah ➜ Shaybah",
                         "symbol": "S6",
                         "timestamp": 1704945600,
                         "length": 172800,
                         "live": false
                     },
                     "7": {
-                        "name": "Stage 7: Riyadh > Ad Dawadimi",
+                        "name": "Riyadh ➜ Ad Dawadimi",
                         "symbol": "S7",
                         "timestamp": 1705204800,
                         "length": 32400,
                         "live": false
                     },
                     "8": {
-                        "name": "Stage 8: Ad Dawadimi > Ha'il",
+                        "name": "Ad Dawadimi ➜ Ha'il",
                         "symbol": "S8",
                         "timestamp": 1705291200,
                         "length": 32400,
                         "live": false
                     },
                     "9": {
-                        "name": "Stage 9: Ha'il > Al-'Ula",
+                        "name": "Ha'il ➜ Al-'Ula",
                         "symbol": "S9",
                         "timestamp": 1705377600,
                         "length": 32400,
                         "live": false
                     },
                     "10": {
-                        "name": "Stage 10: Al-'Ula > Al-'Ula",
+                        "name": "Al-'Ula ➜ Al-'Ula",
                         "symbol": "S10",
                         "timestamp": 1705464000,
                         "length": 32400,
                         "live": false
                     },
                     "11": {
-                        "name": "Stage 11: Al-'Ula > Yanbu",
+                        "name": "Al-'Ula ➜ Yanbu",
                         "symbol": "S11",
                         "timestamp": 1705550400,
                         "length": 32400,
                         "live": false
                     },
                     "12": {
-                        "name": "Stage 12: Yanbu > Yanbu",
+                        "name": "Yanbu ➜ Yanbu",
                         "symbol": "S12",
                         "timestamp": 1705636800,
                         "length": 21600,
@@ -5513,84 +5513,84 @@ series = {
                         "live": "http://www.youtube.com/watch?v=UjnF1z3F1Bg"
                     },
                     "1": {
-                        "name": "Stage 1: Nador > Boudnib",
+                        "name": "Nador ➜ Boudnib",
                         "symbol": "S1",
                         "timestamp": 1704175200,
                         "length": 28800,
                         "live": false
                     },
                     "2": {
-                        "name": "Stage 2: Boudnib > M'Hamid",
+                        "name": "Boudnib ➜ M'Hamid",
                         "symbol": "S2",
                         "timestamp": 1704261600,
                         "length": 28800,
                         "live": false
                     },
                     "3": {
-                        "name": "Stage 3: M'Hamid > Assa",
+                        "name": "M'Hamid ➜ Assa",
                         "symbol": "S3",
                         "timestamp": 1704348000,
                         "length": 28800,
                         "live": false
                     },
                     "4": {
-                        "name": "Stage 4: Assa > Port Chacal",
+                        "name": "Assa ➜ Port Chacal",
                         "symbol": "S4",
                         "timestamp": 1704434400,
                         "length": 28800,
                         "live": false
                     },
                     "5": {
-                        "name": "Stage 5: Port Chacal > Dakhla",
+                        "name": "Port Chacal ➜ Dakhla",
                         "symbol": "S5",
                         "timestamp": 1704520800,
                         "length": 28800,
                         "live": false
                     },
                     "6": {
-                        "name": "Stage 6: Dakhla > Chami",
+                        "name": "Dakhla ➜ Chami",
                         "symbol": "S6",
                         "timestamp": 1704693600,
                         "length": 28800,
                         "live": false
                     },
                     "7": {
-                        "name": "Stage 7: Chami > Chami",
+                        "name": "Chami ➜ Chami",
                         "symbol": "S7",
                         "timestamp": 1704780000,
                         "length": 28800,
                         "live": false
                     },
                     "8": {
-                        "name": "Stage 8: Chami > Amodjar",
+                        "name": "Chami ➜ Amodjar",
                         "symbol": "S8",
                         "timestamp": 1704866400,
                         "length": 28800,
                         "live": false
                     },
                     "9": {
-                        "name": "Stage 9: Amodjar > Amodjar",
+                        "name": "Amodjar ➜ Amodjar",
                         "symbol": "S9",
                         "timestamp": 1704952800,
                         "length": 28800,
                         "live": false
                     },
                     "10": {
-                        "name": "Stage 10: Amodjar > Akjoujt",
+                        "name": "Amodjar ➜ Akjoujt",
                         "symbol": "S10",
                         "timestamp": 1705039200,
                         "length": 28800,
                         "live": false
                     },
                     "11": {
-                        "name": "Stage 11: Akjoujt > Saint-Louis",
+                        "name": "Akjoujt ➜ Saint-Louis",
                         "symbol": "S11",
                         "timestamp": 1705125600,
                         "length": 28800,
                         "live": false
                     },
                     "12": {
-                        "name": "Stage 12: Saint-Louis > Dakar",
+                        "name": "Saint-Louis ➜ Dakar",
                         "symbol": "S12",
                         "timestamp": 1705212000,
                         "length": 28800,

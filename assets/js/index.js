@@ -58,7 +58,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					if (sessionTimeUnix/1000 <= now) {
 						green = " class='green' style='color:green'";
 						$(".showLive").show();
-						$("div.live").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
+						$("div.live").append(`<p>${series[i].symbol} | ${name} | ${session}</p>`);
 					}
 					else { green = ""; }
 					nSessions++;
@@ -111,25 +111,20 @@ $(document).ready(function(){
 	    mylist.append(itm);
 	});
 
+	// SORT FUNCTION
+	function sort(selector) {
+	    $(selector).children("p").sort(function(a, b) {
+	        var upA = $(a).text().toUpperCase();
+	        var upB = $(b).text().toUpperCase();
+	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
+	    }).appendTo(selector);
+	}
+	// SORT Live
+	sort(".live");
 	// SORT Today
-	function sortToday(selector) {
-	    $(selector).children("p").sort(function(a, b) {
-	        var upA = $(a).text().toUpperCase();
-	        var upB = $(b).text().toUpperCase();
-	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
-	    }).appendTo(selector);
-	}
-	sortToday(".today");
+	sort(".today");
 	// SORT TOMORROW
-	function sortToday(selector) {
-	    $(selector).children("p").sort(function(a, b) {
-	        var upA = $(a).text().toUpperCase();
-	        var upB = $(b).text().toUpperCase();
-	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
-	    }).appendTo(selector);
-	}
-	sortToday(".tomorrow");
-
+	sort(".tomorrow");
 	// SORT MENU LIST
 	function sortUL(selector) {
 	    $(selector).children("li").sort(function(a, b) {
