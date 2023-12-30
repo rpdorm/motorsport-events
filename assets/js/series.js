@@ -5494,5 +5494,109 @@ series = {
                 }
             }
         }
+    },
+     //Africa Eco Race
+    "32": {
+        "name": "Africa Eco Race",
+        "symbol": "AER",
+        "events": {
+            "0": {
+                "name": "Africa Eco Race",
+                "venue": 88,
+                "sessions": {
+                    "0": {
+                        "name": "Official Start at Monaco",
+                        "symbol": "P",
+                        "timestamp": 1703959200,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Stage 1",
+                        "symbol": "S1",
+                        "timestamp": 1704175200,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Stage 2",
+                        "symbol": "S2",
+                        "timestamp": 1704261600,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Stage 3",
+                        "symbol": "S3",
+                        "timestamp": 1704348000,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Stage 4",
+                        "symbol": "S4",
+                        "timestamp": 1704434400,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Stage 5",
+                        "symbol": "S5",
+                        "timestamp": 1704520800,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Stage 6",
+                        "symbol": "S6",
+                        "timestamp": 1704693600,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "7": {
+                        "name": "Stage 7",
+                        "symbol": "S7",
+                        "timestamp": 1704780000,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "8": {
+                        "name": "Stage 8",
+                        "symbol": "S8",
+                        "timestamp": 1704866400,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "9": {
+                        "name": "Stage 9",
+                        "symbol": "S9",
+                        "timestamp": 1704952800,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "10": {
+                        "name": "Stage 10",
+                        "symbol": "S10",
+                        "timestamp": 1705039200,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "11": {
+                        "name": "Stage 11",
+                        "symbol": "S11",
+                        "timestamp": 1705125600,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "12": {
+                        "name": "Stage 12",
+                        "symbol": "S12",
+                        "timestamp": 1705212000,
+                        "length": 28800,
+                        "live": false
+                    }
+                }
+            }
+        }
     }
 }

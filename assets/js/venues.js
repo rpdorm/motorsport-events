@@ -531,6 +531,7 @@ venues = {
     "88": {
         "name": "misc.",
         "location": "",
+        "flag": false,
         "url": false
     },
     "89": {
