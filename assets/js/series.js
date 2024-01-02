@@ -5515,8 +5515,8 @@ series = {
                     "1": {
                         "name": "Nador ➜ Boudnib",
                         "symbol": "S1",
-                        "timestamp": 1704175200,
-                        "length": 28800,
+                        "timestamp": 1704187800,
+                        "length": 23400,
                         "live": false
                     },
                     "2": {
@@ -5534,14 +5534,14 @@ series = {
                         "live": false
                     },
                     "4": {
-                        "name": "Assa ➜ Port Chacal",
+                        "name": "Assa ➜ Fort Chacal",
                         "symbol": "S4",
                         "timestamp": 1704434400,
                         "length": 28800,
                         "live": false
                     },
                     "5": {
-                        "name": "Port Chacal ➜ Dakhla",
+                        "name": "Fort Chacal ➜ Dakhla",
                         "symbol": "S5",
                         "timestamp": 1704520800,
                         "length": 28800,

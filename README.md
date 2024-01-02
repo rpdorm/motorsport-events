@@ -1,3 +1,3 @@
-Motorsport Events · 2023 · https://motorsport-events.netlify.app
+Motorsport Events · 2019 - 2024 · https://motorsport-events.netlify.app
 
-All events might be subject to schedule changes and/or delays.
+All events may be subject to cancellation, schedule changes and/or delays.

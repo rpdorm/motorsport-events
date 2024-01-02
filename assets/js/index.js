@@ -14,6 +14,7 @@ upcoming = now+691200*nWeeks;
 nSessions = 0;
 nEvents = 0;
 nLive = 0;
+
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
 	plotmenu = false;

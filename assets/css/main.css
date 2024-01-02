@@ -158,7 +158,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     width: 80%;
     max-width: 900px;
   }
-  div.body-wrapper { margin-top: 1rem; }
+  div.body-wrapper { margin-top: .5em; }
   header {
     text-align: center;
     display: block;
