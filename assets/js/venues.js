@@ -7,7 +7,7 @@ venues = {
         "name": "Spa-Francorchamps",
         "location": "Stavelot, Belgium",
         "flag": "be",
-        "url": ""
+        "url": "https://www.racingcircuits.info/europe/belgium/spa-francorchamps.html"
     },
     "1": {
         "name": "Zandvoort",
