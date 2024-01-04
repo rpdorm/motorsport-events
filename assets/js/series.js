@@ -5529,70 +5529,70 @@ series = {
                     "3": {
                         "name": "M'Hamid ➜ Assa",
                         "symbol": "S3",
-                        "timestamp": 1704346200,
+                        "timestamp": 1704353400,
                         "length": 28800,
                         "live": false
                     },
                     "4": {
                         "name": "Assa ➜ Fort Chacal",
                         "symbol": "S4",
-                        "timestamp": 1704432600,
+                        "timestamp": 1704439800,
                         "length": 28800,
                         "live": false
                     },
                     "5": {
                         "name": "Fort Chacal ➜ Dakhla",
                         "symbol": "S5",
-                        "timestamp": 1704519000,
+                        "timestamp": 1704526200,
                         "length": 28800,
                         "live": false
                     },
                     "6": {
                         "name": "Dakhla ➜ Chami",
                         "symbol": "S6",
-                        "timestamp": 1704691800,
+                        "timestamp": 1704699000,
                         "length": 28800,
                         "live": false
                     },
                     "7": {
                         "name": "Chami ➜ Chami",
                         "symbol": "S7",
-                        "timestamp": 1704778200,
+                        "timestamp": 1704785400,
                         "length": 28800,
                         "live": false
                     },
                     "8": {
                         "name": "Chami ➜ Amodjar",
                         "symbol": "S8",
-                        "timestamp": 1704864600,
+                        "timestamp": 1704871800,
                         "length": 28800,
                         "live": false
                     },
                     "9": {
                         "name": "Amodjar ➜ Amodjar",
                         "symbol": "S9",
-                        "timestamp": 1704951000,
+                        "timestamp": 1704958200,
                         "length": 28800,
                         "live": false
                     },
                     "10": {
                         "name": "Amodjar ➜ Akjoujt",
                         "symbol": "S10",
-                        "timestamp": 1705037400,
+                        "timestamp": 1705044600,
                         "length": 28800,
                         "live": false
                     },
                     "11": {
                         "name": "Akjoujt ➜ Saint-Louis",
                         "symbol": "S11",
-                        "timestamp": 1705123800,
+                        "timestamp": 1705131000,
                         "length": 28800,
                         "live": false
                     },
                     "12": {
                         "name": "Saint-Louis ➜ Dakar",
                         "symbol": "S12",
-                        "timestamp": 1705210200,
+                        "timestamp": 1705217400,
                         "length": 28800,
                         "live": false
                     }
