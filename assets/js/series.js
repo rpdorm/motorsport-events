@@ -548,42 +548,42 @@ series = {
                         "name": "Prologue",
                         "symbol": "P",
                         "timestamp": 1704427200,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "1": {
                         "name": "Al-'Ula ➜ Al Henakiyah",
                         "symbol": "S1",
                         "timestamp": 1704513600,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "2": {
                         "name": "Al Henakiyah ➜ Ad Dawadimi",
                         "symbol": "S2",
                         "timestamp": 1704600000,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "3": {
                         "name": "Ad Dawadimi ➜ Al Salamiya",
                         "symbol": "S3",
                         "timestamp": 1704686400,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "4": {
                         "name": "Al Salamiya ➜ Al-Hofuf",
                         "symbol": "S4",
                         "timestamp": 1704772800,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "5": {
                         "name": "Al-Hofuf ➜ Shaybah",
                         "symbol": "S5",
                         "timestamp": 1704859200,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "6": {
@@ -597,42 +597,42 @@ series = {
                         "name": "Riyadh ➜ Ad Dawadimi",
                         "symbol": "S7",
                         "timestamp": 1705204800,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "8": {
                         "name": "Ad Dawadimi ➜ Ha'il",
                         "symbol": "S8",
                         "timestamp": 1705291200,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "9": {
                         "name": "Ha'il ➜ Al-'Ula",
                         "symbol": "S9",
                         "timestamp": 1705377600,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "10": {
                         "name": "Al-'Ula ➜ Al-'Ula",
                         "symbol": "S10",
                         "timestamp": 1705464000,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "11": {
                         "name": "Al-'Ula ➜ Yanbu",
                         "symbol": "S11",
                         "timestamp": 1705550400,
-                        "length": 32400,
+                        "length": 36000,
                         "live": false
                     },
                     "12": {
                         "name": "Yanbu ➜ Yanbu",
                         "symbol": "S12",
                         "timestamp": 1705636800,
-                        "length": 21600,
+                        "length": 36000,
                         "live": false
                     }
                 }
@@ -2486,10 +2486,31 @@ series = {
                 "venue": 150,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1707048000,
-                        "length": 3600,
+                        "name": "Free Practice 1",
+                        "symbol": "P",
+                        "timestamp": 1706899500,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice 2",
+                        "symbol": "P",
+                        "timestamp": 1706969400,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1706985000,
+                        "length": 900,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1707066000,
+                        "length": 14400,
                         "live": false
                     }
                 }
@@ -5537,63 +5558,63 @@ series = {
                         "name": "Assa ➜ Fort Chacal",
                         "symbol": "S4",
                         "timestamp": 1704439800,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "5": {
                         "name": "Fort Chacal ➜ Dakhla",
                         "symbol": "S5",
                         "timestamp": 1704526200,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "6": {
                         "name": "Dakhla ➜ Chami",
                         "symbol": "S6",
                         "timestamp": 1704699000,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "7": {
                         "name": "Chami ➜ Chami",
                         "symbol": "S7",
                         "timestamp": 1704785400,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "8": {
                         "name": "Chami ➜ Amodjar",
                         "symbol": "S8",
                         "timestamp": 1704871800,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "9": {
                         "name": "Amodjar ➜ Amodjar",
                         "symbol": "S9",
                         "timestamp": 1704958200,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "10": {
                         "name": "Amodjar ➜ Akjoujt",
                         "symbol": "S10",
                         "timestamp": 1705044600,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "11": {
                         "name": "Akjoujt ➜ Saint-Louis",
                         "symbol": "S11",
                         "timestamp": 1705131000,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     },
                     "12": {
                         "name": "Saint-Louis ➜ Dakar",
                         "symbol": "S12",
                         "timestamp": 1705217400,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     }
                 }
