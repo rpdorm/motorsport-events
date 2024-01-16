@@ -929,10 +929,38 @@ series = {
                 "venue": 78,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Free Practice 1",
+                        "symbol": "FP",
+                        "timestamp": 1709198400,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP",
+                        "timestamp": 1709217000,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Free Practice 3",
+                        "symbol": "FP",
+                        "timestamp": 1709280000,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1709298000,
+                        "length": 5800,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race",
                         "symbol": "R",
                         "timestamp": 1709366400,
-                        "length": 3600,
+                        "length": 28800,
                         "live": false
                     }
                 }
@@ -5517,104 +5545,124 @@ series = {
             }
         }
     },
-     //Africa Eco Race
+     //Super Taikyo
     "32": {
-        "name": "Africa Eco Race",
-        "symbol": "AER",
+        "name": "Super Taikyo",
+        "symbol": "ST",
         "events": {
             "0": {
-                "name": "Africa Eco Race",
-                "venue": 88,
+                "name": "SUGO Official Test",
+                "venue": 156,
                 "sessions": {
                     "0": {
-                        "name": "Official Start at Monaco",
-                        "symbol": "P",
-                        "timestamp": 1703959200,
-                        "length": 7200,
-                        "live": "http://www.youtube.com/watch?v=UjnF1z3F1Bg"
-                    },
-                    "1": {
-                        "name": "Nador ➜ Boudnib",
-                        "symbol": "S1",
-                        "timestamp": 1704187800,
-                        "length": 23400,
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1711886400,
+                        "length": 3600,
                         "live": false
-                    },
-                    "2": {
-                        "name": "Boudnib ➜ M'Hamid",
-                        "symbol": "S2",
-                        "timestamp": 1704259800,
-                        "length": 28800,
+                    }
+                }
+            },
+            "1": {
+                "name": "SUGO 3h",
+                "venue": 156,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1713700800,
+                        "length": 3600,
                         "live": false
-                    },
-                    "3": {
-                        "name": "M'Hamid ➜ Assa",
-                        "symbol": "S3",
-                        "timestamp": 1704353400,
-                        "length": 28800,
+                    }
+                }
+            },
+            "2": {
+                "name": "Fuji Official Test",
+                "venue": 21,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1715169600,
+                        "length": 3600,
                         "live": false
-                    },
-                    "4": {
-                        "name": "Assa ➜ Fort Chacal",
-                        "symbol": "S4",
-                        "timestamp": 1704439800,
-                        "length": 36000,
+                    }
+                }
+            },
+            "3": {
+                "name": "Fuji 24h",
+                "venue": 21,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1716724800,
+                        "length": 3600,
                         "live": false
-                    },
-                    "5": {
-                        "name": "Fort Chacal ➜ Dakhla",
-                        "symbol": "S5",
-                        "timestamp": 1704526200,
-                        "length": 36000,
+                    }
+                }
+            },
+            "4": {
+                "name": "Autopolis",
+                "venue": 155,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1722168000,
+                        "length": 3600,
                         "live": false
-                    },
-                    "6": {
-                        "name": "Dakhla ➜ Chami",
-                        "symbol": "S6",
-                        "timestamp": 1704699000,
-                        "length": 36000,
+                    }
+                }
+            },
+            "5": {
+                "name": "Motegi",
+                "venue": 85,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1725796800,
+                        "length": 3600,
                         "live": false
-                    },
-                    "7": {
-                        "name": "Chami ➜ Chami",
-                        "symbol": "S7",
-                        "timestamp": 1704785400,
-                        "length": 36000,
+                    }
+                }
+            },
+            "6": {
+                "name": "Suzuka",
+                "venue": 7,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1727611200,
+                        "length": 3600,
                         "live": false
-                    },
-                    "8": {
-                        "name": "Chami ➜ Amodjar",
-                        "symbol": "S8",
-                        "timestamp": 1704871800,
-                        "length": 36000,
+                    }
+                }
+            },
+            "7": {
+                "name": "Okayama",
+                "venue": 157,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1730030400,
+                        "length": 3600,
                         "live": false
-                    },
-                    "9": {
-                        "name": "Amodjar ➜ Amodjar",
-                        "symbol": "S9",
-                        "timestamp": 1704958200,
-                        "length": 36000,
-                        "live": false
-                    },
-                    "10": {
-                        "name": "Amodjar ➜ Akjoujt",
-                        "symbol": "S10",
-                        "timestamp": 1705044600,
-                        "length": 36000,
-                        "live": false
-                    },
-                    "11": {
-                        "name": "Akjoujt ➜ Saint-Louis",
-                        "symbol": "S11",
-                        "timestamp": 1705131000,
-                        "length": 36000,
-                        "live": false
-                    },
-                    "12": {
-                        "name": "Saint-Louis ➜ Dakar",
-                        "symbol": "S12",
-                        "timestamp": 1705217400,
-                        "length": 36000,
+                    }
+                }
+            },
+            "8": {
+                "name": "Fuji",
+                "venue": 21,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1731844800,
+                        "length": 3600,
                         "live": false
                     }
                 }

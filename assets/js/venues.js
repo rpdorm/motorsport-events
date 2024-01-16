@@ -719,7 +719,7 @@ venues = {
         "name": "Tokyo Street Circuit",
         "location": "Tokyo, Japan",
         "flag": "jp",
-        "url": false
+        "url": "https://www.racingcircuits.info/asia/japan/tokyo-street-circuit.html"
     },
     "120": {
         "name": "Shanghai International Circuit",
