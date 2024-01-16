@@ -2403,28 +2403,28 @@ series = {
                     "1": {
                         "name": "Private Test 2",
                         "symbol": "T",
-                        "timestamp": 1705663800,
+                        "timestamp": 1708339500,
                         "length": 7200,
                         "live": false
                     },
                     "2": {
                         "name": "Private Test 3",
                         "symbol": "T",
-                        "timestamp": 1705676400,
+                        "timestamp": 1708353300,
                         "length": 7200,
                         "live": false
                     },
                     "3": {
                         "name": "Free Practice",
                         "symbol": "P",
-                        "timestamp": 1705731600,
+                        "timestamp": 1708405200,
                         "length": 5400,
                         "live": false
                     },
                     "4": {
                         "name": "Qualifying",
                         "symbol": "Q",
-                        "timestamp": 1705756800,
+                        "timestamp": 1708434600,
                         "length": 3300,
                         "live": "https://www.youtube.com/@24HSeries/streams"
                     },
