@@ -113,7 +113,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
 
 
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1279px) {
   main, footer {
     display: block;
     overflow: hidden;
@@ -148,15 +148,14 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   }
 }
 
-@media only screen and (min-width: 1081px) {
+@media only screen and (min-width: 1280px) {
   div.body-wrapper, header, footer {
     display: block;
     overflow: hidden;
   }
   div.body-wrapper {
     margin:auto;
-    width: 80%;
-    max-width: 900px;
+    width: 70.72%;
   }
   div.body-wrapper { margin-top: .5em; }
   header {
