@@ -154,8 +154,9 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     overflow: hidden;
   }
   div.body-wrapper {
-    margin:auto;
+    margin: auto;
     width: 70.72%;
+    max-width: 1280px;
   }
   div.body-wrapper { margin-top: .5em; }
   header {
