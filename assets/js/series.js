@@ -1668,9 +1668,23 @@ series = {
                 "venue": 31,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1707998400,
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1707959700,
+                        "length": 6300,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Duel 1",
+                        "symbol": "D",
+                        "timestamp": 1708041600,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Duel 2",
+                        "symbol": "D",
+                        "timestamp": 1708047900,
                         "length": 3600,
                         "live": false
                     }
@@ -1681,10 +1695,24 @@ series = {
                 "venue": 31,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Practice 1",
+                        "symbol": "P",
+                        "timestamp": 1708122900,
+                        "length": 3000,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Practice 2",
+                        "symbol": "P",
+                        "timestamp": 1708183800,
+                        "length": 3000,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1708257600,
-                        "length": 3600,
+                        "timestamp": 1708284600,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -2171,56 +2199,56 @@ series = {
                     "0": {
                         "name": "Practice 1",
                         "symbol": "P",
-                        "timestamp": 1708731000,
+                        "timestamp": 1708651800,
                         "length": 3600,
                         "live": false
                     },
                     "1": {
                         "name": "Practice 2",
                         "symbol": "P",
-                        "timestamp": 1708744800,
+                        "timestamp": 1708665600,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
                         "name": "Qualifying 1",
                         "symbol": "Q",
-                        "timestamp": 1708809600,
+                        "timestamp": 1708730400,
                         "length": 1200,
                         "live": false
                     },
                     "3": {
                         "name": "Top 10 Shootout 1",
                         "symbol": "Q",
-                        "timestamp": 1708819200,
+                        "timestamp": 1708740000,
                         "length": 2700,
                         "live": false
                     },
                     "4": {
                         "name": "Race 1",
                         "symbol": "R",
-                        "timestamp": 1708830600,
+                        "timestamp": 1708751400,
                         "length": 2400,
                         "live": false
                     },
                     "5": {
                         "name": "Qualifying 2",
                         "symbol": "Q",
-                        "timestamp": 1708893300,
+                        "timestamp": 1708814100,
                         "length": 1200,
                         "live": false
                     },
                     "6": {
                         "name": "Top 10 Shootout 2",
                         "symbol": "Q",
-                        "timestamp": 1708902000,
+                        "timestamp": 1708822800,
                         "length": 2700,
                         "live": false
                     },
                     "7": {
                         "name": "Race 2",
                         "symbol": "R",
-                        "timestamp": 1708913100,
+                        "timestamp": 1708833900,
                         "length": 2400,
                         "live": false
                     }
