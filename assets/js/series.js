@@ -5907,5 +5907,103 @@ series = {
                 }
             }
         }
+    },
+     // F1 Academy
+    "33": {
+        "name": "F1 Academy",
+        "symbol": "F1A",
+        "events": {
+            "0": {
+                "name": "Jeddah",
+                "venue": 12,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1709985600,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "Miami",
+                "venue": 37,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1714910400,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "Barcelona",
+                "venue": 38,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1719144000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "Zandvoort",
+                "venue": 1,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1724587200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "4": {
+                "name": "Singapore",
+                "venue": 43,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1727006400,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "5": {
+                "name": "Lusail",
+                "venue": 78,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1733054400,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "6": {
+                "name": "Yas Marina",
+                "venue": 13,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1733659200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            }
+        }
     }
 }
