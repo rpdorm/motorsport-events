@@ -2635,28 +2635,28 @@ series = {
                     "0": {
                         "name": "Free Practice 1",
                         "symbol": "P",
-                        "timestamp": 1706899500,
+                        "timestamp": 1706870400,
                         "length": 5400,
                         "live": false
                     },
                     "1": {
                         "name": "Free Practice 2",
                         "symbol": "P",
-                        "timestamp": 1706969400,
+                        "timestamp": 1706940600,
                         "length": 5400,
                         "live": false
                     },
                     "2": {
                         "name": "Qualifying",
                         "symbol": "Q",
-                        "timestamp": 1706985000,
+                        "timestamp": 1706956200,
                         "length": 900,
                         "live": false
                     },
                     "3": {
                         "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1707066000,
+                        "timestamp": 1707037200,
                         "length": 14400,
                         "live": false
                     }
