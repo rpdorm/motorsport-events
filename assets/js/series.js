@@ -1655,10 +1655,52 @@ series = {
                 "venue": 73,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1707048000,
+                        "name": "Practice/Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1706991000,
+                        "length": 6600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Heat Race 1",
+                        "symbol": "H",
+                        "timestamp": 1706999400,
+                        "length": 900,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Heat Race 2",
+                        "symbol": "H",
+                        "timestamp": 1707000300,
+                        "length": 900,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Heat Race 3",
+                        "symbol": "H",
+                        "timestamp": 1707001200,
+                        "length": 900,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Heat Race 4",
+                        "symbol": "H",
+                        "timestamp": 1707002100,
+                        "length": 900,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Last Chance Qualifying Race",
+                        "symbol": "Q",
+                        "timestamp": 1707079200,
                         "length": 3600,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1707084000,
+                        "length": 7200,
                         "live": false
                     }
                 }
