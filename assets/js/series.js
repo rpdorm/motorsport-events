@@ -1068,43 +1068,43 @@ series = {
                 "venue": 31,
                 "sessions": {
                     "0": {
-                        "name": "Session 1",
-                        "symbol": "S1",
+                        "name": "Practice 1",
+                        "symbol": "P",
                         "timestamp": 1705680000,
                         "length": 5400,
                         "live": false
                     },
                     "1": {
-                        "name": "Session 2",
-                        "symbol": "S2",
+                        "name": "Practice 2",
+                        "symbol": "P",
                         "timestamp": 1705698900,
                         "length": 6300,
                         "live": false
                     },
                     "2": {
-                        "name": "Session 3",
-                        "symbol": "S3",
+                        "name": "Practice 3",
+                        "symbol": "P",
                         "timestamp": 1705767300,
                         "length": 5400,
                         "live": false
                     },
                     "3": {
-                        "name": "Session 4",
-                        "symbol": "S4",
+                        "name": "Practice 4",
+                        "symbol": "P",
                         "timestamp": 1705781400,
                         "length": 3600,
                         "live": false
                     },
                     "4": {
-                        "name": "Session 5",
-                        "symbol": "S5",
+                        "name": "Practice 5",
+                        "symbol": "P",
                         "timestamp": 1705793400,
                         "length": 3600,
                         "live": false
                     },
                     "5": {
-                        "name": "Session 6",
-                        "symbol": "S6",
+                        "name": "Practice 6",
+                        "symbol": "P",
                         "timestamp": 1705861500,
                         "length": 1500,
                         "live": false
@@ -2596,35 +2596,35 @@ series = {
                         "symbol": "Q",
                         "timestamp": 1706265600,
                         "length": 3300,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=NC-gsdJ6iDk"
                     },
                     "4": {
                         "name": "Qualifying (GTX & 992)",
                         "symbol": "Q",
                         "timestamp": 1706269500,
                         "length": 3300,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=NC-gsdJ6iDk"
                     },
                     "5": {
                         "name": "Qualifying (GT3)",
                         "symbol": "Q",
                         "timestamp": 1706273400,
                         "length": 3300,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=NC-gsdJ6iDk"
                     },
                     "6": {
                         "name": "Night Practice",
                         "symbol": "P",
                         "timestamp": 1706282100,
                         "length": 5400,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=EoQssRPhUu0"
                     },
                     "7": {
                         "name": "Race",
                         "symbol": "R",
                         "timestamp": 1706346000,
                         "length": 86400,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=IXFX-HFkvuA"
                     }
                 }
             },
@@ -2665,14 +2665,14 @@ series = {
                         "symbol": "Q",
                         "timestamp": 1705756200,
                         "length": 3300,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=5pdnbUGxB0U"
                     },
                     "5": {
                         "name": "Race",
                         "symbol": "R",
                         "timestamp": 1705816800,
                         "length": 21600,
-                        "live": "https://www.youtube.com/@24HSeries/streams"
+                        "live": "https://www.youtube.com/watch?v=LakZhMpFRXc"
                     }
                 }
             },
