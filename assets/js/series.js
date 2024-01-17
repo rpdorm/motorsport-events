@@ -624,14 +624,14 @@ series = {
                     "11": {
                         "name": "Al-'Ula ➜ Yanbu",
                         "symbol": "S11",
-                        "timestamp": 1705550400,
+                        "timestamp": 1705564800,
                         "length": 36000,
                         "live": false
                     },
                     "12": {
                         "name": "Yanbu ➜ Yanbu",
                         "symbol": "S12",
-                        "timestamp": 1705636800,
+                        "timestamp": 1705651200,
                         "length": 36000,
                         "live": false
                     }
