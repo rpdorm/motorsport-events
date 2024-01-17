@@ -1367,120 +1367,120 @@ series = {
                         "live": false
                     },
                     "1": {
-                        "name": "Stage 1",
-                        "symbol": "S1",
+                        "name": "SS 1 Thoard - Saint-Geniez",
+                        "symbol": "SS1",
                         "timestamp": 1706211300,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
-                        "name": "Stage 2",
-                        "symbol": "S2",
+                        "name": "SS 2 Bayons - Bréziers",
+                        "symbol": "SS2",
                         "timestamp": 1706216280,
                         "length": 3600,
                         "live": false
                     },
                     "3": {
-                        "name": "Stage 3",
-                        "symbol": "S3",
+                        "name": "SS 3 Saint-Léger-les-Mélèzes - La Bâtie-Neuve 1",
+                        "symbol": "SS3",
                         "timestamp": 1706255460,
                         "length": 3600,
                         "live": false
                     },
                     "4": {
-                        "name": "Stage 4",
-                        "symbol": "S4",
+                        "name": "SS 4 Champcella - Saint-Clément-sur-Durance 1",
+                        "symbol": "SS4",
                         "timestamp": 1706261040,
                         "length": 3600,
                         "live": false
                     },
                     "5": {
-                        "name": "Stage 5",
-                        "symbol": "S5",
+                        "name": "SS 5 La Bréole - Selonnet 1",
+                        "symbol": "SS5",
                         "timestamp": 1706266620,
                         "length": 3600,
                         "live": false
                     },
                     "6": {
-                        "name": "Stage 6",
-                        "symbol": "S6",
+                        "name": "SS 6 Saint-Léger-les-Mélèzes - La Bâtie-Neuve 2",
+                        "symbol": "SS6",
                         "timestamp": 1706277360,
                         "length": 3600,
                         "live": false
                     },
                     "7": {
-                        "name": "Stage 7",
-                        "symbol": "S7",
+                        "name": "SS 7 Champcella - Saint-Clément-sur-Durance 2",
+                        "symbol": "SS7",
                         "timestamp": 1706282940,
                         "length": 3600,
                         "live": false
                     },
                     "8": {
-                        "name": "Stage 8",
-                        "symbol": "S8",
+                        "name": "SS 8 La Bréole - Selonnet 2",
+                        "symbol": "SS8",
                         "timestamp": 1706288520,
                         "length": 3600,
                         "live": false
                     },
                     "9": {
-                        "name": "Stage 9",
-                        "symbol": "S9",
+                        "name": "SS 9 Esparron - Oze 1",
+                        "symbol": "SS9",
                         "timestamp": 1706339100,
                         "length": 3600,
                         "live": false
                     },
                     "10": {
-                        "name": "Stage 10",
-                        "symbol": "S10",
+                        "name": "SS 10 Les Nonières - Chichilianne 1",
+                        "symbol": "SS10",
                         "timestamp": 1706345580,
                         "length": 3600,
                         "live": false
                     },
                     "11": {
-                        "name": "Stage 11",
-                        "symbol": "S11",
+                        "name": "SS 11 Pellafol - Agnières-en-Dévoluy 1",
+                        "symbol": "SS11",
                         "timestamp": 1706349960,
                         "length": 3600,
                         "live": false
                     },
                     "12": {
-                        "name": "Stage 12",
-                        "symbol": "S12",
+                        "name": "SS 12 Esparron - Oze 2",
+                        "symbol": "SS12",
                         "timestamp": 1706360700,
                         "length": 3600,
                         "live": false
                     },
                     "13": {
-                        "name": "Stage 13",
-                        "symbol": "S13",
+                        "name": "SS 13 Les Nonières - Chichilianne 2",
+                        "symbol": "SS13",
                         "timestamp": 1706370780,
                         "length": 3600,
                         "live": false
                     },
                     "14": {
-                        "name": "Stage 14",
-                        "symbol": "S14",
+                        "name": "SS 14 Pellafol - Agnières-en-Dévoluy 2",
+                        "symbol": "SS14",
                         "timestamp": 1706371560,
                         "length": 3600,
                         "live": false
                     },
                     "15": {
-                        "name": "Stage 15",
-                        "symbol": "S15",
+                        "name": "SS 15 La Bréole - Selonnet 3",
+                        "symbol": "SS15",
                         "timestamp": 1706421840,
                         "length": 3600,
                         "live": false
                     },
                     "16": {
-                        "name": "Stage 16",
-                        "symbol": "S16",
+                        "name": "SS 16 Digne-les-Bains - Chaudon-Norante",
+                        "symbol": "SS16",
                         "timestamp": 1706427300,
                         "length": 3600,
                         "live": false
                     },
                     "17": {
-                        "name": "Stage 17",
-                        "symbol": "S17",
+                        "name": "SS 17  La Bollène-Vésubie - Col de Turini (Power Stage)",
+                        "symbol": "SS17",
                         "timestamp": 1706440500,
                         "length": 3600,
                         "live": false
@@ -1492,9 +1492,135 @@ series = {
                 "venue": 51,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Shakedown",
                         "symbol": "S",
-                        "timestamp": 1708261200,
+                        "timestamp": 1707984000,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "SS 1 Umeå Sprint 1",
+                        "symbol": "SS1",
+                        "timestamp": 1708020300,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "SS 2 #42 Brattby 1",
+                        "symbol": "SS2",
+                        "timestamp": 1708070280,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "SS 3 Norrby 1",
+                        "symbol": "SS3",
+                        "timestamp": 1708073460,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "SS 4 Floda 1",
+                        "symbol": "SS4",
+                        "timestamp": 1708077240,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "SS 5 #42 Brattby 2",
+                        "symbol": "SS5",
+                        "timestamp": 1708090500,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "SS 6 Norrby 2",
+                        "symbol": "SS6",
+                        "timestamp": 1708093680,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "7": {
+                        "name": "SS 7 Floda 2",
+                        "symbol": "SS7",
+                        "timestamp": 1708097460,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "8": {
+                        "name": "SS 8 Umeå Sprint 2",
+                        "symbol": "SS8",
+                        "timestamp": 1708106700,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "9": {
+                        "name": "SS 9 Vännäs 1",
+                        "symbol": "SS9",
+                        "timestamp": 1708152300,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "10": {
+                        "name": "SS 10 Sarsjöliden 1",
+                        "symbol": "SS10",
+                        "timestamp": 1708155300,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "11": {
+                        "name": "SS 11 Bygdsiljum 1",
+                        "symbol": "SS11",
+                        "timestamp": 1708160880,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "12": {
+                        "name": "SS 12 Vännäs 2",
+                        "symbol": "SS12",
+                        "timestamp": 1708175700,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "13": {
+                        "name": "SS 13 Sarsjöliden 2",
+                        "symbol": "SS13",
+                        "timestamp": 1708178700,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "14": {
+                        "name": "SS 14 Bygdsiljum 2",
+                        "symbol": "SS14",
+                        "timestamp": 1708184280,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "15": {
+                        "name": "SS 15 Umeå 1",
+                        "symbol": "SS15",
+                        "timestamp": 1708193100,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "16": {
+                        "name": "SS 16 Västervik 1",
+                        "symbol": "SS16",
+                        "timestamp": 1708237620,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "17": {
+                        "name": "SS 17 Västervik 2",
+                        "symbol": "SS17",
+                        "timestamp": 1708246980,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "18": {
+                        "name": "SS 18 Umeå 2 (Power Stage)",
+                        "symbol": "SS18",
+                        "timestamp": 1708254900,
                         "length": 3600,
                         "live": false
                     }
@@ -1706,7 +1832,7 @@ series = {
                 }
             },
             "1": {
-                "name": "Duels at Daytona",
+                "name": "Daytona 500",
                 "venue": 31,
                 "sessions": {
                     "0": {
@@ -1729,28 +1855,22 @@ series = {
                         "timestamp": 1708047900,
                         "length": 3600,
                         "live": false
-                    }
-                }
-            },
-            "2": {
-                "name": "Daytona 500",
-                "venue": 31,
-                "sessions": {
-                    "0": {
+                    },
+                    "3": {
                         "name": "Practice 1",
                         "symbol": "P",
                         "timestamp": 1708122900,
                         "length": 3000,
                         "live": false
                     },
-                    "1": {
+                    "4": {
                         "name": "Practice 2",
                         "symbol": "P",
                         "timestamp": 1708183800,
                         "length": 3000,
                         "live": false
                     },
-                    "2": {
+                    "5": {
                         "name": "Race",
                         "symbol": "R",
                         "timestamp": 1708284600,
@@ -1759,7 +1879,7 @@ series = {
                     }
                 }
             },
-            "3": {
+            "2": {
                 "name": "Atlanta 400",
                 "venue": 91,
                 "sessions": {
@@ -1772,7 +1892,7 @@ series = {
                     }
                 }
             },
-            "4": {
+            "3": {
                 "name": "Las Vegas 400",
                 "venue": 75,
                 "sessions": {
@@ -1785,7 +1905,7 @@ series = {
                     }
                 }
             },
-            "5": {
+            "4": {
                 "name": "Phoenix 500",
                 "venue": 90,
                 "sessions": {
@@ -1798,7 +1918,7 @@ series = {
                     }
                 }
             },
-            "6": {
+            "5": {
                 "name": "Bristol 500",
                 "venue": 96,
                 "sessions": {
@@ -1811,7 +1931,7 @@ series = {
                     }
                 }
             },
-            "7": {
+            "6": {
                 "name": "Grand Prix of the Americas",
                 "venue": 8,
                 "sessions": {
@@ -1824,7 +1944,7 @@ series = {
                     }
                 }
             },
-            "8": {
+            "7": {
                 "name": "Richmond 400",
                 "venue": 92,
                 "sessions": {
@@ -1837,7 +1957,7 @@ series = {
                     }
                 }
             },
-            "9": {
+            "8": {
                 "name": "Martinsville 400",
                 "venue": 134,
                 "sessions": {
@@ -1850,7 +1970,7 @@ series = {
                     }
                 }
             },
-            "10": {
+            "9": {
                 "name": "Texas 400",
                 "venue": 63,
                 "sessions": {
@@ -1863,7 +1983,7 @@ series = {
                     }
                 }
             },
-            "11": {
+            "10": {
                 "name": "Alabama 500",
                 "venue": 135,
                 "sessions": {
@@ -1876,7 +1996,7 @@ series = {
                     }
                 }
             },
-            "12": {
+            "11": {
                 "name": "Dover 400",
                 "venue": 136,
                 "sessions": {
@@ -1889,7 +2009,7 @@ series = {
                     }
                 }
             },
-            "13": {
+            "12": {
                 "name": "Kansas 400",
                 "venue": 107,
                 "sessions": {
@@ -1902,7 +2022,7 @@ series = {
                     }
                 }
             },
-            "14": {
+            "13": {
                 "name": "Darlington 400",
                 "venue": 106,
                 "sessions": {
@@ -1915,7 +2035,7 @@ series = {
                     }
                 }
             },
-            "15": {
+            "14": {
                 "name": "NASCAR All-Star",
                 "venue": 137,
                 "sessions": {
@@ -1928,7 +2048,7 @@ series = {
                     }
                 }
             },
-            "16": {
+            "15": {
                 "name": "Charlotte 600",
                 "venue": 108,
                 "sessions": {
@@ -1941,7 +2061,7 @@ series = {
                     }
                 }
             },
-            "17": {
+            "16": {
                 "name": "Illinois 300",
                 "venue": 72,
                 "sessions": {
@@ -1954,7 +2074,7 @@ series = {
                     }
                 }
             },
-            "18": {
+            "17": {
                 "name": "Sonoma 350",
                 "venue": 109,
                 "sessions": {
@@ -1967,7 +2087,7 @@ series = {
                     }
                 }
             },
-            "19": {
+            "18": {
                 "name": "Iowa 350",
                 "venue": 70,
                 "sessions": {
@@ -1980,7 +2100,7 @@ series = {
                     }
                 }
             },
-            "20": {
+            "19": {
                 "name": "New Hampshire 301",
                 "venue": 111,
                 "sessions": {
@@ -1993,7 +2113,7 @@ series = {
                     }
                 }
             },
-            "21": {
+            "20": {
                 "name": "Nashville 400",
                 "venue": 110,
                 "sessions": {
@@ -2006,7 +2126,7 @@ series = {
                     }
                 }
             },
-            "22": {
+            "21": {
                 "name": "Chicago Street Race Weekend",
                 "venue": 138,
                 "sessions": {
@@ -2019,7 +2139,7 @@ series = {
                     }
                 }
             },
-            "23": {
+            "22": {
                 "name": "Pocono 400",
                 "venue": 112,
                 "sessions": {
@@ -2032,7 +2152,7 @@ series = {
                     }
                 }
             },
-            "24": {
+            "23": {
                 "name": "Brickyard 400",
                 "venue": 65,
                 "sessions": {
@@ -2045,7 +2165,7 @@ series = {
                     }
                 }
             },
-            "25": {
+            "24": {
                 "name": "Richmond Raceway 400",
                 "venue": 92,
                 "sessions": {
@@ -2058,7 +2178,7 @@ series = {
                     }
                 }
             },
-            "26": {
+            "25": {
                 "name": "Michigan 400",
                 "venue": 139,
                 "sessions": {
@@ -2071,7 +2191,7 @@ series = {
                     }
                 }
             },
-            "27": {
+            "26": {
                 "name": "Daytona 400",
                 "venue": 31,
                 "sessions": {
@@ -2084,7 +2204,7 @@ series = {
                     }
                 }
             },
-            "28": {
+            "27": {
                 "name": "Southern 500",
                 "venue": 106,
                 "sessions": {
@@ -2097,7 +2217,7 @@ series = {
                     }
                 }
             },
-            "29": {
+            "28": {
                 "name": "Georgia 400",
                 "venue": 91,
                 "sessions": {
@@ -2110,7 +2230,7 @@ series = {
                     }
                 }
             },
-            "30": {
+            "29": {
                 "name": "NASCAR at the Glen",
                 "venue": 93,
                 "sessions": {
@@ -2123,7 +2243,7 @@ series = {
                     }
                 }
             },
-            "31": {
+            "30": {
                 "name": "Bristol Night Race",
                 "venue": 96,
                 "sessions": {
