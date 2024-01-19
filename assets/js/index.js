@@ -6,17 +6,16 @@ var now = Math.floor(Date.now()/1000);
 var start = moment.unix(now).startOf('day');
 var end = moment.unix(now).endOf('day');
 
-console.log('now:', moment.unix(now).format());
-
-
 nWeeks = 52; // show next 52 weeks by default
 upcoming = now+691200*nWeeks;
+nSeries = 0;
 nSessions = 0;
 nEvents = 0;
 nLive = 0;
 
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;
+	nSeries++;
 	plotmenu = false;
 	imgtitle = series[i].name;
 	for (j=0; j<Object.keys(events).length; j++) {
@@ -94,9 +93,6 @@ for (i=0; i<Object.keys(series).length; i++) {
 		$(".filter").append(`<li class="nav-item"><a href="#" id="${series[i].symbol}" class="nav-link text-white sortli" aria-current="page">${series[i].name}</small></a></li>`);
 	}
 }
-$(".nEvents").append(nEvents);
-$(".nSessions").append(nSessions);
-$(".Year").append(year);
 
 
 $(document).ready(function(){

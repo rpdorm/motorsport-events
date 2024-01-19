@@ -6495,5 +6495,90 @@ series = {
                 }
             }
         }
+    },
+     // Le Mans Cup
+    "34": {
+        "name": "Le Mans Cup",
+        "symbol": "LMC",
+        "events": {
+            "0": {
+                "name": "Barcelona",
+                "venue": 38,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1713009600,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "Le Castellet",
+                "venue": 41,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1714824000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "Road to Le Mans",
+                "venue": 44,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1718452800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "Spa-Francorchamps",
+                "venue": 0,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1724500800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "4": {
+                "name": "Mugello",
+                "venue": 82,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1727524800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "5": {
+                "name": "Portimão",
+                "venue": 16,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1729339200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            }
+        }
     }
 }
