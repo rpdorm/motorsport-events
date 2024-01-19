@@ -1791,9 +1791,79 @@ series = {
                 "venue": 33,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Practice 1",
+                        "symbol": "P",
+                        "timestamp": 1708032300,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Practice 2",
+                        "symbol": "P",
+                        "timestamp": 1708038000,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Practice 3",
+                        "symbol": "P",
+                        "timestamp": 1708050600,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Practice 4",
+                        "symbol": "P",
+                        "timestamp": 1708060200,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Practice 5",
+                        "symbol": "P",
+                        "timestamp": 1708117500,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Practice 6",
+                        "symbol": "P",
+                        "timestamp": 1708124400,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Qualifying 1",
+                        "symbol": "Q",
+                        "timestamp": 1708134000,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "7": {
+                        "name": "Qualifying 2",
+                        "symbol": "Q",
+                        "timestamp": 1708137000,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "8": {
+                        "name": "Top Ten Shootout 1",
+                        "symbol": "T10",
+                        "timestamp": 1708146300,
+                        "length": 900,
+                        "live": false
+                    },
+                    "9": {
+                        "name": "Top Ten Shootout 2",
+                        "symbol": "T10",
+                        "timestamp": 1708147800,
+                        "length": 900,
+                        "live": false
+                    },
+                    "10": {
+                        "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1708257600,
+                        "timestamp": 1708195500,
                         "length": 43200,
                         "live": false
                     }
