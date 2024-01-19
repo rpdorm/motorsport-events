@@ -6650,5 +6650,103 @@ series = {
                 }
             }
         }
+    },
+     // International GT Open
+    "35": {
+        "name": "International GT Open",
+        "symbol": "IGTO",
+        "events": {
+            "0": {
+                "name": "Portimão",
+                "venue": 16,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1714309200,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            },
+            "1": {
+                "name": "Hockenheim",
+                "venue": 27,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1715518800,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            },
+            "2": {
+                "name": "Spa",
+                "venue": 0,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1716728400,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            },
+            "3": {
+                "name": "Paul Ricard",
+                "venue": 41,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1721566800,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            },
+            "4": {
+                "name": "Red Bull Ring",
+                "venue": 25,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1726405200,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            },
+            "5": {
+                "name": "Barcelona",
+                "venue": 38,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1727614800,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            },
+            "6": {
+                "name": "Monza",
+                "venue": 2,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1729429200,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    }
+                }
+            }
+        }
     }
 }
