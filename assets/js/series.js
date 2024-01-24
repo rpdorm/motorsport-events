@@ -4332,9 +4332,30 @@ series = {
                 "venue": 20,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1709380800,
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1709197500,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1709224200,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Sprint Race",
+                        "symbol": "S",
+                        "timestamp": 1709302500,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Feature Race",
+                        "symbol": "R",
+                        "timestamp": 1709376000,
                         "length": 3600,
                         "live": false
                     }
@@ -4484,7 +4505,7 @@ series = {
                 }
             },
             "12": {
-                "name": "Losail",
+                "name": "Lusail",
                 "venue": 78,
                 "sessions": {
                     "0": {
@@ -4521,9 +4542,30 @@ series = {
                 "venue": 20,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1709380800,
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1709193300,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1709211600,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Sprint Race",
+                        "symbol": "S",
+                        "timestamp": 1709288100,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Feature Race",
+                        "symbol": "R",
+                        "timestamp": 1709370600,
                         "length": 3600,
                         "live": false
                     }

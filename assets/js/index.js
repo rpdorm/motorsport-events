@@ -58,7 +58,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					if (sessionTimeUnix/1000 <= now) {
 						green = " class='green' style='color:green'";
 						$(".showLive").show();
-						$("div.live").append(`<p>${series[i].symbol} | ${name} | ${session}</p>`);
+						$("div.live").append(`<p>${series[i].symbol} • ${name} • ${session}</p>`);
 					}
 					else { green = ""; }
 					nSessions++;
@@ -71,12 +71,12 @@ for (i=0; i<Object.keys(series).length; i++) {
 				// TODAY
 				if (sessionTimeUnix/1000 > start.unix() && sessionTimeUnix/1000 > now && sessionTimeUnix/1000 <= end.unix()) {
 					$(".showToday").show();
-					$(".today").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
+					$(".today").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session}</p>`);
 				}
 				// TOMORROW
 				if (sessionTimeUnix/1000 >= start.unix()+86400 && sessionTimeUnix/1000 <= end.unix()+86400) {
 					$(".showTomorrow").show();
-					$(".tomorrow").append(`<p> ${sessionTime} | ${series[i].symbol} | ${name} | ${session}</p>`);
+					$(".tomorrow").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session}</p>`);
 				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
 				if (del == false) {
