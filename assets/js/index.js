@@ -46,6 +46,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				timediv = "";
 				liveicon = "";
 				session = series[i].events[j].sessions[k].name;
+				session_symbol = series[i].events[j].sessions[k].symbol;
 				length = series[i].events[j].sessions[k].length;
 				livestream = series[i].events[j].sessions[k].live;
 				if (livestream != false) { liveicon = `<a class='livestream' target='_blank' href='${livestream}' title='Watch Live'><img class='img-yt' src='assets/png/icons/youtube.svg'></a>`; }
@@ -58,7 +59,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					if (sessionTimeUnix/1000 <= now) {
 						green = " class='green' style='color:green'";
 						$(".showLive").show();
-						$("div.live").append(`<p>${series[i].symbol} • ${name} • ${session}</p>`);
+						$("div.live").append(`<p>${series[i].symbol} • ${name} • ${session_symbol}</p>`);
 					}
 					else { green = ""; }
 					nSessions++;
@@ -71,12 +72,12 @@ for (i=0; i<Object.keys(series).length; i++) {
 				// TODAY
 				if (sessionTimeUnix/1000 > start.unix() && sessionTimeUnix/1000 > now && sessionTimeUnix/1000 <= end.unix()) {
 					$(".showToday").show();
-					$(".today").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session}</p>`);
+					$(".today").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session_symbol}</p>`);
 				}
 				// TOMORROW
 				if (sessionTimeUnix/1000 >= start.unix()+86400 && sessionTimeUnix/1000 <= end.unix()+86400) {
 					$(".showTomorrow").show();
-					$(".tomorrow").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session}</p>`);
+					$(".tomorrow").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session_symbol}</p>`);
 				}
 				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
 				if (del == false) {

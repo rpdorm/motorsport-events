@@ -471,7 +471,7 @@ venues = {
         "url": "https://www.racingcircuits.info/asia/indonesia/mandalika.html"
     },
     "78": {
-        "name": "Losail International Circuit",
+        "name": "Lusail International Circuit",
         "location": "Lusail, Qatar",
         "flag": "qa",
         "url": "https://www.racingcircuits.info/middle-east/qatar/losail-international-circuit.html"

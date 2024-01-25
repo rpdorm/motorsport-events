@@ -14,21 +14,21 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Day 1",
-                        "symbol": "T1",
+                        "symbol": "T",
                         "timestamp": 1708498800,
                         "length": 34200,
                         "live": false
                     },
                     "1": {
                         "name": "Day 2",
-                        "symbol": "T2",
+                        "symbol": "T",
                         "timestamp": 1708585200,
                         "length": 34200,
                         "live": false
                     },
                     "2": {
                         "name": "Day 3",
-                        "symbol": "T3",
+                        "symbol": "T",
                         "timestamp": 1708671600,
                         "length": 34200,
                         "live": false
@@ -836,14 +836,14 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Free Practice 1",
-                        "symbol": "P",
+                        "symbol": "FP1",
                         "timestamp": 1705098300,
                         "length": 3000,
                         "live": false
                     },
                     "1": {
                         "name": "Free Practice 2",
-                        "symbol": "P",
+                        "symbol": "FP2",
                         "timestamp": 1705152300,
                         "length": 3000,
                         "live": false
@@ -870,14 +870,14 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Free Practice 1",
-                        "symbol": "P",
+                        "symbol": "FP1",
                         "timestamp": 1706194500,
                         "length": 3000,
                         "live": false
                     },
                     "1": {
                         "name": "Free Practice 2",
-                        "symbol": "P",
+                        "symbol": "FP2",
                         "timestamp": 1706262900,
                         "length": 3000,
                         "live": false
@@ -898,7 +898,7 @@ series = {
                     },
                     "4": {
                         "name": "Free Practice 3",
-                        "symbol": "P",
+                        "symbol": "FP3",
                         "timestamp": 1706349300,
                         "length": 1800,
                         "live": false
@@ -1420,21 +1420,21 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Free Practice 1",
-                        "symbol": "FP",
+                        "symbol": "FP1",
                         "timestamp": 1709198400,
                         "length": 3600,
                         "live": false
                     },
                     "1": {
                         "name": "Free Practice 2",
-                        "symbol": "FP",
+                        "symbol": "FP2",
                         "timestamp": 1709217000,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
                         "name": "Free Practice 3",
-                        "symbol": "FP",
+                        "symbol": "FP3",
                         "timestamp": 1709280000,
                         "length": 3600,
                         "live": false
@@ -1559,42 +1559,42 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Practice 1",
-                        "symbol": "P",
+                        "symbol": "P1",
                         "timestamp": 1705680000,
                         "length": 5400,
                         "live": false
                     },
                     "1": {
                         "name": "Practice 2",
-                        "symbol": "P",
+                        "symbol": "P2",
                         "timestamp": 1705698900,
                         "length": 6300,
                         "live": false
                     },
                     "2": {
                         "name": "Practice 3",
-                        "symbol": "P",
+                        "symbol": "P3",
                         "timestamp": 1705767300,
                         "length": 5400,
                         "live": false
                     },
                     "3": {
                         "name": "Practice 4",
-                        "symbol": "P",
+                        "symbol": "P4",
                         "timestamp": 1705781400,
                         "length": 3600,
                         "live": false
                     },
                     "4": {
                         "name": "Practice 5",
-                        "symbol": "P",
+                        "symbol": "P5",
                         "timestamp": 1705793400,
                         "length": 3600,
                         "live": false
                     },
                     "5": {
                         "name": "Practice 6",
-                        "symbol": "P",
+                        "symbol": "P6",
                         "timestamp": 1705861500,
                         "length": 1500,
                         "live": false
@@ -1792,56 +1792,56 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Practice 1",
-                        "symbol": "P",
+                        "symbol": "P1",
                         "timestamp": 1708032300,
                         "length": 2400,
                         "live": false
                     },
                     "1": {
                         "name": "Practice 2",
-                        "symbol": "P",
+                        "symbol": "P2",
                         "timestamp": 1708038000,
                         "length": 2400,
                         "live": false
                     },
                     "2": {
                         "name": "Practice 3",
-                        "symbol": "P",
+                        "symbol": "P3",
                         "timestamp": 1708050600,
                         "length": 2400,
                         "live": false
                     },
                     "3": {
                         "name": "Practice 4",
-                        "symbol": "P",
+                        "symbol": "P4",
                         "timestamp": 1708060200,
                         "length": 2400,
                         "live": false
                     },
                     "4": {
                         "name": "Practice 5",
-                        "symbol": "P",
+                        "symbol": "P5",
                         "timestamp": 1708117500,
                         "length": 3600,
                         "live": false
                     },
                     "5": {
                         "name": "Practice 6",
-                        "symbol": "P",
+                        "symbol": "P6",
                         "timestamp": 1708124400,
                         "length": 3600,
                         "live": false
                     },
                     "6": {
                         "name": "Qualifying 1",
-                        "symbol": "Q",
+                        "symbol": "Q1",
                         "timestamp": 1708134000,
                         "length": 1800,
                         "live": false
                     },
                     "7": {
                         "name": "Qualifying 2",
-                        "symbol": "Q",
+                        "symbol": "Q2",
                         "timestamp": 1708137000,
                         "length": 1800,
                         "live": false
@@ -1927,119 +1927,119 @@ series = {
                         "live": false
                     },
                     "1": {
-                        "name": "SS 1 Thoard - Saint-Geniez",
+                        "name": "SS1 Thoard - Saint-Geniez",
                         "symbol": "SS1",
                         "timestamp": 1706211300,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
-                        "name": "SS 2 Bayons - Bréziers",
+                        "name": "SS2 Bayons - Bréziers",
                         "symbol": "SS2",
                         "timestamp": 1706216280,
                         "length": 3600,
                         "live": false
                     },
                     "3": {
-                        "name": "SS 3 Saint-Léger-les-Mélèzes - La Bâtie-Neuve 1",
+                        "name": "SS3 Saint-Léger-les-Mélèzes - La Bâtie-Neuve 1",
                         "symbol": "SS3",
                         "timestamp": 1706255460,
                         "length": 3600,
                         "live": false
                     },
                     "4": {
-                        "name": "SS 4 Champcella - Saint-Clément-sur-Durance 1",
+                        "name": "SS4 Champcella - Saint-Clément-sur-Durance 1",
                         "symbol": "SS4",
                         "timestamp": 1706261040,
                         "length": 3600,
                         "live": false
                     },
                     "5": {
-                        "name": "SS 5 La Bréole - Selonnet 1",
+                        "name": "SS5 La Bréole - Selonnet 1",
                         "symbol": "SS5",
                         "timestamp": 1706266620,
                         "length": 3600,
                         "live": false
                     },
                     "6": {
-                        "name": "SS 6 Saint-Léger-les-Mélèzes - La Bâtie-Neuve 2",
+                        "name": "SS6 Saint-Léger-les-Mélèzes - La Bâtie-Neuve 2",
                         "symbol": "SS6",
                         "timestamp": 1706277360,
                         "length": 3600,
                         "live": false
                     },
                     "7": {
-                        "name": "SS 7 Champcella - Saint-Clément-sur-Durance 2",
+                        "name": "SS7 Champcella - Saint-Clément-sur-Durance 2",
                         "symbol": "SS7",
                         "timestamp": 1706282940,
                         "length": 3600,
                         "live": false
                     },
                     "8": {
-                        "name": "SS 8 La Bréole - Selonnet 2",
+                        "name": "SS8 La Bréole - Selonnet 2",
                         "symbol": "SS8",
                         "timestamp": 1706288520,
                         "length": 3600,
                         "live": false
                     },
                     "9": {
-                        "name": "SS 9 Esparron - Oze 1",
+                        "name": "SS9 Esparron - Oze 1",
                         "symbol": "SS9",
                         "timestamp": 1706339100,
                         "length": 3600,
                         "live": false
                     },
                     "10": {
-                        "name": "SS 10 Les Nonières - Chichilianne 1",
+                        "name": "SS10 Les Nonières - Chichilianne 1",
                         "symbol": "SS10",
                         "timestamp": 1706345580,
                         "length": 3600,
                         "live": false
                     },
                     "11": {
-                        "name": "SS 11 Pellafol - Agnières-en-Dévoluy 1",
+                        "name": "SS11 Pellafol - Agnières-en-Dévoluy 1",
                         "symbol": "SS11",
                         "timestamp": 1706349960,
                         "length": 3600,
                         "live": false
                     },
                     "12": {
-                        "name": "SS 12 Esparron - Oze 2",
+                        "name": "SS12 Esparron - Oze 2",
                         "symbol": "SS12",
                         "timestamp": 1706360700,
                         "length": 3600,
                         "live": false
                     },
                     "13": {
-                        "name": "SS 13 Les Nonières - Chichilianne 2",
+                        "name": "SS13 Les Nonières - Chichilianne 2",
                         "symbol": "SS13",
                         "timestamp": 1706370780,
                         "length": 3600,
                         "live": false
                     },
                     "14": {
-                        "name": "SS 14 Pellafol - Agnières-en-Dévoluy 2",
+                        "name": "SS14 Pellafol - Agnières-en-Dévoluy 2",
                         "symbol": "SS14",
                         "timestamp": 1706371560,
                         "length": 3600,
                         "live": false
                     },
                     "15": {
-                        "name": "SS 15 La Bréole - Selonnet 3",
+                        "name": "SS15 La Bréole - Selonnet 3",
                         "symbol": "SS15",
                         "timestamp": 1706421840,
                         "length": 3600,
                         "live": false
                     },
                     "16": {
-                        "name": "SS 16 Digne-les-Bains - Chaudon-Norante",
+                        "name": "SS16 Digne-les-Bains - Chaudon-Norante",
                         "symbol": "SS16",
                         "timestamp": 1706427300,
                         "length": 3600,
                         "live": false
                     },
                     "17": {
-                        "name": "SS 17  La Bollène-Vésubie - Col de Turini (Power Stage)",
+                        "name": "SS17  La Bollène-Vésubie - Col de Turini (Power Stage)",
                         "symbol": "SS17",
                         "timestamp": 1706440500,
                         "length": 3600,
@@ -2059,126 +2059,126 @@ series = {
                         "live": false
                     },
                     "1": {
-                        "name": "SS 1 Umeå Sprint 1",
+                        "name": "SS1 Umeå Sprint 1",
                         "symbol": "SS1",
                         "timestamp": 1708020300,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
-                        "name": "SS 2 #42 Brattby 1",
+                        "name": "SS2 #42 Brattby 1",
                         "symbol": "SS2",
                         "timestamp": 1708070280,
                         "length": 3600,
                         "live": false
                     },
                     "3": {
-                        "name": "SS 3 Norrby 1",
+                        "name": "SS3 Norrby 1",
                         "symbol": "SS3",
                         "timestamp": 1708073460,
                         "length": 3600,
                         "live": false
                     },
                     "4": {
-                        "name": "SS 4 Floda 1",
+                        "name": "SS4 Floda 1",
                         "symbol": "SS4",
                         "timestamp": 1708077240,
                         "length": 3600,
                         "live": false
                     },
                     "5": {
-                        "name": "SS 5 #42 Brattby 2",
+                        "name": "SS5 #42 Brattby 2",
                         "symbol": "SS5",
                         "timestamp": 1708090500,
                         "length": 3600,
                         "live": false
                     },
                     "6": {
-                        "name": "SS 6 Norrby 2",
+                        "name": "SS6 Norrby 2",
                         "symbol": "SS6",
                         "timestamp": 1708093680,
                         "length": 3600,
                         "live": false
                     },
                     "7": {
-                        "name": "SS 7 Floda 2",
+                        "name": "SS7 Floda 2",
                         "symbol": "SS7",
                         "timestamp": 1708097460,
                         "length": 3600,
                         "live": false
                     },
                     "8": {
-                        "name": "SS 8 Umeå Sprint 2",
+                        "name": "SS8 Umeå Sprint 2",
                         "symbol": "SS8",
                         "timestamp": 1708106700,
                         "length": 3600,
                         "live": false
                     },
                     "9": {
-                        "name": "SS 9 Vännäs 1",
+                        "name": "SS9 Vännäs 1",
                         "symbol": "SS9",
                         "timestamp": 1708152300,
                         "length": 3600,
                         "live": false
                     },
                     "10": {
-                        "name": "SS 10 Sarsjöliden 1",
+                        "name": "SS10 Sarsjöliden 1",
                         "symbol": "SS10",
                         "timestamp": 1708155300,
                         "length": 3600,
                         "live": false
                     },
                     "11": {
-                        "name": "SS 11 Bygdsiljum 1",
+                        "name": "SS11 Bygdsiljum 1",
                         "symbol": "SS11",
                         "timestamp": 1708160880,
                         "length": 3600,
                         "live": false
                     },
                     "12": {
-                        "name": "SS 12 Vännäs 2",
+                        "name": "SS12 Vännäs 2",
                         "symbol": "SS12",
                         "timestamp": 1708175700,
                         "length": 3600,
                         "live": false
                     },
                     "13": {
-                        "name": "SS 13 Sarsjöliden 2",
+                        "name": "SS13 Sarsjöliden 2",
                         "symbol": "SS13",
                         "timestamp": 1708178700,
                         "length": 3600,
                         "live": false
                     },
                     "14": {
-                        "name": "SS 14 Bygdsiljum 2",
+                        "name": "SS14 Bygdsiljum 2",
                         "symbol": "SS14",
                         "timestamp": 1708184280,
                         "length": 3600,
                         "live": false
                     },
                     "15": {
-                        "name": "SS 15 Umeå 1",
+                        "name": "SS15 Umeå 1",
                         "symbol": "SS15",
                         "timestamp": 1708193100,
                         "length": 3600,
                         "live": false
                     },
                     "16": {
-                        "name": "SS 16 Västervik 1",
+                        "name": "SS16 Västervik 1",
                         "symbol": "SS16",
                         "timestamp": 1708237620,
                         "length": 3600,
                         "live": false
                     },
                     "17": {
-                        "name": "SS 17 Västervik 2",
+                        "name": "SS17 Västervik 2",
                         "symbol": "SS17",
                         "timestamp": 1708246980,
                         "length": 3600,
                         "live": false
                     },
                     "18": {
-                        "name": "SS 18 Umeå 2 (Power Stage)",
+                        "name": "SS18 Umeå 2 (Power Stage)",
                         "symbol": "SS18",
                         "timestamp": 1708254900,
                         "length": 3600,
@@ -2349,28 +2349,28 @@ series = {
                     },
                     "1": {
                         "name": "Heat Race 1",
-                        "symbol": "H",
+                        "symbol": "H1",
                         "timestamp": 1706999400,
                         "length": 900,
                         "live": false
                     },
                     "2": {
                         "name": "Heat Race 2",
-                        "symbol": "H",
+                        "symbol": "H2",
                         "timestamp": 1707000300,
                         "length": 900,
                         "live": false
                     },
                     "3": {
                         "name": "Heat Race 3",
-                        "symbol": "H",
+                        "symbol": "H3",
                         "timestamp": 1707001200,
                         "length": 900,
                         "live": false
                     },
                     "4": {
                         "name": "Heat Race 4",
-                        "symbol": "H",
+                        "symbol": "H4",
                         "timestamp": 1707002100,
                         "length": 900,
                         "live": false
@@ -2404,28 +2404,28 @@ series = {
                     },
                     "1": {
                         "name": "Duel 1",
-                        "symbol": "D",
+                        "symbol": "D1",
                         "timestamp": 1708041600,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
                         "name": "Duel 2",
-                        "symbol": "D",
+                        "symbol": "D2",
                         "timestamp": 1708047900,
                         "length": 3600,
                         "live": false
                     },
                     "3": {
                         "name": "Practice 1",
-                        "symbol": "P",
+                        "symbol": "P1",
                         "timestamp": 1708122900,
                         "length": 3000,
                         "live": false
                     },
                     "4": {
                         "name": "Practice 2",
-                        "symbol": "P",
+                        "symbol": "P2",
                         "timestamp": 1708183800,
                         "length": 3000,
                         "live": false
@@ -2920,28 +2920,28 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Practice 1",
-                        "symbol": "P",
+                        "symbol": "P1",
                         "timestamp": 1708651800,
                         "length": 3600,
                         "live": false
                     },
                     "1": {
                         "name": "Practice 2",
-                        "symbol": "P",
+                        "symbol": "P2",
                         "timestamp": 1708665600,
                         "length": 3600,
                         "live": false
                     },
                     "2": {
                         "name": "Qualifying 1",
-                        "symbol": "Q",
+                        "symbol": "Q1",
                         "timestamp": 1708730400,
                         "length": 1200,
                         "live": false
                     },
                     "3": {
                         "name": "Top 10 Shootout 1",
-                        "symbol": "Q",
+                        "symbol": "T10",
                         "timestamp": 1708740000,
                         "length": 2700,
                         "live": false
@@ -2955,14 +2955,14 @@ series = {
                     },
                     "5": {
                         "name": "Qualifying 2",
-                        "symbol": "Q",
+                        "symbol": "Q2",
                         "timestamp": 1708814100,
                         "length": 1200,
                         "live": false
                     },
                     "6": {
                         "name": "Top 10 Shootout 2",
-                        "symbol": "Q",
+                        "symbol": "T10",
                         "timestamp": 1708822800,
                         "length": 2700,
                         "live": false
@@ -3314,14 +3314,14 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Free Practice 1",
-                        "symbol": "P",
+                        "symbol": "FP1",
                         "timestamp": 1706870400,
                         "length": 5400,
                         "live": false
                     },
                     "1": {
                         "name": "Free Practice 2",
-                        "symbol": "P",
+                        "symbol": "FP2",
                         "timestamp": 1706940600,
                         "length": 5400,
                         "live": false
@@ -4333,7 +4333,7 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Free Practice",
-                        "symbol": "P",
+                        "symbol": "FP",
                         "timestamp": 1709197500,
                         "length": 2700,
                         "live": false
@@ -4347,7 +4347,7 @@ series = {
                     },
                     "2": {
                         "name": "Sprint Race",
-                        "symbol": "S",
+                        "symbol": "SR",
                         "timestamp": 1709302500,
                         "length": 2700,
                         "live": false
@@ -4543,7 +4543,7 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Free Practice",
-                        "symbol": "P",
+                        "symbol": "FP",
                         "timestamp": 1709193300,
                         "length": 2700,
                         "live": false
@@ -4557,7 +4557,7 @@ series = {
                     },
                     "2": {
                         "name": "Sprint Race",
-                        "symbol": "S",
+                        "symbol": "SR",
                         "timestamp": 1709288100,
                         "length": 2700,
                         "live": false
