@@ -886,7 +886,7 @@ series = {
                         "name": "Qualifying 1",
                         "symbol": "Q",
                         "timestamp": 1706271600,
-                        "length": 5100,
+                        "length": 2700,
                         "live": false
                     },
                     "3": {
@@ -907,7 +907,7 @@ series = {
                         "name": "Qualifying 2",
                         "symbol": "Q",
                         "timestamp": 1706358000,
-                        "length": 5100,
+                        "length": 2700,
                         "live": false
                     },
                     "6": {
