@@ -3465,10 +3465,24 @@ series = {
                 "venue": 76,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Day 1",
                         "symbol": "T",
-                        "timestamp": 1706961600,
-                        "length": 3600,
+                        "timestamp": 1706752800,
+                        "length": 29700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Day 2",
+                        "symbol": "T",
+                        "timestamp": 1706839200,
+                        "length": 29700,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Day 3",
+                        "symbol": "T",
+                        "timestamp": 1706925600,
+                        "length": 29700,
                         "live": false
                     }
                 }
@@ -3478,10 +3492,24 @@ series = {
                 "venue": 76,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Day 1",
                         "symbol": "T",
-                        "timestamp": 1707393600,
-                        "length": 3600,
+                        "timestamp": 1707184800,
+                        "length": 29700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Day 2",
+                        "symbol": "T",
+                        "timestamp": 1707271200,
+                        "length": 29700,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Day 3",
+                        "symbol": "T",
+                        "timestamp": 1707357600,
+                        "length": 29700,
                         "live": false
                     }
                 }
