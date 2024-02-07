@@ -4870,6 +4870,45 @@ series = {
                         "live": false
                     }
                 }
+            },
+            "23": {
+                "name": "Jerez Official Test",
+                "venue": 80,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "TBA",
+                        "timestamp": 1714388400,
+                        "length": 29700,
+                        "live": false
+                    }
+                }
+            },
+            "24": {
+                "name": "Mugello Official Test",
+                "venue": 82,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "TBA",
+                        "timestamp": 1717412400,
+                        "length": 29700,
+                        "live": false
+                    }
+                }
+            },
+            "24": {
+                "name": "Misano Official Test",
+                "venue": 15,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "TBA",
+                        "timestamp": 1725879600,
+                        "length": 29700,
+                        "live": false
+                    }
+                }
             }
         }
     },
