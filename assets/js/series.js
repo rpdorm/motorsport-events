@@ -3561,10 +3561,17 @@ series = {
                 "venue": 78,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Testing Day 1",
                         "symbol": "T",
-                        "timestamp": 1708430400,
-                        "length": 3600,
+                        "timestamp": 1708340400,
+                        "length": 28800,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Testing Day 2",
+                        "symbol": "T",
+                        "timestamp": 1708426800,
+                        "length": 28800,
                         "live": false
                     }
                 }
