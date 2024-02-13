@@ -1407,28 +1407,28 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "Session 1",
-                        "symbol": "R",
+                        "symbol": "P",
                         "timestamp": 1708765200,
                         "length": 10800,
                         "live": false
                     },
                     "1": {
                         "name": "Session 2",
-                        "symbol": "R",
+                        "symbol": "P",
                         "timestamp": 1708783200,
                         "length": 14400,
                         "live": false
                     },
                     "2": {
                         "name": "Session 3",
-                        "symbol": "R",
+                        "symbol": "P",
                         "timestamp": 1708848000,
                         "length": 10800,
                         "live": false
                     },
                     "3": {
                         "name": "Session 4",
-                        "symbol": "R",
+                        "symbol": "P",
                         "timestamp": 1708866000,
                         "length": 14400,
                         "live": false
@@ -4950,9 +4950,58 @@ series = {
                 "venue": 87,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1708862400,
+                        "name": "Free Practice 1",
+                        "symbol": "FP1",
+                        "timestamp": 1708647600,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP2",
+                        "timestamp": 1708664400,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Free Practice 3",
+                        "symbol": "FP3",
+                        "timestamp": 1708729200,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Superpole",
+                        "symbol": "Q",
+                        "timestamp": 1708740000,
+                        "length": 900,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race 1",
+                        "symbol": "R",
+                        "timestamp": 1708750800,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Warm Up",
+                        "symbol": "WU",
+                        "timestamp": 1708817400,
+                        "length": 600,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Superpole Race",
+                        "symbol": "Q",
+                        "timestamp": 1708826400,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "7": {
+                        "name": "Race 2",
+                        "symbol": "R",
+                        "timestamp": 1708837200,
                         "length": 3600,
                         "live": false
                     }
