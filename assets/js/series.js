@@ -1406,10 +1406,31 @@ series = {
                 "venue": 78,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Session 1",
                         "symbol": "R",
-                        "timestamp": 1708862400,
-                        "length": 3600,
+                        "timestamp": 1708765200,
+                        "length": 10800,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Session 2",
+                        "symbol": "R",
+                        "timestamp": 1708783200,
+                        "length": 14400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Session 3",
+                        "symbol": "R",
+                        "timestamp": 1708848000,
+                        "length": 10800,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Session 4",
+                        "symbol": "R",
+                        "timestamp": 1708866000,
+                        "length": 14400,
                         "live": false
                     }
                 }
@@ -1422,14 +1443,14 @@ series = {
                         "name": "Free Practice 1",
                         "symbol": "FP1",
                         "timestamp": 1709198400,
-                        "length": 3600,
+                        "length": 5400,
                         "live": false
                     },
                     "1": {
                         "name": "Free Practice 2",
                         "symbol": "FP2",
                         "timestamp": 1709217000,
-                        "length": 3600,
+                        "length": 5400,
                         "live": false
                     },
                     "2": {
@@ -1450,7 +1471,7 @@ series = {
                         "name": "Race",
                         "symbol": "R",
                         "timestamp": 1709366400,
-                        "length": 28800,
+                        "length": 36000,
                         "live": false
                     }
                 }
@@ -3561,14 +3582,14 @@ series = {
                 "venue": 78,
                 "sessions": {
                     "0": {
-                        "name": "Testing Day 1",
+                        "name": "Day 1",
                         "symbol": "T",
                         "timestamp": 1708340400,
                         "length": 28800,
                         "live": false
                     },
                     "1": {
-                        "name": "Testing Day 2",
+                        "name": "Day 2",
                         "symbol": "T",
                         "timestamp": 1708426800,
                         "length": 28800,
