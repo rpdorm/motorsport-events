@@ -6306,7 +6306,7 @@ series = {
                     "3": {
                         "name": "Feature Race",
                         "symbol": "R",
-                        "timestamp": 1709370600,
+                        "timestamp": 1709370000,
                         "length": 3600,
                         "live": false
                     }
@@ -6441,10 +6441,31 @@ series = {
                 "venue": 41,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Test Session 1",
                         "symbol": "T",
-                        "timestamp": 1709726400,
-                        "length": 3600,
+                        "timestamp": 1709625600,
+                        "length": 14400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Test Session 2",
+                        "symbol": "T",
+                        "timestamp": 1709643600,
+                        "length": 10800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Test Session 3",
+                        "symbol": "T",
+                        "timestamp": 1709712000,
+                        "length": 14400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Test Session 4",
+                        "symbol": "T",
+                        "timestamp": 1709730000,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -8235,10 +8256,31 @@ series = {
                 "venue": 12,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1709985600,
-                        "length": 3600,
+                        "name": "Free Practice",
+                        "symbol": "FP",
+                        "timestamp": 1709809500,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1709836200,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1709910600,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1709996700,
+                        "length": 1800,
                         "live": false
                     }
                 }
