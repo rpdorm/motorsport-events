@@ -3577,11 +3577,32 @@ series = {
                 "venue": 82,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Private Test",
                         "symbol": "T",
-                        "timestamp": 1711195200,
-                        "length": 3600,
+                        "timestamp": 1711094400,
+                        "length": 5400,
                         "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1711104300,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1711114200,
+                        "length": 7200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
+                    },
+                    "3": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1711193400,
+                        "length": 43200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
                     }
                 }
             },
@@ -3590,11 +3611,32 @@ series = {
                 "venue": 0,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Private Test",
                         "symbol": "T",
-                        "timestamp": 1713610800,
-                        "length": 3600,
+                        "timestamp": 1713510000,
+                        "length": 5400,
                         "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1713521400,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1713533400,
+                        "length": 3600,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
+                    },
+                    "3": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1713610200,
+                        "length": 43200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
                     }
                 }
             },
@@ -3603,11 +3645,39 @@ series = {
                 "venue": 16,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Private Test",
                         "symbol": "T",
-                        "timestamp": 1715425200,
-                        "length": 3600,
+                        "timestamp": 1715328000,
+                        "length": 5400,
                         "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1715338800,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1715349600,
+                        "length": 7200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
+                    },
+                    "3": {
+                        "name": "Night Practice",
+                        "symbol": "P",
+                        "timestamp": 1715365800,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1715421600,
+                        "length": 86400,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
                     }
                 }
             },
@@ -3616,11 +3686,32 @@ series = {
                 "venue": 15,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Private Test",
                         "symbol": "T",
-                        "timestamp": 1720263600,
-                        "length": 3600,
+                        "timestamp": 1720162800,
+                        "length": 5400,
                         "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1720173600,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1720186200,
+                        "length": 7200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
+                    },
+                    "3": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1720252800,
+                        "length": 43200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
                     }
                 }
             },
@@ -3629,11 +3720,46 @@ series = {
                 "venue": 38,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Private Test 1",
                         "symbol": "T",
-                        "timestamp": 1726311600,
-                        "length": 3600,
+                        "timestamp": 1726124400,
+                        "length": 14400,
                         "live": false
+                    },
+                    "1": {
+                        "name": "Private Test 2",
+                        "symbol": "T",
+                        "timestamp": 1726142400,
+                        "length": 14400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Free Practice",
+                        "symbol": "P",
+                        "timestamp": 1726224300,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1726237800,
+                        "length": 7200,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
+                    },
+                    "4": {
+                        "name": "Night Practice",
+                        "symbol": "P",
+                        "timestamp": 1726253100,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1726308000,
+                        "length": 86400,
+                        "live": "https://www.youtube.com/@24HSeries/streams"
                     }
                 }
             }
