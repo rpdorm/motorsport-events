@@ -1948,10 +1948,45 @@ series = {
                 "venue": 34,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "P",
-                        "timestamp": 1710590400,
-                        "length": 3600,
+                        "name": "Practice 1",
+                        "symbol": "P1",
+                        "timestamp": 1710427200,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Practice 2",
+                        "symbol": "P2",
+                        "timestamp": 1710446400,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Practice 3",
+                        "symbol": "P3",
+                        "timestamp": 1710463500,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1710518100,
+                        "length": 3900,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Warm Up",
+                        "symbol": "WU",
+                        "timestamp": 1710594000,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1710600000,
+                        "length": 43200,
                         "live": false
                     }
                 }
