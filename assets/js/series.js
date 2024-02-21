@@ -1632,7 +1632,7 @@ series = {
             },
             "15": {
                 "name": "Nashville Grand Prix",
-                "venue": 71,
+                "venue": 110,
                 "sessions": {
                     "0": {
                         "name": "TBA",
@@ -6153,10 +6153,45 @@ series = {
                 "venue": 7,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1710072000,
-                        "length": 3600,
+                        "name": "Free Practice 1",
+                        "symbol": "FP1",
+                        "timestamp": 1709946300,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying 1 - Group A",
+                        "symbol": "Q1A",
+                        "timestamp": 1709964300,
+                        "length": 600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying 1 - Group B",
+                        "symbol": "Q1B",
+                        "timestamp": 1709965200,
+                        "length": 600,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Qualifying 2",
+                        "symbol": "FP1",
+                        "timestamp": 1709966400,
+                        "length": 600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP2",
+                        "timestamp": 1710029400,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1710048000,
+                        "length": 4500,
                         "live": false
                     }
                 }
