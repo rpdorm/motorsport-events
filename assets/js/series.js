@@ -1453,9 +1453,58 @@ series = {
                 "venue": 122,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1711281600,
+                        "name": "Open Test Session 1",
+                        "symbol": "T1",
+                        "timestamp": 1711137600,
+                        "length": 7200,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Open Test Session 2",
+                        "symbol": "T2",
+                        "timestamp": 1711155600,
+                        "length": 10800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Open Test Session 3",
+                        "symbol": "T3",
+                        "timestamp": 1711224000,
+                        "length": 7200,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Open Test Session 4",
+                        "symbol": "T4",
+                        "timestamp": 1711238400,
+                        "length": 7200,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Qualifications",
+                        "symbol": "Q",
+                        "timestamp": 1711252800,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1711311300,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1711313100,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "7": {
+                        "name": "Race 3",
+                        "symbol": "R3",
+                        "timestamp": 1711317000,
                         "length": 3600,
                         "live": false
                     }
@@ -2837,10 +2886,24 @@ series = {
                 "venue": 96,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Practice",
+                        "symbol": "P",
+                        "timestamp": 1710626400,
+                        "length": 3000,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1710629400,
+                        "length": 4200,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1710676800,
-                        "length": 3600,
+                        "timestamp": 1710707400,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -2850,10 +2913,24 @@ series = {
                 "venue": 8,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1711281600,
+                        "name": "Practice",
+                        "symbol": "P",
+                        "timestamp": 1711204200,
                         "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1711207800,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1711308600,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -8616,7 +8693,7 @@ series = {
         "symbol": "MotoE",
         "events": {
             "0": {
-                "name": "Grande Prémio de Portugal",
+                "name": "Portugal",
                 "venue": 16,
                 "sessions": {
                     "0": {
@@ -8629,7 +8706,7 @@ series = {
                 }
             },
             "1": {
-                "name": "Grand Prix de France",
+                "name": "France",
                 "venue": 81,
                 "sessions": {
                     "0": {
@@ -8642,7 +8719,7 @@ series = {
                 }
             },
             "2": {
-                "name": "Gran Premi de Catalunya",
+                "name": "Catalunya",
                 "venue": 38,
                 "sessions": {
                     "0": {
@@ -8655,7 +8732,7 @@ series = {
                 }
             },
             "3": {
-                "name": "Gran Premio d'Italia",
+                "name": "Italia",
                 "venue": 82,
                 "sessions": {
                     "0": {
@@ -8681,7 +8758,7 @@ series = {
                 }
             },
             "5": {
-                "name": "Grand Prix Deutschland",
+                "name": "Deutschland",
                 "venue": 83,
                 "sessions": {
                     "0": {
@@ -8694,7 +8771,7 @@ series = {
                 }
             },
             "6": {
-                "name": "Grand Prix von Österreich",
+                "name": "Österreich",
                 "venue": 25,
                 "sessions": {
                     "0": {
@@ -8707,7 +8784,7 @@ series = {
                 }
             },
             "7": {
-                "name": "Gran Premio di San Marino e della Riviera di Rimini",
+                "name": "San Marino",
                 "venue": 15,
                 "sessions": {
                     "0": {
