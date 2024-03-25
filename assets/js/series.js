@@ -2545,9 +2545,142 @@ series = {
                 "venue": 55,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "S",
-                        "timestamp": 1711890000,
+                        "name": "Shakedown",
+                        "symbol": "SD",
+                        "timestamp": 1711544460,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Stage 1",
+                        "symbol": "SS1",
+                        "timestamp": 1711645500,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Stage 2",
+                        "symbol": "SS2",
+                        "timestamp": 1711710900,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Stage 3",
+                        "symbol": "SS3",
+                        "timestamp": 1711715580,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Stage 4",
+                        "symbol": "SS4",
+                        "timestamp": 1711718760,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Stage 5",
+                        "symbol": "SS5",
+                        "timestamp": 1711730880,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Stage 6",
+                        "symbol": "SS6",
+                        "timestamp": 1711735560,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "7": {
+                        "name": "Stage 7",
+                        "symbol": "SS7",
+                        "timestamp": 1711738740,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "8": {
+                        "name": "Stage 8",
+                        "symbol": "SS8",
+                        "timestamp": 1711796460,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "9": {
+                        "name": "Stage 9",
+                        "symbol": "SS9",
+                        "timestamp": 1711800300,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "10": {
+                        "name": "Stage 10",
+                        "symbol": "SS10",
+                        "timestamp": 1711803780,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "11": {
+                        "name": "Stage 11",
+                        "symbol": "SS11",
+                        "timestamp": 1711820040,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "12": {
+                        "name": "Stage 12",
+                        "symbol": "SS12",
+                        "timestamp": 1711823700,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "13": {
+                        "name": "Stage 13",
+                        "symbol": "SS13",
+                        "timestamp": 1711827180,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "14": {
+                        "name": "Stage 14",
+                        "symbol": "SS14",
+                        "timestamp": 1711875720,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "15": {
+                        "name": "Stage 15",
+                        "symbol": "SS15",
+                        "timestamp": 1711878720,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "16": {
+                        "name": "Stage 16",
+                        "symbol": "SS16",
+                        "timestamp": 1711883100,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "17": {
+                        "name": "Stage 17",
+                        "symbol": "SS17",
+                        "timestamp": 1711891200,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "18": {
+                        "name": "Stage 18",
+                        "symbol": "SS18",
+                        "timestamp": 1711894200,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "19": {
+                        "name": "Stage 19",
+                        "symbol": "SS19",
+                        "timestamp": 1711901700,
                         "length": 3600,
                         "live": false
                     }
@@ -2940,10 +3073,24 @@ series = {
                 "venue": 92,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1711886400,
+                        "name": "Practice",
+                        "symbol": "P",
+                        "timestamp": 1711780200,
                         "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1711782900,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1711893600,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -8985,7 +9132,7 @@ series = {
                     "0": {
                         "name": "TBA",
                         "symbol": "T",
-                        "timestamp": 1711886400,
+                        "timestamp": 1704121200,
                         "length": 3600,
                         "live": false
                     }
