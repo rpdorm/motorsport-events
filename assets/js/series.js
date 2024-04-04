@@ -3449,10 +3449,24 @@ series = {
                 "venue": 63,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Practice",
+                        "symbol": "P",
+                        "timestamp": 1713018900,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1713021600,
+                        "length": 4200,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1713096000,
-                        "length": 3600,
+                        "timestamp": 1713121200,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -7007,10 +7021,31 @@ series = {
                 "venue": 157,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1713178800,
-                        "length": 3600,
+                        "name": "Practice",
+                        "symbol": "P",
+                        "timestamp": 1712968200,
+                        "length": 6300,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1712984400,
+                        "length": 5700,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Warm Up",
+                        "symbol": "WU",
+                        "timestamp": 1713063600,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1713069000,
+                        "length": 14400,
                         "live": false
                     }
                 }
