@@ -8220,7 +8220,7 @@ series = {
                     "0": {
                         "name": "TBA",
                         "symbol": "T",
-                        "timestamp": 1714651200,
+                        "timestamp": 1715511600,
                         "length": 3600,
                         "live": false
                     }
@@ -10466,9 +10466,65 @@ series = {
                 "venue": 16,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1714309200,
+                        "name": "Private Test 1",
+                        "symbol": "T1",
+                        "timestamp": 1714040160,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Private Test 2",
+                        "symbol": "T2",
+                        "timestamp": 1714055520,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Free Practice 1",
+                        "symbol": "FP1",
+                        "timestamp": 1714124760,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP2",
+                        "timestamp": 1714140360,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Free Practice 3",
+                        "symbol": "FP3",
+                        "timestamp": 1714149600,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Qualifying 1",
+                        "symbol": "Q1",
+                        "timestamp": 1714206600,
+                        "length": 1800,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    },
+                    "6": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1714223700,
+                        "length": 4200,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    },
+                    "7": {
+                        "name": "Qualifying 2",
+                        "symbol": "Q2",
+                        "timestamp": 1714291200,
+                        "length": 1800,
+                        "live": "https://www.youtube.com/@GTOPENseries/streams"
+                    },
+                    "8": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1714303200,
                         "length": 3600,
                         "live": "https://www.youtube.com/@GTOPENseries/streams"
                     }
