@@ -3532,10 +3532,17 @@ series = {
                 "venue": 135,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1713623400,
+                        "length": 4200,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1713700800,
-                        "length": 3600,
+                        "timestamp": 1713726000,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -8781,9 +8788,23 @@ series = {
                 "venue": 165,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1713700800,
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1713604800,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1713626100,
+                        "length": 3600,
+                        "live": false
+                    }
+                    "2": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1713702300,
                         "length": 3600,
                         "live": false
                     }
@@ -8907,7 +8928,7 @@ series = {
                     "0": {
                         "name": "TBA",
                         "symbol": "T",
-                        "timestamp": 1713700800,
+                        "timestamp": 1704121200,
                         "length": 3600,
                         "live": false
                     }
@@ -10041,7 +10062,7 @@ series = {
                     "0": {
                         "name": "TBA",
                         "symbol": "T",
-                        "timestamp": 1713700800,
+                        "timestamp": 1704121200,
                         "length": 3600,
                         "live": false
                     }
