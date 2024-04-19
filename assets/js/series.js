@@ -8566,9 +8566,44 @@ series = {
                 "venue": 158,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1714305600,
+                        "name": "Free Practice 1",
+                        "symbol": "FP1",
+                        "timestamp": 1714120500,
+                        "length": 3300,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP2",
+                        "timestamp": 1714137300,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying 1",
+                        "symbol": "Q1",
+                        "timestamp": 1714200900,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1714213800,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Qualifying 2",
+                        "symbol": "Q2",
+                        "timestamp": 1714287300,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1714300200,
                         "length": 3600,
                         "live": false
                     }
@@ -8800,7 +8835,7 @@ series = {
                         "timestamp": 1713626100,
                         "length": 3600,
                         "live": false
-                    }
+                    },
                     "2": {
                         "name": "Race 2",
                         "symbol": "R2",
