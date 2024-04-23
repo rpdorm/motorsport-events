@@ -3552,10 +3552,24 @@ series = {
                 "venue": 136,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
+                        "name": "Practice",
+                        "symbol": "P",
+                        "timestamp": 1714228200,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1714231200,
+                        "length": 4200,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Race",
                         "symbol": "R",
-                        "timestamp": 1714305600,
-                        "length": 3600,
+                        "timestamp": 1714327200,
+                        "length": 10800,
                         "live": false
                     }
                 }
@@ -6154,10 +6168,10 @@ series = {
                 "venue": 80,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "TBA",
-                        "timestamp": 1714388400,
-                        "length": 29700,
+                        "name": "MotoGP Test",
+                        "symbol": "T",
+                        "timestamp": 1714377600,
+                        "length": 28800,
                         "live": false
                     }
                 }
@@ -8429,10 +8443,45 @@ series = {
                 "venue": 97,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1714305600,
-                        "length": 3600,
+                        "name": "Free Practice 1",
+                        "symbol": "FP1",
+                        "timestamp": 1714206600,
+                        "length": 2100,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP2",
+                        "timestamp": 1714217700,
+                        "length": 2100,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1714227900,
+                        "length": 3300,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1714300200,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1714311300,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Race 3",
+                        "symbol": "R3",
+                        "timestamp": 1714321500,
+                        "length": 1800,
                         "live": false
                     }
                 }
@@ -9046,10 +9095,38 @@ series = {
                 "venue": 153,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "T",
-                        "timestamp": 1714305600,
-                        "length": 3600,
+                        "name": "Free Practice 1",
+                        "symbol": "FP1",
+                        "timestamp": 1714116000,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Free Practice 2",
+                        "symbol": "FP2",
+                        "timestamp": 1714127400,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1714199400,
+                        "length": 1200,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race 1",
+                        "symbol": "R1",
+                        "timestamp": 1714209900,
+                        "length": 2400,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race 2",
+                        "symbol": "R2",
+                        "timestamp": 1714301400,
+                        "length": 2400,
                         "live": false
                     }
                 }
