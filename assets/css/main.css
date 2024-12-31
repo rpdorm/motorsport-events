@@ -73,12 +73,10 @@ footer {
   padding: 2em;
   grid-template-columns: repeat(2,2fr);
   background-image: radial-gradient(farthest-side at 100% 100%, #c0c0c0, white);
+  width: 100%;
+  text-align: center;
 }
 
-.footerDiv {
-  width: 50%;
-  float: left;
-}
 
 .list-group-item {
   padding: .8rem;
@@ -122,13 +120,6 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   html {
     font-size: 2rem;
     text-align: center;
-  }
-  .footerDiv{
-    text-align: left;
-    width: 100%;
-  }
-  .img-footer {
-    float: left;
   }
   article {
     margin-bottom: .5rem;
@@ -185,9 +176,6 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   .img-top { max-height: 30px; }
   .img-flag { max-height: 15px; }
   .img-yt { height: 1.6em; }
-  .img-footer {
-    float: right;
-  }
 
   .session, .venue {
     display: block;
