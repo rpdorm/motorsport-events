@@ -760,5 +760,129 @@ series = {
                 }
             }
         }
+    },
+     //WEC
+    "2": {
+        "name": "World Endurance Championship",
+        "symbol": "WEC",
+        "events": {
+            "0": {
+                "name": "Prologue",
+                "venue": 78,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "P",
+                        "timestamp": 1740484800,
+                        "length": 10800,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "Qatar 1812 km",
+                "venue": 78,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1740916800,
+                        "length": 5400,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "6h of Imola",
+                "venue": 36,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1745233200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "6h of Spa-Francorchamps",
+                "venue": 0,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1746961200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "4": {
+                "name": "24h of Le Mans",
+                "venue": 44,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1749985200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "5": {
+                "name": "6h of São Paulo",
+                "venue": 10,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1752490800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "6": {
+                "name": "6h of the Americas",
+                "venue": 8,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1756724400,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "7": {
+                "name": "6h of Fuji",
+                "venue": 21,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1757934000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "8": {
+                "name": "8h of Bahrain",
+                "venue": 20,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1762084800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            }
+        }
     }
 }
