@@ -762,227 +762,546 @@ series = {
         }
     },
      //WEC
-    "2": {
-        "name": "World Endurance Championship",
-        "symbol": "WEC",
-        "events": {
-            "0": {
-                "name": "Prologue",
-                "venue": 78,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "P",
-                        "timestamp": 1740484800,
-                        "length": 10800,
-                        "live": false
+    '2': {
+        'name': 'World Endurance Championship',
+        'symbol': 'WEC',
+        'events': {
+            '0': {
+                'name': 'Prologue',
+                'venue': 78,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1740484800,
+                        'length': 10800,
+                        'live': false
                     }
                 }
             },
-            "1": {
-                "name": "Qatar 1812 km",
-                "venue": 78,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "FP1",
-                        "timestamp": 1740916800,
-                        "length": 5400,
-                        "live": false
+            '1': {
+                'name': 'Qatar 1812 km',
+                'venue': 78,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'FP1',
+                        'timestamp': 1740916800,
+                        'length': 5400,
+                        'live': false
                     }
                 }
             },
-            "2": {
-                "name": "6h of Imola",
-                "venue": 36,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1745233200,
-                        "length": 3600,
-                        "live": false
+            '2': {
+                'name': '6h of Imola',
+                'venue': 36,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745233200,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "3": {
-                "name": "6h of Spa-Francorchamps",
-                "venue": 0,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1746961200,
-                        "length": 3600,
-                        "live": false
+            '3': {
+                'name': '6h of Spa-Francorchamps',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746961200,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "4": {
-                "name": "24h of Le Mans",
-                "venue": 44,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1749985200,
-                        "length": 3600,
-                        "live": false
+            '4': {
+                'name': '24h of Le Mans',
+                'venue': 44,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749985200,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "5": {
-                "name": "6h of São Paulo",
-                "venue": 10,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1752490800,
-                        "length": 3600,
-                        "live": false
+            '5': {
+                'name': '6h of São Paulo',
+                'venue': 10,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752490800,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "6": {
-                "name": "6h of the Americas",
-                "venue": 8,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1756724400,
-                        "length": 3600,
-                        "live": false
+            '6': {
+                'name': '6h of the Americas',
+                'venue': 8,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756724400,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "7": {
-                "name": "6h of Fuji",
-                "venue": 21,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1757934000,
-                        "length": 3600,
-                        "live": false
+            '7': {
+                'name': '6h of Fuji',
+                'venue': 21,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757934000,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "8": {
-                "name": "8h of Bahrain",
-                "venue": 20,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1762084800,
-                        "length": 3600,
-                        "live": false
+            '8': {
+                'name': '8h of Bahrain',
+                'venue': 20,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1762084800,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             }
         }
     },
      //IMSA SC
-    "3": {
-        "name": "IMSA SportsCar Championship",
-        "symbol": "IMSASC",
-        "events": {
-            "0": {
-                "name": "Roar Before the 24",
-                "venue": 31,
-                "sessions": {
-                    "0": {
-                        "name": "Session 1",
-                        "symbol": "S1",
-                        "timestamp": 1737129600,
-                        "length": 4500,
-                        "live": false
+    '3': {
+        'name': 'IMSA SportsCar Championship',
+        'symbol': 'IMSASC',
+        'events': {
+            '0': {
+                'name': 'Roar Before the 24',
+                'venue': 31,
+                'sessions': {
+                    '0': {
+                        'name': 'Session 1',
+                        'symbol': 'S1',
+                        'timestamp': 1737129600,
+                        'length': 4500,
+                        'live': false
                     },
-                    "1": {
-                        "name": "Session 2",
-                        "symbol": "S2",
-                        "timestamp": 1737144000,
-                        "length": 7200,
-                        "live": false
+                    '1': {
+                        'name': 'Session 2',
+                        'symbol': 'S2',
+                        'timestamp': 1737144000,
+                        'length': 7200,
+                        'live': false
                     },
-                    "2": {
-                        "name": "Session 3",
-                        "symbol": "S3",
-                        "timestamp": 1737216900,
-                        "length": 5400,
-                        "live": false
+                    '2': {
+                        'name': 'Session 3',
+                        'symbol': 'S3',
+                        'timestamp': 1737216900,
+                        'length': 5400,
+                        'live': false
                     },
-                    "3": {
-                        "name": "Session 4",
-                        "symbol": "S4",
-                        "timestamp": 1737231000,
-                        "length": 3600,
-                        "live": false
+                    '3': {
+                        'name': 'Session 4',
+                        'symbol': 'S4',
+                        'timestamp': 1737231000,
+                        'length': 3600,
+                        'live': false
                     },
-                    "4": {
-                        "name": "Session 5",
-                        "symbol": "S5",
-                        "timestamp": 1737243000,
-                        "length": 7200,
-                        "live": false
+                    '4': {
+                        'name': 'Session 5',
+                        'symbol': 'S5',
+                        'timestamp': 1737243000,
+                        'length': 7200,
+                        'live': false
                     },
-                    "5": {
-                        "name": "Session 6",
-                        "symbol": "S6",
-                        "timestamp": 1737297900,
-                        "length": 3600,
-                        "live": false
+                    '5': {
+                        'name': 'Session 6',
+                        'symbol': 'S6',
+                        'timestamp': 1737297900,
+                        'length': 3600,
+                        'live': false
                     },
-                    "6": {
-                        "name": "Session 7",
-                        "symbol": "S7",
-                        "timestamp": 1737315000,
-                        "length": 5400,
-                        "live": false
+                    '6': {
+                        'name': 'Session 7',
+                        'symbol': 'S7',
+                        'timestamp': 1737315000,
+                        'length': 5400,
+                        'live': false
                     }
                 }
             },
-            "1": {
-                "name": "24h of Daytona",
-                "venue": 31,
-                "sessions": {
-                    "0": {
-                        "name": "Practice 1",
-                        "symbol": "P1",
-                        "timestamp": 1737644700,
-                        "length": 5400,
-                        "live": false
+            '1': {
+                'name': '24h of Daytona',
+                'venue': 31,
+                'sessions': {
+                    '0': {
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1737644700,
+                        'length': 5400,
+                        'live': false
                     },
-                    "1": {
-                        "name": "Qualifying",
-                        "symbol": "Q",
-                        "timestamp": 1737659400,
-                        "length": 5400,
-                        "live": false
+                    '1': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1737659400,
+                        'length': 5400,
+                        'live': false
                     },
-                    "2": {
-                        "name": "Practice 2",
-                        "symbol": "P2",
-                        "timestamp": 1737675000,
-                        "length": 5400,
-                        "live": false
+                    '2': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1737675000,
+                        'length': 5400,
+                        'live': false
                     },
-                    "3": {
-                        "name": "Practice 3",
-                        "symbol": "P3",
-                        "timestamp": 1737735600,
-                        "length": 3600,
-                        "live": false
+                    '3': {
+                        'name': 'Practice 3',
+                        'symbol': 'P3',
+                        'timestamp': 1737735600,
+                        'length': 3600,
+                        'live': false
                     },
-                    "4": {
-                        "name": "Race",
-                        "symbol": "R",
-                        "timestamp": 1737830400,
-                        "length": 86400,
-                        "live": false
+                    '4': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1737830400,
+                        'length': 86400,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': '12h of Sebring',
+                'venue': 34,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1742040000,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Grand Prix of Long Beach',
+                'venue': 19,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744455600,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Course de Monterey',
+                'venue': 18,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746961200,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Detroit Grand Prix',
+                'venue': 66,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1748689200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': '6h of the Glen',
+                'venue': 93,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1750590000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Mosport Grand Prix',
+                'venue': 94,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1752404400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'IMSA Sportscar Weekend',
+                'venue': 67,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1754218800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'GT Challenge at VIR',
+                'venue': 132,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1756033200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '10': {
+                'name': 'Battle on the Bricks',
+                'venue': 65,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1758452400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '11': {
+                'name': 'Petit Le Mans',
+                'venue': 133,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'P',
+                        'timestamp': 1760180400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+	//24h Series
+    '4': {
+        'name': '24h Series',
+        'symbol': '24hSeries',
+        'events': {
+            '0': {
+                'name': '24h Dubai',
+                'venue': 150,
+                'sessions': {
+                    '0': {
+                        'name': 'Private Test 1',
+                        'symbol': 'T',
+                        'timestamp': 1736485200,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice',
+                        'symbol': 'P',
+                        'timestamp': 1736493300,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying (TCE, GT4 & GTX)',
+                        'symbol': 'Q',
+                        'timestamp': 1736504700,
+                        'length': 3300,
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                    },
+                    '3': {
+                        'name': 'Qualifying (992)',
+                        'symbol': 'Q',
+                        'timestamp': 1736510400,
+                        'length': 3300,
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                    },
+                    '4': {
+                        'name': 'Qualifying (GT3)',
+                        'symbol': 'Q',
+                        'timestamp': 1736514300,
+                        'length': 3300,
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                    },
+                    '5': {
+                        'name': 'Night Practice',
+                        'symbol': 'P',
+                        'timestamp': 1736523000,
+                        'length': 5400,
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                    },
+                    '6': {
+                        'name': 'Warm-Up',
+                        'symbol': 'W',
+                        'timestamp': 1736574000,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1736586000,
+                        'length': 86400,
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                    }
+                }
+            },
+            '1': {
+                'name': '6h Abu Dhabi',
+                'venue': 13,
+                'sessions': {
+                	'0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1737201600,
+                        'length': 7200,
+                        'live': false
+                    }
+                    /*'0': {
+                        'name': 'Private Test 1',
+                        'symbol': 'T',
+                        'timestamp': 1705640400,
+                        'length': 7200,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Private Test 2',
+                        'symbol': 'T',
+                        'timestamp': 1705661100,
+                        'length': 7200,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Private Test 3',
+                        'symbol': 'T',
+                        'timestamp': 1705674900,
+                        'length': 7200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Free Practice',
+                        'symbol': 'P',
+                        'timestamp': 1705726800,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1705756200,
+                        'length': 3300,
+                        'live': 'https://www.youtube.com/watch?v=5pdnbUGxB0U'
+                    },
+                    '5': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1705816800,
+                        'length': 21600,
+                        'live': 'https://www.youtube.com/watch?v=LakZhMpFRXc'
+                    }*/
+                }
+            },
+            '2': {
+                'name': '12h Mugello',
+                'venue': 82,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1742731200,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': '12h Spa-Francorchamps',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1745146800,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': '12h Misano',
+                'venue': 15,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1748084400,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': '12h Paul Ricard',
+                'venue': 41,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1751886000,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': '24h Barcelona',
+                'venue': 38,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1759057200,
+                        'length': 14400,
+                        'live': false
                     }
                 }
             }
