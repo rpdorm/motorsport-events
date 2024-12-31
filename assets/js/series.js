@@ -785,7 +785,7 @@ series = {
                 "sessions": {
                     "0": {
                         "name": "TBA",
-                        "symbol": "R",
+                        "symbol": "FP1",
                         "timestamp": 1740916800,
                         "length": 5400,
                         "live": false
@@ -879,6 +879,109 @@ series = {
                         "symbol": "R",
                         "timestamp": 1762084800,
                         "length": 3600,
+                        "live": false
+                    }
+                }
+            }
+        }
+    },
+     //IMSA SC
+    "3": {
+        "name": "IMSA SportsCar Championship",
+        "symbol": "IMSASC",
+        "events": {
+            "0": {
+                "name": "Roar Before the 24",
+                "venue": 31,
+                "sessions": {
+                    "0": {
+                        "name": "Session 1",
+                        "symbol": "S1",
+                        "timestamp": 1737129600,
+                        "length": 4500,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Session 2",
+                        "symbol": "S2",
+                        "timestamp": 1737144000,
+                        "length": 7200,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Session 3",
+                        "symbol": "S3",
+                        "timestamp": 1737216900,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Session 4",
+                        "symbol": "S4",
+                        "timestamp": 1737231000,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Session 5",
+                        "symbol": "S5",
+                        "timestamp": 1737243000,
+                        "length": 7200,
+                        "live": false
+                    },
+                    "5": {
+                        "name": "Session 6",
+                        "symbol": "S6",
+                        "timestamp": 1737297900,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "6": {
+                        "name": "Session 7",
+                        "symbol": "S7",
+                        "timestamp": 1737315000,
+                        "length": 5400,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "24h of Daytona",
+                "venue": 31,
+                "sessions": {
+                    "0": {
+                        "name": "Practice 1",
+                        "symbol": "P1",
+                        "timestamp": 1737644700,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1737659400,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Practice 2",
+                        "symbol": "P2",
+                        "timestamp": 1737675000,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Practice 3",
+                        "symbol": "P3",
+                        "timestamp": 1737735600,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1737830400,
+                        "length": 86400,
                         "live": false
                     }
                 }
