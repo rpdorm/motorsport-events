@@ -1,4 +1,4 @@
-// Motorsport Events 2019-2024
+// Motorsport Events 2019-2025
 // Author: Rui Pedro Moreira
 // github.com/rpdorm/motorsport-events
 
