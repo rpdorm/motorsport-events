@@ -596,10 +596,10 @@ venues = {
         "url": "https://www.racingcircuits.info/europe/germany/oschersleben.html"
     },
     "99": {
-        "name": "Jakarta National Monument",
+        "name": "Jakarta International e-Prix Circuit",
         "location": "Jakarta, Indonesia",
         "flag": "id",
-        "url": "https://www.racingcircuits.info/asia/indonesia/jakarta-national-monument.html"
+        "url": "https://www.racingcircuits.info/asia/indonesia/jakarta-international-eprix-circuit.html"
     },
     "100": {
         "name": "Brands Hatch",
