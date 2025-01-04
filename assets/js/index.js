@@ -79,7 +79,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 					$(".showTomorrow").show();
 					$(".tomorrow").append(`<p>${sessionTime} • ${series[i].symbol} • ${name} • ${session_symbol}</p>`);
 				}
-				if (session == "TBA") { sessionTime = ""; session = "schedule yet to be announced"; }
+				if (session == "TBA") { sessionTime = ""; session = "full schedule yet to be announced"; }
 				if (del == false) {
 					timediv= `<p class='subtitle text-muted'><small>${sessionDate} ${sessionTime}</small></p>`;
 					$("#" + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${session}${liveicon}</h6></li>`);

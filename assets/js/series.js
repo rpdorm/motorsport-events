@@ -1128,7 +1128,7 @@ series = {
                 'venue': 150,
                 'sessions': {
                     '0': {
-                        'name': 'Private Test 1',
+                        'name': 'Private Test',
                         'symbol': 'T',
                         'timestamp': 1736485200,
                         'length': 5400,
@@ -1444,6 +1444,221 @@ series = {
                         'timestamp': 1760785200,
                         'length': 28800,
                         'live': false
+                    }
+                }
+            }
+        }
+    },
+     //IndyCar Series
+    "6": {
+        "name": "IndyCar Series",
+        "symbol": "IndyCar",
+        "events": {
+            "0": {
+                "name": "Grand Prix of St. Petersburg",
+                "venue": 62,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1740916800,
+                        "length": 4500,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "The Thermal Club Indycar Grand Prix",
+                "venue": 122,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1742731200,
+                        "length": 7200,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "Grand Prix of Long Beach",
+                "venue": 19,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1744542000,
+                        "length": 4500,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "Alabama Indy Grand Prix",
+                "venue": 64,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1746356400,
+                        "length": 4500,
+                        "live": false
+                    }
+                }
+            },
+            "4": {
+                "name": "Grand Prix of Indianapolis",
+                "venue": 65,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1746874800,
+                        "length": 4500,
+                        "live": false
+                    }
+                }
+            },
+            "5": {
+                "name": "Indianapolis 500",
+                "venue": 65,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1748170800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "6": {
+                "name": "Detroit Grand Prix",
+                "venue": 66,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1748775600,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "7": {
+                "name": "Illinois 500",
+                "venue": 72,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1749985200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "8": {
+                "name": "Grand Prix at Road America",
+                "venue": 67,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1750590000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "9": {
+                "name": "Mid-Ohio 200",
+                "venue": 68,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1751799600,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "10": {
+                "name": "Iowa Race Weekend",
+                "venue": 70,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1752404400,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "11": {
+                "name": "Grand Prix of Toronto",
+                "venue": 69,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1753009200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "12": {
+                "name": "Grand Prix of Monterey",
+                "venue": 18,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1753614000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "13": {
+                "name": "Grand Prix of Portland",
+                "venue": 3,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1754823600,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "14": {
+                "name": "Milwaukee Mile",
+                "venue": 123,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1756033200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "15": {
+                "name": "Nashville Grand Prix",
+                "venue": 110,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1756638000,
+                        "length": 3600,
+                        "live": false
                     }
                 }
             }
