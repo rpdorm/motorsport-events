@@ -1190,54 +1190,47 @@ series = {
                 'venue': 13,
                 'sessions': {
                 	'0': {
-                        'name': 'TBA',
+                        'name': 'Test Session 1',
                         'symbol': 'T',
-                        'timestamp': 1737201600,
-                        'length': 7200,
-                        'live': false
-                    }
-                    /*'0': {
-                        'name': 'Private Test 1',
-                        'symbol': 'T',
-                        'timestamp': 1705640400,
+                        'timestamp': 1737089100,
                         'length': 7200,
                         'live': false
                     },
                     '1': {
-                        'name': 'Private Test 2',
+                        'name': 'Test Session 2',
                         'symbol': 'T',
-                        'timestamp': 1705661100,
+                        'timestamp': 1737119100,
                         'length': 7200,
                         'live': false
                     },
                     '2': {
-                        'name': 'Private Test 3',
+                        'name': 'Test Session 3',
                         'symbol': 'T',
-                        'timestamp': 1705674900,
+                        'timestamp': 1737135300,
                         'length': 7200,
                         'live': false
                     },
                     '3': {
                         'name': 'Free Practice',
                         'symbol': 'P',
-                        'timestamp': 1705726800,
+                        'timestamp': 1737185400,
                         'length': 5400,
                         'live': false
                     },
                     '4': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
-                        'timestamp': 1705756200,
+                        'timestamp': 1737207600,
                         'length': 3300,
-                        'live': 'https://www.youtube.com/watch?v=5pdnbUGxB0U'
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
                     },
                     '5': {
                         'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1705816800,
+                        'timestamp': 1737268200,
                         'length': 21600,
-                        'live': 'https://www.youtube.com/watch?v=LakZhMpFRXc'
-                    }*/
+                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                    }
                 }
             },
             '2': {
