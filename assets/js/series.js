@@ -381,14 +381,14 @@ series = {
                     },
                     '2': {
                         'name': 'Qualifying 1',
-                        'symbol': 'Q',
+                        'symbol': 'Q1',
                         'timestamp': 1739535600,
                         'length': 5000,
                         'live': false
                     },
                     '3': {
                         'name': 'Race 1',
-                        'symbol': 'R',
+                        'symbol': 'R1',
                         'timestamp': 1739552400,
                         'length': 3600,
                         'live': false
@@ -402,14 +402,14 @@ series = {
                     },
                     '5': {
                         'name': 'Qualifying 2',
-                        'symbol': 'Q',
+                        'symbol': 'Q2',
                         'timestamp': 1739622000,
                         'length': 5000,
                         'live': false
                     },
                     '6': {
                         'name': 'Race 2',
-                        'symbol': 'R',
+                        'symbol': 'R2',
                         'timestamp': 1739638800,
                         'length': 3600,
                         'live': false
@@ -470,14 +470,14 @@ series = {
                     },
                     '2': {
                         'name': 'Qualifying 1',
-                        'symbol': 'Q',
+                        'symbol': 'Q1',
                         'timestamp': 1746261600,
                         'length': 5000,
                         'live': false
                     },
                     '3': {
                         'name': 'Race 1',
-                        'symbol': 'R',
+                        'symbol': 'R1',
                         'timestamp': 1746277200,
                         'length': 3600,
                         'live': false
@@ -491,14 +491,14 @@ series = {
                     },
                     '5': {
                         'name': 'Qualifying 2',
-                        'symbol': 'Q',
+                        'symbol': 'Q2',
                         'timestamp': 1746348000,
                         'length': 5000,
                         'live': false
                     },
                     '6': {
                         'name': 'Race 2',
-                        'symbol': 'R',
+                        'symbol': 'R2',
                         'timestamp': 1746363600,
                         'length': 3600,
                         'live': false
@@ -525,14 +525,14 @@ series = {
                     },
                     '2': {
                         'name': 'Qualifying 1',
-                        'symbol': 'Q',
+                        'symbol': 'Q1',
                         'timestamp': 1747444800,
                         'length': 5000,
                         'live': false
                     },
                     '3': {
                         'name': 'Race 1',
-                        'symbol': 'R',
+                        'symbol': 'R1',
                         'timestamp': 1747461600,
                         'length': 3600,
                         'live': false
@@ -546,14 +546,14 @@ series = {
                     },
                     '5': {
                         'name': 'Qualifying 2',
-                        'symbol': 'Q',
+                        'symbol': 'Q2',
                         'timestamp': 1747531200,
                         'length': 5000,
                         'live': false
                     },
                     '6': {
                         'name': 'Race 2',
-                        'symbol': 'R',
+                        'symbol': 'R2',
                         'timestamp': 1747548000,
                         'length': 3600,
                         'live': false
@@ -580,14 +580,14 @@ series = {
                     },
                     '2': {
                         'name': 'Qualifying 1',
-                        'symbol': 'Q',
+                        'symbol': 'Q1',
                         'timestamp': 1748658000,
                         'length': 5000,
                         'live': false
                     },
                     '3': {
                         'name': 'Race 1',
-                        'symbol': 'R',
+                        'symbol': 'R1',
                         'timestamp': 1748674800,
                         'length': 3600,
                         'live': false
@@ -601,14 +601,14 @@ series = {
                     },
                     '5': {
                         'name': 'Qualifying 2',
-                        'symbol': 'Q',
+                        'symbol': 'Q2',
                         'timestamp': 1748740800,
                         'length': 5000,
                         'live': false
                     },
                     '6': {
                         'name': 'Race 2',
-                        'symbol': 'R',
+                        'symbol': 'R2',
                         'timestamp': 1748757600,
                         'length': 3600,
                         'live': false
@@ -669,14 +669,14 @@ series = {
                     },
                     '2': {
                         'name': 'Qualifying 1',
-                        'symbol': 'Q',
+                        'symbol': 'Q1',
                         'timestamp': 1752308400,
                         'length': 5000,
                         'live': false
                     },
                     '3': {
                         'name': 'Race 1',
-                        'symbol': 'R',
+                        'symbol': 'R1',
                         'timestamp': 1752325200,
                         'length': 3600,
                         'live': false
@@ -690,14 +690,14 @@ series = {
                     },
                     '5': {
                         'name': 'Qualifying 2',
-                        'symbol': 'Q',
+                        'symbol': 'Q2',
                         'timestamp': 1752394800,
                         'length': 5000,
                         'live': false
                     },
                     '6': {
                         'name': 'Race 2',
-                        'symbol': 'R',
+                        'symbol': 'R2',
                         'timestamp': 1752411600,
                         'length': 3600,
                         'live': false
@@ -724,14 +724,14 @@ series = {
                     },
                     '2': {
                         'name': 'Qualifying 1',
-                        'symbol': 'Q',
+                        'symbol': 'Q1',
                         'timestamp': 1753528800,
                         'length': 5000,
                         'live': false
                     },
                     '3': {
                         'name': 'Race 1',
-                        'symbol': 'R',
+                        'symbol': 'R1',
                         'timestamp': 1753545600,
                         'length': 3600,
                         'live': false
@@ -745,14 +745,14 @@ series = {
                     },
                     '5': {
                         'name': 'Qualifying 2',
-                        'symbol': 'Q',
+                        'symbol': 'Q2',
                         'timestamp': 1753615200,
                         'length': 5000,
                         'live': false
                     },
                     '6': {
                         'name': 'Race 2',
-                        'symbol': 'R',
+                        'symbol': 'R2',
                         'timestamp': 1753632000,
                         'length': 3600,
                         'live': false
@@ -1136,7 +1136,7 @@ series = {
                     },
                     '1': {
                         'name': 'Free Practice',
-                        'symbol': 'P',
+                        'symbol': 'FP',
                         'timestamp': 1736493300,
                         'length': 5400,
                         'live': false
@@ -1146,32 +1146,32 @@ series = {
                         'symbol': 'Q',
                         'timestamp': 1736504700,
                         'length': 3300,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': 'https://www.youtube.com/watch?v=IOPGhFU-TU8'
                     },
                     '3': {
                         'name': 'Qualifying (992)',
                         'symbol': 'Q',
                         'timestamp': 1736510400,
                         'length': 3300,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': 'https://www.youtube.com/watch?v=nD0QBrzhZjk'
                     },
                     '4': {
                         'name': 'Qualifying (GT3)',
                         'symbol': 'Q',
                         'timestamp': 1736514300,
                         'length': 3300,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': 'https://www.youtube.com/watch?v=nD0QBrzhZjk'
                     },
                     '5': {
                         'name': 'Night Practice',
                         'symbol': 'P',
                         'timestamp': 1736523000,
                         'length': 5400,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': false
                     },
                     '6': {
                         'name': 'Warm-Up',
-                        'symbol': 'W',
+                        'symbol': 'WU',
                         'timestamp': 1736574000,
                         'length': 1800,
                         'live': false
@@ -1181,7 +1181,7 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1736586000,
                         'length': 86400,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': 'https://www.youtube.com/watch?v=mAcFvHzGUg0'
                     }
                 }
             },
@@ -1212,7 +1212,7 @@ series = {
                     },
                     '3': {
                         'name': 'Free Practice',
-                        'symbol': 'P',
+                        'symbol': 'FP',
                         'timestamp': 1737185400,
                         'length': 5400,
                         'live': false
