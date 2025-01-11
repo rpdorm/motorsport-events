@@ -1050,5 +1050,17 @@ venues = {
         'location': 'Orechová Potôň, Slovakia',
         'flag': 'sk',
         'url': 'https://www.racingcircuits.info/europe/slovakia/slovakiaring.html'
+    },
+    '175': {
+        'name': 'Queensland Raceway',
+        'location': 'Ipswich, Australia',
+        'flag': 'au',
+        'url': 'https://www.racingcircuits.info/australasia/australia/queensland-raceway.html'
+    },
+    '176': {
+        'name': 'The Bend Motorsport Park',
+        'location': 'Tailem Bend, Australia',
+        'flag': 'au',
+        'url': 'https://www.racingcircuits.info/australasia/australia/the-bend-motorsport-park.html'
     }
 }
