@@ -2158,118 +2158,288 @@ series = {
             }
         }
     },
-     //Supercars
-    "8": {
-        "name": "Supercars Championship",
-        "symbol": "Supercars",
+    //Supercars
+    '8': {
+        'name': 'Supercars Championship',
+        'symbol': 'Supercars',
+        'events': {
+            '0': {
+                'name': 'Sydney 500',
+                'venue': 145,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1740312000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Melbourne SuperSprint',
+                'venue': 35,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1742126400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Taupō Super 440',
+                'venue': 141,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744542000,
+                        'length': 5400,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Tasmania Super 440',
+                'venue': 146,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746961200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Perth Super 440',
+                'venue': 142,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749380400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Darwin Triple Crown',
+                'venue': 143,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750590000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Townsville 500',
+                'venue': 144,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752404400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Ispwich Super 440',
+                'venue': 175,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1754823600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'The Bend Enduro',
+                'venue': 176,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757847600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'Bathurst 1000',
+                'venue': 33,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760266800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '10': {
+                'name': 'Gold Coast 500',
+                'venue': 148,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1761480000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '11': {
+                'name': 'Sandown 500',
+                'venue': 147,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1763294400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '12': {
+                'name': 'Adelaide Grand Final',
+                'venue': 149,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1764504000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //Asian Le Mans Series
+    "9": {
+        "name": "Asian Le Mans Series",
+        "symbol": "ALMS",
         "events": {
             "0": {
-                "name": "Sydney 500",
-                "venue": 145,
+                "name": "4h of Dubai",
+                "venue": 150,
                 "sessions": {
                     "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1740312000,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "1": {
-                "name": "Melbourne SuperSprint",
-                "venue": 35,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1742126400,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "2": {
-                "name": "Taupō Super 440",
-                "venue": 141,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1744542000,
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        "timestamp": 1739102400,
                         "length": 5400,
                         "live": false
                     }
                 }
             },
-            "3": {
-                "name": "Tasmania Super 440",
-                "venue": 146,
+            "1": {
+                "name": "4h of Abu Dhabi",
+                "venue": 13,
+                "sessions": {
+                    "0": {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        "timestamp": 1739707200,
+                        "length": 5400,
+                        "live": false
+                    }
+                }
+            }
+        }
+    },
+     //European Le Mans Series
+    "10": {
+        "name": "European Le Mans Series",
+        "symbol": "ELMS",
+        "events": {
+            "0": {
+                "name": "Prologue",
+                "venue": 38,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "T",
+                        "timestamp": 1743505200,
+                        "length": 10800,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "4h of Barcelona",
+                "venue": 38,
                 "sessions": {
                     "0": {
                         "name": "TBA",
                         "symbol": "R",
-                        "timestamp": 1746961200,
+                        "timestamp": 1743937200,
+                        "length": 5200,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "4h of Le Castellet",
+                "venue": 41,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1746356400,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "4h of Imola",
+                "venue": 36,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1751799600,
                         "length": 3600,
                         "live": false
                     }
                 }
             },
             "4": {
-                "name": "Perth Super 440",
-                "venue": 142,
+                "name": "4h of Spa-Francorchamps",
+                "venue": 0,
                 "sessions": {
                     "0": {
                         "name": "TBA",
                         "symbol": "R",
-                        "timestamp": 1749380400,
+                        "timestamp": 1756033200,
                         "length": 3600,
                         "live": false
                     }
                 }
             },
             "5": {
-                "name": "Darwin Triple Crown",
-                "venue": 143,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1750590000,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "6": {
-                "name": "Townsville 500",
-                "venue": 144,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1752404400,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "7": {
-                "name": "Ispwich Super 440",
-                "venue": 175,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1754823600,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "8": {
-                "name": "The Bend Enduro",
-                "venue": 176,
+                "name": "4h of Silverstone",
+                "venue": 4,
                 "sessions": {
                     "0": {
                         "name": "TBA",
@@ -2280,53 +2450,14 @@ series = {
                     }
                 }
             },
-            "9": {
-                "name": "Bathurst 1000",
-                "venue": 33,
+            "6": {
+                "name": "4h of Portimão",
+                "venue": 16,
                 "sessions": {
                     "0": {
                         "name": "TBA",
                         "symbol": "R",
-                        "timestamp": 1760266800,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "10": {
-                "name": "Gold Coast 500",
-                "venue": 148,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1761480000,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "11": {
-                "name": "Sandown 500",
-                "venue": 147,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1763294400,
-                        "length": 3600,
-                        "live": false
-                    }
-                }
-            },
-            "12": {
-                "name": "Adelaide Grand Final",
-                "venue": 149,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1764504000,
+                        "timestamp": 1760785200,
                         "length": 3600,
                         "live": false
                     }
