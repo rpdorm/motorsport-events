@@ -309,9 +309,9 @@ venues = {
         'url': 'https://www.racingcircuits.info/asia/south-korea/seoul-street-circuit.html'
     },
     '51': {
-        'name': 'Sweden',
-        'location': 'Sweden',
-        'flag': 'se',
+        'name': 'Bowman Gray Stadium',
+        'location': 'Winston-Salem, NC, USA',
+        'flag': 'us',
         'url': false
     },
     '52': {
