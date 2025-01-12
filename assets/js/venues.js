@@ -315,16 +315,16 @@ venues = {
         'url': false
     },
     '52': {
-        'name': 'Croatia',
-        'location': 'Croatia',
-        'flag': 'hr',
+        'name': 'Beijing Street Circuit',
+        'location': 'Beijing, China',
+        'flag': 'cn',
         'url': false
     },
     '53': {
-        'name': 'Portugal',
-        'location': 'Portugal',
-        'flag': 'pt',
-        'url': false
+        'name': 'Hampton Downs',
+        'location': 'Waikato, New Zealand',
+        'flag': 'nz',
+        'url': 'https://www.racingcircuits.info/australasia/new-zealand/hampton-downs.html'
     },
     '54': {
         'name': 'Sardinia',

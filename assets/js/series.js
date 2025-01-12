@@ -767,19 +767,6 @@ series = {
         'symbol': 'WEC',
         'events': {
             '0': {
-                'name': 'Prologue',
-                'venue': 78,
-                'sessions': {
-                    '0': {
-                        'name': 'TBA',
-                        'symbol': 'P',
-                        'timestamp': 1740484800,
-                        'length': 10800,
-                        'live': false
-                    }
-                }
-            },
-            '1': {
                 'name': 'Qatar 1812 km',
                 'venue': 78,
                 'sessions': {
@@ -792,7 +779,7 @@ series = {
                     }
                 }
             },
-            '2': {
+            '1': {
                 'name': '6h of Imola',
                 'venue': 36,
                 'sessions': {
@@ -805,7 +792,7 @@ series = {
                     }
                 }
             },
-            '3': {
+            '2': {
                 'name': '6h of Spa-Francorchamps',
                 'venue': 0,
                 'sessions': {
@@ -818,7 +805,7 @@ series = {
                     }
                 }
             },
-            '4': {
+            '3': {
                 'name': '24h of Le Mans',
                 'venue': 44,
                 'sessions': {
@@ -831,7 +818,7 @@ series = {
                     }
                 }
             },
-            '5': {
+            '4': {
                 'name': '6h of São Paulo',
                 'venue': 10,
                 'sessions': {
@@ -844,7 +831,7 @@ series = {
                     }
                 }
             },
-            '6': {
+            '5': {
                 'name': '6h of the Americas',
                 'venue': 8,
                 'sessions': {
@@ -857,7 +844,7 @@ series = {
                     }
                 }
             },
-            '7': {
+            '6': {
                 'name': '6h of Fuji',
                 'venue': 21,
                 'sessions': {
@@ -870,7 +857,7 @@ series = {
                     }
                 }
             },
-            '8': {
+            '7': {
                 'name': '8h of Bahrain',
                 'venue': 20,
                 'sessions': {
@@ -2373,19 +2360,6 @@ series = {
         'symbol': 'ELMS',
         'events': {
             '0': {
-                'name': 'Prologue',
-                'venue': 38,
-                'sessions': {
-                    '0': {
-                        'name': 'TBA',
-                        'symbol': 'T',
-                        'timestamp': 1743505200,
-                        'length': 10800,
-                        'live': false
-                    }
-                }
-            },
-            '1': {
                 'name': '4h of Barcelona',
                 'venue': 38,
                 'sessions': {
@@ -2398,7 +2372,7 @@ series = {
                     }
                 }
             },
-            '2': {
+            '1': {
                 'name': '4h of Le Castellet',
                 'venue': 41,
                 'sessions': {
@@ -2411,7 +2385,7 @@ series = {
                     }
                 }
             },
-            '3': {
+            '2': {
                 'name': '4h of Imola',
                 'venue': 36,
                 'sessions': {
@@ -2424,7 +2398,7 @@ series = {
                     }
                 }
             },
-            '4': {
+            '3': {
                 'name': '4h of Spa-Francorchamps',
                 'venue': 0,
                 'sessions': {
@@ -2437,7 +2411,7 @@ series = {
                     }
                 }
             },
-            '5': {
+            '4': {
                 'name': '4h of Silverstone',
                 'venue': 4,
                 'sessions': {
@@ -2450,7 +2424,7 @@ series = {
                     }
                 }
             },
-            '6': {
+            '5': {
                 'name': '4h of Portimão',
                 'venue': 16,
                 'sessions': {
@@ -2466,137 +2440,405 @@ series = {
         }
     },
      //GT World Challenge Europe
-    "11": {
-        "name": "GT World Challenge Europe",
-        "symbol": "GTWCE",
-        "events": {
-            "0": {
-                "name": "Paul Ricard",
-                "venue": 41,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1744542000,
-                        "length": 3600,
-                        "live": false
+    '11': {
+        'name': 'GT World Challenge Europe',
+        'symbol': 'GTWCE',
+        'events': {
+            '0': {
+                'name': 'Paul Ricard',
+                'venue': 41,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744542000,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "1": {
-                "name": "Brands Hatch",
-                "venue": 100,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1746356400,
-                        "length": 3600,
-                        "live": false
+            '1': {
+                'name': 'Brands Hatch',
+                'venue': 100,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746356400,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "2": {
-                "name": "Zandvoort",
-                "venue": 1,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1750244400,
-                        "length": 6000,
-                        "live": false
+            '2': {
+                'name': 'Zandvoort',
+                'venue': 1,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750244400,
+                        'length': 6000,
+                        'live': false
                     }
                 }
             },
-            "3": {
-                "name": "Monza",
-                "venue": 2,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1748775600,
-                        "length": 3600,
-                        "live": false
+            '3': {
+                'name': 'Monza',
+                'venue': 2,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748775600,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "4": {
-                "name": "24h of Spa",
-                "venue": 0,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1751194800,
-                        "length": 3600,
-                        "live": false
+            '4': {
+                'name': '24h of Spa',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751194800,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "5": {
-                "name": "Misano",
-                "venue": 15,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1753009200,
-                        "length": 6000,
-                        "live": false
+            '5': {
+                'name': 'Misano',
+                'venue': 15,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753009200,
+                        'length': 6000,
+                        'live': false
                     }
                 }
             },
-            "6": {
-                "name": "Magny-Cours",
-                "venue": 104,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1754218800,
-                        "length": 3600,
-                        "live": false
+            '6': {
+                'name': 'Magny-Cours',
+                'venue': 104,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1754218800,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "7": {
-                "name": "Nürburgring",
-                "venue": 102,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1756638000,
-                        "length": 3600,
-                        "live": false
+            '7': {
+                'name': 'Nürburgring',
+                'venue': 102,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756638000,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "8": {
-                "name": "Valencia",
-                "venue": 17,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1758452400,
-                        "length": 3600,
-                        "live": false
+            '8': {
+                'name': 'Valencia',
+                'venue': 17,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1758452400,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "9": {
-                "name": "Barcelona",
-                "venue": 38,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1760266800,
-                        "length": 3600,
-                        "live": false
+            '9': {
+                'name': 'Barcelona',
+                'venue': 38,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760266800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //GT World Challenge America
+    '12': {
+        'name': 'GT World Challenge America',
+        'symbol': 'GTWCAm',
+        'events': {
+            '0': {
+                'name': 'Sonoma',
+                'venue': 109,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743332400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Circuit of the Americas',
+                'venue': 8,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745751600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Sebring',
+                'venue': 34,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1747566000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Virginia',
+                'venue': 132,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753009200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Road America',
+                'venue': 67,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1755428400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Barber Motorsports Park',
+                'venue': 64,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757242800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Indianapolis',
+                'venue': 65,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //GT World Challenge Asia
+    '13': {
+        'name': 'GT World Challenge Asia',
+        'symbol': 'GTWCA',
+        'events': {
+            '0': {
+                'name': 'Sepang',
+                'venue': 76,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744542000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Mandalika',
+                'venue': 77,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746961200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Buriram',
+                'venue': 86,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748775600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Fuji',
+                'venue': 21,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752404400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Okayama',
+                'venue': 157,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756638000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Shanghai',
+                'venue': 52,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //GT World Challenge Australia
+    '14': {
+        'name': 'GT World Challenge Australia',
+        'symbol': 'GTWCAu',
+        'events': {
+            '0': {
+                'name': 'Phillip Island',
+                'venue': 87,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743937200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Sydney',
+                'venue': 145,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746356400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Queensland',
+                'venue': 175,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748775600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Sandown',
+                'venue': 147,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753614000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'The Bend',
+                'venue': 176,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757242800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Hampton Downs',
+                'venue': 53,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1762084800,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             }
