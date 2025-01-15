@@ -118,7 +118,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     margin: 0;
   }
   html {
-    font-size: 2rem;
+    font-size: 1.8rem;
     text-align: center;
   }
   article {
@@ -173,7 +173,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     border: 1px solid #c0c0c0;
   }
 
-  .img-top { max-height: 30px; }
+  .img-top { max-height: 40px; }
   .img-flag { max-height: 15px; }
   .img-yt { height: 1.6em; }
 
@@ -189,7 +189,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     height: 1em;
   }
   span.series {
-    font-size: 1.2rem;
+    font-size: .9rem;
   }
   img.menu { display: none; }
 }

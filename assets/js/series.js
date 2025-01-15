@@ -1287,9 +1287,9 @@ series = {
             }
         }
     },
-     //Internation GT Championship
+     //Internation GT Challenge
     '5': {
-        'name': 'International GT Championship',
+        'name': 'International GT Challenge',
         'symbol': 'IGTC',
         'events': {
             '0': {
@@ -3201,6 +3201,254 @@ series = {
                         'name': 'TBA',
                         'symbol': 'R',
                         'timestamp': 1762084800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     // International GT Open
+    '15': {
+        'name': 'International GT Open',
+        'symbol': 'IGTO',
+        'events': {
+            '0': {
+                'name': 'Portimão',
+                'venue': 16,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745751600,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '1': {
+                'name': 'Spa',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1747566000,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '2': {
+                'name': 'Hockenheim',
+                'venue': 27,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749380400,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '3': {
+                'name': 'Hungaroring',
+                'venue': 42,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751799600,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '4': {
+                'name': 'Paul Ricard',
+                'venue': 41,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753009200,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '5': {
+                'name': 'Red Bull Ring',
+                'venue': 25,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757242800,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '6': {
+                'name': 'Barcelona',
+                'venue': 38,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1758452400,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            },
+            '7': {
+                'name': 'Monza',
+                'venue': 2,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTOPENseries/streams'
+                    }
+                }
+            }
+        }
+    },
+     //BTCC
+    '16': {
+        'name': 'British Touring Car Championship',
+        'symbol': 'BTCC',
+        'events': {
+            '0': {
+                'name': 'Donington Park National',
+                'venue': 97,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745751600,
+                        'length': 2100,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Brands Hatch Indy',
+                'venue': 100,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746961200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Snetterton',
+                'venue': 116,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748170800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Thruxton',
+                'venue': 103,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749380400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Oulton Park',
+                'venue': 113,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750590000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Croft',
+                'venue': 114,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1754218800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Knockhill',
+                'venue': 115,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1755428400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Donington Park',
+                'venue': 97,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756638000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'Silverstone',
+                'venue': 4,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1758452400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'Brands Hatch',
+                'venue': 100,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1759662000,
                         'length': 3600,
                         'live': false
                     }
