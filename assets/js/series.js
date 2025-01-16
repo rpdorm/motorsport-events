@@ -1287,9 +1287,9 @@ series = {
             }
         }
     },
-     //Internation GT Challenge
+     //Intercontinental GT Challenge
     '5': {
-        'name': 'International GT Challenge',
+        'name': 'Intercontinental GT Challenge',
         'symbol': 'IGTC',
         'events': {
             '0': {
@@ -3562,6 +3562,91 @@ series = {
                         'timestamp': 1759662000,
                         'length': 3600,
                         'live': false
+                    }
+                }
+            }
+        }
+    },
+     // Le Mans Cup
+    "18": {
+        "name": "Le Mans Cup",
+        "symbol": "LMC",
+        "events": {
+            "0": {
+                "name": "Barcelona",
+                "venue": 38,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1743850800,
+                        "length": 5200,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "Le Castellet",
+                "venue": 41,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1746270000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "Road to Le Mans",
+                "venue": 44,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1749726000,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "Spa-Francorchamps",
+                "venue": 0,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1755946800,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "4": {
+                "name": "Silverstone",
+                "venue": 4,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1757761200,
+                        "length": 3600,
+                        "live": false
+                    }
+                }
+            },
+            "5": {
+                "name": "Portimão",
+                "venue": 16,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1760785200,
+                        "length": 3600,
+                        "live": false
                     }
                 }
             }
