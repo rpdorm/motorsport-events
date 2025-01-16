@@ -2439,10 +2439,10 @@ series = {
             }
         }
     },
-     //GT World Challenge Europe
+     //GT World Challenge
     '11': {
-        'name': 'GT World Challenge Europe',
-        'symbol': 'GTWCE',
+        'name': 'GT World Challenge',
+        'symbol': 'GTWC',
         'events': {
             '0': {
                 'name': 'Paul Ricard',
@@ -2937,15 +2937,9 @@ series = {
                         'live': false
                     }
                 }
-            }
-        }
-    },
+            },
      //GT World Challenge America
-    '12': {
-        'name': 'GT World Challenge America',
-        'symbol': 'GTWCAm',
-        'events': {
-            '0': {
+            '10': {
                 'name': 'Sonoma',
                 'venue': 109,
                 'sessions': {
@@ -2958,7 +2952,7 @@ series = {
                     }
                 }
             },
-            '1': {
+            '11': {
                 'name': 'Circuit of the Americas',
                 'venue': 8,
                 'sessions': {
@@ -2971,7 +2965,7 @@ series = {
                     }
                 }
             },
-            '2': {
+            '12': {
                 'name': 'Sebring',
                 'venue': 34,
                 'sessions': {
@@ -2984,7 +2978,7 @@ series = {
                     }
                 }
             },
-            '3': {
+            '13': {
                 'name': 'Virginia',
                 'venue': 132,
                 'sessions': {
@@ -2997,7 +2991,7 @@ series = {
                     }
                 }
             },
-            '4': {
+            '14': {
                 'name': 'Road America',
                 'venue': 67,
                 'sessions': {
@@ -3010,7 +3004,7 @@ series = {
                     }
                 }
             },
-            '5': {
+            '15': {
                 'name': 'Barber Motorsports Park',
                 'venue': 64,
                 'sessions': {
@@ -3023,7 +3017,7 @@ series = {
                     }
                 }
             },
-            '6': {
+            '16': {
                 'name': 'Indianapolis',
                 'venue': 65,
                 'sessions': {
@@ -3035,15 +3029,9 @@ series = {
                         'live': false
                     }
                 }
-            }
-        }
-    },
+            },
      //GT World Challenge Asia
-    '13': {
-        'name': 'GT World Challenge Asia',
-        'symbol': 'GTWCA',
-        'events': {
-            '0': {
+            '17': {
                 'name': 'Sepang',
                 'venue': 76,
                 'sessions': {
@@ -3056,7 +3044,7 @@ series = {
                     }
                 }
             },
-            '1': {
+            '18': {
                 'name': 'Mandalika',
                 'venue': 77,
                 'sessions': {
@@ -3069,7 +3057,7 @@ series = {
                     }
                 }
             },
-            '2': {
+            '19': {
                 'name': 'Buriram',
                 'venue': 86,
                 'sessions': {
@@ -3082,7 +3070,7 @@ series = {
                     }
                 }
             },
-            '3': {
+            '20': {
                 'name': 'Fuji',
                 'venue': 21,
                 'sessions': {
@@ -3095,7 +3083,7 @@ series = {
                     }
                 }
             },
-            '4': {
+            '21': {
                 'name': 'Okayama',
                 'venue': 157,
                 'sessions': {
@@ -3108,7 +3096,7 @@ series = {
                     }
                 }
             },
-            '5': {
+            '22': {
                 'name': 'Shanghai',
                 'venue': 52,
                 'sessions': {
@@ -3120,15 +3108,9 @@ series = {
                         'live': false
                     }
                 }
-            }
-        }
-    },
+            },
      //GT World Challenge Australia
-    '14': {
-        'name': 'GT World Challenge Australia',
-        'symbol': 'GTWCAu',
-        'events': {
-            '0': {
+            '23': {
                 'name': 'Phillip Island',
                 'venue': 87,
                 'sessions': {
@@ -3141,7 +3123,7 @@ series = {
                     }
                 }
             },
-            '1': {
+            '24': {
                 'name': 'Sydney',
                 'venue': 145,
                 'sessions': {
@@ -3154,7 +3136,7 @@ series = {
                     }
                 }
             },
-            '2': {
+            '25': {
                 'name': 'Queensland',
                 'venue': 175,
                 'sessions': {
@@ -3167,7 +3149,7 @@ series = {
                     }
                 }
             },
-            '3': {
+            '26': {
                 'name': 'Sandown',
                 'venue': 147,
                 'sessions': {
@@ -3180,7 +3162,7 @@ series = {
                     }
                 }
             },
-            '4': {
+            '27': {
                 'name': 'The Bend',
                 'venue': 176,
                 'sessions': {
@@ -3193,7 +3175,7 @@ series = {
                     }
                 }
             },
-            '5': {
+            '28': {
                 'name': 'Hampton Downs',
                 'venue': 53,
                 'sessions': {
@@ -3209,7 +3191,7 @@ series = {
         }
     },
      // International GT Open
-    '15': {
+    '12': {
         'name': 'International GT Open',
         'symbol': 'IGTO',
         'events': {
@@ -3320,7 +3302,7 @@ series = {
         }
     },
      //BTCC
-    '16': {
+    '13': {
         'name': 'British Touring Car Championship',
         'symbol': 'BTCC',
         'events': {
@@ -3457,7 +3439,7 @@ series = {
         }
     },
      //DTM
-    '17': {
+    '14': {
         'name': 'Deutsche Tourenwagen Masters',
         'symbol': 'DTM',
         'events': {
@@ -3568,85 +3550,196 @@ series = {
         }
     },
      // Le Mans Cup
-    "18": {
-        "name": "Le Mans Cup",
-        "symbol": "LMC",
-        "events": {
-            "0": {
-                "name": "Barcelona",
-                "venue": 38,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1743850800,
-                        "length": 5200,
-                        "live": false
+    '15': {
+        'name': 'Le Mans Cup',
+        'symbol': 'LMC',
+        'events': {
+            '0': {
+                'name': 'Barcelona',
+                'venue': 38,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743850800,
+                        'length': 5200,
+                        'live': false
                     }
                 }
             },
-            "1": {
-                "name": "Le Castellet",
-                "venue": 41,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1746270000,
-                        "length": 3600,
-                        "live": false
+            '1': {
+                'name': 'Le Castellet',
+                'venue': 41,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746270000,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "2": {
-                "name": "Road to Le Mans",
-                "venue": 44,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1749726000,
-                        "length": 3600,
-                        "live": false
+            '2': {
+                'name': 'Road to Le Mans',
+                'venue': 44,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749726000,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "3": {
-                "name": "Spa-Francorchamps",
-                "venue": 0,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1755946800,
-                        "length": 3600,
-                        "live": false
+            '3': {
+                'name': 'Spa-Francorchamps',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1755946800,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "4": {
-                "name": "Silverstone",
-                "venue": 4,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1757761200,
-                        "length": 3600,
-                        "live": false
+            '4': {
+                'name': 'Silverstone',
+                'venue': 4,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757761200,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
-            "5": {
-                "name": "Portimão",
-                "venue": 16,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1760785200,
-                        "length": 3600,
-                        "live": false
+            '5': {
+                'name': 'Portimão',
+                'venue': 16,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760785200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+    //TCR World Tour
+    '16': {
+        'name': 'TCR World Tour',
+        'symbol': 'TCR',
+        'events': {
+            '0': {
+                'name': 'Mexico City',
+                'venue': 9,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746270000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Valencia',
+                'venue': 17,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749985200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Monza',
+                'venue': 2,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750590000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Vila Real',
+                'venue': 124,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751799600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'The Bend',
+                'venue': 176,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757847600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Inje',
+                'venue': 125,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Zhuzhou',
+                'venue': 168,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1762084800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Macau',
+                'venue': 169,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1763294400,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             }

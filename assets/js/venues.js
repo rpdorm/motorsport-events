@@ -746,16 +746,16 @@ venues = {
         'url': 'https://www.racingcircuits.info/north-america/usa/milwaukee-mile.html'
     },
     '124': {
-        'name': 'Monaco',
-        'location': 'Monaco',
-        'flag': 'mc',
-        'url': false
+        'name': 'Circuito de Vila Real',
+        'location': 'Vila Real, Portugal',
+        'flag': 'pt',
+        'url': 'https://www.racingcircuits.info/europe/portugal/vila-real.html'
     },
     '125': {
-        'name': 'Poland',
-        'location': 'Poland',
-        'flag': 'pl',
-        'url': false
+        'name': 'Inje Speedium',
+        'location': 'Inje, South Korea',
+        'flag': 'kr',
+        'url': 'https://www.racingcircuits.info/asia/south-korea/inje-speedium.html'
     },
     '126': {
         'name': 'Latvia',
@@ -1016,7 +1016,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/asia/china/zhuzhou-international-circuit.html'
     },
     '169': {
-        'name': 'Guia Circuit',
+        'name': 'Circuito da Guia',
         'location': 'Macau',
         'flag': 'mo',
         'url': 'https://www.racingcircuits.info/asia/macau/macau-guia.html'

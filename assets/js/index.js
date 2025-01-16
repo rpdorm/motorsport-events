@@ -21,7 +21,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 	for (j=0; j<Object.keys(events).length; j++) {
 		t=Object.keys(series[i].events[j].sessions).length-1;
 		timestamp = series[i].events[j].sessions[t].timestamp+series[i].events[j].sessions[t].length;
-		shatimestamp = sha256(`sha' ${series[i].name}-${timestamp}`);
+		shatimestamp = sha256(`sha' ${series[i].name}-${series[i].events[j].name}-${timestamp}`);
 		if (timestamp >= now && timestamp <= upcoming) {
 			name = series[i].events[j].name;
 			venue = venues[series[i].events[j].venue];
