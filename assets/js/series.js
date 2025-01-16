@@ -883,49 +883,49 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'Session 1',
-                        'symbol': 'S1',
+                        'symbol': 'T1',
                         'timestamp': 1737129600,
                         'length': 4500,
                         'live': false
                     },
                     '1': {
                         'name': 'Session 2',
-                        'symbol': 'S2',
+                        'symbol': 'T2',
                         'timestamp': 1737144000,
                         'length': 7200,
                         'live': false
                     },
                     '2': {
                         'name': 'Session 3',
-                        'symbol': 'S3',
+                        'symbol': 'T3',
                         'timestamp': 1737216900,
                         'length': 5400,
                         'live': false
                     },
                     '3': {
                         'name': 'Session 4',
-                        'symbol': 'S4',
+                        'symbol': 'T4',
                         'timestamp': 1737231000,
                         'length': 3600,
                         'live': false
                     },
                     '4': {
                         'name': 'Session 5',
-                        'symbol': 'S5',
+                        'symbol': 'T5',
                         'timestamp': 1737243000,
                         'length': 7200,
                         'live': false
                     },
                     '5': {
                         'name': 'Session 6',
-                        'symbol': 'S6',
+                        'symbol': 'T6',
                         'timestamp': 1737297900,
                         'length': 3600,
                         'live': false
                     },
                     '6': {
                         'name': 'Session 7',
-                        'symbol': 'S7',
+                        'symbol': 'T7',
                         'timestamp': 1737315000,
                         'length': 5400,
                         'live': false
@@ -1178,21 +1178,21 @@ series = {
                 'sessions': {
                 	'0': {
                         'name': 'Test Session 1',
-                        'symbol': 'T',
+                        'symbol': 'T1',
                         'timestamp': 1737089100,
                         'length': 7200,
                         'live': false
                     },
                     '1': {
                         'name': 'Test Session 2',
-                        'symbol': 'T',
+                        'symbol': 'T2',
                         'timestamp': 1737119100,
                         'length': 7200,
                         'live': false
                     },
                     '2': {
                         'name': 'Test Session 3',
-                        'symbol': 'T',
+                        'symbol': 'T3',
                         'timestamp': 1737135300,
                         'length': 7200,
                         'live': false
@@ -1209,14 +1209,14 @@ series = {
                         'symbol': 'Q',
                         'timestamp': 1737207600,
                         'length': 3300,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': 'https://www.youtube.com/watch?v=Y0A-KT4tmkY'
                     },
                     '5': {
                         'name': 'Race',
                         'symbol': 'R',
                         'timestamp': 1737268200,
                         'length': 21600,
-                        'live': 'https://www.youtube.com/@creventicmotorsportstv/streams'
+                        'live': 'https://www.youtube.com/watch?v=_4SZW4c-FQ4'
                     }
                 }
             },
@@ -1650,7 +1650,7 @@ series = {
         'symbol': 'NASCAR',
         'events': {
             '0': {
-                'name': 'Clash',
+                'name': 'NASCAR Clash',
                 'venue': 51,
                 'sessions': {
                     '0': {
@@ -3444,6 +3444,117 @@ series = {
             '9': {
                 'name': 'Brands Hatch',
                 'venue': 100,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1759662000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //DTM
+    '17': {
+        'name': 'Deutsche Tourenwagen Masters',
+        'symbol': 'DTM',
+        'events': {
+            '0': {
+                'name': 'Oschersleben',
+                'venue': 158,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745751600,
+                        'length': 3300,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Lausitzring',
+                'venue': 159,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748170800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Zandvoort',
+                'venue': 1,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749380400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Norisring',
+                'venue': 28,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751799600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Nürburgring',
+                'venue': 102,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1754823600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Sachsenring',
+                'venue': 83,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756033200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Red Bull Ring',
+                'venue': 25,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757847600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Hockenheimring',
+                'venue': 27,
                 'sessions': {
                     '0': {
                         'name': 'TBA',
