@@ -3900,163 +3900,456 @@ series = {
         }
     },
      //WSBK
-    "17": {
-        "name": "Superbike World Championship",
-        "symbol": "WSBK",
-        "events": {
-            "0": {
-                "name": "Australian Round",
-                "venue": 87,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1740312000,
-                        "length": 2700,
-                        "live": false
+    '17': {
+        'name': 'Superbike World Championship',
+        'symbol': 'WSBK',
+        'events': {
+            '0': {
+                'name': 'Australian Round',
+                'venue': 87,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1740312000,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "1": {
-                "name": "Portuguese Round",
-                "venue": 16,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1743332400,
-                        "length": 2700,
-                        "live": false
+            '1': {
+                'name': 'Portuguese Round',
+                'venue': 16,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743332400,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "2": {
-                "name": "Dutch Round",
-                "venue": 26,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1744542000,
-                        "length": 2700,
-                        "live": false
+            '2': {
+                'name': 'Dutch Round',
+                'venue': 26,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744542000,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "3": {
-                "name": "Italian Round",
-                "venue": 154,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1746356400,
-                        "length": 2700,
-                        "live": false
+            '3': {
+                'name': 'Italian Round',
+                'venue': 154,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746356400,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "4": {
-                "name": "Czech Round",
-                "venue": 22,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1747566000,
-                        "length": 2700,
-                        "live": false
+            '4': {
+                'name': 'Czech Round',
+                'venue': 22,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1747566000,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "5": {
-                "name": "Emilia-Romagna Round",
-                "venue": 15,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1749985200,
-                        "length": 2700,
-                        "live": false
+            '5': {
+                'name': 'Emilia-Romagna Round',
+                'venue': 15,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749985200,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "6": {
-                "name": "UK Round",
-                "venue": 97,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1752404400,
-                        "length": 2700,
-                        "live": false
+            '6': {
+                'name': 'UK Round',
+                'venue': 97,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752404400,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "7": {
-                "name": "Hungarian Round",
-                "venue": 153,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1753614000,
-                        "length": 2700,
-                        "live": false
+            '7': {
+                'name': 'Hungarian Round',
+                'venue': 153,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753614000,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "8": {
-                "name": "French Round",
-                "venue": 104,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1757242800,
-                        "length": 2700,
-                        "live": false
+            '8': {
+                'name': 'French Round',
+                'venue': 104,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757242800,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "9": {
-                "name": "Aragón Round",
-                "venue": 14,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1759057200,
-                        "length": 2700,
-                        "live": false
+            '9': {
+                'name': 'Aragón Round',
+                'venue': 14,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1759057200,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "10": {
-                "name": "Estoril Round",
-                "venue": 101,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1760266800,
-                        "length": 2700,
-                        "live": false
+            '10': {
+                'name': 'Estoril Round',
+                'venue': 101,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760266800,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             },
-            "11": {
-                "name": "Spanish Round",
-                "venue": 80,
-                "sessions": {
-                    "0": {
-                        "name": "TBA",
-                        "symbol": "R",
-                        "timestamp": 1760871600,
-                        "length": 2700,
-                        "live": false
+            '11': {
+                'name': 'Spanish Round',
+                'venue': 80,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //MotoGP
+    '18': {
+        'name': 'MotoGP',
+        'symbol': 'MotoGP',
+        'events': {
+            '0': {
+                'name': 'Thailand Grand Prix',
+                'venue': 86,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1740916800,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Argentine Grand Prix',
+                'venue': 79,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1742126400,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Grand Prix of the Americas',
+                'venue': 8,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743332400,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Grand Prix of Qatar',
+                'venue': 78,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744542000,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Spanish Grand Prix',
+                'venue': 80,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745751600,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'French Grand Prix',
+                'venue': 81,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746961200,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'British Grand Prix',
+                'venue': 4,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748170800,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Aragon Grand Prix',
+                'venue': 14,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749380400,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'Italian Grand Prix',
+                'venue': 82,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750590000,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'Dutch TT',
+                'venue': 26,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751194800,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '10': {
+                'name': 'German Grand Prix',
+                'venue': 83,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752404400,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '11': {
+                'name': 'Czech Grand Prix',
+                'venue': 173,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753009200,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '12': {
+                'name': 'Austrian Grand Prix',
+                'venue': 25,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1755428400,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '13': {
+                'name': 'Hungarian Grand Prix',
+                'venue': 153,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756033200,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '14': {
+                'name': 'Catalan Grand Prix',
+                'venue': 38,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757242800,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '15': {
+                'name': 'San Marino and Rimini Riviera Grand Prix',
+                'venue': 15,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757847600,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '16': {
+                'name': 'Japanese Grand Prix',
+                'venue': 85,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1759057200,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '17': {
+                'name': 'Indonesian Grand Prix',
+                'venue': 77,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1759662000,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '18': {
+                'name': 'Australian Grand Prix',
+                'venue': 87,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '19': {
+                'name': 'Malaysian Grand Prix',
+                'venue': 76,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1761480000,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '20': {
+                'name': 'Portuguese Grand Prix',
+                'venue': 16,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1762689600,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '21': {
+                'name': 'Valencian Community Grand Prix',
+                'venue': 17,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1763294400,
+                        'length': 2700,
+                        'live': false
                     }
                 }
             }

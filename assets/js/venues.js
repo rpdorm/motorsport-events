@@ -518,7 +518,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/asia/japan/motegi.html'
     },
     '86': {
-        'name': 'Buriram',
+        'name': 'Chang International Circuit',
         'location': 'Buriram, Thailand',
         'flag': 'th',
         'url': 'https://www.racingcircuits.info/asia/thailand/buriram-united-international-circuit.html'
