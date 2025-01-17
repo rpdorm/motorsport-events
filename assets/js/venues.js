@@ -93,7 +93,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/europe/spain/motorland-aragon.html'
     },
     '15': {
-        'name': 'Misano',
+        'name': 'Misano World Circuit Marco Simoncelli',
         'location': 'Misano Adriático, Italy',
         'flag': 'it',
         'url': 'https://www.racingcircuits.info/europe/italy/misano.html'
@@ -135,7 +135,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/asia/japan/fuji-speedway.html'
     },
     '22': {
-        'name': 'Most',
+        'name': 'Autodrom Most',
         'location': 'Most, Czech Republic',
         'flag': 'cz',
         'url': 'https://www.racingcircuits.info/europe/czech-republic/most.html'
@@ -483,7 +483,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/south-america/argentina/autodromo-termas-de-rio-hondo.html'
     },
     '80': {
-        'name': 'Jerez',
+        'name': 'Circuito de Jerez',
         'location': 'Jerez de la Frontera, Spain',
         'flag': 'es',
         'url': 'https://www.racingcircuits.info/europe/spain/jerez.html'
@@ -608,7 +608,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/europe/united-kingdom/brands-hatch.html'
     },
     '101': {
-        'name': 'Estoril',
+        'name': 'Circuito do Estoril',
         'location': 'Cascais, Portugal',
         'flag': 'pt',
         'url': 'https://www.racingcircuits.info/europe/portugal/estoril.html'
@@ -626,7 +626,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/europe/united-kingdom/thruxton.html'
     },
     '104': {
-        'name': 'Magny-Cours',
+        'name': 'Circuit de Nevers Magny-Cours',
         'location': 'Magny Cours, France',
         'flag': 'fr',
         'url': 'https://www.racingcircuits.info/europe/france/magny-cours.html'

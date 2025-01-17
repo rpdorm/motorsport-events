@@ -3898,5 +3898,168 @@ series = {
                 }
             }
         }
+    },
+     //WSBK
+    "17": {
+        "name": "Superbike World Championship",
+        "symbol": "WSBK",
+        "events": {
+            "0": {
+                "name": "Australian Round",
+                "venue": 87,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1740312000,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "1": {
+                "name": "Portuguese Round",
+                "venue": 16,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1743332400,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "2": {
+                "name": "Dutch Round",
+                "venue": 26,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1744542000,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "3": {
+                "name": "Italian Round",
+                "venue": 154,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1746356400,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "4": {
+                "name": "Czech Round",
+                "venue": 22,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1747566000,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "5": {
+                "name": "Emilia-Romagna Round",
+                "venue": 15,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1749985200,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "6": {
+                "name": "UK Round",
+                "venue": 97,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1752404400,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "7": {
+                "name": "Hungarian Round",
+                "venue": 153,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1753614000,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "8": {
+                "name": "French Round",
+                "venue": 104,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1757242800,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "9": {
+                "name": "Aragón Round",
+                "venue": 14,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1759057200,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "10": {
+                "name": "Estoril Round",
+                "venue": 101,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1760266800,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            },
+            "11": {
+                "name": "Spanish Round",
+                "venue": 80,
+                "sessions": {
+                    "0": {
+                        "name": "TBA",
+                        "symbol": "R",
+                        "timestamp": 1760871600,
+                        "length": 2700,
+                        "live": false
+                    }
+                }
+            }
+        }
     }
 }
