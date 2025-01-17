@@ -1295,81 +1295,67 @@ series = {
             '0': {
                 'name': 'Bathurst 12h',
                 'venue': 33,
-                'sessions': {/*
+                'sessions': {
                     '0': {
                         'name': 'Practice 1',
                         'symbol': 'P1',
-                        'timestamp': 1708032300,
+                        'timestamp': 1738272900,
                         'length': 2400,
                         'live': false
                     },
                     '1': {
                         'name': 'Practice 2',
                         'symbol': 'P2',
-                        'timestamp': 1708038000,
+                        'timestamp': 1738278600,
                         'length': 2400,
                         'live': false
                     },
                     '2': {
                         'name': 'Practice 3',
                         'symbol': 'P3',
-                        'timestamp': 1708050600,
+                        'timestamp': 1738291500,
                         'length': 2400,
                         'live': false
                     },
                     '3': {
                         'name': 'Practice 4',
                         'symbol': 'P4',
-                        'timestamp': 1708060200,
+                        'timestamp': 1738301400,
                         'length': 2400,
                         'live': false
                     },
                     '4': {
                         'name': 'Practice 5',
                         'symbol': 'P5',
-                        'timestamp': 1708117500,
+                        'timestamp': 1738359300,
                         'length': 3600,
                         'live': false
                     },
                     '5': {
                         'name': 'Practice 6',
                         'symbol': 'P6',
-                        'timestamp': 1708124400,
+                        'timestamp': 1738365900,
                         'length': 3600,
                         'live': false
                     },
                     '6': {
-                        'name': 'Qualifying 1',
-                        'symbol': 'Q1',
-                        'timestamp': 1708134000,
-                        'length': 1800,
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1738375500,
+                        'length': 3600,
                         'live': false
                     },
                     '7': {
-                        'name': 'Qualifying 2',
-                        'symbol': 'Q2',
-                        'timestamp': 1708137000,
-                        'length': 1800,
+                        'name': 'Pole Battle',
+                        'symbol': 'PB',
+                        'timestamp': 1738386300,
+                        'length': 900,
                         'live': false
                     },
                     '8': {
-                        'name': 'Top Ten Shootout 1',
-                        'symbol': 'T10',
-                        'timestamp': 1708146300,
-                        'length': 900,
-                        'live': false
-                    },
-                    '9': {
-                        'name': 'Top Ten Shootout 2',
-                        'symbol': 'T10',
-                        'timestamp': 1708147800,
-                        'length': 900,
-                        'live': false
-                    },*/
-                    '0': {
-                        'name': 'TBA',
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1738497600,
+                        'timestamp': 1738435500,
                         'length': 43200,
                         'live': false
                     }
