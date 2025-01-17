@@ -2253,9 +2253,65 @@ series = {
                 'venue': 145,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1740312000,
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1740105900,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1740115200,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1740127800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1740195300,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Top Ten Shootout 1',
+                        'symbol': 'TTSO1',
+                        'timestamp': 1740202500,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1740213000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Qualifying 3',
+                        'symbol': 'Q3',
+                        'timestamp': 1740269400,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Top Ten Shootout 2',
+                        'symbol': 'TTSO2',
+                        'timestamp': 1740276300,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '8': {
+                        'name': 'Race 3',
+                        'symbol': 'R3',
+                        'timestamp': 1740287100,
                         'length': 3600,
                         'live': false
                     }
