@@ -4424,5 +4424,404 @@ series = {
                 }
             }
         }
+    },
+     //WRC
+    '19': {
+        'name': 'World Rally Championship',
+        'symbol': 'WRC',
+        'events': {
+            '0': {
+                'name': 'Rallye Monte-Carlo',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'Shakedown',
+                        'symbol': 'S',
+                        'timestamp': 1737558060,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@wrc/streams'
+                    },
+                    '1': {
+                        'name': 'SS1 Digne-les-Bains / Chaudon-Norante 1',
+                        'symbol': 'SS1',
+                        'timestamp': 1737651900,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'SS2 Faucon-du-Caire / Bréziers',
+                        'symbol': 'SS2',
+                        'timestamp': 1737658380,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'SS3 Avançon / Notre-Dame du Laus 1',
+                        'symbol': 'SS3',
+                        'timestamp': 1737662760,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'SS4 Saint-Maurice / Aubessagne 1',
+                        'symbol': 'SS4',
+                        'timestamp': 1737707460,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'SS5 Saint-Léger-les-Mélèzes / La Bâtie-Neuve 1',
+                        'symbol': 'SS5',
+                        'timestamp': 1737711240,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'SS6 La Bréole / Selonnet 1',
+                        'symbol': 'SS6',
+                        'timestamp': 1737715320,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'SS7 Saint-Maurice / Aubessagne 2',
+                        'symbol': 'SS7',
+                        'timestamp': 1737728580,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '8': {
+                        'name': 'SS8 Saint-Léger-les-Mélèzes / La Bâtie-Neuve 2',
+                        'symbol': 'SS8',
+                        'timestamp': 1737732360,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '9': {
+                        'name': 'SS9 La Bréole / Selonnet 2',
+                        'symbol': 'SS9',
+                        'timestamp': 1737736440,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '10': {
+                        'name': 'SS10 La Motte-Chalancon / Saint-Nazaire 1',
+                        'symbol': 'SS10',
+                        'timestamp': 1737791940,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '11': {
+                        'name': 'SS11 Aucelon / Recoubeau-Jansac 1',
+                        'symbol': 'SS11',
+                        'timestamp': 1737795900,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '12': {
+                        'name': 'SS12 La-Bâtie-des-Fonts / Aspremont 1',
+                        'symbol': 'SS12',
+                        'timestamp': 1737799680,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '13': {
+                        'name': 'SS13 La Motte-Chalancon / Saint-Nazaire 2',
+                        'symbol': 'SS13',
+                        'timestamp': 1737813540,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '14': {
+                        'name': 'SS14 Aucelon / Recoubeau-Jansac 2',
+                        'symbol': 'SS14',
+                        'timestamp': 1737817500,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '15': {
+                        'name': 'SS15 La-Bâtie-des-Fonts / Aspremont 2',
+                        'symbol': 'SS15',
+                        'timestamp': 1737821280,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Rally Sweden',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'Shakedown',
+                        'symbol': 'S',
+                        'timestamp': 1739433660,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@wrc/streams'
+                    },
+                    '1': {
+                        'name': 'SS1 Umeå Sprint 1',
+                        'symbol': 'SS1',
+                        'timestamp': 1739469900,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'SS2 Bygdsiljum 1',
+                        'symbol': 'SS2',
+                        'timestamp': 1739521080,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'SS3 Andersvattnet 1',
+                        'symbol': 'SS3',
+                        'timestamp': 1739524740,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'SS4 Bäck 1',
+                        'symbol': 'SS4',
+                        'timestamp': 1739528820,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'SS5 Bygdsiljum 2',
+                        'symbol': 'SS5',
+                        'timestamp': 1739540880,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'SS6 Andersvattnet 2',
+                        'symbol': 'SS6',
+                        'timestamp': 1739544540,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'SS7 Bäck 2',
+                        'symbol': 'SS7',
+                        'timestamp': 1739548620,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '8': {
+                        'name': 'SS8 Umeå Sprint 2',
+                        'symbol': 'SS8',
+                        'timestamp': 1739556300,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '9': {
+                        'name': 'SS9 Vännäs 1',
+                        'symbol': 'SS9',
+                        'timestamp': 1739607000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '10': {
+                        'name': 'SS10 Sarsjöliden 1',
+                        'symbol': 'SS10',
+                        'timestamp': 1739610300,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '11': {
+                        'name': 'SS11 Kolksele 1',
+                        'symbol': 'SS11',
+                        'timestamp': 1739614080,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '12': {
+                        'name': 'SS12 Vännäs 2',
+                        'symbol': 'SS12',
+                        'timestamp': 1739625000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '13': {
+                        'name': 'SS13 Sarsjöliden 2',
+                        'symbol': 'SS13',
+                        'timestamp': 1739628300,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '14': {
+                        'name': 'SS14 Kolksele 2',
+                        'symbol': 'SS14',
+                        'timestamp': 1739632080,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '15': {
+                        'name': 'SS15 Umeå 1',
+                        'symbol': 'SS15',
+                        'timestamp': 1739639100,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Safari Rally Kenya',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1742731200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Rally Islas Canarias',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1745751600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Rally Portugal',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1747566000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Rally Sardegna',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1749380400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Acropolis Rally',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1751194800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Rally Estonia',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1753009200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'Rally Finland',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1754218800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'Rally Paraguay',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1756638000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '10': {
+                'name': 'Rally Chile',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1757847600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '11': {
+                'name': 'Central European Rally',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1760871600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '12': {
+                'name': 'Rally Japan',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1762689600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '13': {
+                'name': 'Rally Saudi Arabia',
+                'venue': 88,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'S',
+                        'timestamp': 1764504000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
     }
 }

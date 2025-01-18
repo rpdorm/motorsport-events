@@ -125,7 +125,6 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
     margin-bottom: .5rem;
   }
   h6 { font-size: .8rem; }
-  .img-top { max-height: 2rem; }
   .img-flag { max-height: .8rem; }
   .img-yt { height: 2rem; }
   .livestream {
@@ -137,6 +136,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #c0c0c0, w
   img.menu {
     height: 80px;
   }
+  .img-top { max-height: 60px; }
 }
 
 @media only screen and (min-width: 1280px) {
