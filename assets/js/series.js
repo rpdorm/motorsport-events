@@ -1712,49 +1712,49 @@ series = {
                     '0': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
-                        'timestamp': 1738408200,
+                        'timestamp': 1738451400,
                         'length': 6600,
                         'live': false
                     },
                     '1': {
                         'name': 'Heat Race 1',
                         'symbol': 'HR1',
-                        'timestamp': 1738416600,
+                        'timestamp': 1738459800,
                         'length': 900,
                         'live': false
                     },
                     '2': {
                         'name': 'Heat Race 2',
                         'symbol': 'HR2',
-                        'timestamp': 1738417500,
+                        'timestamp': 1738460700,
                         'length': 900,
                         'live': false
                     },
                     '3': {
                         'name': 'Heat Race 3',
                         'symbol': 'HR3',
-                        'timestamp': 1738418400,
+                        'timestamp': 1738461600,
                         'length': 900,
                         'live': false
                     },
                     '4': {
                         'name': 'Heat Race 4',
                         'symbol': 'HR4',
-                        'timestamp': 1738419300,
+                        'timestamp': 1738462500,
                         'length': 900,
                         'live': false
                     },
                     '5': {
                         'name': 'Last Chance Qualifying Race',
                         'symbol': 'LCQR',
-                        'timestamp': 1738494000,
+                        'timestamp': 1738537200,
                         'length': 3600,
                         'live': false
                     },
                     '6': {
                         'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1738501200,
+                        'timestamp': 1738544400,
                         'length': 7200,
                         'live': false
                     }
