@@ -978,10 +978,38 @@ series = {
                 'venue': 34,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1742040000,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1741874700,
                         'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1741892700,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Practice 3',
+                        'symbol': 'P3',
+                        'timestamp': 1741909500,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1741965900,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1742047800,
+                        'length': 43200,
                         'live': false
                     }
                 }
@@ -991,23 +1019,65 @@ series = {
                 'venue': 19,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1744455600,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1744387200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1744401600,
                         'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1744416600,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1744491900,
+                        'length': 6000,
                         'live': false
                     }
                 }
             },
             '4': {
-                'name': 'Course de Monterey',
+                'name': 'Grand Prix of Monterey',
                 'venue': 18,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1746961200,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1746825600,
                         'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1746896100,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1746915300,
+                        'length': 4200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1746992700,
+                        'length': 7200,
                         'live': false
                     }
                 }
