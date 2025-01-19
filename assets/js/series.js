@@ -771,7 +771,7 @@ series = {
                 'venue': 78,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice 1',
                         'symbol': 'FP1',
                         'timestamp': 1740916800,
                         'length': 5400,
@@ -3979,10 +3979,59 @@ series = {
                 'venue': 87,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1740312000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1740097200,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1740114000,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1740178800,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1740189600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1740200400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1740267000,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1740276000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1740286800,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -3992,10 +4041,59 @@ series = {
                 'venue': 16,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1743332400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1743158100,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1743174000,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1743238800,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1743246000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1743256800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1743325200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1743332400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1743343200,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4005,10 +4103,59 @@ series = {
                 'venue': 26,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1744542000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1744359600,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1744376400,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1744441200,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1744448400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1744459200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1744527600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1744534800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1744545600,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4018,10 +4165,59 @@ series = {
                 'venue': 154,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1746356400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1746174000,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1746190800,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1746255600,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1746262800,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1746273600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1746342000,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1746349200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1746360000,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4031,10 +4227,59 @@ series = {
                 'venue': 22,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1747566000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1747384500,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1747400400,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1747465200,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1747472400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1747483200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1747551600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1747558800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1747569600,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4044,10 +4289,59 @@ series = {
                 'venue': 15,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1749985200,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1749803700,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1749819600,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1749884400,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1749891600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1749902400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1749970800,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1749978000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1749988800,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4057,10 +4351,59 @@ series = {
                 'venue': 97,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1752404400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1752225600,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1752242400,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1752307200,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1752314400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1752325200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1752393600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1752400800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1752411600,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4070,10 +4413,59 @@ series = {
                 'venue': 153,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1753614000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1753431600,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1753448400,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1753513200,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1753520400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1753531200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1753599600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1753606800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1753617600,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4083,10 +4475,59 @@ series = {
                 'venue': 104,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1757242800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1757060400,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1757077200,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1757142000,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1757149200,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1757160000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1757228400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1757235600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1757251800,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4096,10 +4537,59 @@ series = {
                 'venue': 14,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1759057200,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1758875700,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1758891600,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1758956400,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1758963600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1758974400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1759042800,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1759050000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1759060800,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4109,10 +4599,59 @@ series = {
                 'venue': 101,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1760266800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1760088900,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1760104800,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1760169600,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1760176800,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1760187600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1760256000,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1760263200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1760274000,
+                        'length': 3600,
                         'live': false
                     }
                 }
@@ -4122,10 +4661,59 @@ series = {
                 'venue': 80,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1760871600,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1760690100,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1760706000,
                         'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1760770800,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Superpole',
+                        'symbol': 'SP',
+                        'timestamp': 1760778000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1760788800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1760858100,
+                        'length': 600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Superpole Race',
+                        'symbol': 'SR',
+                        'timestamp': 1760864400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1760875200,
+                        'length': 3600,
                         'live': false
                     }
                 }

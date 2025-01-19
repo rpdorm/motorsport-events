@@ -201,7 +201,7 @@ venues = {
         'url': 'https://www.racingcircuits.info/europe/monaco/monte-carlo.html'
     },
     '33': {
-        'name': 'Bathurst Mount Panorama',
+        'name': 'Mount Panorama',
         'location': 'Bathurst',
         'flag': 'au',
         'url': 'https://www.racingcircuits.info/australasia/australia/bathurst-mount-panorama.html'
