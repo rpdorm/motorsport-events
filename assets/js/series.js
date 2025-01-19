@@ -1464,9 +1464,44 @@ series = {
                 'venue': 102,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1750330800,
+                        'length': 7200,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1750356000,
+                        'length': 12600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Top Qualifying',
+                        'symbol': 'TQ',
+                        'timestamp': 1750418400,
+                        'length': 4200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 3',
+                        'symbol': 'Q3',
+                        'timestamp': 1750428900,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1750500000,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1750593600,
+                        'timestamp': 1750514400,
                         'length': 86400,
                         'live': false
                     }
@@ -1924,7 +1959,7 @@ series = {
                 }
             },
             '6': {
-                'name': 'Homestead-Miami 400',
+                'name': 'Miami 400',
                 'venue': 140,
                 'sessions': {
                     '0': {
@@ -5161,6 +5196,27 @@ series = {
                         'timestamp': 1737821280,
                         'length': 3600,
                         'live': false
+                    },
+                    '16': {
+                        'name': 'SS16 Avançon / Notre-Dame du Laus 2',
+                        'symbol': 'SS16',
+                        'timestamp': 1737869940,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '17': {
+                        'name': 'SS17 Digne-les-Bains / Chaudon-Norante 2',
+                        'symbol': 'SS17',
+                        'timestamp': 1737876600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '18': {
+                        'name': 'SS18 La Bollène-Vésubie / Peïra-Cava',
+                        'symbol': 'SS18',
+                        'timestamp': 1737890100,
+                        'length': 3600,
+                        'live': false
                     }
                 }
             },
@@ -5277,6 +5333,27 @@ series = {
                         'name': 'SS15 Umeå 1',
                         'symbol': 'SS15',
                         'timestamp': 1739639100,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '16': {
+                        'name': 'SS16 Västervik 1',
+                        'symbol': 'SS16',
+                        'timestamp': 1739687220,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '17': {
+                        'name': 'SS17 Västervik 2',
+                        'symbol': 'SS17',
+                        'timestamp': 1739696220,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '18': {
+                        'name': 'SS18 Umeå 2',
+                        'symbol': 'SS18',
+                        'timestamp': 1739704500,
                         'length': 3600,
                         'live': false
                     }
