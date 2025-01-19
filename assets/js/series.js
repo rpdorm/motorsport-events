@@ -767,14 +767,42 @@ series = {
         'symbol': 'WEC',
         'events': {
             '0': {
-                'name': 'Qatar 1812 km',
+                'name': 'Qatar 1812km',
                 'venue': 78,
                 'sessions': {
                     '0': {
                         'name': 'Free Practice 1',
                         'symbol': 'FP1',
-                        'timestamp': 1740916800,
+                        'timestamp': 1740561600,
                         'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1740580200,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1740645000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1740661200,
+                        'length': 5800,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1740733200,
+                        'length': 36000,
                         'live': false
                     }
                 }
