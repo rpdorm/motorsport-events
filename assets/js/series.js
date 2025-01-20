@@ -1399,63 +1399,63 @@ series = {
                         'symbol': 'P1',
                         'timestamp': 1738272900,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '1': {
                         'name': 'Practice 2',
                         'symbol': 'P2',
                         'timestamp': 1738278600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '2': {
                         'name': 'Practice 3',
                         'symbol': 'P3',
                         'timestamp': 1738291500,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '3': {
                         'name': 'Practice 4',
                         'symbol': 'P4',
                         'timestamp': 1738301400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '4': {
                         'name': 'Practice 5',
                         'symbol': 'P5',
                         'timestamp': 1738359300,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '5': {
                         'name': 'Practice 6',
                         'symbol': 'P6',
                         'timestamp': 1738365900,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '6': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
                         'timestamp': 1738375500,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '7': {
                         'name': 'Pole Battle',
                         'symbol': 'PB',
                         'timestamp': 1738386300,
                         'length': 900,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '8': {
                         'name': 'Race',
                         'symbol': 'R',
                         'timestamp': 1738435500,
                         'length': 43200,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -1468,59 +1468,46 @@ series = {
                         'symbol': 'Q1',
                         'timestamp': 1750330800,
                         'length': 7200,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '1': {
                         'name': 'Qualifying 2',
                         'symbol': 'Q2',
                         'timestamp': 1750356000,
                         'length': 12600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '2': {
                         'name': 'Top Qualifying',
                         'symbol': 'TQ',
                         'timestamp': 1750418400,
                         'length': 4200,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '3': {
                         'name': 'Qualifying 3',
                         'symbol': 'Q3',
                         'timestamp': 1750428900,
                         'length': 5400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '4': {
                         'name': 'Warm-Up',
                         'symbol': 'WU',
                         'timestamp': 1750500000,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '5': {
                         'name': 'Race',
                         'symbol': 'R',
                         'timestamp': 1750514400,
                         'length': 86400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
             '2': {
-                'name': '24h of Spa',
-                'venue': 0,
-                'sessions': {
-                    '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1751194800,
-                        'length': 86400,
-                        'live': false
-                    }
-                }
-            },
-            '3': {
                 'name': 'Suzuka 1000km',
                 'venue': 7,
                 'sessions': {
@@ -1533,7 +1520,7 @@ series = {
                     }
                 }
             },
-            '4': {
+            '3': {
                 'name': 'Indianapolis 8h',
                 'venue': 65,
                 'sessions': {
@@ -5510,6 +5497,117 @@ series = {
                         'name': 'TBA',
                         'symbol': 'S',
                         'timestamp': 1764504000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //Super GT
+    '20': {
+        'name': 'Super GT',
+        'symbol': 'SGT',
+        'events': {
+            '0': {
+                'name': 'Okayama',
+                'venue': 157,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744534800,
+                        'length': 6300,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Fuji',
+                'venue': 21,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1746349200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Sepang',
+                'venue': 76,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1751101200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Fuji',
+                'venue': 21,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1754211600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Suzuka',
+                'venue': 7,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1756026000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Sugo',
+                'venue': 156,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1758445200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Autopolis',
+                'venue': 155,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1760864400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Motegi',
+                'venue': 85,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'T',
+                        'timestamp': 1762077600,
                         'length': 3600,
                         'live': false
                     }
