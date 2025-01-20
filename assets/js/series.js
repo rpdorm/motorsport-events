@@ -997,7 +997,7 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1737830400,
                         'length': 86400,
-                        'live': 'https://www.youtube.com/@imsaofficial/streams'
+                        'live': false
                     }
                 }
             },
@@ -3581,7 +3581,7 @@ series = {
         'symbol': 'BTCC',
         'events': {
             '0': {
-                'name': 'Donington Park National',
+                'name': 'Donington Park',
                 'venue': 97,
                 'sessions': {
                     '0': {
@@ -3594,7 +3594,7 @@ series = {
                 }
             },
             '1': {
-                'name': 'Brands Hatch Indy',
+                'name': 'Brands Hatch',
                 'venue': 100,
                 'sessions': {
                     '0': {
@@ -5528,7 +5528,7 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1746349200,
                         'length': 3600,
                         'live': false
@@ -5541,7 +5541,7 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1751101200,
                         'length': 3600,
                         'live': false
@@ -5554,7 +5554,7 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1754211600,
                         'length': 3600,
                         'live': false
@@ -5567,7 +5567,7 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1756026000,
                         'length': 3600,
                         'live': false
@@ -5580,7 +5580,7 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1758445200,
                         'length': 3600,
                         'live': false
@@ -5593,7 +5593,7 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1760864400,
                         'length': 3600,
                         'live': false
@@ -5606,9 +5606,107 @@ series = {
                 'sessions': {
                     '0': {
                         'name': 'TBA',
-                        'symbol': 'T',
+                        'symbol': 'R',
                         'timestamp': 1762077600,
                         'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //British GT
+    '21': {
+        'name': 'British GT Championship',
+        'symbol': 'BGTC',
+        'events': {
+            '0': {
+                'name': 'Donington Park',
+                'venue': 97,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743937200,
+                        'length': 7200,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Silverstone',
+                'venue': 4,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745751600,
+                        'length': 10800,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Oulton Park',
+                'venue': 113,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748257200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Spa',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750590000,
+                        'length': 10800,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Snetterton',
+                'venue': 116,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752404400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Brands Hatch',
+                'venue': 100,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756033200,
+                        'length': 7200,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Donington Park',
+                'venue': 97,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1759662000,
+                        'length': 7200,
                         'live': false
                     }
                 }
