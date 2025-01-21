@@ -75,10 +75,10 @@ venues = {
         'url': false
     },
     '12': {
-        'name': 'Jeddah Street Circuit',
+        'name': 'Jeddah Corniche Circuit',
         'location': 'Jeddah, Saudi Arabia',
         'flag': 'sa',
-        'url': 'https://www.racingcircuits.info/middle-east/saudi-arabia/jeddah-street-circuit.html'
+        'url': 'https://www.racingcircuits.info/middle-east/saudi-arabia/jeddah-corniche-circuit.html'
     },
     '13': {
         'name': 'Yas Marina',

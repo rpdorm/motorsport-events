@@ -370,14 +370,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1739460600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1739527200,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying 1',
@@ -398,7 +398,7 @@ series = {
                         'symbol': 'FP3',
                         'timestamp': 1739613600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '5': {
                         'name': 'Qualifying 2',
@@ -425,14 +425,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1744401600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1744457400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying',
@@ -459,14 +459,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1746250200,
                         'length': 1800,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1746256200,
                         'length': 1800,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying 1',
@@ -487,7 +487,7 @@ series = {
                         'symbol': 'FP3',
                         'timestamp': 1746340200,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '5': {
                         'name': 'Qualifying 2',
@@ -514,14 +514,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1747378800,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1747436400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying 1',
@@ -542,7 +542,7 @@ series = {
                         'symbol': 'FP3',
                         'timestamp': 1747522800,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '5': {
                         'name': 'Qualifying 2',
@@ -569,14 +569,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1748592000,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1748649600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying 1',
@@ -597,7 +597,7 @@ series = {
                         'symbol': 'FP3',
                         'timestamp': 1748732400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '5': {
                         'name': 'Qualifying 2',
@@ -624,14 +624,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1750410000,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1750467600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying',
@@ -658,14 +658,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1752242400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1752300000,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying 1',
@@ -686,7 +686,7 @@ series = {
                         'symbol': 'FP3',
                         'timestamp': 1752386400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '5': {
                         'name': 'Qualifying 2',
@@ -713,14 +713,14 @@ series = {
                         'symbol': 'FP1',
                         'timestamp': 1753455600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1753520400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '2': {
                         'name': 'Qualifying 1',
@@ -741,7 +741,7 @@ series = {
                         'symbol': 'FP3',
                         'timestamp': 1753606800,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
                     '5': {
                         'name': 'Qualifying 2',
@@ -1554,7 +1554,7 @@ series = {
                 }
             },
             '1': {
-                'name': 'The Thermal Club Grand Prix',
+                'name': 'Grand Prix of Thermal',
                 'venue': 122,
                 'sessions': {
                     '0': {
@@ -1571,16 +1571,44 @@ series = {
                 'venue': 19,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1744408800,
+                        'length': 4800,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1744471800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1744482600,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1744560000,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1744542000,
-                        'length': 4500,
+                        'timestamp': 1744576200,
+                        'length': 9000,
                         'live': false
                     }
                 }
             },
             '3': {
-                'name': 'Alabama Grand Prix',
+                'name': 'Grand Prix of Alabama',
                 'venue': 64,
                 'sessions': {
                     '0': {
@@ -1619,7 +1647,7 @@ series = {
                 }
             },
             '6': {
-                'name': 'Detroit Grand Prix',
+                'name': 'Grand Prix of Detroit',
                 'venue': 66,
                 'sessions': {
                     '0': {
@@ -1632,7 +1660,7 @@ series = {
                 }
             },
             '7': {
-                'name': 'Illinois 500',
+                'name': 'Grand Prix of Illinois',
                 'venue': 72,
                 'sessions': {
                     '0': {
@@ -1658,7 +1686,7 @@ series = {
                 }
             },
             '9': {
-                'name': 'Mid-Ohio 200',
+                'name': 'Grand Prix of Mid-Ohio',
                 'venue': 68,
                 'sessions': {
                     '0': {
@@ -1723,7 +1751,7 @@ series = {
                 }
             },
             '14': {
-                'name': 'Milwaukee Mile',
+                'name': 'Grand Prix of Milwaukee',
                 'venue': 123,
                 'sessions': {
                     '0': {
@@ -1736,7 +1764,7 @@ series = {
                 }
             },
             '15': {
-                'name': 'Nashville Grand Prix',
+                'name': 'Grand Prix of Nashville',
                 'venue': 110,
                 'sessions': {
                     '0': {
@@ -2609,7 +2637,7 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1739102400,
                         'length': 5400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
                     }
                 }
             },
@@ -2622,7 +2650,7 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1739707200,
                         'length': 5400,
-                        'live': false
+                        'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
                     }
                 }
             }
@@ -5707,6 +5735,145 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1759662000,
                         'length': 7200,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //GT America
+    '22': {
+        'name': 'GT America',
+        'symbol': 'GTA',
+        'events': {
+            '0': {
+                'name': 'Sonoma',
+                'venue': 109,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1743332400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Long Beach',
+                'venue': 19,
+                'sessions': {
+                    '0': {
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1744382700,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1744396800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1744415100,
+                        'length': 900,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1744503600,
+                        'length': 2600,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1744568400,
+                        'length': 2600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Circuit of the Americas',
+                'venue': 8,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1745809200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Sebring',
+                'venue': 34,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1747566000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Virginia',
+                'venue': 132,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753009200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Road America',
+                'venue': 67,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1755428400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Barber Motorsports Park',
+                'venue': 64,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757242800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Indianapolis',
+                'venue': 65,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1760871600,
+                        'length': 3600,
                         'live': false
                     }
                 }
