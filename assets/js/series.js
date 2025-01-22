@@ -976,7 +976,7 @@ series = {
                         'symbol': 'Q',
                         'timestamp': 1737659400,
                         'length': 5400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=ypdBgzm7to0'
                     },
                     '2': {
                         'name': 'Practice 2',
@@ -997,7 +997,7 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1737830400,
                         'length': 86400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=58CZxDrMniI'
                     }
                 }
             },
@@ -1105,7 +1105,7 @@ series = {
                         'name': 'Race',
                         'symbol': 'R',
                         'timestamp': 1746992700,
-                        'length': 7200,
+                        'length': 9600,
                         'live': false
                     }
                 }
@@ -1399,56 +1399,56 @@ series = {
                         'symbol': 'P1',
                         'timestamp': 1738272900,
                         'length': 2400,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '1': {
                         'name': 'Practice 2',
                         'symbol': 'P2',
                         'timestamp': 1738278600,
                         'length': 2400,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '2': {
                         'name': 'Practice 3',
                         'symbol': 'P3',
                         'timestamp': 1738291500,
                         'length': 2400,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '3': {
                         'name': 'Practice 4',
                         'symbol': 'P4',
                         'timestamp': 1738301400,
                         'length': 2400,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '4': {
                         'name': 'Practice 5',
                         'symbol': 'P5',
                         'timestamp': 1738359300,
                         'length': 3600,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '5': {
                         'name': 'Practice 6',
                         'symbol': 'P6',
                         'timestamp': 1738365900,
                         'length': 3600,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '6': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
                         'timestamp': 1738375500,
                         'length': 3600,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '7': {
                         'name': 'Pole Battle',
                         'symbol': 'PB',
                         'timestamp': 1738386300,
                         'length': 900,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '8': {
                         'name': 'Race',
@@ -1468,35 +1468,35 @@ series = {
                         'symbol': 'Q1',
                         'timestamp': 1750330800,
                         'length': 7200,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '1': {
                         'name': 'Qualifying 2',
                         'symbol': 'Q2',
                         'timestamp': 1750356000,
                         'length': 12600,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '2': {
                         'name': 'Top Qualifying',
                         'symbol': 'TQ',
                         'timestamp': 1750418400,
                         'length': 4200,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '3': {
                         'name': 'Qualifying 3',
                         'symbol': 'Q3',
                         'timestamp': 1750428900,
                         'length': 5400,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '4': {
                         'name': 'Warm-Up',
                         'symbol': 'WU',
                         'timestamp': 1750500000,
                         'length': 2400,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': false
                     },
                     '5': {
                         'name': 'Race',
@@ -1547,8 +1547,8 @@ series = {
                     '0': {
                         'name': 'TBA',
                         'symbol': 'R',
-                        'timestamp': 1740916800,
-                        'length': 4500,
+                        'timestamp': 1740934800,
+                        'length': 9000,
                         'live': false
                     }
                 }
@@ -1560,8 +1560,8 @@ series = {
                     '0': {
                         'name': 'TBA',
                         'symbol': 'R',
-                        'timestamp': 1742731200,
-                        'length': 7200,
+                        'timestamp': 1742756400,
+                        'length': 9000,
                         'live': false
                     }
                 }
@@ -1614,8 +1614,8 @@ series = {
                     '0': {
                         'name': 'TBA',
                         'symbol': 'R',
-                        'timestamp': 1746356400,
-                        'length': 4500,
+                        'timestamp': 1746379800,
+                        'length': 9000,
                         'live': false
                     }
                 }
@@ -1627,8 +1627,8 @@ series = {
                     '0': {
                         'name': 'TBA',
                         'symbol': 'R',
-                        'timestamp': 1746874800,
-                        'length': 4500,
+                        'timestamp': 1746909000,
+                        'length': 9000,
                         'live': false
                     }
                 }
@@ -1641,7 +1641,7 @@ series = {
                         'name': 'TBA',
                         'symbol': 'R',
                         'timestamp': 1748170800,
-                        'length': 3600,
+                        'length': 9000,
                         'live': false
                     }
                 }
@@ -5105,7 +5105,7 @@ series = {
                         'symbol': 'S',
                         'timestamp': 1737558060,
                         'length': 3600,
-                        'live': 'https://www.youtube.com/@wrc/streams'
+                        'live': 'https://www.youtube.com/watch?v=AZXAyyFzqd4'
                     },
                     '1': {
                         'name': 'SS1 Digne-les-Bains / Chaudon-Norante 1',
