@@ -2633,10 +2633,38 @@ series = {
                 'venue': 150,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1739102400,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1738912500,
                         'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1738932300,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1738993200,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1739009400,
+                        'length': 14400,
+                        'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1739095800,
+                        'length': 14400,
                         'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
                     }
                 }
@@ -5108,129 +5136,31 @@ series = {
                         'live': 'https://www.youtube.com/watch?v=AZXAyyFzqd4'
                     },
                     '1': {
-                        'name': 'SS1 Digne-les-Bains / Chaudon-Norante 1',
-                        'symbol': 'SS1',
+                        'name': 'Stage 1-3',
+                        'symbol': 'SS1-3',
                         'timestamp': 1737651900,
-                        'length': 3600,
+                        'length': 18000,
                         'live': false
                     },
                     '2': {
-                        'name': 'SS2 Faucon-du-Caire / Bréziers',
-                        'symbol': 'SS2',
-                        'timestamp': 1737658380,
-                        'length': 3600,
+                        'name': 'Stage 4-9',
+                        'symbol': 'SS4-9',
+                        'timestamp': 1737707460,
+                        'length': 36000,
                         'live': false
                     },
                     '3': {
-                        'name': 'SS3 Avançon / Notre-Dame du Laus 1',
-                        'symbol': 'SS3',
-                        'timestamp': 1737662760,
-                        'length': 3600,
+                        'name': 'Stage 10-15',
+                        'symbol': 'SS10-15',
+                        'timestamp': 1737791940,
+                        'length': 36000,
                         'live': false
                     },
                     '4': {
-                        'name': 'SS4 Saint-Maurice / Aubessagne 1',
-                        'symbol': 'SS4',
-                        'timestamp': 1737707460,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '5': {
-                        'name': 'SS5 Saint-Léger-les-Mélèzes / La Bâtie-Neuve 1',
-                        'symbol': 'SS5',
-                        'timestamp': 1737711240,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '6': {
-                        'name': 'SS6 La Bréole / Selonnet 1',
-                        'symbol': 'SS6',
-                        'timestamp': 1737715320,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '7': {
-                        'name': 'SS7 Saint-Maurice / Aubessagne 2',
-                        'symbol': 'SS7',
-                        'timestamp': 1737728580,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '8': {
-                        'name': 'SS8 Saint-Léger-les-Mélèzes / La Bâtie-Neuve 2',
-                        'symbol': 'SS8',
-                        'timestamp': 1737732360,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '9': {
-                        'name': 'SS9 La Bréole / Selonnet 2',
-                        'symbol': 'SS9',
-                        'timestamp': 1737736440,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '10': {
-                        'name': 'SS10 La Motte-Chalancon / Saint-Nazaire 1',
-                        'symbol': 'SS10',
-                        'timestamp': 1737791940,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '11': {
-                        'name': 'SS11 Aucelon / Recoubeau-Jansac 1',
-                        'symbol': 'SS11',
-                        'timestamp': 1737795900,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '12': {
-                        'name': 'SS12 La-Bâtie-des-Fonts / Aspremont 1',
-                        'symbol': 'SS12',
-                        'timestamp': 1737799680,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '13': {
-                        'name': 'SS13 La Motte-Chalancon / Saint-Nazaire 2',
-                        'symbol': 'SS13',
-                        'timestamp': 1737813540,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '14': {
-                        'name': 'SS14 Aucelon / Recoubeau-Jansac 2',
-                        'symbol': 'SS14',
-                        'timestamp': 1737817500,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '15': {
-                        'name': 'SS15 La-Bâtie-des-Fonts / Aspremont 2',
-                        'symbol': 'SS15',
-                        'timestamp': 1737821280,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '16': {
-                        'name': 'SS16 Avançon / Notre-Dame du Laus 2',
-                        'symbol': 'SS16',
+                        'name': 'Stage 16-18',
+                        'symbol': 'SS16-18',
                         'timestamp': 1737869940,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '17': {
-                        'name': 'SS17 Digne-les-Bains / Chaudon-Norante 2',
-                        'symbol': 'SS17',
-                        'timestamp': 1737876600,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '18': {
-                        'name': 'SS18 La Bollène-Vésubie / Peïra-Cava',
-                        'symbol': 'SS18',
-                        'timestamp': 1737890100,
-                        'length': 3600,
+                        'length': 21600,
                         'live': false
                     }
                 }
@@ -5247,129 +5177,31 @@ series = {
                         'live': 'https://www.youtube.com/@wrc/streams'
                     },
                     '1': {
-                        'name': 'SS1 Umeå Sprint 1',
+                        'name': 'Stage 1',
                         'symbol': 'SS1',
                         'timestamp': 1739469900,
                         'length': 3600,
                         'live': false
                     },
                     '2': {
-                        'name': 'SS2 Bygdsiljum 1',
-                        'symbol': 'SS2',
+                        'name': 'Stage 2-8',
+                        'symbol': 'SS2-8',
                         'timestamp': 1739521080,
-                        'length': 3600,
+                        'length': 43200,
                         'live': false
                     },
                     '3': {
-                        'name': 'SS3 Andersvattnet 1',
-                        'symbol': 'SS3',
-                        'timestamp': 1739524740,
-                        'length': 3600,
+                        'name': 'Stage 9-15',
+                        'symbol': 'SS9-15',
+                        'timestamp': 1739607000,
+                        'length': 36000,
                         'live': false
                     },
                     '4': {
-                        'name': 'SS4 Bäck 1',
-                        'symbol': 'SS4',
-                        'timestamp': 1739528820,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '5': {
-                        'name': 'SS5 Bygdsiljum 2',
-                        'symbol': 'SS5',
-                        'timestamp': 1739540880,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '6': {
-                        'name': 'SS6 Andersvattnet 2',
-                        'symbol': 'SS6',
-                        'timestamp': 1739544540,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '7': {
-                        'name': 'SS7 Bäck 2',
-                        'symbol': 'SS7',
-                        'timestamp': 1739548620,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '8': {
-                        'name': 'SS8 Umeå Sprint 2',
-                        'symbol': 'SS8',
-                        'timestamp': 1739556300,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '9': {
-                        'name': 'SS9 Vännäs 1',
-                        'symbol': 'SS9',
-                        'timestamp': 1739607000,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '10': {
-                        'name': 'SS10 Sarsjöliden 1',
-                        'symbol': 'SS10',
-                        'timestamp': 1739610300,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '11': {
-                        'name': 'SS11 Kolksele 1',
-                        'symbol': 'SS11',
-                        'timestamp': 1739614080,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '12': {
-                        'name': 'SS12 Vännäs 2',
-                        'symbol': 'SS12',
-                        'timestamp': 1739625000,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '13': {
-                        'name': 'SS13 Sarsjöliden 2',
-                        'symbol': 'SS13',
-                        'timestamp': 1739628300,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '14': {
-                        'name': 'SS14 Kolksele 2',
-                        'symbol': 'SS14',
-                        'timestamp': 1739632080,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '15': {
-                        'name': 'SS15 Umeå 1',
-                        'symbol': 'SS15',
-                        'timestamp': 1739639100,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '16': {
-                        'name': 'SS16 Västervik 1',
-                        'symbol': 'SS16',
+                        'name': 'Stage 16-18',
+                        'symbol': 'SS16-18',
                         'timestamp': 1739687220,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '17': {
-                        'name': 'SS17 Västervik 2',
-                        'symbol': 'SS17',
-                        'timestamp': 1739696220,
-                        'length': 3600,
-                        'live': false
-                    },
-                    '18': {
-                        'name': 'SS18 Umeå 2',
-                        'symbol': 'SS18',
-                        'timestamp': 1739704500,
-                        'length': 3600,
+                        'length': 21600,
                         'live': false
                     }
                 }
