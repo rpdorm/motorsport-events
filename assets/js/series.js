@@ -1115,10 +1115,38 @@ series = {
                 'venue': 66,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'P',
-                        'timestamp': 1748689200,
-                        'length': 3600,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1748606400,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1748619000,
+                        'length': 7200,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1748638200,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1748702100,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1748720400,
+                        'length': 6000,
                         'live': false
                     }
                 }
@@ -1651,10 +1679,38 @@ series = {
                 'venue': 66,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1748775600,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1748632200,
+                        'length': 4500,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1748697000,
                         'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1748708700,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1748784600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1748795400,
+                        'length': 9000,
                         'live': false
                     }
                 }
@@ -5705,6 +5761,190 @@ series = {
                         'name': 'TBA',
                         'symbol': 'R',
                         'timestamp': 1760871600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //Indy NXT Series
+    '23': {
+        'name': 'Indy NXT',
+        'symbol': 'IndyNXT',
+        'events': {
+            '0': {
+                'name': 'Grand Prix of St. Petersburg',
+                'venue': 62,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1740934800,
+                        'length': 9000,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Grand Prix of Alabama',
+                'venue': 64,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746379800,
+                        'length': 9000,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Grand Prix of Indianapolis',
+                'venue': 65,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1746909000,
+                        'length': 9000,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Grand Prix of Detroit',
+                'venue': 66,
+                'sessions': {
+                    '0': {
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1748628000,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1748692800,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1748705400,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1748788200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Grand Prix of Illinois',
+                'venue': 72,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1749985200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Grand Prix at Road America',
+                'venue': 67,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1750590000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Grand Prix of Mid-Ohio',
+                'venue': 68,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751799600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Iowa 100',
+                'venue': 70,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1752404400,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'Grand Prix of Monterey',
+                'venue': 18,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753614000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'Grand Prix of Portland',
+                'venue': 3,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1754823600,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '10': {
+                'name': 'Milwaukee 100',
+                'venue': 123,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756033200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '11': {
+                'name': 'Nashville 100',
+                'venue': 110,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1756638000,
                         'length': 3600,
                         'live': false
                     }
