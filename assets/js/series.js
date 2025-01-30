@@ -1427,42 +1427,42 @@ series = {
                         'symbol': 'P1',
                         'timestamp': 1738272900,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=Vr2L0kydkq8'
                     },
                     '1': {
                         'name': 'Practice 2',
                         'symbol': 'P2',
                         'timestamp': 1738278600,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=Vr2L0kydkq8'
                     },
                     '2': {
                         'name': 'Practice 3',
                         'symbol': 'P3',
                         'timestamp': 1738291500,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=Vr2L0kydkq8'
                     },
                     '3': {
                         'name': 'Practice 4',
                         'symbol': 'P4',
                         'timestamp': 1738301400,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=Vr2L0kydkq8'
                     },
                     '4': {
                         'name': 'Practice 5',
                         'symbol': 'P5',
                         'timestamp': 1738359300,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '5': {
                         'name': 'Practice 6',
                         'symbol': 'P6',
                         'timestamp': 1738365900,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '6': {
                         'name': 'Qualifying',
@@ -1476,7 +1476,7 @@ series = {
                         'symbol': 'PB',
                         'timestamp': 1738386300,
                         'length': 900,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     },
                     '8': {
                         'name': 'Race',
