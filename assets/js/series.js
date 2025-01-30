@@ -1469,7 +1469,7 @@ series = {
                         'symbol': 'Q',
                         'timestamp': 1738375500,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=fSO-4YpyiZA'
                     },
                     '7': {
                         'name': 'Pole Battle',
@@ -1483,7 +1483,7 @@ series = {
                         'symbol': 'R',
                         'timestamp': 1738435500,
                         'length': 43200,
-                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                        'live': 'https://www.youtube.com/watch?v=NNK4Cv77a-Q'
                     }
                 }
             },
