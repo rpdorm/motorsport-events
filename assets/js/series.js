@@ -5329,287 +5329,1365 @@ series = {
         'symbol': 'MotoGP',
         'events': {
             '0': {
-                'name': 'Thailand Grand Prix',
+                'name': 'Thailand',
                 'venue': 86,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1740916800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1740714300,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1740729600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1740798600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1740801000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1740802500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1740816000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1740883200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1740902400,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '1': {
-                'name': 'Argentine Grand Prix',
+                'name': 'Argentina',
                 'venue': 79,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1742126400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1741959900,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1741975200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1742044200,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1742046600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1742048100,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1742061600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1742128800,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1742148000,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '2': {
-                'name': 'Grand Prix of the Americas',
+                'name': 'United States of America',
                 'venue': 8,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1743332400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1743176700,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1743192000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1743261000,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1743263400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1743264900,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1743278400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1743345600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1743361200,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '3': {
-                'name': 'Grand Prix of Qatar',
+                'name': 'Qatar',
                 'venue': 78,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1744542000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1744375500,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1744390800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1744455600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1744458000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1744459500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1744473600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1744548000,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1744563600,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '4': {
-                'name': 'Spanish Grand Prix',
+                'name': 'Spain',
                 'venue': 80,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1745751600,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1745570700,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1745586000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1745655000,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1745657400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1745658900,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1745672400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1745739600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1745755200,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '5': {
-                'name': 'French Grand Prix',
+                'name': 'France',
                 'venue': 81,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1746961200,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1746780300,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1746795600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1746864600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1746867000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1746868500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1746882000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1746949200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1746964800,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '6': {
-                'name': 'British Grand Prix',
+                'name': 'United Kingdom',
                 'venue': 4,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1748170800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1747997100,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1748012400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1748081400,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1748083800,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1748085300,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1748098800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1748162400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1748174400,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '7': {
-                'name': 'Aragon Grand Prix',
+                'name': 'Aragon',
                 'venue': 14,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1749380400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1749199500,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1749214800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1749283800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1749286200,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1749287700,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1749301200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1749368400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1749384000,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '8': {
-                'name': 'Italian Grand Prix',
+                'name': 'Italy',
                 'venue': 82,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1750590000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1750409100,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1750424400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1750493400,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1750495800,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1750497300,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1750510800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1750578000,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1750593600,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '9': {
-                'name': 'Dutch TT',
+                'name': 'Netherlands',
                 'venue': 26,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1751194800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1751013900,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1751029200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1751098200,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1751100600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1751102100,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1751115600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1751182800,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1751198400,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '10': {
-                'name': 'German Grand Prix',
+                'name': 'Germany',
                 'venue': 83,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1752404400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1752223500,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1752238800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1752307800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1752310200,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1752311700,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1752325200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1752392400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1752408000,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '11': {
-                'name': 'Czech Grand Prix',
+                'name': 'Czechia',
                 'venue': 173,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1753009200,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1752828300,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1752843600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1752912600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1752915000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1752916500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1752930000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1752997200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1753012800,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '12': {
-                'name': 'Austrian Grand Prix',
+                'name': 'Austria',
                 'venue': 25,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1755428400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1755247500,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1755262800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1755331800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1755334200,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1755335700,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1755349200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1755416400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1755432000,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '13': {
-                'name': 'Hungarian Grand Prix',
+                'name': 'Hungary',
                 'venue': 153,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1756033200,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1755852300,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1755867600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1755936600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1755939000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1755940500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1755954000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1756021200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1756036800,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '14': {
-                'name': 'Catalan Grand Prix',
+                'name': 'Catalonia',
                 'venue': 38,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1757242800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1757061900,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1757077200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1757146200,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1757148600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1757150100,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1757163600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1757230800,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1757246400,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '15': {
-                'name': 'San Marino and Rimini Riviera Grand Prix',
+                'name': 'San Marino',
                 'venue': 15,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1757847600,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1757666700,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1757682000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1757751000,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1757753400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1757754900,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1757768400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1757835600,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1757851200,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '16': {
-                'name': 'Japanese Grand Prix',
+                'name': 'Japan',
                 'venue': 85,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1759057200,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1758851100,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1758866400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1758935400,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1758937800,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1758939300,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1758952800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1759020000,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1759035600,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '17': {
-                'name': 'Indonesian Grand Prix',
+                'name': 'Indonesia',
                 'venue': 77,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1759662000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1759459500,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1759474800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1759543800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1759546200,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1759547700,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1759561200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1759628400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1759647600,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '18': {
-                'name': 'Australian Grand Prix',
+                'name': 'Australia',
                 'venue': 87,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1760871600,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1760658300,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1760673600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1760742600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1760745000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1760746500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1760760000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1760827200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1760842800,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '19': {
-                'name': 'Malaysian Grand Prix',
+                'name': 'Malaysia',
                 'venue': 76,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1761480000,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1761273900,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1761289200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1761358200,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1761360600,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1761362100,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1761375600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1761439200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1761462000,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '20': {
-                'name': 'Portuguese Grand Prix',
+                'name': 'Portugal',
                 'venue': 16,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1762689600,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1762512300,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1762527600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1762596600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1762599000,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1762600500,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1762614000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1762681200,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1762696800,
+                        'length': 7200,
                         'live': false
                     }
                 }
             },
             '21': {
-                'name': 'Valencian Community Grand Prix',
+                'name': 'Valencia',
                 'venue': 17,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1763294400,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1763113500,
                         'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice',
+                        'symbol': 'P',
+                        'timestamp': 1763128800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1763197800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1763200200,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1763201700,
+                        'length': 900,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Sprint',
+                        'symbol': 'S',
+                        'timestamp': 1763215200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1763282400,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Race',
+                        'symbol': 'R',
+                        'timestamp': 1763298000,
+                        'length': 7200,
                         'live': false
                     }
                 }
