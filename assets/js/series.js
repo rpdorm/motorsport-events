@@ -7158,11 +7158,39 @@ series = {
                 'venue': 97,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1743842400,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1743851700,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1743864600,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1743928800,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1743937200,
+                        'timestamp': 1743939900,
                         'length': 7200,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -7171,11 +7199,39 @@ series = {
                 'venue': 4,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1745656200,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1745666400,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1745680500,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1745742900,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1745751600,
+                        'timestamp': 1745753400,
                         'length': 10800,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -7184,11 +7240,46 @@ series = {
                 'venue': 113,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1748257200,
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1748161200,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1748170500,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1748184300,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1748160300,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1748166300,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '5': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1748182500,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -7210,11 +7301,46 @@ series = {
                 'venue': 116,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1752404400,
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1752309000,
                         'length': 3600,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1752318300,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1752331500,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1752393600,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1752400200,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '5': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1752417600,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -7223,11 +7349,39 @@ series = {
                 'venue': 100,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1755937500,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1755948000,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1755961200,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1756026000,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1756033200,
+                        'timestamp': 1756040700,
                         'length': 7200,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -7236,11 +7390,39 @@ series = {
                 'venue': 97,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1759567200,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1759575900,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1759589700,
+                        'length': 3600,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Warm-Up',
+                        'symbol': 'WU',
+                        'timestamp': 1759653600,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1759662000,
+                        'timestamp': 1759664700,
                         'length': 7200,
-                        'live': false
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             }
