@@ -2342,12 +2342,40 @@ series = {
                 'name': 'Grand Prix of St. Petersburg',
                 'venue': 62,
                 'sessions': {
-                    '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1740934800,
-                        'length': 9000,
-                        'live': false
+                    "0": {
+                        "name": "Practice 1",
+                        "symbol": "P1",
+                        "timestamp": 1740772800,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Practice 2",
+                        "symbol": "P2",
+                        "timestamp": 1740842100,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1740857400,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Warm Up",
+                        "symbol": "WU",
+                        "timestamp": 1740924000,
+                        "length": 1800,
+                        "live": false
+                    },
+                    "4": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1740934800,
+                        "length": 9000,
+                        "live": false
                     }
                 }
             },
@@ -8248,12 +8276,33 @@ series = {
                 'name': 'Grand Prix of St. Petersburg',
                 'venue': 62,
                 'sessions': {
-                    '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1740934800,
-                        'length': 9000,
-                        'live': false
+                    "0": {
+                        "name": "Practice 1",
+                        "symbol": "P1",
+                        "timestamp": 1740769200,
+                        "length": 2700,
+                        "live": false
+                    },
+                    "1": {
+                        "name": "Practice 2",
+                        "symbol": "P2",
+                        "timestamp": 1740837600,
+                        "length": 3600,
+                        "live": false
+                    },
+                    "2": {
+                        "name": "Qualifying",
+                        "symbol": "Q",
+                        "timestamp": 1740853800,
+                        "length": 5400,
+                        "live": false
+                    },
+                    "3": {
+                        "name": "Race",
+                        "symbol": "R",
+                        "timestamp": 1740927600,
+                        "length": 3600,
+                        "live": false
                     }
                 }
             },
