@@ -1038,48 +1038,55 @@ series = {
                 'venue': 12,
                 'sessions': {
                     '0': {
+                        'name': 'Rookie Free Practice',
+                        'symbol': 'RFP',
+                        'timestamp': 1739458800,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '1': {
                         'name': 'Free Practice 1',
                         'symbol': 'FP1',
-                        'timestamp': 1739460600,
+                        'timestamp': 1739469600,
                         'length': 2400,
                         'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
-                    '1': {
+                    '2': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
                         'timestamp': 1739527200,
                         'length': 2400,
                         'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
-                    '2': {
+                    '3': {
                         'name': 'Qualifying 1',
                         'symbol': 'Q1',
                         'timestamp': 1739535600,
                         'length': 5000,
                         'live': false
                     },
-                    '3': {
+                    '4': {
                         'name': 'Race 1',
                         'symbol': 'R1',
                         'timestamp': 1739552400,
                         'length': 3600,
                         'live': false
                     },
-                    '4': {
+                    '5': {
                         'name': 'Free Practice 3',
                         'symbol': 'FP3',
                         'timestamp': 1739613600,
                         'length': 2400,
                         'live': 'https://www.youtube.com/@FIAFormulaE/streams'
                     },
-                    '5': {
+                    '6': {
                         'name': 'Qualifying 2',
                         'symbol': 'Q2',
                         'timestamp': 1739622000,
                         'length': 5000,
                         'live': false
                     },
-                    '6': {
+                    '7': {
                         'name': 'Race 2',
                         'symbol': 'R2',
                         'timestamp': 1739638800,
@@ -3969,10 +3976,38 @@ series = {
                 'venue': 13,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1739707200,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1739530800,
                         'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1739540700,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1739601900,
+                        'length': 900,
+                        'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1739617200,
+                        'length': 14400,
+                        'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1739709000,
+                        'length': 14400,
                         'live': 'https://www.youtube.com/@AsianLeMansSeries/streams'
                     }
                 }
