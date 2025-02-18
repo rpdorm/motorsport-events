@@ -4604,10 +4604,38 @@ series = {
                 'venue': 109,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1743332400,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1743183900,
                         'length': 3600,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1743202800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1743266100,
+                        'length': 2100,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1743286500,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1743372000,
+                        'length': 5400,
                         'live': false
                     }
                 }
@@ -8173,10 +8201,38 @@ series = {
                 'venue': 109,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1743332400,
-                        'length': 3600,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1743121500,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1743178500,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1743262800,
+                        'length': 900,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1743279000,
+                        'length': 2400,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1743351900,
+                        'length': 2400,
                         'live': false
                     }
                 }
