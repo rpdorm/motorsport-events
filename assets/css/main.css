@@ -124,7 +124,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
   article {
     margin-bottom: .1rem;
   }
-  h6 { font-size: .5rem; }
+  h6 { font-size: 1rem; }
   .img-flag { max-height: .6rem; }
   .img-yt { height: 1rem; }
   .livestream {
@@ -133,10 +133,8 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
   }
   .navbar { display: none; }
   .nav { display: none; }
-  img.menu {
-    height: 50px;
-  }
   .img-top { max-height: 60px; }
+  button { margin: .2rem; padding: .2rem; }
 }
 
 @media only screen and (min-width: 1280px) {
@@ -191,5 +189,5 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
   span.series {
     font-size: .9rem;
   }
-  img.menu { display: none; }
+  button { margin: .2rem; padding: .2rem; }
 }

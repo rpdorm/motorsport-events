@@ -89,7 +89,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 		}
 	}
 	if (plotmenu == true) {
-		$('.filter').append(`<li class='nav-item'><a href='#' id='${series[i].symbol}' class='nav-link text-white sortli' aria-current='page'>${series[i].name}</small></a></li>`);
+		$('.filter').append(`<button type="button" id='${series[i].symbol}' class="btn btn-secondary btn-sm sortli">${series[i].name}</button>`);
 	}
 }
 
@@ -121,33 +121,24 @@ $(document).ready(function(){
 	sort('.today');
 	// SORT TOMORROW
 	sort('.tomorrow');
-	// SORT MENU LIST
-	function sortUL(selector) {
-	    $(selector).children('li').sort(function(a, b) {
-	        var upA = $(a).text().toUpperCase();
-	        var upB = $(b).text().toUpperCase();
-	        return (upA < upB) ? -1 : (upA > upB) ? 1 : 0;
-	    }).appendTo(selector);
-	}
-	sortUL('ul.filter');
 
 	// FILTER CLICK
-	$('.nav-link').click(function() {
+	$('button').click(function() {
 		if ($(this).attr('id') == 'show-all') {
 			$('article').show();
-			$('a.active').removeClass('active');
-			$(this).addClass('active');
+			$('button').removeClass('btn-primary');
+			$('button').addClass('btn-secondary');
+			$(this).removeClass('btn-secondary');
+			$(this).addClass('btn-primary');
 		}
 		else {
 			$('article').hide();
 			$('article.' + $(this).attr('id')).show();
 			$('a.active').removeClass('active');
-			$(this).addClass('active');
+			$('button').removeClass('btn-primary');
+			$('button').addClass('btn-secondary');
+			$(this).removeClass('btn-secondary');
+			$(this).addClass('btn-primary');
 		}
-	});
-
-	$('img.menu').click(function() {
-		if ($('ul.nav').css('display') == 'none') { $('ul.nav').show(); }
-		else { $('ul.nav').hide(); }
 	});
 });
