@@ -89,7 +89,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 		}
 	}
 	if (plotmenu == true) {
-		$('.filter').append(`<button type="button" id='${series[i].symbol}' class="btn btn-secondary btn-sm sortli">${series[i].name}</button>`);
+		$('.filter').append(`<button type="button" id='${series[i].symbol}' class="btn btn-outline-light btn-sm" aria-pressed="false">${series[i].name}</button>`);
 	}
 }
 
@@ -126,19 +126,19 @@ $(document).ready(function(){
 	$('button').click(function() {
 		if ($(this).attr('id') == 'show-all') {
 			$('article').show();
-			$('button').removeClass('btn-primary');
-			$('button').addClass('btn-secondary');
-			$(this).removeClass('btn-secondary');
-			$(this).addClass('btn-primary');
+			$('button').removeClass('btn-light');
+			$('button').addClass('btn-outline-light');
+			$(this).removeClass('btn-outline-light');
+			$(this).addClass('btn-light');
 		}
 		else {
 			$('article').hide();
 			$('article.' + $(this).attr('id')).show();
 			$('a.active').removeClass('active');
-			$('button').removeClass('btn-primary');
-			$('button').addClass('btn-secondary');
-			$(this).removeClass('btn-secondary');
-			$(this).addClass('btn-primary');
+			$('button').removeClass('btn-light');
+			$('button').addClass('btn-outline-light');
+			$(this).removeClass('btn-outline-light');
+			$(this).addClass('btn-light');
 		}
 	});
 });
