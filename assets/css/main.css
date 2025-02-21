@@ -133,7 +133,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
   .navbar { display: none; }
   .nav { display: none; }
   .img-top { max-height: 50px; }
-  button { margin: .2rem; padding: .2rem; }
+  button { height: 2.7rem; margin: .2rem; }
 }
 
 @media only screen and (min-width: 1280px) {

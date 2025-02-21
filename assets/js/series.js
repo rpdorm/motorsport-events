@@ -3772,9 +3772,72 @@ series = {
                 'venue': 35,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1742126400,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1741824300,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1741832700,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying 1',
+                        'symbol': 'Q1',
+                        'timestamp': 1741839900,
+                        'length': 900,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying 2',
+                        'symbol': 'Q2',
+                        'timestamp': 1741841400,
+                        'length': 900,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1741848600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1741924200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Qualifying 3',
+                        'symbol': 'Q3',
+                        'timestamp': 1741946700,
+                        'length': 600,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Qualifying 4',
+                        'symbol': 'Q4',
+                        'timestamp': 1741947900,
+                        'length': 600,
+                        'live': false
+                    },
+                    '8': {
+                        'name': 'Race 3',
+                        'symbol': 'R3',
+                        'timestamp': 1742021400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '9': {
+                        'name': 'Race 4',
+                        'symbol': 'R4',
+                        'timestamp': 1742037900,
                         'length': 3600,
                         'live': false
                     }
@@ -8766,6 +8829,164 @@ series = {
                         'name': 'TBA',
                         'symbol': 'R',
                         'timestamp': 1765107000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            }
+        }
+    },
+     //Formula 3
+    '25': {
+        'name': 'Formula 3',
+        'symbol': 'F3',
+        'events': {
+            '0': {
+                'name': 'Melbourne',
+                'venue': 35,
+                'sessions': {
+                    '0': {
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1741902600,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1741921200,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Sprint Race',
+                        'symbol': 'SR',
+                        'timestamp': 1741997700,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Feature Race',
+                        'symbol': 'R',
+                        'timestamp': 1742076000,
+                        'length': 2700,
+                        'live': false
+                    }
+                }
+            },
+            '1': {
+                'name': 'Sakhir',
+                'venue': 20,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1744540200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '2': {
+                'name': 'Imola',
+                'venue': 36,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1747564200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '3': {
+                'name': 'Monte-Carlo',
+                'venue': 32,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748169000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '4': {
+                'name': 'Barcelona',
+                'venue': 38,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1748773800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '5': {
+                'name': 'Spielberg',
+                'venue': 25,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751193000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '6': {
+                'name': 'Silverstone',
+                'venue': 4,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1751797800,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '7': {
+                'name': 'Spa-Francorchamps',
+                'venue': 0,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1753612200,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '8': {
+                'name': 'Budapest',
+                'venue': 42,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1754217000,
+                        'length': 3600,
+                        'live': false
+                    }
+                }
+            },
+            '9': {
+                'name': 'Monza',
+                'venue': 2,
+                'sessions': {
+                    '0': {
+                        'name': 'TBA',
+                        'symbol': 'R',
+                        'timestamp': 1757241000,
                         'length': 3600,
                         'live': false
                     }
