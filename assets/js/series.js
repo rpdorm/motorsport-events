@@ -2391,7 +2391,35 @@ series = {
                 'venue': 122,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1742596200,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1742662800,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1742677200,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Warm Up',
+                        'symbol': 'WU',
+                        'timestamp': 1742742000,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
                         'timestamp': 1742756400,
                         'length': 9000,
@@ -7710,10 +7738,45 @@ series = {
                 'venue': 88,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Shakedown',
                         'symbol': 'S',
-                        'timestamp': 1742731200,
+                        'timestamp': 1742367660,
                         'length': 3600,
+                        'live': 'https://www.youtube.com/@wrc/streams'
+                    },
+                    '1': {
+                        'name': 'Super Special 1',
+                        'symbol': 'SSS1',
+                        'timestamp': 1742465100,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Stage 2',
+                        'symbol': 'SS2',
+                        'timestamp': 1742475480,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Stage 3-10',
+                        'symbol': 'SS9-10',
+                        'timestamp': 1742531280,
+                        'length': 36000,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Stage 11-16',
+                        'symbol': 'SS11-16',
+                        'timestamp': 1742622060,
+                        'length': 36000,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Stage 17-21',
+                        'symbol': 'SS17-21',
+                        'timestamp': 1742705580,
+                        'length': 21600,
                         'live': false
                     }
                 }
