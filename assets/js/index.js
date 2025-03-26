@@ -79,7 +79,7 @@ for (i=0; i<Object.keys(series).length; i++) {
 				}
 				if (session == 'TBA') { sessionTime = ''; session = 'full schedule yet to be announced'; }
 				if (del == false) {
-					timediv= `<p class='subtitle text-muted'><small>${sessionDate} ${sessionTime}</small></p>`;
+					timediv= `<p class='subtitle'><small>${sessionDate} ${sessionTime}</small></p>`;
 					$('#' + sha).append(`<li class='list-group-item'>${timediv}<h6${green} class='session'>${session}${liveicon}</h6></li>`);
 					plotmenu = true;
 				}

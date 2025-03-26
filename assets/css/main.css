@@ -51,7 +51,6 @@ ul {
 
 img { margin-right: .25rem; }
 
-
 .img-small { max-height: 1rem; }
 .img-flag { max-height: 1rem; border: 1px solid #000; }
 .img-footer {
@@ -61,10 +60,10 @@ img { margin-right: .25rem; }
 
 h5, h6 { font-weight: bold; }
 h5 {
-    text-shadow: #6c757d 1px 0 6px;
-    font-size: 2rem;
-    margin:0;
-  }
+  text-shadow: #6c757d 1px 0 6px;
+  font-size: 2rem;
+  margin:0;
+}
 
 footer {
   font-size: 1rem;
@@ -98,7 +97,7 @@ a {
   font-size: 1em;
   text-shadow: #c0c0c0 1px 0 6px;
 }
-article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, white); }
+
 .mini-list {
   display: none;
   font-size: .8rem;
@@ -112,20 +111,21 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
 
 
 @media only screen and (max-width: 1279px) {
+  article { background-image: radial-gradient(farthest-side at 50% 0%, #bbbbbb, white); }
   main, footer {
     display: block;
     overflow: hidden;
     margin: 0;
   }
   html {
-    font-size: 1rem;
+    font-size: 1.1rem;
     text-align: center;
   }
   article {
-    margin-bottom: .1rem;
+    margin-bottom: .2rem;
   }
-  .img-flag { max-height: .6rem; }
-  .img-yt { height: 1rem; }
+  .img-flag { max-height: 1rem; }
+  .img-yt { height: 1.2rem; }
   .livestream {
     height: .6rem;
     margin-left: .6rem;
@@ -137,6 +137,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
 }
 
 @media only screen and (min-width: 1280px) {
+  article { background-image: radial-gradient(farthest-side at 100% 0%, #c5c5c5, white); }
   div.body-wrapper, header, footer {
     display: block;
     overflow: hidden;
@@ -167,7 +168,7 @@ article { background-image: radial-gradient(farthest-side at 100% 0%, #555555, w
   article {
     display: block;
     border-radius: 12px;
-    border: 1px solid #c0c0c0;
+    border: 1px solid #555555;
   }
 
   .img-top { max-height: 50px; }

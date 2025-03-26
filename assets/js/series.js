@@ -4115,10 +4115,38 @@ series = {
                 'venue': 38,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1743760200,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Bronze Driver Test',
+                        'symbol': 'BDT',
+                        'timestamp': 1743775800,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1743840600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1743856200,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1743937200,
-                        'length': 5200,
+                        'timestamp': 1743933600,
+                        'length': 14400,
                         'live': false
                     }
                 }
@@ -4713,21 +4741,21 @@ series = {
                         'symbol': 'Q',
                         'timestamp': 1743266100,
                         'length': 2100,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=1UH0OVOd85U'
                     },
                     '3': {
                         'name': 'Race 1',
                         'symbol': 'R1',
                         'timestamp': 1743286500,
                         'length': 5400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=MfzjOTu5IgA'
                     },
                     '4': {
                         'name': 'Race 2',
                         'symbol': 'R2',
                         'timestamp': 1743372000,
                         'length': 5400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=s8caW8df6Oc'
                     }
                 }
             },
@@ -4894,9 +4922,37 @@ series = {
                 'venue': 87,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1743937200,
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1743727200,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Pre-Qualifying',
+                        'symbol': 'PQ',
+                        'timestamp': 1743737400,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1743813300,
+                        'length': 1200,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1743828600,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1743907500,
                         'length': 3600,
                         'live': false
                     }
@@ -5338,10 +5394,38 @@ series = {
                 'venue': 38,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1743753000,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Bronze Driver Test',
+                        'symbol': 'BDT',
+                        'timestamp': 1743770400,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1743780900,
+                        'length': 5400,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1743849000,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '4': {
+                        'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1743850800,
-                        'length': 5200,
+                        'timestamp': 1743870000,
+                        'length': 7200,
                         'live': false
                     }
                 }
@@ -8352,14 +8436,14 @@ series = {
                         'symbol': 'R1',
                         'timestamp': 1743279000,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=0SePaQHjGyk'
                     },
                     '4': {
                         'name': 'Race 2',
                         'symbol': 'R2',
                         'timestamp': 1743351900,
                         'length': 2400,
-                        'live': false
+                        'live': 'https://www.youtube.com/watch?v=RRiN_Ym7ZAQ'
                     }
                 }
             },
@@ -8733,9 +8817,30 @@ series = {
                 'venue': 20,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1744360500,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1744385100,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Sprint Race',
+                        'symbol': 'SR',
+                        'timestamp': 1744465500,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Feature Race',
                         'symbol': 'R',
-                        'timestamp': 1744540200,
+                        'timestamp': 1744541700,
                         'length': 3600,
                         'live': false
                     }
@@ -8943,10 +9048,31 @@ series = {
                 'venue': 20,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
+                        'name': 'Free Practice',
+                        'symbol': 'FP',
+                        'timestamp': 1744356300,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '1': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1744374600,
+                        'length': 1800,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Sprint Race',
+                        'symbol': 'SR',
+                        'timestamp': 1744451100,
+                        'length': 2700,
+                        'live': false
+                    },
+                    '3': {
+                        'name': 'Feature Race',
                         'symbol': 'R',
-                        'timestamp': 1744540200,
-                        'length': 3600,
+                        'timestamp': 1744536300,
+                        'length': 2700,
                         'live': false
                     }
                 }
