@@ -6105,11 +6105,39 @@ series = {
                 'venue': 34,
                 'sessions': {
                     '0': {
-                        'name': 'TBA',
-                        'symbol': 'R',
-                        'timestamp': 1747566000,
+                        'name': 'Practice 1',
+                        'symbol': 'P1',
+                        'timestamp': 1747404000,
                         'length': 3600,
                         'live': false
+                    },
+                    '1': {
+                        'name': 'Practice 2',
+                        'symbol': 'P2',
+                        'timestamp': 1747421100,
+                        'length': 3600,
+                        'live': false
+                    },
+                    '2': {
+                        'name': 'Qualifying',
+                        'symbol': 'Q',
+                        'timestamp': 1747488000,
+                        'length': 2100,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '3': {
+                        'name': 'Race 1',
+                        'symbol': 'R1',
+                        'timestamp': 1747506600,
+                        'length': 5400,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
+                    },
+                    '4': {
+                        'name': 'Race 2',
+                        'symbol': 'R2',
+                        'timestamp': 1747590300,
+                        'length': 5400,
+                        'live': 'https://www.youtube.com/@GTWorld/streams'
                     }
                 }
             },
@@ -7286,7 +7314,7 @@ series = {
                         'live': 'https://www.youtube.com/@wrc/streams'
                     },
                     '1': {
-                        'name': 'Super 1-6',
+                        'name': 'Stage 1-6',
                         'symbol': 'SS1-6',
                         'timestamp': 1745564580,
                         'length': 3600,
